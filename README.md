@@ -1,5 +1,7 @@
 # My AI System Prompt Library
 
+[![View Index](https://img.shields.io/badge/📋_View-Index-blue?style=for-the-badge)](index.md) [![View JSON](https://img.shields.io/badge/📄_View-JSON_Index-green?style=for-the-badge)](consolidated_prompts.json)
+
 ![alt text](promptlib.webp)
 
 This repository contains a **comprehensive, up-to-date library of system prompts** for AI systems and autonomous agents, started on May 27th, 2025.
