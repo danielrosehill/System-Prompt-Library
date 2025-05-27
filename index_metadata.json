@@ -924,11 +924,11 @@
     "system-prompts/json/Zapier,Make,Pipedream,N8N_270525.json": "148735b2b4b04f1a70f8ae2ef210a198",
     "system-prompts/json/ZigbeeHardwareFinder(MQTT)_270525.json": "e9bcc66747c05e252bf25b4281bb2df4"
   },
-  "last_generated": "2025-05-27 21:00:35.428087",
+  "last_generated": "2025-05-27 21:08:38.597255",
   "total_prompts": 871,
   "files_processed": 871,
   "files_added": 0,
   "files_updated": 0,
-  "files_removed": 4,
+  "files_removed": 0,
   "force_rebuild": false
 }

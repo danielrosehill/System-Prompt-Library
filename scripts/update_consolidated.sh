@@ -7,11 +7,11 @@ cd "$(dirname "$0")"
 echo "Updating consolidated system prompts..."
 echo "Started at: $(date)"
 
-python consolidate_prompts.py
+python3 consolidate_prompts.py
 
 if [ $? -eq 0 ]; then
     echo "Successfully updated consolidated prompts at: $(date)"
-    echo "File size: $(du -h consolidated_prompts.json | cut -f1)"
+    echo "File size: $(du -h ../consolidated_prompts.json | cut -f1)"
 else
     echo "Error occurred during consolidation at: $(date)"
     exit 1

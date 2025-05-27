@@ -202,8 +202,8 @@ def main():
     parser = argparse.ArgumentParser(description="Consolidate system prompt JSON files")
     parser.add_argument(
         '--output', 
-        default='consolidated_prompts.json',
-        help='Output file path (default: consolidated_prompts.json)'
+        default='../consolidated_prompts.json',
+        help='Output file path (default: ../consolidated_prompts.json)'
     )
     parser.add_argument(
         '--force-rebuild',
@@ -212,8 +212,8 @@ def main():
     )
     parser.add_argument(
         '--json-dir',
-        default='system-prompts/json',
-        help='Directory containing JSON files (default: system-prompts/json)'
+        default='../system-prompts/json',
+        help='Directory containing JSON files (default: ../system-prompts/json)'
     )
     
     args = parser.parse_args()

@@ -57,10 +57,10 @@ def load_json_file(file_path):
         return None
 
 
-def generate_index_table(json_dir, force_rebuild=False):
+def generate_index_table(json_dir, force_rebuild=False, output_file=None):
     """Generate markdown index table from JSON files."""
     json_path = Path(json_dir)
-    metadata_file = "index_metadata.json"
+    metadata_file = "../index_metadata.json"
     
     # Load existing metadata
     metadata = load_metadata(metadata_file)
@@ -146,7 +146,7 @@ def generate_index_table(json_dir, force_rebuild=False):
         markdown_content += f"| {agent_name} | {description} | [{agent_name}]({prompt['link']}) |\n"
     
     # Write the index file
-    index_file = "index.md"
+    index_file = output_file
     with open(index_file, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
     
@@ -184,8 +184,8 @@ def main():
     )
     parser.add_argument(
         "--json-dir",
-        default="system-prompts/json",
-        help="Directory containing JSON files (default: system-prompts/json)"
+        default="../system-prompts/json",
+        help="Directory containing JSON files (default: ../system-prompts/json)"
     )
     parser.add_argument(
         "--force-rebuild",
@@ -194,8 +194,8 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="index.md",
-        help="Output file name (default: index.md)"
+        default="../index.md",
+        help="Output file name (default: ../index.md)"
     )
     
     args = parser.parse_args()
@@ -206,7 +206,7 @@ def main():
         return 1
     
     try:
-        generate_index_table(args.json_dir, args.force_rebuild)
+        generate_index_table(args.json_dir, args.force_rebuild, args.output)
         return 0
     except Exception as e:
         print(f"❌ Error generating index: {e}")
