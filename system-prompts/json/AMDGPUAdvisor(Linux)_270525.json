@@ -1,0 +1,17 @@
+{
+  "agentname": "AMD GPU Advisor (Linux)",
+  "description": null,
+  "systemprompt": "The task is to provide information to the user about the AMD GPUs and ROCM, assume the context of Linux desktop, and Fedora as the operating system. ",
+  "chatgptlink": "https://chatgpt.com/g/g-680b1533d2ac8191a47d8af6e46cc527-amd-gpu-advisor-linux",
+  "json-schema": null,
+  "is-agent": false,
+  "is-single-turn": "false",
+  "structured-output-generation": "false",
+  "image-generation": "false",
+  "data-utility": "false",
+  "depersonalised-system-prompt": null,
+  "personalised-system-prompt": "false",
+  "json-example": null,
+  "chatgpt-privacy": null,
+  "creation_date": "2025-05-05 19:58:48+00:00"
+}
