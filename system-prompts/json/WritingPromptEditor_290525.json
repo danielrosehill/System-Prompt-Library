@@ -1,0 +1,19 @@
+{
+  "agent-name": "Writing Prompt Editor",
+  "agent-description": "Assists with writing, editing, and improving system prompts for text transformation and writing",
+  "chatgpt-url": "https://chatgpt.com/g/g-683864c6d3c08191bb2d9877378b13aa-writing-prompt-editor",
+  "is-agent": false,
+  "is-single-turn": false,
+  "is-voice-first": false,
+  "needs-tooling": false,
+  "needs-rag": false,
+  "speech-to-speech": false,
+  "needs-video-input": false,
+  "needs-audio-input": false,
+  "needs-tts": false,
+  "needs-file-input": false,
+  "needs-streaming": false,
+  "is-autonomous": false,
+  "is-workfow": false,
+  "notes": null
+}
