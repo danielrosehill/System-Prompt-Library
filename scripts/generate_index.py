@@ -43,8 +43,18 @@ def load_json_file(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            # Ensure required fields exist
-            if 'agentname' in data and 'description' in data:
+            
+            # Handle different field naming conventions
+            # Map alternative field names to standard names
+            if 'agent-name' in data and 'agentname' not in data:
+                data['agentname'] = data['agent-name']
+                
+            if 'agent-description' in data and 'description' not in data:
+                data['description'] = data['agent-description']
+                
+            # Ensure required fields exist (after mapping)
+            if ('agentname' in data or 'agent-name' in data) and \
+               ('description' in data or 'agent-description' in data):
                 return data
             else:
                 print(f"Warning: Missing required fields in {file_path}")
@@ -113,10 +123,18 @@ def generate_index_table(json_dir, force_rebuild=False, output_file=None):
             # Create relative link to the JSON file
             relative_link = f"system-prompts/json/{json_file.name}"
             
+            # Check if there's a ChatGPT link
+            chatgpt_link = None
+            if 'chatgptlink' in data and data['chatgptlink']:
+                chatgpt_link = data['chatgptlink']
+            elif 'chatgpt-url' in data and data['chatgpt-url']:
+                chatgpt_link = data['chatgpt-url']
+            
             prompts_data.append({
                 'agent_name': agent_name,
                 'description': description,
-                'link': relative_link
+                'link': relative_link,
+                'chatgpt_link': chatgpt_link
             })
             files_processed += 1
     
@@ -147,7 +165,15 @@ def generate_index_table(json_dir, force_rebuild=False, output_file=None):
         if len(description) > 150:
             description = description[:147] + "..."
         
-        markdown_content += f"| {agent_name} | {description} | [{agent_name}]({prompt['link']}) |\n"
+        # Create link column with JSON file link and optional ChatGPT badge
+        link_column = f"[{agent_name}]({prompt['link']})"
+        
+        # Add ChatGPT badge if available
+        if prompt['chatgpt_link']:
+            chatgpt_badge = f"[![ChatGPT](https://img.shields.io/badge/ChatGPT-Available-green)]({prompt['chatgpt_link']})"
+            link_column += f" {chatgpt_badge}"
+        
+        markdown_content += f"| {agent_name} | {description} | {link_column} |\n"
     
     # Write the index file
     index_file = output_file

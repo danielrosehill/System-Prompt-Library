@@ -938,11 +938,11 @@
     "system-prompts/json/ZigbeeHardwareFinder(MQTT)_270525.json": "e9bcc66747c05e252bf25b4281bb2df4",
     "system-prompts/json/arXivDigest_270525.json": "fe36d9492290aac7dadda732551913d3"
   },
-  "last_generated": "2025-07-11 14:16:44.881593",
-  "total_prompts": 871,
-  "files_processed": 871,
-  "files_added": 0,
+  "last_generated": "2025-07-11 14:20:07.607599",
+  "total_prompts": 885,
+  "files_processed": 885,
+  "files_added": 937,
   "files_updated": 0,
   "files_removed": 0,
-  "force_rebuild": false
+  "force_rebuild": true
 }
