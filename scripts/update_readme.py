@@ -56,12 +56,18 @@ def update_readme_with_index():
         print(f"Make sure {begin_marker} and {end_marker} exist in README.md")
         return False
     
-    # Replace content between markers with index content
-    pattern = f"{begin_marker}.*?{end_marker}"
-    replacement = f"{begin_marker}\n{index_content}\n{end_marker}"
+    # First, check if there's already an index section in the middle of the README
+    # This handles both the original location and any other instances
+    pattern = f"## System Prompt Index[\\s\\n]*{begin_marker}[\\s\\S]*?{end_marker}"
+    updated_readme = re.sub(pattern, "", readme_content, flags=re.DOTALL)
     
-    # Use re.DOTALL to match across multiple lines
-    updated_readme = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
+    # Add the index content at the end of the README
+    # First, ensure there's a newline at the end of the README
+    if not updated_readme.endswith('\n'):
+        updated_readme += '\n'
+    
+    # Add a section header and the index content at the end
+    updated_readme += f"\n## System Prompt Index\n\n{begin_marker}\n{index_content}\n{end_marker}\n"
     
     # Write the updated README
     with open(readme_path, 'w', encoding='utf-8') as f:
