@@ -2,8 +2,8 @@
 """
 Master script to update both JSON consolidation and markdown index.
 
-This script runs both consolidate_prompts.py and generate_index.py in sequence,
-providing a single command to update all library indices.
+This script runs consolidate_prompts.py, generate_index.py, and update_readme.py in sequence,
+providing a single command to update all library indices and embed the index in the README.
 """
 
 import subprocess
@@ -63,7 +63,7 @@ def main():
     parser.add_argument(
         "--markdown-only",
         action="store_true",
-        help="Only update markdown index"
+        help="Only update markdown index and README"
     )
     parser.add_argument(
         "--json-output",
@@ -114,6 +114,15 @@ def main():
         
         if run_command(markdown_command, "Markdown Index Generation"):
             success_count += 1
+            
+            # Update README with index content
+            total_tasks += 1
+            readme_command = ["python3", "update_readme.py"]
+            
+            if run_command(readme_command, "README Index Update"):
+                success_count += 1
+            else:
+                print("⚠️  README update failed, but continuing...")
     
     print("=" * 60)
     print(f"📊 Summary: {success_count}/{total_tasks} tasks completed successfully")

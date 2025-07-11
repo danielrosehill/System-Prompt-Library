@@ -60,7 +60,10 @@ def load_json_file(file_path):
 def generate_index_table(json_dir, force_rebuild=False, output_file=None):
     """Generate markdown index table from JSON files."""
     json_path = Path(json_dir)
-    metadata_file = "../index_metadata.json"
+    # Use absolute paths based on script location
+    script_dir = Path(__file__).parent
+    repo_root = script_dir.parent
+    metadata_file = repo_root / "index_metadata.json"
     
     # Load existing metadata
     metadata = load_metadata(metadata_file)
@@ -126,9 +129,10 @@ def generate_index_table(json_dir, force_rebuild=False, output_file=None):
     prompts_data.sort(key=lambda x: x['agent_name'].lower())
     
     # Generate markdown table
+    current_date = datetime.now().strftime('%Y-%m-%d')
     markdown_content = f"""# System Prompt Library Index
 
-*Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} from {files_processed} system prompts*
+*Generated on {current_date} from {files_processed} system prompts*
 
 | Agent Name | Description | Link |
 |------------|-------------|------|
@@ -179,12 +183,15 @@ def generate_index_table(json_dir, force_rebuild=False, output_file=None):
 
 def main():
     """Main function with command line argument parsing."""
+    script_dir = Path(__file__).parent
+    repo_root = script_dir.parent
+    
     parser = argparse.ArgumentParser(
         description="Generate markdown index table from system prompt JSON files"
     )
     parser.add_argument(
         "--json-dir",
-        default="../system-prompts/json",
+        default=str(repo_root / "system-prompts" / "json"),
         help="Directory containing JSON files (default: ../system-prompts/json)"
     )
     parser.add_argument(
@@ -194,7 +201,7 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="../index.md",
+        default=str(repo_root / "index.md"),
         help="Output file name (default: ../index.md)"
     )
     

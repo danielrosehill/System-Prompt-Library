@@ -2,6 +2,7 @@
 
 # System Prompt Library - Main Update Script
 # This script provides an easy way to run the update scripts from the repository root
+# Updated on 2025-07-11 to support GitHub Actions automation
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SCRIPTS_PATH="$SCRIPT_DIR/scripts"

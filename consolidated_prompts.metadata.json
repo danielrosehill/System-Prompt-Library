@@ -922,8 +922,22 @@
     "YouTubeChannelDiscovery_270525.json": "69c4ca6ac01570ff02c9c830d0e85d09",
     "ZapierAutomationHelper_270525.json": "a2d1b056a7fbf0df81766faeda57850a",
     "Zapier,Make,Pipedream,N8N_270525.json": "148735b2b4b04f1a70f8ae2ef210a198",
-    "ZigbeeHardwareFinder(MQTT)_270525.json": "e9bcc66747c05e252bf25b4281bb2df4"
+    "ZigbeeHardwareFinder(MQTT)_270525.json": "e9bcc66747c05e252bf25b4281bb2df4",
+    "BusinessDocumentGuide_050625.json": "55c73f67f572b01c26840be212bbba7f",
+    "BygoneBusinessEmails_040625.json": "7e954a64c160cde89701ff524cd19fa4",
+    "GeocordinateFinder_270625.json": "5fee0e62e5e97a86c0daebfdd9de7e4f",
+    "GeolocateThisImage_100725.json": "590afc2a44b035b7f1be31f30108ab1c",
+    "HowI'mDoing_040625.json": "f707454928f8215a4b7def16f2db7356",
+    "InstructionsExtractor_100725.json": "01aff558b5351949c01775d1fa317ae7",
+    "InventoryItemiser_040625.json": "935405b8f6d0672c86d78f6699eff4ae",
+    "IsraelWineScout_100725.json": "4ef40ebc3a1336f01f0b047a9d51a1ea",
+    "SampleText_290525.json": "0e6081a7a5039d8cf2f319b894d26347",
+    "SoupedUpProductDescriptionGenerator_040625.json": "41c4d13b64123443c80b26380ef7b529",
+    "SpeakerBuyingAssistant_110725.json": "ab75175229d9979dbb909b55b68d018f",
+    "WhatsAppLinkConverter_070725.json": "9f0c1f3a9b3a22d1888ece549539e272",
+    "WritingPromptEditor_040625.json": "d791dbc97db251033a0fa332aefa0343",
+    "WritingPromptEditor_290525.json": "acf6bdc9bd68f3ef0dda998c2ede91d9"
   },
-  "last_update": "2025-05-27T21:00:35.313999",
-  "total_files": 923
+  "last_update": "2025-07-11T14:16:44.378517",
+  "total_files": 937
 }
