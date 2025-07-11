@@ -152,8 +152,8 @@ def generate_index_table(json_dir, force_rebuild=False, output_file=None):
 
 *Generated on {current_date} from {files_processed} system prompts*
 
-| Agent Name | Description | Link | CustomGPT |
-|------------|-------------|------|----------|
+| Agent Name | Description | CustomGPT |
+|------------|-------------|----------|
 """
     
     for prompt in prompts_data:
@@ -165,15 +165,15 @@ def generate_index_table(json_dir, force_rebuild=False, output_file=None):
         if len(description) > 150:
             description = description[:147] + "..."
         
-        # Create link column with JSON file link
-        link_column = f"[{agent_name}]({prompt['link']})"
+        # Create agent name with link to JSON file
+        agent_name_with_link = f"[{agent_name}]({prompt['link']})"
         
         # Add CustomGPT badge in a separate column if available
         customgpt_column = ""
         if prompt['chatgpt_link']:
             customgpt_column = f"[![CustomGPT](https://img.shields.io/badge/CustomGPT-Available-green)]({prompt['chatgpt_link']})"
         
-        markdown_content += f"| {agent_name} | {description} | {link_column} | {customgpt_column} |\n"
+        markdown_content += f"| {agent_name_with_link} | {description} | {customgpt_column} |\n"
     
     # Write the index file
     index_file = output_file
