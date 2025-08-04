@@ -22,7 +22,7 @@ I periodically export lightly cleaned versions of the consolidated system prompt
 
 These are listed in `exports.md`. The latest is:
 
-[![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/userrosehill/System-Prompt-Library-030825)
+[![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825)
 
 ## Formats
 

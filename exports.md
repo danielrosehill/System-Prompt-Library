@@ -8,7 +8,7 @@ The System Prompt Library is periodically exported to Hugging Face as structured
 
 ### Available Exports
 
-[![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/userrosehill/System-Prompt-Library-030825)
+[![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825)
 
 ---
 
