@@ -1,0 +1,54 @@
+name: Auto Update System Prompt Library
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'system-prompts/json/**'
+      - 'scripts/**'
+  schedule:
+    # Run daily at 3:00 AM UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  update-indices:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Make update script executable
+        run: chmod +x ./update_library.sh
+      
+      - name: Update library indices
+        run: |
+          # Run the update script (incremental update, not force-rebuild for efficiency)
+          ./update_library.sh
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+      
+      - name: Commit and push changes
+        run: |
+          # Check if there are changes to commit
+          if git status --porcelain | grep -q .; then
+            git add index.md consolidated_prompts.json README.md
+            git add index_metadata.json consolidated_prompts.metadata.json growth_history.json
+            git commit -m "🤖 Auto-update: Library indices updated - $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Changes committed and pushed successfully!"
+          else
+            echo "ℹ️ No changes detected, nothing to commit."
+          fi
