@@ -111,7 +111,7 @@ def generate_growth_chart(history):
 
 
 def generate_index_from_consolidated(consolidated_file, output_file=None, growth_history_file=None):
-    """Generate markdown index table from consolidated JSON file."""
+    """Generate markdown index with H2 headers for each system prompt."""
     
     # Load consolidated prompts
     try:
@@ -126,43 +126,71 @@ def generate_index_from_consolidated(consolidated_file, output_file=None, growth
         # Old format: direct list of prompts
         prompts_data = consolidated_data
     elif isinstance(consolidated_data, dict) and 'prompts' in consolidated_data:
-        # New format: object with metadata and prompts
+        # New format: object with metadata and prompts array
         prompts_data = consolidated_data['prompts']
     else:
-        print(f"❌ Error: Unexpected consolidated file structure: {type(consolidated_data)}")
-        print(f"Available keys: {list(consolidated_data.keys()) if isinstance(consolidated_data, dict) else 'Not a dict'}")
+        print(f"❌ Error: Unrecognized consolidated file format")
         return None
     
-    if not isinstance(prompts_data, list):
-        print(f"❌ Error: Expected list of prompts, got {type(prompts_data)}")
-        return None
+    print(f"📊 Processing {len(prompts_data)} prompts from consolidated file...")
     
-    # Filter valid prompts (those with required fields)
     valid_prompts = []
+    
     for prompt in prompts_data:
-        if isinstance(prompt, dict):
-            agent_name = (prompt.get('agentname') or prompt.get('agent-name', '')).strip()
-            description = (prompt.get('description') or prompt.get('agent-description', '')).strip()
+        # Get agent name (handle various field names)
+        agent_name = (
+            prompt.get('agentname') or 
+            prompt.get('agent_name') or 
+            prompt.get('name', 'Unknown')
+        ).strip()
+        
+        # Get description
+        description = (
+            prompt.get('description') or 
+            prompt.get('desc', 'No description available')
+        ).strip()
+        
+        # Skip if no agent name
+        if not agent_name or agent_name == 'Unknown':
+            continue
             
-            if agent_name and description:
-                # Create relative link to JSON file
-                filename = prompt.get('_filename', '')
-                if filename:
-                    relative_link = f"system-prompts/json/{filename}"
-                else:
-                    # Fallback: try to construct filename from agent name
-                    safe_name = agent_name.replace(' ', '').replace('/', '_').replace('\\', '_')
-                    relative_link = f"system-prompts/json/{safe_name}.json"
-                
-                # Get ChatGPT link if available
-                chatgpt_link = prompt.get('chatgptlink') or prompt.get('chatgpt-url', '')
-                
-                valid_prompts.append({
-                    'agent_name': agent_name,
-                    'description': description,
-                    'link': relative_link,
-                    'chatgpt_link': chatgpt_link
-                })
+        # Create relative link to JSON file
+        filename = prompt.get('_filename', '')
+        if filename:
+            relative_link = f"system-prompts/json/{filename}"
+        else:
+            # Fallback: try to construct filename from agent name
+            safe_name = agent_name.replace(' ', '').replace('/', '-')
+            relative_link = f"system-prompts/json/{safe_name}.json"
+        
+        # Get ChatGPT link if available
+        chatgpt_link = prompt.get('chatgptlink') or prompt.get('chatgpt-url', '')
+        
+        # Get boolean fields for checkboxes (handle both string and boolean values)
+        def parse_bool(value):
+            if isinstance(value, bool):
+                return value
+            if isinstance(value, str):
+                return value.lower() == 'true'
+            return False
+        
+        is_agent = parse_bool(prompt.get('is-agent', False))
+        is_single_turn = parse_bool(prompt.get('is-single-turn', 'false'))
+        structured_output = parse_bool(prompt.get('structured-output-generation', 'false'))
+        image_generation = parse_bool(prompt.get('image-generation', 'false'))
+        data_utility = parse_bool(prompt.get('data-utility', 'false'))
+        
+        valid_prompts.append({
+            'agent_name': agent_name,
+            'description': description,
+            'link': relative_link,
+            'chatgpt_link': chatgpt_link,
+            'is_agent': is_agent,
+            'is_single_turn': is_single_turn,
+            'structured_output': structured_output,
+            'image_generation': image_generation,
+            'data_utility': data_utility
+        })
     
     # Sort prompts alphabetically by agent name
     valid_prompts.sort(key=lambda x: x['agent_name'].lower())
@@ -184,28 +212,40 @@ def generate_index_from_consolidated(consolidated_file, output_file=None, growth
 
 *Last updated: {current_date} at {current_time} | Generated from consolidated_prompts.json*
 
-| Agent Name | Description | CustomGPT |
-|------------|-------------|----------|
+---
+
 """
     
+    # Helper function to create checkbox
+    def checkbox(value):
+        return "☑️" if value else "☐"
+    
     for prompt in valid_prompts:
-        # Escape pipe characters in content to avoid breaking the table
-        agent_name = prompt['agent_name'].replace('|', '\\|')
-        description = prompt['description'].replace('|', '\\|')
+        agent_name = prompt['agent_name']
+        description = prompt['description']
         
-        # Truncate description if too long
-        if len(description) > 150:
-            description = description[:147] + "..."
+        # Start with H2 header
+        markdown_content += f"## {agent_name}\n\n"
         
-        # Create agent name with link to JSON file
-        agent_name_with_link = f"[{agent_name}]({prompt['link']})"
+        # Add description
+        markdown_content += f"{description}\n\n"
         
-        # Add CustomGPT badge if available
-        customgpt_column = ""
+        # Add capabilities/features with checkboxes
+        markdown_content += "**Features:**\n\n"
+        markdown_content += f"- {checkbox(prompt['is_agent'])} Agent-based interaction\n"
+        markdown_content += f"- {checkbox(prompt['is_single_turn'])} Single-turn conversation\n"
+        markdown_content += f"- {checkbox(prompt['structured_output'])} Structured output generation\n"
+        markdown_content += f"- {checkbox(prompt['image_generation'])} Image generation\n"
+        markdown_content += f"- {checkbox(prompt['data_utility'])} Data utility functions\n\n"
+        
+        # Add links
+        markdown_content += "**Links:**\n\n"
+        markdown_content += f"- 📄 [View JSON]({prompt['link']})\n"
+        
         if prompt['chatgpt_link']:
-            customgpt_column = f"[![CustomGPT](https://img.shields.io/badge/CustomGPT-Available-green)]({prompt['chatgpt_link']})"
+            markdown_content += f"- 🤖 [Try in ChatGPT]({prompt['chatgpt_link']})\n"
         
-        markdown_content += f"| {agent_name_with_link} | {description} | {customgpt_column} |\n"
+        markdown_content += "\n---\n\n"
     
     # Write the index file
     with open(output_file, 'w', encoding='utf-8') as f:
