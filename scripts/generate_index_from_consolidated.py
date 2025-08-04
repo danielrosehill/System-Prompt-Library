@@ -165,6 +165,37 @@ def generate_index_from_consolidated(consolidated_file, output_file=None, growth
         
         # Get ChatGPT link if available
         chatgpt_link = prompt.get('chatgptlink') or prompt.get('chatgpt-url', '')
+        # Handle null values
+        if chatgpt_link is None:
+            chatgpt_link = ''
+        
+        # Get creation date and format it nicely
+        creation_date = prompt.get('creation_date', '')
+        formatted_date = ''
+        if creation_date:
+            try:
+                # Parse the date (format: "2025-05-18 09:59:06+00:00")
+                from datetime import datetime
+                if '+' in creation_date:
+                    date_part = creation_date.split('+')[0]
+                elif 'T' in creation_date:
+                    date_part = creation_date.split('T')[0]
+                else:
+                    date_part = creation_date.split(' ')[0]
+                
+                parsed_date = datetime.strptime(date_part, '%Y-%m-%d')
+                formatted_date = parsed_date.strftime('%B %d, %Y')
+            except Exception as e:
+                # If parsing fails, just use the date part
+                try:
+                    if ' ' in creation_date:
+                        date_part = creation_date.split(' ')[0]
+                        parsed_date = datetime.strptime(date_part, '%Y-%m-%d')
+                        formatted_date = parsed_date.strftime('%B %d, %Y')
+                    else:
+                        formatted_date = creation_date
+                except:
+                    formatted_date = creation_date
         
         # Get boolean fields for checkboxes (handle both string and boolean values)
         def parse_bool(value):
@@ -185,6 +216,7 @@ def generate_index_from_consolidated(consolidated_file, output_file=None, growth
             'description': description,
             'link': relative_link,
             'chatgpt_link': chatgpt_link,
+            'creation_date': formatted_date,
             'is_agent': is_agent,
             'is_single_turn': is_single_turn,
             'structured_output': structured_output,
@@ -216,10 +248,6 @@ def generate_index_from_consolidated(consolidated_file, output_file=None, growth
 
 """
     
-    # Helper function to create checkbox
-    def checkbox(value):
-        return "☑️" if value else "☐"
-    
     for prompt in valid_prompts:
         agent_name = prompt['agent_name']
         description = prompt['description']
@@ -230,13 +258,28 @@ def generate_index_from_consolidated(consolidated_file, output_file=None, growth
         # Add description
         markdown_content += f"{description}\n\n"
         
-        # Add capabilities/features with checkboxes
-        markdown_content += "**Features:**\n\n"
-        markdown_content += f"- {checkbox(prompt['is_agent'])} Agent-based interaction\n"
-        markdown_content += f"- {checkbox(prompt['is_single_turn'])} Single-turn conversation\n"
-        markdown_content += f"- {checkbox(prompt['structured_output'])} Structured output generation\n"
-        markdown_content += f"- {checkbox(prompt['image_generation'])} Image generation\n"
-        markdown_content += f"- {checkbox(prompt['data_utility'])} Data utility functions\n\n"
+        # Add creation date if available
+        if prompt['creation_date']:
+            markdown_content += f"*Created: {prompt['creation_date']}*\n\n"
+        
+        # Add enabled features only
+        enabled_features = []
+        if prompt['is_agent']:
+            enabled_features.append("Agent-based interaction")
+        if prompt['is_single_turn']:
+            enabled_features.append("Single-turn conversation")
+        if prompt['structured_output']:
+            enabled_features.append("Structured output generation")
+        if prompt['image_generation']:
+            enabled_features.append("Image generation")
+        if prompt['data_utility']:
+            enabled_features.append("Data utility functions")
+        
+        if enabled_features:
+            markdown_content += "**Features:**\n\n"
+            for feature in enabled_features:
+                markdown_content += f"- {feature}\n"
+            markdown_content += "\n"
         
         # Add links
         markdown_content += "**Links:**\n\n"

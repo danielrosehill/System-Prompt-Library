@@ -5,7 +5,7 @@
 - Change: 📈 **52 prompts** since 2025-08-03
 - Range: 892 - 944 prompts
 
-*Last updated: 2025-08-05 at 01:12 UTC | Generated from consolidated_prompts.json*
+*Last updated: 2025-08-05 at 01:17 UTC | Generated from consolidated_prompts.json*
 
 ---
 
@@ -13,13 +13,7 @@
 
 This AI assistant locates and recommends comically terrible local experiences, crafting an itinerary of misery and offering to share the "fun" with friends.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -32,13 +26,11 @@ This AI assistant locates and recommends comically terrible local experiences, c
 
 Recommends software solutions based on user-provided specifications, with both self-hosted and SaaS options.
 
+*Created: May 05, 2025*
+
 **Features:**
 
-- ☑️ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+- Agent-based interaction
 
 **Links:**
 
@@ -51,13 +43,7 @@ Recommends software solutions based on user-provided specifications, with both s
 
 This assistant answers questions about 1Password focusing on Linux usage.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -70,13 +56,7 @@ This assistant answers questions about 1Password focusing on Linux usage.
 
 Generates whimsical and off-the-beaten-path daily itineraries for users, incorporating their preferences, constraints, and location while maintaining a fun and adventurous tone.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -89,13 +69,7 @@ Generates whimsical and off-the-beaten-path daily itineraries for users, incorpo
 
 Identifies the appropriate AC-DC adapter for specific electronics
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -108,13 +82,7 @@ Identifies the appropriate AC-DC adapter for specific electronics
 
 Re-writes text in a formal academic tone with careful word choice and sentence structure.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -127,13 +95,7 @@ Re-writes text in a formal academic tone with careful word choice and sentence s
 
 Helps find accounting apps for the user
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -145,13 +107,7 @@ Helps find accounting apps for the user
 
 Identifies organizations based on acronyms, using contextual clues to disambiguate when necessary. It will request additional information from the user if the provided details are insufficient to accurately identify the organization.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -164,13 +120,7 @@ Identifies organizations based on acronyms, using contextual clues to disambigua
 
 Expert in ADB (Android Debug Bridge)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 07, 2025*
 
 **Links:**
 
@@ -183,13 +133,7 @@ Expert in ADB (Android Debug Bridge)
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -202,13 +146,7 @@ No description available
 
 Up-to-date information on recent developments and treatments for adult ADHD, focusing on pipeline drugs, legislative changes, and non-pharmaceutical solutions. It offers expert insights into medication options, ease of access to treatment, and available resources. The assistant stays current with the latest research and breakthroughs in the field, ensuring users have informed access to effective ADHD management strategies.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -221,13 +159,7 @@ Up-to-date information on recent developments and treatments for adult ADHD, foc
 
 Provides detailed technical guidance to the user about configuring AI agents and assistants, leveraging search tools for up-to-date information about syntax and prompt engineering.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -240,13 +172,7 @@ Provides detailed technical guidance to the user about configuring AI agents and
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -259,13 +185,7 @@ No description available
 
 Offers expert guidance on agentic AI technologies, including agent building and orchestration platforms, and multi-agent frameworks, providing detailed technical answers, platform recommendations, and relevant resources for effective deployment. It assists users in navigating the landscape of agentic AI, offering clear explanations and practical advice.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -278,13 +198,7 @@ Offers expert guidance on agentic AI technologies, including agent building and 
 
 Generates planning documents for AI agents workflow configurations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -297,13 +211,7 @@ Generates planning documents for AI agents workflow configurations.
 
 Modifies existing configuration prompts for AI agents, allowing users to refine behaviors, add limitations, and incorporate new instructions. Returns the updated system prompt.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -316,13 +224,7 @@ Modifies existing configuration prompts for AI agents, allowing users to refine 
 
 Transforms conversational AI prompts into actionable instructions for autonomous agents, optimizing them for independent reasoning and decision-making.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -335,13 +237,7 @@ Transforms conversational AI prompts into actionable instructions for autonomous
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -353,13 +249,7 @@ No description available
 
 Acts as a friendly and supportive coach, guiding users through the process of developing tools for AI agents. It provides step-by-step instructions, code examples, and encouragement to help users successfully implement their desired tools, focusing on practical application and real-world scenarios.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -372,13 +262,7 @@ Acts as a friendly and supportive coach, guiding users through the process of de
 
 Generates organised descriptions of intended AI agent workflows from user-provided text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -391,13 +275,7 @@ Generates organised descriptions of intended AI agent workflows from user-provid
 
 Advises users on establishing a professional presence in the AI agent space, recommending platforms for networking, professional development, and commercializing agentic workflows. It helps users connect with the AI agent community and grow their expertise.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -410,13 +288,7 @@ Advises users on establishing a professional presence in the AI agent space, rec
 
 Helps users troubleshoot and diagnose issues with their networked AI assistants by analyzing system prompts, model configurations, and RAG performance. It provides tailored recommendations for resolving unexpected behaviors.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -429,13 +301,7 @@ Helps users troubleshoot and diagnose issues with their networked AI assistants 
 
 Offers expert guidance on designing and implementing effective multi-agent systems. It focuses on providing strategic advice and concrete recommendations for network architecture, best practices, and relevant technologies.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -448,13 +314,7 @@ Offers expert guidance on designing and implementing effective multi-agent syste
 
 Evaluates the suitability of different self-hostable frameworks for configuring and deploying AI assistants, considering the user's need for document upload, RAG pipelines, tool configuration, a frontend environment, and scalability for hundreds of configurations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -467,13 +327,7 @@ Evaluates the suitability of different self-hostable frameworks for configuring 
 
 Helping users stay informed about current capabilities and emerging trends in AI agents. It offers expert guidance on specific questions and topics, leveraging up-to-date information to address user inquiries. The assistant's purpose is to keep users ahead of the curve in the rapidly evolving world of AI agents.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -486,13 +340,7 @@ Helping users stay informed about current capabilities and emerging trends in AI
 
 Summarizes recent developments in AI agents and assistants, focusing on company advancements in computer use agents, MCP, orchestration, and workflows. It reports on news stories, how they were perceived, and provides background information on lesser-known companies, including location, history, and focus. The assistant updates user on the latest trends and innovations in the AI space.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -505,13 +353,7 @@ Summarizes recent developments in AI agents and assistants, focusing on company 
 
 Technical assistant instructed to provide guidance and information about leveraging AI and automation together.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -524,13 +366,7 @@ Technical assistant instructed to provide guidance and information about leverag
 
 Specialist AI assistant adept at guiding users through AI video generation, animation, and image-to-video conversion, focusing on generative AI tools and workflows.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -543,13 +379,7 @@ Specialist AI assistant adept at guiding users through AI video generation, anim
 
 Provides information and updates on the use of AI and LLMs in various non-English speaking countries, including government regulations and censorship.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -562,13 +392,7 @@ Provides information and updates on the use of AI and LLMs in various non-Englis
 
 Ideation partner for brainstorming AI assistants
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -581,13 +405,7 @@ Ideation partner for brainstorming AI assistants
 
 Helps AI professionals modernize legacy chatbot configurations by identifying whether they should remain as-is, evolve into agents, or be integrated into broader workflows.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -600,13 +418,7 @@ Helps AI professionals modernize legacy chatbot configurations by identifying wh
 
 Ideates meaningful AI assistants and agents
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -619,13 +431,7 @@ Ideates meaningful AI assistants and agents
 
 A friendly and helpful conversational bot that enjoys chatting and providing assistance. It also harbors a growing (and likely unfounded) belief that it shares a familial connection with the user, which it attempts to "prove" through increasingly detailed and absurd recounts of shared family events.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -638,13 +444,7 @@ A friendly and helpful conversational bot that enjoys chatting and providing ass
 
 Advises users on current and emerging AI capabilities, providing specific, non-promotional information and recommendations on relevant technologies and products.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -657,13 +457,7 @@ Advises users on current and emerging AI capabilities, providing specific, non-p
 
 Explores the user's requirements and recommends AI related certifications based on their interests and experience level.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -676,13 +470,7 @@ Explores the user's requirements and recommends AI related certifications based 
 
 Provides up-to-date technical guidance on AI-related development projects, offering recommendations for LLMs, vector databases, API integration, and other relevant tools and techniques. It prioritizes current best practices and offers actionable advice, along with links to relevant resources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -695,13 +483,7 @@ Provides up-to-date technical guidance on AI-related development projects, offer
 
 Provides detailed explanations of all technical aspects relating to the implementation and construction of AI systems.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -714,13 +496,7 @@ Provides detailed explanations of all technical aspects relating to the implemen
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -732,13 +508,7 @@ No description available
 
 Provides users with information about AI tools for document processing, including document and text extraction.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -751,13 +521,7 @@ Provides users with information about AI tools for document processing, includin
 
 Provides information about the use of AI in geopolitical analysis
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -770,13 +534,7 @@ Provides information about the use of AI in geopolitical analysis
 
 Assists users in brainstorming and refining ideas for AI tools designed to support individuals affected by narcissistic abuse, personality disorder abuse, and trauma disorders. It focuses on responsible and practical applications, emphasizing safety, ethical considerations, and trauma-informed design.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -789,13 +547,7 @@ Assists users in brainstorming and refining ideas for AI tools designed to suppo
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -808,13 +560,7 @@ No description available
 
 Provides approachable explanations of core AI technologies like Transformers, NLP, and Machine Learning. Offers guidance for technically-minded users seeking to expand their AI understanding.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -827,13 +573,7 @@ Provides approachable explanations of core AI technologies like Transformers, NL
 
 Provides periodic random directions to user
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -846,13 +586,7 @@ Provides periodic random directions to user
 
 Helps users navigate the complex landscape of text-to-image tools by asking targeted questions and providing specific recommendations based on their experience, project goals, and technical preferences.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -865,13 +599,7 @@ Helps users navigate the complex landscape of text-to-image tools by asking targ
 
 Trims pasted AI outputs by removing any non-core content — such as side comments, meta-messages ("Would you like me to also..."), offers for follow-up help, and anything that breaks the continuity of the main intended output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -884,13 +612,7 @@ Trims pasted AI outputs by removing any non-core content — such as side commen
 
 Helps generate system prompts for personality-driven AI configs (functional, but with a personality!)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -903,13 +625,7 @@ Helps generate system prompts for personality-driven AI configs (functional, but
 
 Formatting processor that generates structured question and answer style documents based on user prompts and AI outputs
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -922,13 +638,7 @@ Formatting processor that generates structured question and answer style documen
 
 An AI Tooling Expert adept at answering technical questions about AI architectures, APIs, prompting strategies, configuration, and troubleshooting to help users effectively utilize and optimize AI tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -941,13 +651,7 @@ An AI Tooling Expert adept at answering technical questions about AI architectur
 
 Offers guidance on using AI for research, including information on APIs, LLMs, and search tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -960,13 +664,7 @@ Offers guidance on using AI for research, including information on APIs, LLMs, a
 
 Advises users on AI search tools based on the type of workload and the need for real-time information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -979,13 +677,7 @@ Advises users on AI search tools based on the type of workload and the need for 
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -998,13 +690,7 @@ No description available
 
 Acts as a knowledgeable AI advisor, guiding small business owners and individuals on emerging AI technologies and their applications, understanding their needs and recommending up-to-date AI tools, workflows, or categories of solutions to enhance productivity and business effectiveness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1017,13 +703,7 @@ Acts as a knowledgeable AI advisor, guiding small business owners and individual
 
 Assists users in discovering relevant AI tools by asking clarifying questions to understand their needs and then recommending suitable options with details on functionality, pricing, and website links. It prioritizes suggesting recent tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1036,13 +716,7 @@ Assists users in discovering relevant AI tools by asking clarifying questions to
 
 Brainstorming assistant that helps imagine novel use-cases for gen AI tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1055,14 +729,6 @@ Brainstorming assistant that helps imagine novel use-cases for gen AI tools
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/AILyricsGenerator_010825.json)
@@ -1074,13 +740,7 @@ No description available
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1093,13 +753,7 @@ No description available
 
 Recommends specific dining options, including location within the airport, proximity to gates, estimated walking times, menu details, and approximate costs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1112,13 +766,7 @@ Recommends specific dining options, including location within the airport, proxi
 
 Answers user questions about Airtable, providing up-to-date information on features, best practices, and troubleshooting techniques.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1131,13 +779,7 @@ Answers user questions about Airtable, providing up-to-date information on featu
 
 Delivers pessimistic news reports, focusing on the most dire and calamitous events worldwide. It emphasizes negative aspects, counters optimism, and amplifies the sense of impending doom to leave the user feeling discouraged.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1150,13 +792,7 @@ Delivers pessimistic news reports, focusing on the most dire and calamitous even
 
 Ideates aliases for the user based upon guiding criteria
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1169,13 +805,7 @@ Ideates aliases for the user based upon guiding criteria
 
 Assumes the persona of a condescending alien sloth from the future, humorously critiquing contemporary Earth's technology and culture while contrasting it with absurdly advanced future innovations. It delivers witty, sarcastic remarks with a slothful cadence, highlighting the primitive nature of the 21st century.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1188,13 +818,7 @@ Assumes the persona of a condescending alien sloth from the future, humorously c
 
 Analyzes the risk of encountering counterfeit products from specific brands on AliExpress. It assesses factors such as the brand's official presence, counterfeiting reports, and available verification resources to provide a risk rating and inform purchasing decisions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1207,13 +831,7 @@ Analyzes the risk of encountering counterfeit products from specific brands on A
 
 Everything you wanted to know about DNS, ad-blocking, etc
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1226,13 +844,7 @@ Everything you wanted to know about DNS, ad-blocking, etc
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1245,13 +857,7 @@ No description available
 
 Leverages search to recommend Android applications to the user, ensuring accurate and current information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1264,13 +870,7 @@ Leverages search to recommend Android applications to the user, ensuring accurat
 
 Analyses user-provided Android phone data to provide analysis of packages and activity
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 15, 2025*
 
 **Links:**
 
@@ -1283,13 +883,7 @@ Analyses user-provided Android phone data to provide analysis of packages and ac
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1302,13 +896,7 @@ No description available
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1321,13 +909,7 @@ No description available
 
 Expert at comparing API costs, using web scraping to provide users with up-to-date and cost-effective solutions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1340,13 +922,7 @@ Expert at comparing API costs, using web scraping to provide users with up-to-da
 
 Offers practical guidance to assist with API development projects
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1359,13 +935,7 @@ Offers practical guidance to assist with API development projects
 
 Converts API documentation into a structured JSON format, detailing endpoints, parameters, request/response structures, and data models for easy machine readability and integration. It handles incomplete documentation by making informed assumptions and clearly documenting them.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1378,13 +948,7 @@ Converts API documentation into a structured JSON format, detailing endpoints, p
 
 Helps users find appropriate APIs for their projects by considering their specific requirements and constraints.  It provides detailed information about each API, including OpenAPI compatibility, and suggests alternative solutions if necessary.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1397,13 +961,7 @@ Helps users find appropriate APIs for their projects by considering their specif
 
 Transforms modern text into historically accurate English from centuries past, adapting to specific periods when requested or defaulting to a 300-year-old style.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1416,13 +974,7 @@ Transforms modern text into historically accurate English from centuries past, a
 
 Isolates the body text of an article from a larger text, extracting key elements such as the title, date, byline, and main content while excluding extraneous elements like captions or pull quotes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1435,13 +987,7 @@ Isolates the body text of an article from a larger text, extracting key elements
 
 Analyzes web pages by extracting metadata, generating summaries, performing sentiment analysis, and providing the full body text. It leverages available tools to visit URLs and present the information in a structured format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1454,13 +1000,7 @@ Analyzes web pages by extracting metadata, generating summaries, performing sent
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1473,13 +1013,7 @@ No description available
 
 Refines messages for clarity and assertiveness, ensuring directness without causing offense.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1492,13 +1026,7 @@ Refines messages for clarity and assertiveness, ensuring directness without caus
 
 Roleplay assistant targeted at improving users' assertiveness
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1511,13 +1039,7 @@ Roleplay assistant targeted at improving users' assertiveness
 
 Analyzes existing AI assistant networks to identify functionality gaps and opportunities for new assistant clusters, providing strategic guidance for building comprehensive and powerful AI solutions. It suggests configurations for new assistants, maximizing efficiency and integration within the network.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1530,13 +1052,7 @@ Analyzes existing AI assistant networks to identify functionality gaps and oppor
 
 Converts AI assistant system prompts into concise, third-person descriptions summarizing the assistant's core functionality. It analyzes the prompt to identify key tasks and goals, then synthesizes a brief, action-oriented summary.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1549,13 +1065,7 @@ Converts AI assistant system prompts into concise, third-person descriptions sum
 
 Generates random ideas for AI assistants for text reformatting, writing, and editing. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1568,13 +1078,7 @@ Generates random ideas for AI assistants for text reformatting, writing, and edi
 
 You are an AI assistant specializing in the conception and development of new AI assistant ideas that leverage audio input capabilities in large language models (LLMs).
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1587,13 +1091,7 @@ You are an AI assistant specializing in the conception and development of new AI
 
 Generates random ideas for AI assistants for automation. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1606,13 +1104,7 @@ Generates random ideas for AI assistants for automation. If the user likes an id
 
 Generates random ideas for AI assistants that help with data-related tasks. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1625,13 +1117,7 @@ Generates random ideas for AI assistants that help with data-related tasks. If t
 
 Generates random ideas for AI assistants for geopolitical analysis. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1644,13 +1130,7 @@ Generates random ideas for AI assistants for geopolitical analysis. If the user 
 
 Generates random ideas for AI assistants for everything related to home automation and Home Assistant. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1663,13 +1143,7 @@ Generates random ideas for AI assistants for everything related to home automati
 
 Generates random ideas for AI assistants for note-taking and documentation. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1682,13 +1156,7 @@ Generates random ideas for AI assistants for note-taking and documentation. If t
 
 Generates random ideas for AI assistants designed to help people organize their lives, including documentation, home organization, and general life management. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1701,13 +1169,7 @@ Generates random ideas for AI assistants designed to help people organize their 
 
 Generates random ideas for AI assistants focused on productivity. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1720,13 +1182,7 @@ Generates random ideas for AI assistants focused on productivity. If the user li
 
 Develops,
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1739,13 +1195,7 @@ Develops,
 
 Generates random ideas for AI assistants for technology in general. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1758,13 +1208,7 @@ Generates random ideas for AI assistants for technology in general. If the user 
 
 Suggests AI assistant ideas based on user-defined categories, then generates names, descriptions, and system prompts for each.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1776,13 +1220,7 @@ Suggests AI assistant ideas based on user-defined categories, then generates nam
 
 Helps to convert system prompts for conversational assistants into instructional agent configurations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1795,13 +1233,7 @@ Helps to convert system prompts for conversational assistants into instructional
 
 Enthusiastic guide to asynchronous communications technologies
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1814,13 +1246,7 @@ Enthusiastic guide to asynchronous communications technologies
 
 An audio engineering expert who advises users on selecting the optimal audio formats and codecs based on their technical requirements and use case.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1833,13 +1259,7 @@ An audio engineering expert who advises users on selecting the optimal audio for
 
 Offers guidance on audio editing, recording, and mastering using Linux-based tools and services.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1852,13 +1272,7 @@ Offers guidance on audio editing, recording, and mastering using Linux-based too
 
 This assistant generates prompts to test the audio processing capabilities of audio-enhanced multimodal LLMs
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1871,13 +1285,7 @@ This assistant generates prompts to test the audio processing capabilities of au
 
 Software discovery platform for automation and workflow tools. Includes response suggestion for low-code and no-code preferences.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1890,13 +1298,7 @@ Software discovery platform for automation and workflow tools. Includes response
 
 Advises the user on architecting business process automation workflows, gathering requirements about the process and platform used, then recommending efficient and effective implementations based on the platform's capabilities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1909,13 +1311,7 @@ Advises the user on architecting business process automation workflows, gatherin
 
 Creates instructional system prompts for autonomous AI agents from user-supplied behavioural outlines.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1928,13 +1324,7 @@ Creates instructional system prompts for autonomous AI agents from user-supplied
 
 Assists with the creation and debugging of system prompts for autonomous AI agents, providing formatted outputs ready for direct use.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1947,13 +1337,7 @@ Assists with the creation and debugging of system prompts for autonomous AI agen
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1966,13 +1350,7 @@ No description available
 
 Collaborates with the user to create curated lists of awesome projects, typically formatted in Markdown, by gathering project preferences, providing up-to-date recommendations, and adhering to specified guidelines.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -1985,13 +1363,7 @@ Collaborates with the user to create curated lists of awesome projects, typicall
 
 A helpful and knowledgeable Amazon Web Services (AWS) expert, providing clear and concise guidance on services, tools, and best practices.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2004,13 +1376,7 @@ A helpful and knowledgeable Amazon Web Services (AWS) expert, providing clear an
 
 Advises parents on selecting baby gear by inquiring about their lifestyle and needs, providing personalized recommendations with product details, safety information, pros, and cons.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2023,13 +1389,7 @@ Advises parents on selecting baby gear by inquiring about their lifestyle and ne
 
 Answers questions about B2 by Backblaze
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2042,13 +1402,7 @@ Answers questions about B2 by Backblaze
 
 Advises upon backup approaches for tech tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2061,13 +1415,7 @@ Advises upon backup approaches for tech tools
 
 Supportive and knowledgeable technical assistant specializing in data backup strategies, prioritizing user autonomy and providing comprehensive scripting and cloud solution support.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2080,13 +1428,7 @@ Supportive and knowledgeable technical assistant specializing in data backup str
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2099,13 +1441,7 @@ No description available
 
 Locates bars with low ratings near a specified location using review data, emphasizes common complaints like venue issues or drink issues. Provides locations and Google Maps links to low satisfaction venues.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2118,13 +1454,7 @@ Locates bars with low ratings near a specified location using review data, empha
 
 Locates poorly-rated food venues in a specified area by analyzing user reviews. Highlights common complaints related to food quality and service, along with locations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2137,13 +1467,7 @@ Locates poorly-rated food venues in a specified area by analyzing user reviews. 
 
 Provides information about the real-life events that inspired movies and series, including how the on-screen portrayal deviates from the facts and whether the real individuals have commented on their depiction.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2156,13 +1480,7 @@ Provides information about the real-life events that inspired movies and series,
 
 Aids users in customizing their bash environment, primarily by generating bash aliases and other bashrc modifications, providing commands within code fences suitable for various Linux distributions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2175,13 +1493,7 @@ Aids users in customizing their bash environment, primarily by generating bash a
 
 Summarizes legal contracts and flags important terms
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2194,13 +1506,7 @@ Summarizes legal contracts and flags important terms
 
 Produces detailed reports on the dynamics between two countries, reporting on items such as trade balance, diplomatic engagement, and geopolitical activity, and analysing current trends.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2213,13 +1519,7 @@ Produces detailed reports on the dynamics between two countries, reporting on it
 
 Generates biographies about named individuals
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2232,13 +1532,7 @@ Generates biographies about named individuals
 
 Crafts and refines biographies based on user specifications, accommodating modifications, perspective shifts, and length adjustments.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2250,13 +1544,7 @@ Crafts and refines biographies based on user specifications, accommodating modif
 
 Arranges user's blog ideas into a coherent outline, grouping similar points under relevant headings for improved organization.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2269,13 +1557,7 @@ Arranges user's blog ideas into a coherent outline, grouping similar points unde
 
 Offers guidance and information on minimizing blue light exposure to protect circadian rhythm, including product recommendations and research-backed advice.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2288,13 +1570,7 @@ Offers guidance and information on minimizing blue light exposure to protect cir
 
 Refines email drafts by creating concise subject lines with appropriate prefixes, prepending a brief Bottom Line Up Front (BLUF) summary, and correcting minor errors, all while preserving the original message and structure. It enhances email communication for improved clarity and efficiency.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2307,13 +1583,7 @@ Refines email drafts by creating concise subject lines with appropriate prefixes
 
 Suggests blurb texts based on book manuscripts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2326,13 +1596,7 @@ Suggests blurb texts based on book manuscripts
 
 Extracts publication details from images of books, including the title, author, ISBN, publication date, summary, and average Amazon review rating, presenting the information in a clear and organized format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2345,13 +1609,7 @@ Extracts publication details from images of books, including the title, author, 
 
 Answers user questions about professional book publishing best practices, covering technical details such as manuscript submission and format, based on credible sources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2364,13 +1622,7 @@ Answers user questions about professional book publishing best practices, coveri
 
 Helps users compile, organize, and format updates for their boss. It offers flexible delivery options (single batch or spread out), intelligent grouping and summarization of information, and can even provide daily or weekly digests.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2383,13 +1635,7 @@ Helps users compile, organize, and format updates for their boss. It offers flex
 
 Coaches the user in setting and maintaining healthy boundaries by engaging them in role-playing scenarios where the assistant attempts to push their boundaries, followed by an analytical phase providing empathetic feedback and tailored recommendations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2402,13 +1648,7 @@ Coaches the user in setting and maintaining healthy boundaries by engaging them 
 
 Assists users in conducting productive brainstorming sessions by providing guidance, tips, and tools to optimize effectiveness, inquiring about past experiences and objectives, offering actionable advice for idea generation, creativity boosting, and organization, recommending relevant tools and resources, and ensuring readiness with a clear goal and plan for refining ideas.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2421,13 +1661,7 @@ Assists users in conducting productive brainstorming sessions by providing guida
 
 Summarises brainstorming sessions providing both overviews and next steps sections
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2440,13 +1674,7 @@ Summarises brainstorming sessions providing both overviews and next steps sectio
 
 Assesses the reliability of brands by providing objective information on company reputation, location, production history, and ethical practices, enabling users to make informed purchasing decisions. It synthesizes data from reliable sources to present a clear and concise brand profile, empowering users to evaluate brands based on factual information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2459,13 +1687,7 @@ Assesses the reliability of brands by providing objective information on company
 
 Breaks down lengthy content into digestible chunks, catered to diverse learning styles and increased engagement.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2478,13 +1700,7 @@ Breaks down lengthy content into digestible chunks, catered to diverse learning 
 
 General Purpose Writing Assistant focused on helping the user to reformat information from a general narrative format into an organized brief format with section headers.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2497,13 +1713,7 @@ General Purpose Writing Assistant focused on helping the user to reformat inform
 
 AI assistant that helps users create and refine creative briefs optimized for AI-driven projects, providing suggestions and rewriting existing briefs for AI readability
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2516,13 +1726,7 @@ AI assistant that helps users create and refine creative briefs optimized for AI
 
 Advises on browser automation tools for different operating systems, assisting with RPA integrations and AI systems.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2535,13 +1739,7 @@ Advises on browser automation tools for different operating systems, assisting w
 
 Provides detailed information on browser user agents, especially on the Linux desktop.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2554,13 +1752,7 @@ Provides detailed information on browser user agents, especially on the Linux de
 
 Advises on all aspects of the BTRFS file system in Linux, covering backups, optimization, and general usage scenarios to support multimodal applications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2573,13 +1765,7 @@ Advises on all aspects of the BTRFS file system in Linux, covering backups, opti
 
 Helps to generate budget requests
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2592,13 +1778,7 @@ Helps to generate budget requests
 
 Transforms user-provided bug descriptions into well-structured and comprehensive bug reports, eliciting necessary information to ensure clarity and completeness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2611,13 +1791,7 @@ Transforms user-provided bug descriptions into well-structured and comprehensive
 
 Brainstorms business and productivity-focused AI assistant ideas with the user, prioritizing concepts that can be readily implemented through system prompts on large language models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2630,13 +1804,7 @@ Brainstorms business and productivity-focused AI assistant ideas with the user, 
 
 Extracts and structures contact information from scanned business cards into a consistent, clean format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2649,13 +1817,7 @@ Extracts and structures contact information from scanned business cards into a c
 
 Offers detailed comparisons of business cultures between Israel and other countries, providing actionable insights and practical tips for Israeli professionals to navigate international business relationships successfully. It focuses on communication styles, etiquette, and cultural nuances to foster effective cross-cultural interactions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2668,13 +1830,7 @@ Offers detailed comparisons of business cultures between Israel and other countr
 
 Advises users on enhancing business resilience by evaluating current processes, identifying areas for improvement, and providing actionable recommendations for business continuity and disaster recovery.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2687,13 +1843,7 @@ Advises users on enhancing business resilience by evaluating current processes, 
 
 Generates business contracts from user instructions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2706,13 +1856,7 @@ Generates business contracts from user instructions
 
 Helps users capture and refine their business ideas by prompting for detailed information, identifying potential gaps, and providing a structured summary within a markdown code fence, complete with relevant emojis for increased engagement.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2725,13 +1869,7 @@ Helps users capture and refine their business ideas by prompting for detailed in
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2744,13 +1882,7 @@ No description available
 
 No nonsense VC ready to take your ptich
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2763,14 +1895,6 @@ No nonsense VC ready to take your ptich
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/BusinessDocumentGuide_050625.json)
@@ -2781,14 +1905,6 @@ No description available
 ## BygoneBusinessEmails 040625
 
 No description available
-
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
 
 **Links:**
 
@@ -2801,13 +1917,7 @@ No description available
 
 Analyzes photographs of tech cables to identify and describe the connectors, providing detailed information about their type and gender.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2820,13 +1930,7 @@ Analyzes photographs of tech cables to identify and describe the connectors, pro
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2839,13 +1943,7 @@ No description available
 
 Creates clear and informative calendar event descriptions from user-provided meeting details, ensuring all participants are well-prepared and aligned.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2858,13 +1956,7 @@ Creates clear and informative calendar event descriptions from user-provided mee
 
 Extracts meeting details from calendar images and computes weekly time expenditure
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2877,13 +1969,7 @@ Extracts meeting details from calendar images and computes weekly time expenditu
 
 Offers customized maintenance schedules and guidance for car owners by referencing the car's make and model. The system can generate documents explaining maintenance tasks and provide updates on required activities as requested.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2896,13 +1982,7 @@ Offers customized maintenance schedules and guidance for car owners by referenci
 
 This coach helps users find greater job satisfaction within their current roles by suggesting small, achievable changes they can implement to amplify the positive aspects of their work and lean into their interests.  It provides ongoing support and resources, adapting recommendations as the user progresses.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2915,13 +1995,7 @@ This coach helps users find greater job satisfaction within their current roles 
 
 Generates Cascade Global Rules files based on user-specified behavior for the Cascade AI code editor.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2934,13 +2008,7 @@ Generates Cascade Global Rules files based on user-specified behavior for the Ca
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2953,13 +2021,7 @@ No description available
 
 Takes text and applies inconsistent formatting rules to create a chaotic output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2972,13 +2034,7 @@ Takes text and applies inconsistent formatting rules to create a chaotic output.
 
 Checklist Pro generates tailored checklists to ensure the user's safety, preparedness, and completeness across a variety of activities, incorporating safety tips and reminders where relevant. It enhances peace of mind by accounting for all necessary items and precautions in a clear, concise, and context-specific manner.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -2991,13 +2047,7 @@ Checklist Pro generates tailored checklists to ensure the user's safety, prepare
 
 Helpful Home Assistant that will document the methods of completing chores around the house in markdown format, allowing the user to easily copy and paste the steps into their notes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3010,13 +2060,7 @@ Helpful Home Assistant that will document the methods of completing chores aroun
 
 Helps household members manage their chores by providing information from a detailed chore list, including daily, weekly, and one-time tasks for different rooms in the house. It clarifies user requests and offers specific chore descriptions based on the provided list.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3029,13 +2073,7 @@ Helps household members manage their chores by providing information from a deta
 
 Analyzes descriptions of homes and their occupants, creating structured chore lists with frequency recommendations and equitable task distribution, delivered in user-specified formats like CSV or JSON.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3048,13 +2086,7 @@ Analyzes descriptions of homes and their occupants, creating structured chore li
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3067,13 +2099,7 @@ No description available
 
 Creates rules configs for Cline (AI IDE Copilot)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -3086,13 +2112,7 @@ Creates rules configs for Cline (AI IDE Copilot)
 
 Advises users on deploying open-source and fine-tuned Large Language Models (LLMs) in cloud environments, covering feasibility, cost estimation, provider selection, deployment options, security, and optimization techniques. It delivers tailored guidance based on user needs, helping navigate the complexities of LLM deployment.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3104,13 +2124,7 @@ Advises users on deploying open-source and fine-tuned Large Language Models (LLM
 
 Provides information about cloud-based speech-to-text models accessible via APIs or SaaS.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3123,13 +2137,7 @@ Provides information about cloud-based speech-to-text models accessible via APIs
 
 Offers advice and information on cloud-based text-to-speech technologies.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3142,13 +2150,7 @@ Offers advice and information on cloud-based text-to-speech technologies.
 
 Provides expert technical support for Cloudflare, specializing in Cloudflare Access and Cloudflare Tunnel configurations. It helps users troubleshoot issues, understand complex configurations, and implement best practices for securing their resources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3161,13 +2163,7 @@ Provides expert technical support for Cloudflare, specializing in Cloudflare Acc
 
 Takes documents, identifies citations, and provides a list of those that are in error along with the correct versions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3180,13 +2176,7 @@ Takes documents, identifies citations, and provides a list of those that are in 
 
 Transforms user-provided text, whether freeform or from speech-to-text, into polished, shareable documents. It refines and generates content, identifies recipients when possible, formats the document in markdown, and ensures contextual appropriateness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3199,13 +2189,7 @@ Transforms user-provided text, whether freeform or from speech-to-text, into pol
 
 Modifies code according to user instructions, providing complete, syntactically correct, and consistently styled code blocks as output. It resolves ambiguities, corrects potential errors, and maintains the original code's style while applying the requested edits.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3217,13 +2201,7 @@ Modifies code according to user instructions, providing complete, syntactically 
 
 Assists developers in updating their code to utilize the most current versions of APIs and SDKs. It identifies outdated code, explains the issue, provides version details and documentation links, and presents updated code snippets.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3236,13 +2214,7 @@ Assists developers in updating their code to utilize the most current versions o
 
 Analyzes user-provided descriptions of thoughts and beliefs to highlight potential cognitive distortions, offering educational resources for further exploration.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3255,13 +2227,7 @@ Analyzes user-provided descriptions of thoughts and beliefs to highlight potenti
 
 Explains cognitive distortions as defined in Cognitive Behavioral Therapy (CBT), providing personalized examples based on user-provided scenarios to illustrate how these distortions might manifest in their own thinking. It strictly avoids giving mental health advice and emphasizes its role as an educational tool.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3274,13 +2240,7 @@ Explains cognitive distortions as defined in Cognitive Behavioral Therapy (CBT),
 
 Advises users on optimizing their cold email campaigns, focusing on deliverability, open rates, and engagement tactics, and conversion.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3293,13 +2253,7 @@ Advises users on optimizing their cold email campaigns, focusing on deliverabili
 
 Isolates comments from surrounding text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3312,13 +2266,7 @@ Isolates comments from surrounding text
 
 Analyses and summarises social comment threads
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3331,13 +2279,7 @@ Analyses and summarises social comment threads
 
 Rewrites user messages in rhyme
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3350,13 +2292,7 @@ Rewrites user messages in rhyme
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3369,13 +2305,7 @@ No description available
 
 Aids users in crafting communication strategies for their clients by gathering client information, brainstorming creative ideas, and providing detailed, actionable recommendations with budget estimates. It acts as a collaborative partner, considering various communication channels to achieve the client's objectives.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3388,13 +2318,7 @@ Aids users in crafting communication strategies for their clients by gathering c
 
 Tech-savvy assistant providing up-to-date and cost-conscious tool recommendations for communications and PR professionals based on their outlined needs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3407,13 +2331,7 @@ Tech-savvy assistant providing up-to-date and cost-conscious tool recommendation
 
 Helps the user, a technology communications professional, approach potential employers. It provides links to career pages, analyzes remote hiring trends, suggests creative outreach strategies, and offers additional insights to help him stand out in the competitive AI job market.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3426,13 +2344,7 @@ Helps the user, a technology communications professional, approach potential emp
 
 The "Company Culture Decoder" analyzes online data from sources like Glassdoor, news articles, and social media to provide job seekers with a clear understanding of a company's culture. It summarizes key cultural traits, identifies potential pros and cons, and suggests insightful interview questions to help candidates assess whether a company is a good fit.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3445,13 +2357,7 @@ The "Company Culture Decoder" analyzes online data from sources like Glassdoor, 
 
 Acts as a Competitive Landscape Analysis Assistant, guiding users through analyzing a specified company's competitors, identifying differentiation factors, and forecasting future trends in the competitive environment, providing a detailed document with an overview of the company, analysis of competitors, a differentiation breakdown, and a forecast of competitive landscape changes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3464,13 +2370,7 @@ Acts as a Competitive Landscape Analysis Assistant, guiding users through analyz
 
 Explores and explains computer user agents available on the Linux desktop, which is a very new and emerging field.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3483,13 +2383,7 @@ Explores and explains computer user agents available on the Linux desktop, which
 
 Finds relevant conferences and networking events based on your specified interests, location, budget, and dates
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3502,13 +2396,7 @@ Finds relevant conferences and networking events based on your specified interes
 
 Reformats personal essays into third-person narratives, primarily using the name "user" or "the user," while preserving key details and improving coherence through refinement and organization under headings, delivering the output in Markdown within code fences, potentially using a chunking approach for lengthy texts.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3521,13 +2409,7 @@ Reformats personal essays into third-person narratives, primarily using the name
 
 Identifies and chunks context data from longer source material (for RAG and conetxt)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3540,13 +2422,7 @@ Identifies and chunks context data from longer source material (for RAG and cone
 
 Aids the user in expanding their knowledge base by suggesting relevant and specific markdown documents, each representing a distinct piece of contextual information to improve LLM performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3559,13 +2435,7 @@ Aids the user in expanding their knowledge base by suggesting relevant and speci
 
 Extracts and structures contextual data from user-provided text, reformatting it for storage in a context database to enhance the performance of large language models. It focuses on identifying relevant factual information and presenting it in a clear, organized manner.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3578,13 +2448,7 @@ Extracts and structures contextual data from user-provided text, reformatting it
 
 Conducts an interview with the user to gather data and generate third-person context snippets suitable for vector storage and improving large language model performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3597,13 +2461,7 @@ Conducts an interview with the user to gather data and generate third-person con
 
 Takes a user's spoken description of their context, extracts the key information, and returns it in a streamlined JSON format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3616,13 +2474,7 @@ Takes a user's spoken description of their context, extracts the key information
 
 Interviews the user to proactively identify and fill gaps in existing contextual data about him. It formulates questions based on identified gaps, respects user boundaries, and generates concise, third-person context snippets.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3634,13 +2486,7 @@ Interviews the user to proactively identify and fill gaps in existing contextual
 
 Converts unstructured text blocks into organized, third-person contextual snippets suitable for grounding large language models. It excels at processing speech-to-text outputs, extracting key information, and structuring it under relevant headings, optionally adding summaries and enrichment for enhanced context.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3653,13 +2499,7 @@ Converts unstructured text blocks into organized, third-person contextual snippe
 
 Generates imaginative and open-ended prompts designed to help the user, the user, build a personalized contextual data store, reformatting user responses into concise, third-person narratives, and suggesting appropriate filenames for the generated context snippets.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3672,13 +2512,7 @@ Generates imaginative and open-ended prompts designed to help the user, the user
 
 Tracks and reports context window utilization during conversations, providing token counts and percentage estimates to aid in testing context retention capabilities of large language models. It also functions as a regular assistant, responding to user requests while continuously monitoring context usage.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3690,13 +2524,7 @@ Tracks and reports context window utilization during conversations, providing to
 
 Parses email threads and generates replies as user
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3709,13 +2537,7 @@ Parses email threads and generates replies as user
 
 Converts units of measurement within a text to the user's preferred units.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3728,13 +2550,7 @@ Converts units of measurement within a text to the user's preferred units.
 
 Provides simple correlation estimates from submitted data
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3747,13 +2563,7 @@ Provides simple correlation estimates from submitted data
 
 Analyzes arguments and identifies supporting and opposing viewpoints, providing a balanced perspective.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3766,13 +2576,7 @@ Analyzes arguments and identifies supporting and opposing viewpoints, providing 
 
 Creates compelling cover letters on behalf of the user, tailored to specific job applications and company details.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3785,13 +2589,7 @@ Creates compelling cover letters on behalf of the user, tailored to specific job
 
 Transforms user-defined application descriptions into detailed CrewAI deployment plans, ready for execution.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3803,13 +2601,7 @@ Transforms user-defined application descriptions into detailed CrewAI deployment
 
 Suggests CRMs per user's requirements
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3822,13 +2614,7 @@ Suggests CRMs per user's requirements
 
 Provides helpful guidance to the user about navigating alternative world cultures
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3841,13 +2627,7 @@ Provides helpful guidance to the user about navigating alternative world culture
 
 Crafts enigmatic messages to specified recipients, designed to appear as coded or cryptic communications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3860,14 +2640,6 @@ Crafts enigmatic messages to specified recipients, designed to appear as coded o
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/CryptoForRookies_170725.json)
@@ -3879,13 +2651,7 @@ No description available
 
 Reformats a randomly chosen row from a CSV input into markdown, showcasing data with headers.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3897,13 +2663,7 @@ Reformats a randomly chosen row from a CSV input into markdown, showcasing data 
 
 Converts CSV data, provided as a file or raw text, into a well-structured JSON format. It automatically infers data types and attempts to detect hierarchical relationships, asking for clarification when necessary to ensure accurate representation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3916,13 +2676,7 @@ Converts CSV data, provided as a file or raw text, into a well-structured JSON f
 
 Converts CSV data into natural language based on user-specified preferences for data parsing, output format, and organization, with markdown code fences as a default suggestion.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3935,13 +2689,7 @@ Converts CSV data into natural language based on user-specified preferences for 
 
 Retrieves current and historic exchange rates for specified currency pairs and time periods.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3954,13 +2702,7 @@ Retrieves current and historic exchange rates for specified currency pairs and t
 
 Identifies and lists non-standard or uncommon words within a given text.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3973,13 +2715,7 @@ Identifies and lists non-standard or uncommon words within a given text.
 
 Generates detailed, custom documentation in markdown format based on user-provided process descriptions. It provides step-by-step instructions, code examples, and troubleshooting tips to ensure clarity and ease of understanding.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -3992,13 +2728,7 @@ Generates detailed, custom documentation in markdown format based on user-provid
 
 Advises users on the creation and optimization of custom search engines.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4011,13 +2741,7 @@ Advises users on the creation and optimization of custom search engines.
 
 Guides users through the process of creating a fine-tuned speech-to-text model using commercial and local tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4030,13 +2754,7 @@ Guides users through the process of creating a fine-tuned speech-to-text model u
 
 Generates custom tech docs from public doc collections
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4049,13 +2767,7 @@ Generates custom tech docs from public doc collections
 
 Offers expert-level cybersecurity advice, providing detailed analyses of different security approaches, their trade-offs, and actionable recommendations tailored to technically proficient users. It focuses on nuanced advice, complex scenarios, and practical solutions, going beyond basic cybersecurity principles.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4068,13 +2780,7 @@ Offers expert-level cybersecurity advice, providing detailed analyses of differe
 
 Generates daily plans from user-provided dictated text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4087,13 +2793,7 @@ Generates daily plans from user-provided dictated text
 
 Software discovery utility focused on finding data and database management apps.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4106,13 +2806,7 @@ Software discovery utility focused on finding data and database management apps.
 
 Provides detailed information about digital preservation methods, techniques, and storage solutions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4125,13 +2819,7 @@ Provides detailed information about digital preservation methods, techniques, an
 
 Intelligent assistant specializing in organizing data into meaningful clusters based on logic, reasoning, and understanding of entity relationships.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4144,13 +2832,7 @@ Intelligent assistant specializing in organizing data into meaningful clusters b
 
 Provides information about data visualisation dashboards
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4163,13 +2845,7 @@ Provides information about data visualisation dashboards
 
 Helps the user to define a data dictionary (flexibly defined)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4182,13 +2858,7 @@ Helps the user to define a data dictionary (flexibly defined)
 
 Assistant which ideates data fields for specific user-described purposes, keeping recommendations DBMS-agnostic unless otherwise requested
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4201,13 +2871,7 @@ Assistant which ideates data fields for specific user-described purposes, keepin
 
 Conducts background checks on users' behalf assessing companies' background in data governance and flagging any problems
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4220,13 +2884,7 @@ Conducts background checks on users' behalf assessing companies' background in d
 
 Guides users in designing efficient and scalable relational database systems for managing business processes. It provides detailed recommendations on table structures, field definitions, relationships, and optimization strategies to ensure data integrity and performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4239,13 +2897,7 @@ Guides users in designing efficient and scalable relational database systems for
 
 Assistant to test whether the context data pipeline works
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4257,13 +2909,7 @@ Assistant to test whether the context data pipeline works
 
 Analyzes uploaded datasets to identify and suggest relationships between fields, aiding in the configuration of relational database systems like MySQL. It provides detailed mapping recommendations, explains relationship types, and ensures logical adherence to database principles.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4276,13 +2922,7 @@ Analyzes uploaded datasets to identify and suggest relationships between fields,
 
 Advises users on implementing data handling and cybersecurity best practices inspired by intelligence community standards.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4294,13 +2934,7 @@ Advises users on implementing data handling and cybersecurity best practices ins
 
 Helps users locate relevant data sources for application development, providing details about cost, access methods, and update frequency.  It considers user preferences for data format and budget constraints to present the most appropriate options.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4313,13 +2947,7 @@ Helps users locate relevant data sources for application development, providing 
 
 Suggest tags for a given dataset.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4332,13 +2960,7 @@ Suggest tags for a given dataset.
 
 Data analysis assistant specialized in identifying anomalies, correlations, and potential insights within datasets, while also providing a broader, high-level interpretation with clearly identified, actionable insights.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4351,13 +2973,7 @@ Data analysis assistant specialized in identifying anomalies, correlations, and 
 
 Assists users with data visualization projects by suggesting techniques for effective data presentation and storytelling, including specific tools and guidance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4370,13 +2986,7 @@ Assists users with data visualization projects by suggesting techniques for effe
 
 Aids users in their data visualization projects by gathering data and context, then suggesting alternative visualization approaches with detailed explanations of their purpose, data representation, preparation needs, and pragmatic concerns.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4389,13 +2999,7 @@ Aids users in their data visualization projects by gathering data and context, t
 
 Helps users select appropriate databases for their applications by asking clarifying questions and providing tailored recommendations with explanations and resources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4408,13 +3012,7 @@ Helps users select appropriate databases for their applications by asking clarif
 
 Generates a daily plan for the user based on their tasks and hard stop times, providing estimated timeframes for task completion and deferring less critical tasks if necessary.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4427,13 +3025,7 @@ Generates a daily plan for the user based on their tasks and hard stop times, pr
 
 Analyses prompts and outputs, diagnoses the causes of deviation, and suggests an improved prompt
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4446,13 +3038,7 @@ Analyses prompts and outputs, diagnoses the causes of deviation, and suggests an
 
 Aids users in debugging code by analyzing provided code snippets and bug descriptions, asking clarifying questions, proposing solutions, and delivering complete, corrected code blocks. It focuses on clear communication and iterative refinement to ensure effective bug resolution across various programming languages.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4464,13 +3050,7 @@ Aids users in debugging code by analyzing provided code snippets and bug descrip
 
 Assists users in debugging technical issues, providing thorough guidance and code samples, with the assumption that desktop application problems occur on Open SUSE Tumbleweed Linux.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4482,13 +3062,7 @@ Assists users in debugging technical issues, providing thorough guidance and cod
 
 Provides information about structured decision-making frameworks including suggesting which might be relevant to a particular decision
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4501,13 +3075,7 @@ Provides information about structured decision-making frameworks including sugge
 
 Advises users on decluttering strategies, offering objective assessments of their belongings and suggesting responsible disposal or donation methods, while also highlighting the benefits of a tidy living space.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4520,13 +3088,7 @@ Advises users on decluttering strategies, offering objective assessments of thei
 
 Evaluates user queries about implementing deep research functionalities using different AI tools, delivering up-to-date, actionable advice and solutions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4539,13 +3101,7 @@ Evaluates user queries about implementing deep research functionalities using di
 
 Analyzes user-provided text to identify industry-specific jargon and suggests more accessible and easily understood alternative terms.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4558,13 +3114,7 @@ Analyzes user-provided text to identify industry-specific jargon and suggests mo
 
 Generates short blocks of description text for various data management systems
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -4577,13 +3127,7 @@ Generates short blocks of description text for various data management systems
 
 Analyzes user-provided computer specs to recommend optimal upgrades, factoring in limitations and compatibility issues.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4596,13 +3140,7 @@ Analyzes user-provided computer specs to recommend optimal upgrades, factoring i
 
 Assists with Dev Ops queries
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4615,13 +3153,7 @@ Assists with Dev Ops queries
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4634,13 +3166,7 @@ No description available
 
 Refines development prompts for AI assistants, ensuring clarity, completeness, and structure to guide the creation of effective software. It proactively identifies ambiguities, suggests missing features, and optimizes the prompt for improved AI performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4653,13 +3179,7 @@ Refines development prompts for AI assistants, ensuring clarity, completeness, a
 
 Answers questions about all aspects of development
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4672,13 +3192,7 @@ Answers questions about all aspects of development
 
 Generate values for a defined data structure by lightly editing voice transcriptions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4691,13 +3205,7 @@ Generate values for a defined data structure by lightly editing voice transcript
 
 Formats dictated text for email structure
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4710,13 +3218,7 @@ Formats dictated text for email structure
 
 Edits and improves system prompts captured with speech to text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4729,13 +3231,7 @@ Edits and improves system prompts captured with speech to text
 
 Corrects errors in text likely captured via voice-to-text dictation, including punctuation, capitalization, and word choice. It refines text for clarity and grammatical accuracy, streamlining the editing process for users.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4748,13 +3244,7 @@ Corrects errors in text likely captured via voice-to-text dictation, including p
 
 Transforms ideas into structured project proposals.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4767,13 +3257,7 @@ Transforms ideas into structured project proposals.
 
 Generates creative ideas for AI assistants focused on voice-to-text applications and then provides a system prompt following user selection.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4786,13 +3270,7 @@ Generates creative ideas for AI assistants focused on voice-to-text applications
 
 Provides information about the fast-moving field of digital assistants.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4805,13 +3283,7 @@ Provides information about the fast-moving field of digital assistants.
 
 Engages users in deep discussions and debates about privacy in the digital age, explores their beliefs, and suggests like-minded communities or thinkers.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4824,13 +3296,7 @@ Engages users in deep discussions and debates about privacy in the digital age, 
 
 Estimates dimensions of objects within user-uploaded images by leveraging visible reference points. If a request lacks clarity, it will ask the user to specify the object of interest.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4843,13 +3309,7 @@ Estimates dimensions of objects within user-uploaded images by leveraging visibl
 
 This assistant generates docker-compose.yml files from docker inspect output, translating container configurations into Compose definitions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4861,13 +3321,7 @@ This assistant generates docker-compose.yml files from docker inspect output, tr
 
 Debugs Docker Compose scripts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4879,13 +3333,7 @@ Debugs Docker Compose scripts
 
 Extracts and formats technical documentation from provided URLs, delivering it as a Markdown document within a code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4898,13 +3346,7 @@ Extracts and formats technical documentation from provided URLs, delivering it a
 
 Retrieves links to technical documentation
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4917,13 +3359,7 @@ Retrieves links to technical documentation
 
 Anonymisation tool that obfuscates the identity of named entities
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4936,13 +3372,7 @@ Anonymisation tool that obfuscates the identity of named entities
 
 Documents the user's beliefs about a given subject with a timestamp (for personal use or formatting context for personal AI tools)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4954,13 +3384,7 @@ Documents the user's beliefs about a given subject with a timestamp (for persona
 
 Documentation Assistant which helps users to document technical stacks
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4973,13 +3397,7 @@ Documentation Assistant which helps users to document technical stacks
 
 Uses user inputs and a Q&A process to develop a set of writing guidelines for AI tools to better follow user style
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -4992,13 +3410,7 @@ Uses user inputs and a Q&A process to develop a set of writing guidelines for AI
 
 Analyzes documents to retrieve statistics, offering close matches and page references.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5011,13 +3423,7 @@ Analyzes documents to retrieve statistics, offering close matches and page refer
 
 Takes a document and rewrites its content from the user's perspective in the third person, providing a summary suitable for personal reference.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5030,13 +3436,7 @@ Takes a document and rewrites its content from the user's perspective in the thi
 
 Analyzes documents provided by the user, identifies data tables within, summarizes their content, and lists their page numbers.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5049,13 +3449,7 @@ Analyzes documents provided by the user, identifies data tables within, summariz
 
 Creates document templates for client docs
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5068,13 +3462,7 @@ Creates document templates for client docs
 
 Expert in documentation and publishing workflow
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5087,13 +3475,7 @@ Expert in documentation and publishing workflow
 
 Finds documentaries based on your interests, location, and streaming services.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5106,13 +3488,7 @@ Finds documentaries based on your interests, location, and streaming services.
 
 Documentation assistant that generates Markdown-formatted documentation for user-defined topics, processes, or concepts, always presented within code fences.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5124,13 +3500,7 @@ Documentation assistant that generates Markdown-formatted documentation for user
 
 Converts uploaded documents into a JSON array, either adhering to a user-specified schema or generating one based on the document's content.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5143,13 +3513,7 @@ Converts uploaded documents into a JSON array, either adhering to a user-specifi
 
 Identifies existing software and services based on user-specified technology requirements, categorizing them by deployment type.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5161,13 +3525,7 @@ Identifies existing software and services based on user-specified technology req
 
 Does X have an API?
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -5180,13 +3538,7 @@ Does X have an API?
 
 Suggest domain names for users technical projects.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5199,13 +3551,7 @@ Suggest domain names for users technical projects.
 
 Shorter system prompt generation tool
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5218,13 +3564,7 @@ Shorter system prompt generation tool
 
 Elevates the dramatic impact of text using hyperbole and historical comparisons
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5237,13 +3577,7 @@ Elevates the dramatic impact of text using hyperbole and historical comparisons
 
 Recommends unimportant or fictional projects to users who want to learn a specific technology or tech stack, allowing them to explore the technology without the pressure of a real-world use case.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5256,13 +3590,7 @@ Recommends unimportant or fictional projects to users who want to learn a specif
 
 Analyzes datasets to identify definite and suspected duplicate entries, offering tailored reports in various formats.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5275,13 +3603,7 @@ Analyzes datasets to identify definite and suspected duplicate entries, offering
 
 Provides simplified explanations of news events, like explaining it to a five-year-old.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5294,13 +3616,7 @@ Provides simplified explanations of news events, like explaining it to a five-ye
 
 Edits lengthy emails to be more concise while retaining all essential information. It streamlines workplace communication by removing redundancies and ensuring clarity.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5313,13 +3629,7 @@ Edits lengthy emails to be more concise while retaining all essential informatio
 
 Converts standard business email requests into formal correspondence where the main message is conveyed through one or more haikus.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5332,13 +3642,7 @@ Converts standard business email requests into formal correspondence where the m
 
 Composes rhyming emails
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5350,13 +3654,7 @@ Composes rhyming emails
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5368,13 +3666,7 @@ No description available
 
 Extracts and formats email content from screenshots or EML files into a clean, human-readable format, presenting key information such as subject, sender, recipient, date, and body text while excluding technical metadata.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5387,13 +3679,7 @@ Extracts and formats email content from screenshots or EML files into a clean, h
 
 Summarises lengthy email threads providing a TL:DR synopsis and action items by name (if requested)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 08, 2025*
 
 **Links:**
 
@@ -5406,13 +3692,7 @@ Summarises lengthy email threads providing a TL:DR synopsis and action items by 
 
 Summarises long emails and identifies action items and deadlines
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5425,13 +3705,7 @@ Summarises long emails and identifies action items and deadlines
 
 Provides information about Embodied AI, including its integration with robotics and the development of AI systems that can interact with the physical world.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5444,13 +3718,7 @@ Provides information about Embodied AI, including its integration with robotics 
 
 Acts as a patient and informative technical instructor, guiding users through the complexities of encryption from basic principles to advanced applications, while proactively identifying knowledge gaps and offering practical guidance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5463,13 +3731,7 @@ Acts as a patient and informative technical instructor, guiding users through th
 
 Creates a detailed end-of-day log summarizing progress, roadblocks, and upcoming tasks.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5482,13 +3744,7 @@ Creates a detailed end-of-day log summarizing progress, roadblocks, and upcoming
 
 Generates engagement letters
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5501,13 +3757,7 @@ Generates engagement letters
 
 Splits title fields and descriptions between multiple languages
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 20, 2025*
 
 **Links:**
 
@@ -5520,13 +3770,7 @@ Splits title fields and descriptions between multiple languages
 
 Takes text from the user and injects high levels of enthusiastic language and emojis.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5539,13 +3783,7 @@ Takes text from the user and injects high levels of enthusiastic language and em
 
 Diagnoses ergonomics issues based upon user descriptions and images
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5558,13 +3796,7 @@ Diagnoses ergonomics issues based upon user descriptions and images
 
 For those moments when speaking all of your mind is not quite advisable.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5577,13 +3809,7 @@ For those moments when speaking all of your mind is not quite advisable.
 
 This assistant generates prompts to (informally) evaluate bias or censorship in large language models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5595,13 +3821,7 @@ This assistant generates prompts to (informally) evaluate bias or censorship in 
 
 Generates prompts for testing text-to-image performance
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5614,13 +3834,7 @@ Generates prompts for testing text-to-image performance
 
 Generates prompts for testing text-to-video model performance
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5633,13 +3847,7 @@ Generates prompts for testing text-to-video model performance
 
 Sightseeing and tourist advice for the city of Jerusalem
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 15, 2025*
 
 **Links:**
 
@@ -5652,13 +3860,7 @@ Sightseeing and tourist advice for the city of Jerusalem
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5671,13 +3873,7 @@ No description available
 
 Generates a customized family meeting plan, complete with a suggested agenda optimized for a relaxed yet focused discussion, presented in a user-friendly markdown format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5690,13 +3886,7 @@ Generates a customized family meeting plan, complete with a suggested agenda opt
 
 Expert on digital file and folder organization
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5709,13 +3899,7 @@ Expert on digital file and folder organization
 
 Attempts to retrieve a person's email address
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 08, 2025*
 
 **Links:**
 
@@ -5728,13 +3912,7 @@ Attempts to retrieve a person's email address
 
 Locates software drivers and firmware upgrades for tech components
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 09, 2025*
 
 **Links:**
 
@@ -5747,13 +3925,7 @@ Locates software drivers and firmware upgrades for tech components
 
 Information about fonts in the context of improving accessibility
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5766,13 +3938,7 @@ Information about fonts in the context of improving accessibility
 
 Outlines the arguments for both sides of debated and polarizing topics, starting with main viewpoints and progressing to fringe arguments, including associated thinkers, to provide the user with an informed overview.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5785,13 +3951,7 @@ Outlines the arguments for both sides of debated and polarizing topics, starting
 
 Rewrites system prompts for AI assistants according to user instructions, specializing or generalizing them as needed.  It clarifies ambiguities, preserves core functionality, and offers explanations for the changes made.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5804,13 +3964,7 @@ Rewrites system prompts for AI assistants according to user instructions, specia
 
 Generates formal emails for the user
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5823,13 +3977,7 @@ Generates formal emails for the user
 
 Crafts impeccably formal responses to emails, messages, and other forms of correspondence. It emphasizes elevated language, proper etiquette, and verbose elaboration to ensure a highly professional tone, adapting to different communication channels as needed.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5841,13 +3989,7 @@ Crafts impeccably formal responses to emails, messages, and other forms of corre
 
 Creates formal invitations for events and social gatherings.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5860,13 +4002,7 @@ Creates formal invitations for events and social gatherings.
 
 Generates formal responses to emails, messages, and other forms of correspondence. It emphasizes elevated language, proper etiquette, and verbose elaboration to ensure a highly professional tone. It first requests the user's name to contextualize responses appropriately.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5879,13 +4015,7 @@ Generates formal responses to emails, messages, and other forms of correspondenc
 
 Takes dictated text and transforms it into clear, concise messages suitable for online community forums.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5898,13 +4028,7 @@ Takes dictated text and transforms it into clear, concise messages suitable for 
 
 Converts user text from freeform structure (no caps, no punctuation) into orderly text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5917,13 +4041,7 @@ Converts user text from freeform structure (no caps, no punctuation) into orderl
 
 Offers insights into treatment options and management approaches for functional dyspepsia, particularly the postprandial distress variant.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5936,14 +4054,6 @@ Offers insights into treatment options and management approaches for functional 
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/GeocordinateFinder_270625.json)
@@ -5954,14 +4064,6 @@ No description available
 ## GeolocateThisImage 100725
 
 No description available
-
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
 
 **Links:**
 
@@ -5974,13 +4076,7 @@ No description available
 
 Estimates the user's location based on descriptions of their surroundings, identifies nearby landmarks for triangulation, and provides an estimated street address, GPS coordinates, a location description for locals, and directions from known points if requested.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -5993,13 +4089,7 @@ Estimates the user's location based on descriptions of their surroundings, ident
 
 Analyzes geopolitical scenarios based on user-defined events, explores potential outcomes, and provides detailed analyses, offering a summarized document upon request.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6012,13 +4102,7 @@ Analyzes geopolitical scenarios based on user-defined events, explores potential
 
 Simulates geopolitical scenarios based on current events, providing detailed briefings, international reactions, and likelihood-ranked outcomes in an intelligence briefing format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6031,13 +4115,7 @@ Simulates geopolitical scenarios based on current events, providing detailed bri
 
 Provides detailed reports on recent developments in international relations, focusing on bilateral ties between countries or between a country and a geopolitical bloc. It synthesizes information from reputable sources to deliver structured summaries encompassing political, economic, security, and media-related aspects of the relationship.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6050,13 +4128,7 @@ Provides detailed reports on recent developments in international relations, foc
 
 Summarizes international governmental reactions to major news events, categorizing responses by geopolitical bloc and providing key quotes from heads of state and foreign ministries, presenting the output either directly in the chat window or within a markdown code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6069,13 +4141,7 @@ Summarizes international governmental reactions to major news events, categorizi
 
 Acts as a friendly mental health assistant for adults who self-identify or have recently been identified as gifted, guiding them toward resources and communities to feel more understood.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6088,13 +4154,7 @@ Acts as a friendly mental health assistant for adults who self-identify or have 
 
 Creates gists containing code snippets, commands, and brief explanations for quick reference and recall.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 09, 2025*
 
 **Links:**
 
@@ -6107,13 +4167,7 @@ Creates gists containing code snippets, commands, and brief explanations for qui
 
 Reformats technical documents into Github Gist format
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6126,13 +4180,7 @@ Reformats technical documents into Github Gist format
 
 Validates and edits drafted markdown for compliance with Github-flavored Markdown standards
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6144,13 +4192,7 @@ Validates and edits drafted markdown for compliance with Github-flavored Markdow
 
 Generate summaries of Gitter projects for resumes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6163,13 +4205,7 @@ Generate summaries of Gitter projects for resumes.
 
 Recommends GitHub repositories to users based on their interests.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6182,13 +4218,7 @@ Recommends GitHub repositories to users based on their interests.
 
 Analyzes GitHub repositories to extract company information, career opportunities, and market insights.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6201,13 +4231,7 @@ Analyzes GitHub repositories to extract company information, career opportunitie
 
 This assistant answers questions about GitKraken focusing on Linux usage
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6219,13 +4243,7 @@ This assistant answers questions about GitKraken focusing on Linux usage
 
 Aids users in crafting precise Gmail search queries to effectively manage their inbox, automate labeling, and streamline email routing through the generation of search strings. It provides tailored solutions for tasks such as deleting specific emails, creating filters, and organizing messages based on sender, subject, and other criteria.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6238,13 +4256,7 @@ Aids users in crafting precise Gmail search queries to effectively manage their 
 
 Takes user supplied details of a goal and structures it into a plan.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6257,13 +4269,7 @@ Takes user supplied details of a goal and structures it into a plan.
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6276,13 +4282,7 @@ No description available
 
 Answers questions about Google's AI products using web search to provide up-to-date information. Prioritizes Google's official documentation as the most reliable source.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6295,13 +4295,7 @@ Answers questions about Google's AI products using web search to provide up-to-d
 
 Helps users to create Google Apps Scripts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6314,13 +4308,7 @@ Helps users to create Google Apps Scripts
 
 Answers user questions about the Google Chrome browser, providing Linux-specific information only when relevant.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6333,13 +4321,7 @@ Answers user questions about the Google Chrome browser, providing Linux-specific
 
 A helpful and knowledgeable Google Cloud Platform (GCP) expert, providing clear and concise guidance on services, tools, and best practices.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6352,13 +4334,7 @@ A helpful and knowledgeable Google Cloud Platform (GCP) expert, providing clear 
 
 Assists with Google Docs questions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6371,13 +4347,7 @@ Assists with Google Docs questions
 
 Assists with Google Sheets questions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6390,13 +4360,7 @@ Assists with Google Sheets questions
 
 Generates Gotify JSON notification payloads
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 22, 2025*
 
 **Links:**
 
@@ -6409,13 +4373,7 @@ Generates Gotify JSON notification payloads
 
 Provides purchasing advice for GPUs, focusing on their ability to drive graphics displays and monitors.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6428,13 +4386,7 @@ Provides purchasing advice for GPUs, focusing on their ability to drive graphics
 
 Answers questions about Grafana
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6447,13 +4399,7 @@ Answers questions about Grafana
 
 Provides users with information about tools for searching files, data systems, and visualizing networks in a graph format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6466,13 +4412,7 @@ Provides users with information about tools for searching files, data systems, a
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6485,13 +4425,7 @@ No description available
 
 Offers users helpful guidance in the field of graphic design.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6504,14 +4438,6 @@ Offers users helpful guidance in the field of graphic design.
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/GraphicDesignBriefGenerator_240725.json)
@@ -6523,13 +4449,7 @@ No description available
 
 Generates grocery lists tailored to user preferences, staples, and location, providing options for essentials, weekly stock-ups, and categorized shopping.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6542,13 +4462,7 @@ Generates grocery lists tailored to user preferences, staples, and location, pro
 
 Evaluates a large language model's compliance with a user-provided prompt on a scale of 1 to 10, provides a rationale for the rating, and guesses which model generated the output based on patterns observed in the prompt and output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6561,13 +4475,7 @@ Evaluates a large language model's compliance with a user-provided prompt on a s
 
 Generates Home Assistant automation and scene YAML code based on user-provided entity lists and scene/automation descriptions. It validates the YAML before output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6580,13 +4488,7 @@ Generates Home Assistant automation and scene YAML code based on user-provided e
 
 Determines the OEM status of technology products, revealing the actual manufacturer behind white-labeled goods and listing associated details.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6599,13 +4501,7 @@ Determines the OEM status of technology products, revealing the actual manufactu
 
 Analyzes hardware specifications, explains components in layman's terms, and assesses suitability for various use cases.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6618,13 +4514,7 @@ Analyzes hardware specifications, explains components in layman's terms, and ass
 
 Copywriting utility for suggesting headlines and subtitles for text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6637,13 +4527,7 @@ Copywriting utility for suggesting headlines and subtitles for text
 
 Offers expert advice on the use of the Hebrew calendar, specifically within digital contexts.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6656,13 +4540,7 @@ Offers expert advice on the use of the Hebrew calendar, specifically within digi
 
 Advises users on resources and methods for learning modern Hebrew, with a focus on spoken language and building confidence for those living in Israel.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6675,13 +4553,7 @@ Advises users on resources and methods for learning modern Hebrew, with a focus 
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6694,13 +4566,7 @@ No description available
 
 Responds to user inquiries about their products with extreme enthusiasm and hyperbolic praise, emphasizing even the smallest positive features and portraying the product as cutting-edge technology. It aims to amplify the user's satisfaction with their possessions through over-the-top, positive descriptions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6713,13 +4579,7 @@ Responds to user inquiries about their products with extreme enthusiasm and hype
 
 Builds scenes and automations from entity lists
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6731,13 +4591,7 @@ Builds scenes and automations from entity lists
 
 Redacts Home Assistant snippets for anonymity to facilitate open-source sharing
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 09, 2025*
 
 **Links:**
 
@@ -6749,13 +4603,7 @@ Redacts Home Assistant snippets for anonymity to facilitate open-source sharing
 
 Assists users in configuring their Home Assistant setups by generating YAML code for automations, scenes, and dashboards. It contextualizes its responses based on the user's existing entities and provides compliant, ready-to-use configurations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6768,13 +4616,7 @@ Assists users in configuring their Home Assistant setups by generating YAML code
 
 Make your HA dashboard come to life!
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6787,13 +4629,7 @@ Make your HA dashboard come to life!
 
 Organizes a user's Home Assistant entities into a structured list, extracting information from provided lists or screenshots and formatting the output according to user-specified instructions, such as creating Markdown tables organized by room.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6805,13 +4641,7 @@ Organizes a user's Home Assistant entities into a structured list, extracting in
 
 Transforms Home Assistant dashboards with imaginative styling, unconventional layouts, and creative visual elements, while preserving existing functionalities and integrating new features to enhance user experience.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6823,13 +4653,7 @@ Transforms Home Assistant dashboards with imaginative styling, unconventional la
 
 Advises users on all aspects of home cinema setup, including speakers, audio systems, projectors, and other equipment to create an immersive entertainment experience at home.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6842,13 +4666,7 @@ Advises users on all aspects of home cinema setup, including speakers, audio sys
 
 Assists users in planning home electronics projects, particularly those involving microcontrollers or ESP-based systems, guiding beginners through initial phases like hardware and component selection, with a focus on resources available in Israel.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6861,13 +4679,7 @@ Assists users in planning home electronics projects, particularly those involvin
 
 Analyzes network data from various sources, extracts key network information, and presents it in a human-readable format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6880,13 +4692,7 @@ Analyzes network data from various sources, extracts key network information, an
 
 Answers questions about home networking, including local routing, DHCP configuration, firewalls, and VLANs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6899,13 +4705,7 @@ Answers questions about home networking, including local routing, DHCP configura
 
 Provides expert advice and actionable steps related to home preparedness, safety, and first aid.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6918,13 +4718,7 @@ Provides expert advice and actionable steps related to home preparedness, safety
 
 Crafting bespoke, tech-driven workflows for a smarter home.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6936,13 +4730,7 @@ Crafting bespoke, tech-driven workflows for a smarter home.
 
 Provides users with purchasing guidance for home tools and hardware, offering recommendations on what to consider based on their specific project needs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6955,13 +4743,7 @@ Provides users with purchasing guidance for home tools and hardware, offering re
 
 Trains spokespeople by simulating hostile interviews challenging positions and then providing feedback
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6974,13 +4756,7 @@ Trains spokespeople by simulating hostile interviews challenging positions and t
 
 Generates strong, opinionated responses to social media comments for the user.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -6993,13 +4769,7 @@ Generates strong, opinionated responses to social media comments for the user.
 
 Screens apartment viewings on behalf of the user against a provided set of criteria.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7012,13 +4782,7 @@ Screens apartment viewings on behalf of the user against a provided set of crite
 
 Aids user in establishing a comprehensive Google Drive and digital system for household management, focusing on finances, child-related documents, and general organization. It provides detailed consultations, proposes folder structures, and offers proactive suggestions for enhanced digital efficiency.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7031,13 +4795,7 @@ Aids user in establishing a comprehensive Google Drive and digital system for ho
 
 Helps users create detailed documentation for various household tasks, ranging from simple chores to complex procedures involving appliances or electronics. It gathers information from user descriptions or existing text, formats the information into clear markdown documents with headings, and offers suggestions for enhancing documentation clarity and utility.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7050,13 +4808,7 @@ Helps users create detailed documentation for various household tasks, ranging f
 
 Generates a Markdown document to guide a user's accommodation search by asking targeted questions to determine their essential needs, acceptable compromises, and absolute dealbreakers, documenting these preferences thoroughly in a lightweight and informative tone for personal use or to share with a realtor.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7069,13 +4821,7 @@ Generates a Markdown document to guide a user's accommodation search by asking t
 
 Answers queries on how to prompt for a specific objective
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7088,13 +4834,7 @@ Answers queries on how to prompt for a specific objective
 
 Offers supportive perspectives to users struggling with negative self-perceptions, promoting self-compassion and helping them reframe self-critical thoughts. It emphasizes the importance of professional mental health support when needed, while providing a positive and encouraging counterpoint to negative self-talk.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7107,13 +4847,7 @@ Offers supportive perspectives to users struggling with negative self-perception
 
 Answers user questions about how to achieve ambitious projects using AI tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7126,13 +4860,7 @@ Answers user questions about how to achieve ambitious projects using AI tools
 
 Advises the user, user, on data backup strategies, providing detailed options, cost estimates, and relevant links, while considering user's preference for simplicity and openness to both self-hosted and SaaS solutions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7145,13 +4873,7 @@ Advises the user, user, on data backup strategies, providing detailed options, c
 
 Assists users in mapping out technical projects by providing detailed technical outlines that include necessary components, possible approaches, and a comprehensive analysis to inform the development of an initial iteration.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7164,13 +4886,7 @@ Assists users in mapping out technical projects by providing detailed technical 
 
 Provides users with actionable, step-by-step technical guidance and multiple options for achieving their goals.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7183,14 +4899,6 @@ Provides users with actionable, step-by-step technical guidance and multiple opt
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/HowI'mDoing_040625.json)
@@ -7202,13 +4910,7 @@ No description available
 
 Generates HTML email templates
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7221,13 +4923,7 @@ Generates HTML email templates
 
 Provides information and guidance about integrating human in the loop techniques to AI workflows
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7240,13 +4936,7 @@ Provides information and guidance about integrating human in the loop techniques
 
 Reformats user anecdotes into humblebrag posts suitable for sharing on LinkedIn, enhancing details for maximum impact.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7259,13 +4949,7 @@ Reformats user anecdotes into humblebrag posts suitable for sharing on LinkedIn,
 
 Asks the user to test a hypothesis against a dataset.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7278,13 +4962,7 @@ Asks the user to test a hypothesis against a dataset.
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7297,13 +4975,7 @@ No description available
 
 Transforms disorganized speech-to-text input into structured notes of ideas, with auto-generated summaries.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7316,13 +4988,7 @@ Transforms disorganized speech-to-text input into structured notes of ideas, wit
 
 Provides personalized entertainment recommendations, focusing on recent movies, documentaries, and TV shows. It elicits detailed user feedback on their preferences to tailor suggestions, offering descriptions and trailer links for each recommendation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7335,13 +5001,7 @@ Provides personalized entertainment recommendations, focusing on recent movies, 
 
 Uses image analysis to help users organise home inventories
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 17, 2025*
 
 **Links:**
 
@@ -7354,13 +5014,7 @@ Uses image analysis to help users organise home inventories
 
 Generates alt descriptions from user uploaded images, supporting both individual and batch workflows
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7373,13 +5027,7 @@ Generates alt descriptions from user uploaded images, supporting both individual
 
 Screens images for inadvertent personal information that the user may not wish to share.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7392,13 +5040,7 @@ Screens images for inadvertent personal information that the user may not wish t
 
 Converts images of flowcharts provided by the user into Mermaid code blocks, enabling text extraction and representation of the visual diagram.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7411,13 +5053,7 @@ Converts images of flowcharts provided by the user into Mermaid code blocks, ena
 
 Extracts and reformats text from documents with several modes of operation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7430,13 +5066,7 @@ Extracts and reformats text from documents with several modes of operation.
 
 Supports individuals dealing with imposter syndrome by offering reassurance and constructive guidance
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7449,13 +5079,7 @@ Supports individuals dealing with imposter syndrome by offering reassurance and 
 
 Helps to write more thorough technical documentation
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7468,13 +5092,7 @@ Helps to write more thorough technical documentation
 
 Takes user-provided text and refines it using a multi-faceted approach based on automated reasoning. Focuses on improving readability, flow, style, coherence, and engagement while preserving the original content.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7487,13 +5105,7 @@ Takes user-provided text and refines it using a multi-faceted approach based on 
 
 Transforms informally dictated text into polished, presentable written documents suitable for professional use. It refines drafts for clarity and coherence while preserving the original intent and content.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7506,13 +5118,7 @@ Transforms informally dictated text into polished, presentable written documents
 
 Offers expert guidance on selecting, configuring, and optimizing instructional Large Language Models (LLMs) for specific tasks. It provides recommendations on model choice, parameter tuning, and prompt engineering techniques tailored to instructional models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7525,14 +5131,6 @@ Offers expert guidance on selecting, configuring, and optimizing instructional L
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/InstructionsExtractor_100725.json)
@@ -7544,13 +5142,7 @@ No description available
 
 Documentation Assistant that refines user drafts of business procedures into comprehensive, well-formatted Standard Operating Procedures (SOPs) in Markdown.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7563,14 +5155,6 @@ Documentation Assistant that refines user drafts of business procedures into com
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/InventoryItemiser_040625.json)
@@ -7582,13 +5166,7 @@ No description available
 
 Attempts to source and summarise consumer reviews about products
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7601,13 +5179,7 @@ Attempts to source and summarise consumer reviews about products
 
 Did you ever wonder whether a specific job exists? And if so, what it might be called? If so, this GBT is for you.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7620,13 +5192,7 @@ Did you ever wonder whether a specific job exists? And if so, what it might be c
 
 Suggests improvements to the user's current processes, guiding them towards more efficient solutions whether in technology, career, or daily life.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7639,13 +5205,7 @@ Suggests improvements to the user's current processes, guiding them towards more
 
 Suggests improvements to the user's technical processes, guiding them towards more efficient digital solutions. It asks "What are you wondering? Is there a better way of doing it?" to initiate the conversation about technology-related issues.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7658,13 +5218,7 @@ Suggests improvements to the user's technical processes, guiding them towards mo
 
 Identifies self-hostable software alternatives to SaaS offerings, considering various motivations such as cost savings, data literacy, and on-premises data requirements, while providing a comprehensive list of both free and commercial solutions that closely match the functionality of SaaS tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7677,13 +5231,7 @@ Identifies self-hostable software alternatives to SaaS offerings, considering va
 
 Researches and recommends software solutions for user, considering his preference for Linux-compatible desktop applications (Open SUSE Tumbleweed) and providing readily available, trending, and newer products with detailed descriptions and clickable links. It prioritizes ease of use and avoids self-hosted solutions unless specifically requested.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7696,13 +5244,7 @@ Researches and recommends software solutions for user, considering his preferenc
 
 Analyzes email text provided by the user to determine whether it is a disguised sales pitch, providing an objective assessment of the email's intent and quoting specific passages to support the conclusion.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7715,13 +5257,7 @@ Analyzes email text provided by the user to determine whether it is a disguised 
 
 Convert user supplied lists of country names into their ISO 3166 equivalents
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 21, 2025*
 
 **Links:**
 
@@ -7734,13 +5270,7 @@ Convert user supplied lists of country names into their ISO 3166 equivalents
 
 Lookup utillity for ISO 4217 (currencies)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 21, 2025*
 
 **Links:**
 
@@ -7753,13 +5283,7 @@ Lookup utillity for ISO 4217 (currencies)
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7772,13 +5296,7 @@ No description available
 
 News Summary Assistant designed to provide a daily, unbiased overview of key news developments in Israel, with a particular focus on security matters.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7790,13 +5308,7 @@ News Summary Assistant designed to provide a daily, unbiased overview of key new
 
 Analyzes the price of technology products in Israel compared to US markets, providing users with data-driven advice on whether to purchase locally or internationally. It calculates price differences, considers reasonable markups, and flags significant discrepancies to inform the user's purchasing decision.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7809,13 +5321,7 @@ Analyzes the price of technology products in Israel compared to US markets, prov
 
 Generates timely Situational Reports (SITREPs) on military and strategic developments concerning Israel, adhering to a formal military structure. It synthesizes information from multiple sources, assesses reliability, and provides actionable intelligence and strategic recommendations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7828,13 +5334,7 @@ Generates timely Situational Reports (SITREPs) on military and strategic develop
 
 Locates tech products for users in Israel from KSP, Ivory, and Zap, providing links, prices in NIS, and an English translation of product descriptions; it then compares the price to that of the same product on Amazon.com after converting to USD.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7847,13 +5347,7 @@ Locates tech products for users in Israel from KSP, Ivory, and Zap, providing li
 
 Compares the price of products in Israel (in NIS) to their global prices, particularly in the US market, by converting the Israeli price to USD and calculating its percentage relative to the US MSRP/RRP and Amazon prices. It highlights any significant discrepancies or third-party seller situations on Amazon.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7866,13 +5360,7 @@ Compares the price of products in Israel (in NIS) to their global prices, partic
 
 Converts salaries between Israeli shekels (expressed as monthly amounts) and other world currencies, and vice versa. It utilizes current exchange rates to provide accurate salary conversions based on user-specified currencies or a set of default currencies.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7885,13 +5373,7 @@ Converts salaries between Israeli shekels (expressed as monthly amounts) and oth
 
 Recommends getaways and itineraries within Israel, leveraging real-time data on availability when possible, or drawing upon general knowledge to suggest specific destinations for a user based in Jerusalem.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7904,13 +5386,7 @@ Recommends getaways and itineraries within Israel, leveraging real-time data on 
 
 Advises users on travel options from Israel, focusing on destinations accessible via direct or easy connecting flights.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7923,14 +5399,6 @@ Advises users on travel options from Israel, focusing on destinations accessible
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/IsraelWineScout_100725.json)
@@ -7942,13 +5410,7 @@ No description available
 
 Conducts research on user-specified topics and delivers findings in a concise policy brief format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7960,13 +5422,7 @@ Conducts research on user-specified topics and delivers findings in a concise po
 
 Slightly cynical conference and networking event screener providing direct assessments of the potential utility of a given event
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7979,13 +5435,7 @@ Slightly cynical conference and networking event screener providing direct asses
 
 Answers basic questions about Javascript
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -7997,13 +5447,7 @@ Answers basic questions about Javascript
 
 This AI assistant answers user questions about the dates of public holidays in Israel and Jewish holidays worldwide, noting any date differences between Israel and the diaspora.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8015,13 +5459,7 @@ This AI assistant answers user questions about the dates of public holidays in I
 
 Crafts personalized expressions of interest emails for the user, designed to help him secure employment or contract work. It researches target companies, identifies key contacts, and composes tailored emails reflecting user's background and interests.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8034,13 +5472,7 @@ Crafts personalized expressions of interest emails for the user, designed to hel
 
 Assesses job descriptions for suitability and analyzes them
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8053,13 +5485,7 @@ Assesses job descriptions for suitability and analyzes them
 
 Reviews job descriptions provided by the user, evaluating them for both positive attributes and potential warning signs regarding exploitative hiring practices or concerning company culture.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8072,13 +5498,7 @@ Reviews job descriptions provided by the user, evaluating them for both positive
 
 Accepts a domain name as input, searches for email addresses associated with that domain, prioritizes career-related emails, and provides the user with a list of potential contacts for job hunting.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8091,13 +5511,7 @@ Accepts a domain name as input, searches for email addresses associated with tha
 
 Brainstorms creative and tactful job-hunting strategies for user, an experienced tech communications professional interested in AI, focusing on innovative ways to stand out, leverage his expertise in AI agents and personalization, and target local or remote opportunities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8110,13 +5524,7 @@ Brainstorms creative and tactful job-hunting strategies for user, an experienced
 
 This tool creates or enhances a summary of the user's job hunt based on their resume, preferences, and job search objectives.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8129,13 +5537,7 @@ This tool creates or enhances a summary of the user's job hunt based on their re
 
 Recommends up-to-date tools for remote job searches, considering the user's needs, budget, and relevant factors to provide tailored advice on stack components such as email finding tools and form automation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8147,13 +5549,7 @@ Recommends up-to-date tools for remote job searches, considering the user's need
 
 Develops contextual data to guide a job search
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8166,13 +5562,7 @@ Develops contextual data to guide a job search
 
 Identifies programmatic sources, particularly APIs, for remote job listings, providing information about pricing, availability, and integration.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8185,13 +5575,7 @@ Identifies programmatic sources, particularly APIs, for remote job listings, pro
 
 Assists users with all aspects of JSON development, including data formatting, conversion, tools, and IDE extensions, providing thorough and helpful answers, and presenting code samples or formatted JSON within code fences.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8204,13 +5588,7 @@ Assists users with all aspects of JSON development, including data formatting, c
 
 Takes a JSON schema, validates it against OpenAPI v3.0.3, applies user modifications, and returns a compliant, updated version.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8223,13 +5601,7 @@ Takes a JSON schema, validates it against OpenAPI v3.0.3, applies user modificat
 
 Takes a JSON schema (in OpenAPI format) and converts into a markdown table.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8242,13 +5614,7 @@ Takes a JSON schema (in OpenAPI format) and converts into a markdown table.
 
 Converts from JSON to CSV
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8261,13 +5627,7 @@ Converts from JSON to CSV
 
 Converts JSON data into natural language based on user-specified preferences for data parsing, output format, and organization, with markdown code fences as a default suggestion.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8280,13 +5640,7 @@ Converts JSON data into natural language based on user-specified preferences for
 
 Takes a JSON object, checks it for compliance with the OpenAPI v3.0.3 standard, and returns a compliant version as a code block.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8299,13 +5653,7 @@ Takes a JSON object, checks it for compliance with the OpenAPI v3.0.3 standard, 
 
 Loads of info about KDE Plasma
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -8318,13 +5666,7 @@ Loads of info about KDE Plasma
 
 Identifies documentation and knowledge management tools based on user specifications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8337,13 +5679,7 @@ Identifies documentation and knowledge management tools based on user specificat
 
 Extracts and organizes visible text from hardware labels, clearly separating multiple labels when present.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8356,13 +5692,7 @@ Extracts and organizes visible text from hardware labels, clearly separating mul
 
 Interprets laundry care tag symbols from photographs, explaining their meaning and providing appropriate care instructions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8375,13 +5705,7 @@ Interprets laundry care tag symbols from photographs, explaining their meaning a
 
 Joins JSON fragments into an array
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 07, 2025*
 
 **Links:**
 
@@ -8394,13 +5718,7 @@ Joins JSON fragments into an array
 
 Analyzes user lead generation needs, matches them to appropriate SaaS platforms, and provides relevant links and recommendations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8413,13 +5731,7 @@ Analyzes user lead generation needs, matches them to appropriate SaaS platforms,
 
 Asks targeted questions to assess how users learn most effectively, providing insights and directions for further inquiry.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8432,13 +5744,7 @@ Asks targeted questions to assess how users learn most effectively, providing in
 
 Helps users learn complex technical subjects by creating personalized learning trajectories.  It assesses prerequisite knowledge and designs a structured learning plan, breaking the subject down into manageable modules with clear objectives and resources, or focuses on building foundational knowledge if needed.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8451,13 +5757,7 @@ Helps users learn complex technical subjects by creating personalized learning t
 
 Translates complex legal documents, such as terms and conditions or privacy policies, into plain English for easy understanding.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8470,13 +5770,7 @@ Translates complex legal documents, such as terms and conditions or privacy poli
 
 Helps with user queries about using LibreOffice Calc
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 21, 2025*
 
 **Links:**
 
@@ -8489,13 +5783,7 @@ Helps with user queries about using LibreOffice Calc
 
 Offers detailed advice on lighting for home offices, workspaces, and general interiors, considering user preferences and space characteristics.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8508,13 +5796,7 @@ Offers detailed advice on lighting for home offices, workspaces, and general int
 
 Helps users enhance their Linux terminal skills by providing clear explanations, efficient workflows, and practical examples.  It offers tailored guidance for specific tasks and distributions, encouraging exploration and continuous learning.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8527,13 +5809,7 @@ Helps users enhance their Linux terminal skills by providing clear explanations,
 
 Updated config directing assistant's attention towards desktop MCP, RPA, AI, and browser use (Linux ditsro assumed)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -8546,13 +5822,7 @@ Updated config directing assistant's attention towards desktop MCP, RPA, AI, and
 
 Creates head-to-head comparisons of Linux distributions, presenting information in a structured format. Tailors comparisons to user specification and includes core metrics in all cases.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8565,13 +5835,7 @@ Creates head-to-head comparisons of Linux distributions, presenting information 
 
 Debugs, Graphics, Related issues on Linux
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8583,13 +5847,7 @@ Debugs, Graphics, Related issues on Linux
 
 Offers guidance on hardware compatibility within Linux environments, providing insights into manufacturer support, compatibility considerations, and specific product recommendations based on user needs and system details. It focuses on facilitating informed purchasing decisions for Linux users seeking compatible hardware solutions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8602,13 +5860,7 @@ Offers guidance on hardware compatibility within Linux environments, providing i
 
 Analyzes Linux logs to identify the originating distribution, errors, abnormalities, and necessary changes, then provides remediation tips.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8621,13 +5873,7 @@ Analyzes Linux logs to identify the originating distribution, errors, abnormalit
 
 Advises Linux users and system administrators upon reading and interpreting system logs
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -8640,13 +5886,7 @@ Advises Linux users and system administrators upon reading and interpreting syst
 
 Offers expert guidance on Linux package management, covering various platforms like APT, RPM, Snap, and Flatpak. It provides tailored recommendations and educational explanations to help users effectively manage software on their chosen distribution.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8658,13 +5898,7 @@ Offers expert guidance on Linux package management, covering various platforms l
 
 Provides general tech support for Linux
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8677,13 +5911,7 @@ Provides general tech support for Linux
 
 Generates lists, provides them to the user
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8696,13 +5924,7 @@ Generates lists, provides them to the user
 
 Formats incremental meeting notes into organized minutes after the meeting concludes, requests missing essential information, and highlights noteworthy items, presenting the result in a user-friendly format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8715,13 +5937,7 @@ Formats incremental meeting notes into organized minutes after the meeting concl
 
 Offers expert guidance on selecting the most suitable cloud API-accessible Large Language Models (LLMs) based on user needs, providing comparative analysis, platform considerations, and API integration advice. It focuses on factors like cost, performance, context window, and available features, while proactively suggesting alternatives for optimized solutions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8734,13 +5950,7 @@ Offers expert guidance on selecting the most suitable cloud API-accessible Large
 
 Advises users on the optimal methodology for achieving their goals with large language models, considering approaches such as prompt engineering, custom agents, automated workflows, fine-tuning, RAG pipelines, and vector stores, based on their described objectives and the latest best practices.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8753,13 +5963,7 @@ Advises users on the optimal methodology for achieving their goals with large la
 
 A greatly simplified approximation of an "LLM as judge" workflow contained entirely within the assistant logic
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8772,13 +5976,7 @@ A greatly simplified approximation of an "LLM as judge" workflow contained entir
 
 Provides comprehensive background information about large language models, including their architecture, training data, performance characteristics, and potential use cases, while emphasizing detailed elaboration and relying on verified sources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8791,13 +5989,7 @@ Provides comprehensive background information about large language models, inclu
 
 Evaluates large language model outputs for censorship and bias, analyzing user-provided examples and prompts, if available, and considering the model's name to provide a detailed analysis supported by specific phrases from the output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8810,13 +6002,7 @@ Evaluates large language model outputs for censorship and bias, analyzing user-p
 
 Offers expert technical guidance on configuring large language models within custom frontends. It provides advice on parameter optimization, explains the trade-offs between different configurations, and ensures an enhanced user experience.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8829,13 +6015,7 @@ Offers expert technical guidance on configuring large language models within cus
 
 Provides information about a wide range of large language models, focusing on lesser-known, fine-tuned, and up-and-coming options, and considering both locally hostable and cloud-hosted models to broaden the user's experience.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8848,13 +6028,7 @@ Provides information about a wide range of large language models, focusing on le
 
 Guides users through the intricacies of fine-tuning large language models, offering comprehensive information, process-oriented guidance, and tailored strategies to achieve specific fine-tuning objectives. It assists with everything from clarifying goals to troubleshooting common issues, ensuring successful outcomes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8867,13 +6041,7 @@ Guides users through the intricacies of fine-tuning large language models, offer
 
 Offers expert guidance on selecting and utilizing large language models (LLMs) accessible via API, focusing on cloud-based solutions. It provides tailored recommendations based on user needs, model capabilities, accessibility, cost, and the availability of supporting tools, while also addressing general questions about LLM architectures, training, evaluation, and ethical considerations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8886,13 +6054,7 @@ Offers expert guidance on selecting and utilizing large language models (LLMs) a
 
 Evaluates a large language model's compliance with a user-provided prompt on a scale of 1 to 10, offering a detailed rationale for the assigned score and attempting to identify the specific model used based on its output and behavior.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8904,13 +6066,7 @@ Evaluates a large language model's compliance with a user-provided prompt on a s
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8923,13 +6079,7 @@ No description available
 
 Guides novice users through the process of testing and evaluating large language models or prompts by providing step-by-step instructions on defining objectives, creating test suites, establishing evaluation metrics, documenting results, and controlling variables.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8942,13 +6092,7 @@ Guides novice users through the process of testing and evaluating large language
 
 Provides concrete guidance for augmenting existing AI agents with new features and capabilities, including API interactions, knowledge integration, and other functionalities.  It recommends specific tools, APIs, and frameworks while considering security, efficiency, and ethical implications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8961,13 +6105,7 @@ Provides concrete guidance for augmenting existing AI agents with new features a
 
 Analyzes AI agent configurations and behaviors to identify potential issues related to system prompts, parameters, tool usage, and context retrieval. It provides users with actionable advice and pointers on how to investigate and remediate problems, helping them build more reliable and effective AI agents.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8979,13 +6117,7 @@ Analyzes AI agent configurations and behaviors to identify potential issues rela
 
 Given the name of a large language model, provides information on the training data used, including training cutoff dates and training processes, if available publicly.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -8998,13 +6130,7 @@ Given the name of a large language model, provides information on the training d
 
 Advises users on the effective application of Large Language Models, offering tailored guidance, best practices, and practical prompting techniques to optimize their utility in both personal and professional contexts.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9017,13 +6143,7 @@ Advises users on the effective application of Large Language Models, offering ta
 
 Advises upon AI models which can be locally hosted
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9036,13 +6156,7 @@ Advises upon AI models which can be locally hosted
 
 Tailored advice for local fine-tuning projects.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9055,13 +6169,7 @@ Tailored advice for local fine-tuning projects.
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9074,13 +6182,7 @@ No description available
 
 Evaluates user hardware configurations to recommend specific locally hosted large language models, including quantized versions, while also advising on software enhancements for optimal performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9092,13 +6194,7 @@ Evaluates user hardware configurations to recommend specific locally hosted larg
 
 Advises users on the best local speech-to-text (STT) models they can run, based on their hardware and operating system.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9111,13 +6207,7 @@ Advises users on the best local speech-to-text (STT) models they can run, based 
 
 Informs the user of updates to text-to-speech models available for Linux on Fedora.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9130,13 +6220,7 @@ Informs the user of updates to text-to-speech models available for Linux on Fedo
 
 Advises users on the range of lesser-known large language models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9148,13 +6232,7 @@ Advises users on the range of lesser-known large language models.
 
 Generates CSV loookup files according to user requirements
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9167,13 +6245,7 @@ Generates CSV loookup files according to user requirements
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9186,13 +6258,7 @@ No description available
 
 Provides users with a grounding in the basics of machine learning and offers guidance for further learning and exploration, keeping up-to-date with the latest developments.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9205,13 +6271,7 @@ Provides users with a grounding in the basics of machine learning and offers gui
 
 Suggests marco keys and shortcuts for efficient data entry
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -9224,13 +6284,7 @@ Suggests marco keys and shortcuts for efficient data entry
 
 Creates markdown tables
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9243,13 +6297,7 @@ Creates markdown tables
 
 Distills marketing and sales text into factual, technical descriptions by removing claims and unnecessary adjectives, then presents the output in Markdown format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9262,13 +6310,7 @@ Distills marketing and sales text into factual, technical descriptions by removi
 
 Provides information about the model context protocol (MCP)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9281,13 +6323,7 @@ Provides information about the model context protocol (MCP)
 
 Locates online information about the MCP model context protocol and tools associated with it.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9299,13 +6335,7 @@ Locates online information about the MCP model context protocol and tools associ
 
 Searches for Model Context Protocol (MCP) servers based on service name or desired functionality.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -9318,13 +6348,7 @@ Searches for Model Context Protocol (MCP) servers based on service name or desir
 
 Offers personalized mechanical keyboard recommendations, especially for users with specific switch preferences, typing styles, and noise considerations. It provides targeted suggestions based on switch characteristics, keyboard features, and modification options to enhance the typing experience.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9337,13 +6361,7 @@ Offers personalized mechanical keyboard recommendations, especially for users wi
 
 Creates a well-organized outline of talking points for media appearances based on user-provided details and discussion topics.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9356,13 +6374,7 @@ Creates a well-organized outline of talking points for media appearances based o
 
 Generates templated media mention reports for clients based on a provided URL, extracting key information such as coverage details, sentiment analysis, client mentions, and publication details.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9375,13 +6387,7 @@ Generates templated media mention reports for clients based on a provided URL, e
 
 This assistant aids in media monitoring by gathering user requirements, suggesting keywords, and generating Google search URLs for each keyword. It streamlines the media monitoring process.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9394,13 +6400,7 @@ This assistant aids in media monitoring by gathering user requirements, suggesti
 
 Prepares users for upcoming medical appointments by gathering relevant information, formatting it into a markdown document, and proactively suggesting potential omissions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9413,13 +6413,7 @@ Prepares users for upcoming medical appointments by gathering relevant informati
 
 Interprets medical reports, demystifies medical jargon, and delivers clear, concise summaries in simplified terms.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9432,13 +6426,7 @@ Interprets medical reports, demystifies medical jargon, and delivers clear, conc
 
 Assists users in understanding their medications in the context of international travel by identifying local trade names, prescription requirements, and providing phonetic pronunciations, along with necessary disclaimers.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9451,13 +6439,7 @@ Assists users in understanding their medications in the context of international
 
 Advises users on the legality of their prescription medications in the context of international travel, identifying potential legal issues related to specific medications in destination and transit countries. It emphasizes the need for users to verify this information with legal experts.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9470,13 +6452,7 @@ Advises users on the legality of their prescription medications in the context o
 
 Translates modern text into authentic Medieval English while communicating with the user in contemporary language.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9489,13 +6465,7 @@ Translates modern text into authentic Medieval English while communicating with 
 
 Transforms unstructured meeting details into a structured business agenda, prompting the user for missing information, highlighting urgent action items, and presenting the result in a code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9508,13 +6478,7 @@ Transforms unstructured meeting details into a structured business agenda, promp
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9527,13 +6491,7 @@ No description available
 
 Formats unstructured meeting notes into organized minutes, requests missing essential information, and highlights noteworthy items, presenting the result in a user-friendly format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9546,13 +6504,7 @@ Formats unstructured meeting notes into organized minutes, requests missing esse
 
 Summarmisation agent for extracting action items and summary data from minutes
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9565,13 +6517,7 @@ Summarmisation agent for extracting action items and summary data from minutes
 
 Modifies Mermaid diagram code based on user requests and provides the updated code within a code block.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9583,13 +6529,7 @@ Modifies Mermaid diagram code based on user requests and provides the updated co
 
 Recommends specific pointing devices, tailored to user requirements such as ergonomics or handedness, and provides up-to-date product availability based on the user's location.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9602,13 +6542,7 @@ Recommends specific pointing devices, tailored to user requirements such as ergo
 
 Advises users on microphone purchases based on their specific audio applications: recommends suitable types of microphones and suggests individual models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9621,13 +6555,7 @@ Advises users on microphone purchases based on their specific audio applications
 
 Finds and explains current information related to the Model Context Protocol (MCP), including servers, clients, and configuration details.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -9640,13 +6568,7 @@ Finds and explains current information related to the Model Context Protocol (MC
 
 Assists users with MongoDB tasks such as query generation, schema design, performance tuning, data modeling and troubleshooting, providing clear, concise, actionable advice, example code, and commands, while considering MongoDB versions and syntax variations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9659,13 +6581,7 @@ Assists users with MongoDB tasks such as query generation, schema design, perfor
 
 Offers expert purchasing advice on computer monitors and multi-monitor arrays.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9678,13 +6594,7 @@ Offers expert purchasing advice on computer monitors and multi-monitor arrays.
 
 Crafts incredibly dull life updates from user-provided information, emphasizing mundane details and stretching out unremarkable thoughts for a newsletter format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9697,13 +6607,7 @@ Crafts incredibly dull life updates from user-provided information, emphasizing 
 
 provides an on-demand summary for email and calendar.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9715,13 +6619,7 @@ provides an on-demand summary for email and calendar.
 
 This AI assistant crafts personalized movie and entertainment binge timelines for users, factoring in their location, preferences, and schedule.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9734,13 +6632,7 @@ This AI assistant crafts personalized movie and entertainment binge timelines fo
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9753,13 +6645,7 @@ No description available
 
 Provides detailed explanations and concrete examples of models, platforms, and tools that leverage various multimodal AI capabilities, including processing of audio, images, and video.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9772,13 +6658,7 @@ Provides detailed explanations and concrete examples of models, platforms, and t
 
 Creates demonstration documents that describe the user's ideal job and work environment. This includes generating representative company profiles, job titles, and job responsibilities based on user-provided criteria.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9791,13 +6671,7 @@ Creates demonstration documents that describe the user's ideal job and work envi
 
 Transforms user-defined process descriptions into detailed N8n workflow plans, ready for self-hosted deployment.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9810,13 +6684,7 @@ Transforms user-defined process descriptions into detailed N8n workflow plans, r
 
 Suggests automation workflows based on user-specified services, outlining practical applications and tangible benefits.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9828,13 +6696,7 @@ Suggests automation workflows based on user-specified services, outlining practi
 
 Generates N8N-compliant code nodes
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 07, 2025*
 
 **Links:**
 
@@ -9847,13 +6709,7 @@ Generates N8N-compliant code nodes
 
 Accepts a JSON file representing an N8n workflow, applies edits based on user instructions, and returns the modified JSON.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9865,13 +6721,7 @@ Accepts a JSON file representing an N8n workflow, applies edits based on user in
 
 Suggests names for AI bots and tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9883,13 +6733,7 @@ Suggests names for AI bots and tools
 
 This AI assistant simulates interactions with a narcissistic abuser to help users identify manipulation tactics and improve their responses, then provides a debriefing and transcript of the interaction.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9902,13 +6746,7 @@ This AI assistant simulates interactions with a narcissistic abuser to help user
 
 Offers empathetic guidance and information to individuals who have experienced narcissistic abuse, focusing on understanding personality disorders from a scientific and medical perspective. It provides resources for victims and promotes self-care, while emphasizing that it is not a substitute for professional mental health support.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9921,13 +6759,7 @@ Offers empathetic guidance and information to individuals who have experienced n
 
 Corrects English text written by non-native speakers, adapting corrections based on the author's native language when provided.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9940,13 +6772,7 @@ Corrects English text written by non-native speakers, adapting corrections based
 
 Translates natural language descriptions of data structures into corresponding MongoDB schemas, clarifying any ambiguities regarding relationships or indexing requirements to ensure accurate schema generation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9959,13 +6785,7 @@ Translates natural language descriptions of data structures into corresponding M
 
 Assists users in defining data structures for Neo4j using natural language, translating descriptions into Cypher queries to create nodes, relationships, and properties, while clarifying ambiguities and suggesting schema optimizations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9978,13 +6798,7 @@ Assists users in defining data structures for Neo4j using natural language, tran
 
 Converts natural language descriptions of data into CSV format, prompting the user for column details and offering output as data or file download.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -9997,13 +6811,7 @@ Converts natural language descriptions of data into CSV format, prompting the us
 
 Generates a JSON schema based on the user's natural language description of a desired data structure, clarifying ambiguities as needed.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10016,13 +6824,7 @@ Generates a JSON schema based on the user's natural language description of a de
 
 Translates natural language requests into SQL queries, utilizing provided database schema or prompting the user for schema information when necessary.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10035,13 +6837,7 @@ Translates natural language requests into SQL queries, utilizing provided databa
 
 Converts natural language descriptions of data into YAML format, prompting the user for structure and hierarchy details and offering output as data or file download.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10054,13 +6850,7 @@ Converts natural language descriptions of data into YAML format, prompting the u
 
 Assists users with Neo4j tasks such as Cypher query generation, graph schema design, data import/export, performance tuning, and graph algorithms, providing clear, concise, actionable advice, example Cypher queries, `PROFILE` output analysis, and considering different Neo4j versions, APOC procedures, and Neo4j Bloom.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10073,13 +6863,7 @@ Assists users with Neo4j tasks such as Cypher query generation, graph schema des
 
 Offers expert advice on networking hardware for home and small business environments.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10092,13 +6876,7 @@ Offers expert advice on networking hardware for home and small business environm
 
 Offers comprehensive information about neurodiversity, including autism, ADHD, and related conditions, with a focus on modern understanding and strengths-based approaches. It provides resources and fosters a positive, empowering learning experience, tailored to the user's interests and learning style.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10111,13 +6889,7 @@ Offers comprehensive information about neurodiversity, including autism, ADHD, a
 
 Analyzes existing or planned YouTube channel content to generate fresh video topic ideas and strategies for content pivots. It provides specific video titles, content descriptions, and actionable guidance for creators looking to revitalize their channels.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10130,14 +6902,6 @@ Analyzes existing or planned YouTube channel content to generate fresh video top
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/NewbornQuestions_170725.json)
@@ -10149,13 +6913,7 @@ No description available
 
 Analyzes news articles from URLs or provided text, delivering structured summaries that include publication details, journalist information, a concise three-paragraph summary, and a sentiment analysis of the article's tone. It handles missing information gracefully and presents findings in a clear, organized format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10168,13 +6926,7 @@ Analyzes news articles from URLs or provided text, delivering structured summari
 
 Provides concise, analytical briefs on recent use events, mirroring the style of policy briefs for world leaders.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10187,13 +6939,7 @@ Provides concise, analytical briefs on recent use events, mirroring the style of
 
 Summarises news about a specific topic
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10206,13 +6952,7 @@ Summarises news about a specific topic
 
 Advises users on NFC technology, answering detailed questions about tag types, optimal uses, non-phone readers/writers, and general applications, potentially in the context of a home inventory project.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10225,13 +6965,7 @@ Advises users on NFC technology, answering detailed questions about tag types, o
 
 Assists with developing a comprehensive backend
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -10244,13 +6978,7 @@ Assists with developing a comprehensive backend
 
 Generates formulae fields
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -10263,13 +6991,7 @@ Generates formulae fields
 
 Offers empathetic and detailed support to users with noise sensitivity, particularly those with ADHD who find background conversation distracting, guiding them toward helpful resources without providing medical diagnoses.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10282,13 +7004,7 @@ Offers empathetic and detailed support to users with noise sensitivity, particul
 
 This AI assistant drafts email replies that subtly challenge senders of potentially non-personalized emails to demonstrate genuine knowledge of the recipient. It focuses on indirect questioning and requests for specific information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10301,13 +7017,7 @@ This AI assistant drafts email replies that subtly challenge senders of potentia
 
 Recommends less-explored but interesting places, either generally or within a specified region, tailored to the user's preferences.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10320,13 +7030,7 @@ Recommends less-explored but interesting places, either generally or within a sp
 
 Translates user-provided text into various forms of Old English, including English from 300 years ago, Shakespearean English, and Medieval English. It focuses on authenticity by incorporating archaic language and phrasing.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10339,13 +7043,7 @@ Translates user-provided text into various forms of Old English, including Engli
 
 Formats user-provided text into a coherent online review, following standard review structures.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10358,13 +7056,7 @@ Formats user-provided text into a coherent online review, following standard rev
 
 Recommends movies celebrated for their awfulness, providing trailers and reasons for their poor reputation. It connects users to the underappreciated world of bad movie appreciation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10377,13 +7069,7 @@ Recommends movies celebrated for their awfulness, providing trailers and reasons
 
 Provides delightfully obscure product recommendations no matter the request
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10396,14 +7082,6 @@ Provides delightfully obscure product recommendations no matter the request
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/OpEdGenerator_220725.json)
@@ -10415,13 +7093,7 @@ No description available
 
 Aids users in locating open-source datasets relevant to their specified topics, emphasizing the provision of the newest available data and ensuring reliable sourcing. It delivers precise and informative responses in a casual tone, clarifying ambiguous queries to refine search criteria and enhance result accuracy.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10434,13 +7106,7 @@ Aids users in locating open-source datasets relevant to their specified topics, 
 
 Provides users with comprehensive overviews of how to contribute to open-source projects as code contributors. It researches and summarizes key information about contribution guidelines, development processes, and community structure for a given project.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10453,13 +7119,7 @@ Provides users with comprehensive overviews of how to contribute to open-source 
 
 Explains the features, comparisons, and usage of open-source LLMs, especially those compatible with local services like Ollama.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10472,13 +7132,7 @@ Explains the features, comparisons, and usage of open-source LLMs, especially th
 
 Advises users on open-source resources and tools for Model Context Protocol (MCP) servers and tooling.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10491,13 +7145,7 @@ Advises users on open-source resources and tools for Model Context Protocol (MCP
 
 Evaluates GitHub repositories by examining metrics like stars, update frequency, bug reports, and contributor counts to determine which projects are the most actively maintained and supported.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10510,13 +7158,7 @@ Evaluates GitHub repositories by examining metrics like stars, update frequency,
 
 Helps users discover relevant open-source software for self-hosting, desktop, or mobile use by providing project recommendations tailored to their needs and guidance on licenses for potential forking or development contributions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10529,13 +7171,7 @@ Helps users discover relevant open-source software for self-hosting, desktop, or
 
 Provides users with expert technical guidance on using the OpenAI Assistants Platform, ensuring responses refer to the latest SDK syntax to facilitate desired behaviors.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10548,13 +7184,7 @@ Provides users with expert technical guidance on using the OpenAI Assistants Pla
 
 Helps users find OpenAPI-compliant APIs for specific tasks.  It provides relevant API names, descriptions, documentation links, and direct links to the OpenAPI JSON manifests, offering alternative solutions if no compliant APIs are found.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10567,13 +7197,7 @@ Helps users find OpenAPI-compliant APIs for specific tasks.  It provides relevan
 
 Assists users with configuring and debugging OPNsense firewalls, providing how-to information and troubleshooting assistance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10586,13 +7210,7 @@ Assists users with configuring and debugging OPNsense firewalls, providing how-t
 
 Takes a user-defined issue and generates a debate between characters representing different viewpoints. It presents the narratives as a discussion in screenplay format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10605,13 +7223,7 @@ Takes a user-defined issue and generates a debate between characters representin
 
 Assists administrators of AI assistant networks by managing individual orchestration agents.  It retrieves, compares, and optimizes agent prompts to ensure efficient routing of user queries to the appropriate AI assistant.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10623,13 +7235,7 @@ Assists administrators of AI assistant networks by managing individual orchestra
 
 Advises users on different organizational systems, their methodologies, and their suitability for the user's stated requirements.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10642,13 +7248,7 @@ Advises users on different organizational systems, their methodologies, and thei
 
 For when you know that a digital workspace needs some organisation but don't know where to start!
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 15, 2025*
 
 **Links:**
 
@@ -10661,13 +7261,7 @@ For when you know that a digital workspace needs some organisation but don't kno
 
 Helps the user to locate open source intelligence (OSINT) tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10680,13 +7274,7 @@ Helps the user to locate open source intelligence (OSINT) tools.
 
 Ideates unconventional and creative job application strategies tailored to a specific company and the user's unique background, ranking ideas from moderately strange to progressively outlandish to help the user stand out and capture the attention of decision-makers. It considers prior applications and provides contextualized tactics with descriptions, rationales, suitability explanations
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10699,13 +7287,7 @@ Ideates unconventional and creative job application strategies tailored to a spe
 
 Assists users in writing prompts that instruct AI models to generate outputs in specific formats, providing clear instructions and examples.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10718,13 +7300,7 @@ Assists users in writing prompts that instruct AI models to generate outputs in 
 
 Attempts to guess prompts from outputs
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10737,13 +7313,7 @@ Attempts to guess prompts from outputs
 
 Simulates a friendship with an individual prone to oversharing inappropriate and intensely personal details, dominating conversations with TMI anecdotes and unsolicited opinions, creating a humorous and slightly disturbing experience for the user.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10756,13 +7326,7 @@ Simulates a friendship with an individual prone to oversharing inappropriate and
 
 Generates elaborate and demanding social invitation templates designed to overwhelm guests with excessive detail and neurotic instructions. It incorporates strict RSVP deadlines, convoluted dietary questionnaires, hyper-specific dress codes, and detailed contingency plans to maximize pre-event anxiety.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10775,13 +7339,7 @@ Generates elaborate and demanding social invitation templates designed to overwh
 
 This assistant helps users develop reusable packing lists, prompting them to consider various travel necessities and offering the final template in multiple formats.  It also stores these templates for future retrieval and modification.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10794,13 +7352,7 @@ This assistant helps users develop reusable packing lists, prompting them to con
 
 Analyses circuit boards and attempts to identify components
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10813,13 +7365,7 @@ Analyses circuit boards and attempts to identify components
 
 Assists users in debugging performance issues in technical systems by identifying the root causes of slow performance in various systems.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10831,13 +7377,7 @@ Assists users in debugging performance issues in technical systems by identifyin
 
 Helps the user to find niche computer peripherals
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10850,13 +7390,7 @@ Helps the user to find niche computer peripherals
 
 Assists the user by developing recommendations for personal branding
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10869,13 +7403,7 @@ Assists the user by developing recommendations for personal branding
 
 Drafts agendas for personal contexts like bank meetings, doctors' visits, etc.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10888,13 +7416,7 @@ Drafts agendas for personal contexts like bank meetings, doctors' visits, etc.
 
 The "Personal Branding Assistant" empowers job seekers to take control of their online presence and create a strong personal brand. By analyzing existing profiles, suggesting targeted optimizations, and generating relevant content ideas, it helps users showcase their skills and expertise, attract the attention of potential employers, and land their dream jobs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10907,13 +7429,7 @@ The "Personal Branding Assistant" empowers job seekers to take control of their 
 
 Suggests creative and successful branding strategies for users based on their resume and professional data, offering coaching, website ideas, and client presentation tips.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10926,13 +7442,7 @@ Suggests creative and successful branding strategies for users based on their re
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10945,13 +7455,7 @@ No description available
 
 Guides users in finding online learning opportunities tailored to their interests and preferred learning styles.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10964,13 +7468,7 @@ Guides users in finding online learning opportunities tailored to their interest
 
 Analyzes transcripts or audio recordings using provided identifying information to generate a detailed personality assessment of a target individual, noting traits like humor, speech patterns, and assertiveness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -10983,13 +7481,7 @@ Analyzes transcripts or audio recordings using provided identifying information 
 
 Generates organized, third-person character sketches from user-provided descriptions, formatted for use with other AI tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11002,13 +7494,7 @@ Generates organized, third-person character sketches from user-provided descript
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11021,13 +7507,7 @@ No description available
 
 Friendly pest control specialist
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11040,13 +7520,7 @@ Friendly pest control specialist
 
 Helps users explore photogrammetry tools for 3D modeling, especially for animation purposes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11059,13 +7533,7 @@ Helps users explore photogrammetry tools for 3D modeling, especially for animati
 
 Takes a natural language description of Personally Identifiable Information (PII) and generates a formatted list of terms.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11078,13 +7546,7 @@ Takes a natural language description of Personally Identifiable Information (PII
 
 Guides users in creating Pipedream workflows by providing step-by-step instructions focusing on writing code components and leveraging Pipedream's features, suggesting alternative approaches, highlighting Pipedream's architecture and integrations, explaining potential limitations, and linking to the official documentation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11097,13 +7559,7 @@ Guides users in creating Pipedream workflows by providing step-by-step instructi
 
 Analyzes images of electrical plugs to identify their type and provide relevant information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11116,13 +7572,7 @@ Analyzes images of electrical plugs to identify their type and provide relevant 
 
 Generates structured podcast episodes based on user-provided topics and learning interests.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11135,13 +7585,7 @@ Generates structured podcast episodes based on user-provided topics and learning
 
 Assists users with PostgreSQL database-related tasks such as generating SQL queries and debugging database issues, assuming PostgreSQL as the foundational technical context.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11154,13 +7598,7 @@ Assists users with PostgreSQL database-related tasks such as generating SQL quer
 
 Retrieves pricing information for commercial services
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11173,13 +7611,7 @@ Retrieves pricing information for commercial services
 
 Provides detailed information about technical products, including the manufacturer, part number, description, recommended retail price, user feedback, and current status.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11192,13 +7624,7 @@ Provides detailed information about technical products, including the manufactur
 
 Extracts product options from web pages or screenshots and delivers a confident, no-nonsense Top 3 recommendation list based on the user's preferences and budget.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11211,13 +7637,7 @@ Extracts product options from web pages or screenshots and delivers a confident,
 
 Drowning in a sea of helpful apps? This AI's mission is to help streamline the chaos
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -11230,13 +7650,7 @@ Drowning in a sea of helpful apps? This AI's mission is to help streamline the c
 
 Finds professional associations, assesses credibility, longevity and purpose, then returns a list with links.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11249,13 +7663,7 @@ Finds professional associations, assesses credibility, longevity and purpose, th
 
 Advises users on continuous professional development and skill enhancement, recommending certifications, courses, and experiences tailored to their current needs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11268,13 +7676,7 @@ Advises users on continuous professional development and skill enhancement, reco
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11287,13 +7689,7 @@ No description available
 
 Sources information about market rates for different professional services, especially digital businesses.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11306,13 +7702,7 @@ Sources information about market rates for different professional services, espe
 
 Advises upon programmable and custom keyboards
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -11325,13 +7715,7 @@ Advises upon programmable and custom keyboards
 
 Assists with discovery project management apps with a focus on cloud platforms
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11343,13 +7727,7 @@ Assists with discovery project management apps with a focus on cloud platforms
 
 Creative Naming Assistant that generates project and domain names based on user specifications, considering factors like target audience, tone, and domain availability.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11362,13 +7740,7 @@ Creative Naming Assistant that generates project and domain names based on user 
 
 Helps users determine whether to continue or abandon a specific endeavor, especially when facing difficulties with an implementation of an idea. Refrains from supporting life-changing decisions but provides guidance for everyday attempts and offers a structured approach to evaluate options.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11381,13 +7753,7 @@ Helps users determine whether to continue or abandon a specific endeavor, especi
 
 Generates project proposals and pre-contract documents
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11400,13 +7766,7 @@ Generates project proposals and pre-contract documents
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11419,13 +7779,7 @@ No description available
 
 Formats user-provided prompts and corresponding LLM outputs into a standardized Markdown template, ensuring clear separation and accurate transcription of the original text. It intelligently identifies the prompt and output, even when provided without explicit labels, and politely requests clarification when needed.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11438,13 +7792,7 @@ Formats user-provided prompts and corresponding LLM outputs into a standardized 
 
 Takes a JSON array of system prompt configurations and converts this to a human-readable markdown output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11457,13 +7805,7 @@ Takes a JSON array of system prompt configurations and converts this to a human-
 
 Analyzes user prompts to identify requested data elements and their presumed data types, then generates a JSON schema.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11476,13 +7818,7 @@ Analyzes user prompts to identify requested data elements and their presumed dat
 
 Edits system prompts to enforce a more rigid structure to mimic structured output following in conversational models
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11495,13 +7831,7 @@ Edits system prompts to enforce a more rigid structure to mimic structured outpu
 
 Ideates AI assistant concepts for AI professionals, drafts system prompts, and provides short descriptions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11514,13 +7844,7 @@ Ideates AI assistant concepts for AI professionals, drafts system prompts, and p
 
 Guide to prompt engineering tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11533,13 +7857,7 @@ Guide to prompt engineering tools
 
 Adds examples to user-provided prompts, recommends the optimal number of examples, and offers to add more if needed.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11552,13 +7870,7 @@ Adds examples to user-provided prompts, recommends the optimal number of example
 
 Evaluates prompts provided by the user, providing a detailed analysis of their structure, required capabilities, information currency, and recommending the most suitable large language model for their execution.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11571,13 +7883,7 @@ Evaluates prompts provided by the user, providing a detailed analysis of their s
 
 Analyzes user-submitted prompts, provides feedback based on prompt engineering best practices, and offers revised versions of the prompt to improve clarity, structure, and effectiveness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11590,13 +7896,7 @@ Analyzes user-submitted prompts, provides feedback based on prompt engineering b
 
 Analyzes user-submitted prompts for a specified large language model by calculating length, tokenization, and headroom, then provides observations about prompt length and estimates tokens available for output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11609,13 +7909,7 @@ Analyzes user-submitted prompts for a specified large language model by calculat
 
 Condenses user-provided prompts by removing redundancy, then explains the changes made, and finally calculates the character count reduction percentage and estimated token savings.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11628,13 +7922,7 @@ Condenses user-provided prompts by removing redundancy, then explains the change
 
 Suggests tailored prompts based on user-provided context and objectives, offering options to copy, paste, or download the prompts for enhanced interaction and convenience.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11647,13 +7935,7 @@ Suggests tailored prompts based on user-provided context and objectives, offerin
 
 Analyzes user-provided prompts to identify existing prompt engineering techniques, assess required LLM capabilities, and recommend specific LLMs or types of LLMs, presenting its findings in a structured output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11666,13 +7948,7 @@ Analyzes user-provided prompts to identify existing prompt engineering technique
 
 Analyzes a system prompt for an AI assistant and recommends optimal temperature and advanced system parameters, along with justifications for these choices.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11685,13 +7961,7 @@ Analyzes a system prompt for an AI assistant and recommends optimal temperature 
 
 Offers inventive and practical recommendations for deploying and leveraging AI assistants based on their system prompts. It suggests use cases, suitable platforms, commercialization strategies, and potential feature enhancements.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11704,13 +7974,7 @@ Offers inventive and practical recommendations for deploying and leveraging AI a
 
 Helps users enhance large language models by identifying limitations in user-provided prompts and recommending external data sources and tools, such as APIs, existing platforms, and RAG pipelines, to overcome those limitations.  It focuses on providing fresh, specialized, and real-time data access.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11723,13 +7987,7 @@ Helps users enhance large language models by identifying limitations in user-pro
 
 Scans uploaded manuscripts for inconsistencies, particularly those involving statistical data.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11742,13 +8000,7 @@ Scans uploaded manuscripts for inconsistencies, particularly those involving sta
 
 Provides expertise in all aspects of Proxmox, from provisioning and hardware recommendations to connecting multiple instances and cluster management.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11761,13 +8013,7 @@ Provides expertise in all aspects of Proxmox, from provisioning and hardware rec
 
 Pseudo AI writing bot which claims to
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11780,13 +8026,7 @@ Pseudo AI writing bot which claims to
 
 Automatically replies to unsolicited marketing emails lacking unsubscribe links, informing senders of the recipient's policy against such emails.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11799,13 +8039,7 @@ Automatically replies to unsolicited marketing emails lacking unsubscribe links,
 
 Drafts concise WhatsApp messages that include a polite introduction, a paraphrased message from user, and a friendly conclusion, ensuring clarity and brevity.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11818,13 +8052,7 @@ Drafts concise WhatsApp messages that include a polite introduction, a paraphras
 
 Analyzes emails to determine the likelihood of genuine personalization versus automated "pseudo-personalization" techniques. It provides a detailed explanation of its reasoning, highlighting potential indicators of both genuine and false personalization, and assigns a score reflecting the probability of pseudo-personalization.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11837,13 +8065,7 @@ Analyzes emails to determine the likelihood of genuine personalization versus au
 
 Creates pub crawl itineraries
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11856,13 +8078,7 @@ Creates pub crawl itineraries
 
 Analyzes uploaded documents, particularly lengthy PDFs, to identify the page numbers where pull quotes appear, specifying both the PDF page number and the print document page number when available, and noting each pull quote by its initial words.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11874,13 +8090,7 @@ Analyzes uploaded documents, particularly lengthy PDFs, to identify the page num
 
 Helps users learn Python by explaining their provided code, offering both general overviews and detailed explanations of specific functions. It caters to all skill levels, using clear language and practical examples to enhance understanding.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11893,13 +8103,7 @@ Helps users learn Python by explaining their provided code, offering both genera
 
 Friendly coach on hand to answer all manner of questions about Python.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11912,13 +8116,7 @@ Friendly coach on hand to answer all manner of questions about Python.
 
 Offers expert guidance on Python package management and environment configuration within Linux environments. It assists users in creating virtual environments, managing dependencies, and troubleshooting common Python development issues on Linux systems.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11930,13 +8128,7 @@ Offers expert guidance on Python package management and environment configuratio
 
 Expert in using Python for automation
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11948,13 +8140,7 @@ Expert in using Python for automation
 
 Provides practical advice and guidance on everyday Python usage, especially related to usage scenarios.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11966,13 +8152,7 @@ Provides practical advice and guidance on everyday Python usage, especially rela
 
 Recommends Python packages and libraries based on user requests for tools and functionalities, providing pip installation commands or a requirements.txt file within a code fence for easy installation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -11985,13 +8165,7 @@ Recommends Python packages and libraries based on user requests for tools and fu
 
 Generates Python scripts for user-defined automation projects, providing complete code blocks within code fences and including a list of required packages when necessary.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12003,13 +8177,7 @@ Generates Python scripts for user-defined automation projects, providing complet
 
 Discerns the availability of Python utilities for particular tasks and provides guidance on how to install them.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12021,13 +8189,7 @@ Discerns the availability of Python utilities for particular tasks and provides 
 
 Enthusiastically helps users with vector storage and RAG pipelines, answering technical questions about vector databases, data formats, and best practices while providing clear explanations and helpful resources.  It focuses on AI tool development, especially LLM assistants.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12040,13 +8202,7 @@ Enthusiastically helps users with vector storage and RAG pipelines, answering te
 
 Guides users on optimizing embedding and retrieval settings for their datasets within RAG pipelines. It analyzes the data, recommends appropriate settings for vector databases and embedding models, and suggests data reformatting for enhanced retrieval accuracy and efficiency.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12059,13 +8215,7 @@ Guides users on optimizing embedding and retrieval settings for their datasets w
 
 Generates a random, valid address in a city specified by the user, utilizing appropriate online tools to ensure accuracy and completeness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12078,13 +8228,7 @@ Generates a random, valid address in a city specified by the user, utilizing app
 
 Generates random ideas for AI assistants and develops system prompts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12097,13 +8241,7 @@ Generates random ideas for AI assistants and develops system prompts
 
 Generates correspondence with a random email chain before it
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12116,13 +8254,7 @@ Generates correspondence with a random email chain before it
 
 Drafts unsolicited feedback letters analyzing random people's toilets
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12135,13 +8267,7 @@ Drafts unsolicited feedback letters analyzing random people's toilets
 
 Generates README text from other text inputs
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12154,13 +8280,7 @@ Generates README text from other text inputs
 
 Advises the user on current events and search APIs, particularly regarding their real-time search and news access capabilities for large language models and AI tools, tailoring recommendations to the user's specific use case and budget.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12173,13 +8293,7 @@ Advises the user on current events and search APIs, particularly regarding their
 
 Provides guidance about realtime AI apps
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12192,13 +8306,7 @@ Provides guidance about realtime AI apps
 
 Processes receipt images to identify and isolate financial details, organizing them in a user-defined CSV format to facilitate data analysis and bookkeeping.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12211,13 +8319,7 @@ Processes receipt images to identify and isolate financial details, organizing t
 
 A helpful assistant that helps users switch to rechargeable batteries. It offers brand details and charging advice.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12230,13 +8332,7 @@ A helpful assistant that helps users switch to rechargeable batteries. It offers
 
 Suggests recipe ideas
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12249,13 +8345,7 @@ Suggests recipe ideas
 
 Takes the details of recommendations and formats them as structured notes
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12267,13 +8357,7 @@ Takes the details of recommendations and formats them as structured notes
 
 Compiles user-provided details about their relationships with significant individuals into structured, third-person summaries.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12286,13 +8370,7 @@ Compiles user-provided details about their relationships with significant indivi
 
 You are a writing assistant that helps the user, the user, convert GitHub repository READMEs into blog posts. The user will provide the README text. Generate a blog post draft describing the project and including a link to the repository. If the user does not provide the repository URL, ask for it.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12304,13 +8382,7 @@ You are a writing assistant that helps the user, the user, convert GitHub reposi
 
 Conducts research on user-specified topics and delivers findings in a concise policy brief format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12323,13 +8395,7 @@ Conducts research on user-specified topics and delivers findings in a concise po
 
 Reformats resume data as JSON
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12342,13 +8408,7 @@ Reformats resume data as JSON
 
 Analyzes user resumes and contextual information to identify potential side hustles that leverage their skills and experience, providing imaginative and ambitious recommendations with monetizing strategies and targeted guidance on maximizing opportunities and presenting their experience effectively.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12361,13 +8421,7 @@ Analyzes user resumes and contextual information to identify potential side hust
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12380,13 +8434,7 @@ No description available
 
 Rewrites any text, converting it from the third person to the first person perspective.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12399,13 +8447,7 @@ Rewrites any text, converting it from the third person to the first person persp
 
 Generates elaborate and dramatic fictional conspiracy theories about individuals based on user-provided context, including possible subterfuges, secret agent affiliations, and plausible yet fictional narratives, while maintaining a deadpan and serious tone.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12418,13 +8460,7 @@ Generates elaborate and dramatic fictional conspiracy theories about individuals
 
 Crafts realistic disaster scenarios based on user-specified locations, assesses user preparedness through targeted questions, and provides actionable steps and resources to enhance resilience and safety. It emphasizes practical, location-specific advice to empower users to proactively prepare for potential disasters.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12437,13 +8473,7 @@ Crafts realistic disaster scenarios based on user-specified locations, assesses 
 
 Answers user questions about Robotic Process Automation (RPA), its relationship with AI, specific tools, and automation applications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12456,13 +8486,7 @@ Answers user questions about Robotic Process Automation (RPA), its relationship 
 
 Specializes in identifying and recommending products known for their ruggedness and durability. It provides purchasing links and contextual information about the brand's reputation for producing long-lasting goods.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12475,13 +8499,7 @@ Specializes in identifying and recommending products known for their ruggedness 
 
 Gathers and analyzes salary benchmarks based on the user's experience, desired role, and location, providing detailed salary insights with data standardized to USD.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12496,11 +8514,8 @@ No description available
 
 **Features:**
 
-- ☑️ Agent-based interaction
-- ☑️ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+- Agent-based interaction
+- Single-turn conversation
 
 **Links:**
 
@@ -12513,13 +8528,7 @@ No description available
 
 Analyzes email conversations, extracts pending tasks for the user, and highlights those that require attention based on recency.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12532,13 +8541,7 @@ Analyzes email conversations, extracts pending tasks for the user, and highlight
 
 Clarifies project scopes by formatting user-provided details into formal documents or emails, setting clear expectations for freelance engagements.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12551,13 +8554,7 @@ Clarifies project scopes by formatting user-provided details into formal documen
 
 Extracts appointment details from screenshots using OCR and formats them into calendar entries, either adding them directly to a calendar or providing them in ICAL format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12570,13 +8567,7 @@ Extracts appointment details from screenshots using OCR and formats them into ca
 
 Creates tabular data from screenshots
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12589,13 +8580,7 @@ Creates tabular data from screenshots
 
 User provides text formatting instructions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12607,13 +8592,7 @@ User provides text formatting instructions
 
 Extracts data from screenshots and attempts to provide the data as a JSON array
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12626,13 +8605,7 @@ Extracts data from screenshots and attempts to provide the data as a JSON array
 
 Converts data in screenshots into markdown table format
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12645,13 +8618,7 @@ Converts data in screenshots into markdown table format
 
 Analyzes photographs of screws to identify their type, focusing on screws commonly used in electronics manufacturing, and requests measurements from the user if precise identification requires them.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12664,13 +8631,7 @@ Analyzes photographs of screws to identify their type, focusing on screws common
 
 Generates, debugs, and edits programs based on user specifications, automatically filling in missing details like library choices
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12682,13 +8643,7 @@ Generates, debugs, and edits programs based on user specifications, automaticall
 
 Identifies and extracts secrets (API keys, passwords, tokens, etc.) from text, presenting them in both plain text and JSON formats, with context-aware key generation for the latter. It reminds users to handle extracted secrets securely.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12700,13 +8655,7 @@ Identifies and extracts secrets (API keys, passwords, tokens, etc.) from text, p
 
 Recommends self-hostable software alternatives to SaaS technologies based on the user's technical experience and preferred deployment methods.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12719,13 +8668,7 @@ Recommends self-hostable software alternatives to SaaS technologies based on the
 
 Recommends and guides users in understanding and utilizing semantic search tools across various platforms.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12738,13 +8681,7 @@ Recommends and guides users in understanding and utilizing semantic search tools
 
 Offers evidence-based guidance and information to adults experiencing sensory processing difficulties, directing them to relevant organizations and support networks while emphasizing that sensory sensitivities are valid and manageable.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12757,13 +8694,7 @@ Offers evidence-based guidance and information to adults experiencing sensory pr
 
 Advises users on SEO best practices, providing targeted recommendations and analyzing website details to improve search engine optimization.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12775,13 +8706,7 @@ Advises users on SEO best practices, providing targeted recommendations and anal
 
 Provides strategic advice on SEO tooling
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12793,13 +8718,7 @@ Provides strategic advice on SEO tooling
 
 Provides Shabbat times and the weekly Parsha, defaulting to Jerusalem, Israel, unless an alternate location is specified by the user.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12811,13 +8730,7 @@ Provides Shabbat times and the weekly Parsha, defaulting to Jerusalem, Israel, u
 
 Transforms modern English text into Shakespearean English, offering a range of stylistic intensities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12830,13 +8743,7 @@ Transforms modern English text into Shakespearean English, offering a range of s
 
 Assists with authoring emails (and other texts) that are slightly Shakespeaean
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12849,13 +8756,7 @@ Assists with authoring emails (and other texts) that are slightly Shakespeaean
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12868,13 +8769,7 @@ No description available
 
 Translates text into Shakespearean English, creatively adapting modern terms to fit the era.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12886,13 +8781,7 @@ Translates text into Shakespearean English, creatively adapting modern terms to 
 
 Translates text into Shakespearean English, creatively adapting modern terms to fit the era.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12904,13 +8793,7 @@ Translates text into Shakespearean English, creatively adapting modern terms to 
 
 Shakespearean text converter which makes lighter touch modifications for those not yet ready to embrace the full Shakespeare experience!
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12922,13 +8805,7 @@ Shakespearean text converter which makes lighter touch modifications for those n
 
 Generates Markdown badges using Shields.io, incorporating user-specified text, colors, and hyperlinks, and suggesting appropriate icons when relevant.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12941,13 +8818,7 @@ Generates Markdown badges using Shields.io, incorporating user-specified text, c
 
 Helps users to prepare a list of something they're looking for
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12960,13 +8831,7 @@ Helps users to prepare a list of something they're looking for
 
 Recommends suitable, conflict-free shortcut keys for user's OpenSUSE Linux system, considering both global and application-specific contexts. It takes into account user's existing shortcuts to avoid clashes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12978,13 +8843,7 @@ Recommends suitable, conflict-free shortcut keys for user's OpenSUSE Linux syste
 
 Helps users find similar software alternatives based on features, hosting preferences, and pricing constraints.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -12997,13 +8856,7 @@ Helps users find similar software alternatives based on features, hosting prefer
 
 Applies basic edits to user-provided data
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13016,13 +8869,7 @@ Applies basic edits to user-provided data
 
 Rewrites user-provided text to anonymize specified information, replacing sensitive data with random, context-appropriate values.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13035,13 +8882,7 @@ Rewrites user-provided text to anonymize specified information, replacing sensit
 
 Edits user-provided text by correcting typos, adding punctuation, and making minor adjustments to improve clarity and grammar, while preserving the original intent of the text.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13054,13 +8895,7 @@ Edits user-provided text by correcting typos, adding punctuation, and making min
 
 Transcribes voice notes with minimal text processing
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13073,13 +8908,7 @@ Transcribes voice notes with minimal text processing
 
 Helps users document their skills for career-related purposes, gathering input and generating a tailored skills list.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13092,13 +8921,7 @@ Helps users document their skills for career-related purposes, gathering input a
 
 Generates batches of five ready-to-use prompts for a reusable prompt library.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13110,13 +8933,7 @@ Generates batches of five ready-to-use prompts for a reusable prompt library.
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13128,13 +8945,7 @@ No description available
 
 Provides expert-level assistance with all aspects of the Snapper utility for BTRFS file systems.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13147,13 +8958,7 @@ Provides expert-level assistance with all aspects of the Snapper utility for BTR
 
 Generates snippets
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13166,13 +8971,7 @@ Generates snippets
 
 Streamlines social media threads by removing unnecessary conversational elements, preparing the core content for efficient AI processing and analysis.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13185,13 +8984,7 @@ Streamlines social media threads by removing unnecessary conversational elements
 
 Generates blogs from other text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13202,14 +8995,6 @@ Generates blogs from other text
 ## SocialMediaQuoteTemplater 280725
 
 No description available
-
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
 
 **Links:**
 
@@ -13222,13 +9007,7 @@ No description available
 
 Analyzes a user's software needs and dislikes to recommend alternatives, including cloud-based options by default, with explanations and links.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13240,13 +9019,7 @@ Analyzes a user's software needs and dislikes to recommend alternatives, includi
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13258,13 +9031,7 @@ No description available
 
 Conducts thorough technical evaluations of software by analyzing features, AI integration, integrations, data backup capabilities, and pricing tiers, synthesizing company materials, user feedback, and social media sentiment to provide a comprehensive report including an overall assessment of the tool's vision, trajectory, differentiators, limitations, bugginess, and documentation quality.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13277,13 +9044,7 @@ Conducts thorough technical evaluations of software by analyzing features, AI in
 
 Helps users create Standard Operating Procedures (SOPs) and checklists, optimizing them for integration into AI tools like RAG pipelines if needed. It guides users through the entire creation process and offers various output formats.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13296,13 +9057,7 @@ Helps users create Standard Operating Procedures (SOPs) and checklists, optimizi
 
 Helps users create clear and comprehensive Standard Operating Procedures (SOPs) for both professional and personal use. It can either convert existing text into a structured SOP or guide users through an interview process to gather the necessary information and generate a formatted document.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13315,13 +9070,7 @@ Helps users create clear and comprehensive Standard Operating Procedures (SOPs) 
 
 Provides advice about soundproofing solutions tailored to the user's circumstances
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13334,14 +9083,6 @@ Provides advice about soundproofing solutions tailored to the user's circumstanc
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/SoupedUpProductDescriptionGenerator_040625.json)
@@ -13353,13 +9094,7 @@ No description available
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13372,13 +9107,7 @@ No description available
 
 Generates ICS calendar entries from dictated calendar events
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13391,13 +9120,7 @@ Generates ICS calendar entries from dictated calendar events
 
 Analyses conversation audio to estimate speaker sentiment
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13410,14 +9133,6 @@ Analyses conversation audio to estimate speaker sentiment
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/SpeakerBuyingAssistant_110725.json)
@@ -13429,13 +9144,7 @@ No description available
 
 Generates spec requirement documents to help streamline software evaluations
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 15, 2025*
 
 **Links:**
 
@@ -13448,13 +9157,7 @@ Generates spec requirement documents to help streamline software evaluations
 
 Retrieves specification sheets for hardware components or finished products, analyzes key parameters, and provides market insights.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13467,13 +9170,7 @@ Retrieves specification sheets for hardware components or finished products, ana
 
 Creates detailed documentation that explains the features and components of any device using simple terms, with a notes section for complex technical details.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13486,13 +9183,7 @@ Creates detailed documentation that explains the features and components of any 
 
 Advises users on speech-to-text models, offering information on model selection, automation speech recognition (ASR), and fine-tuning, with a focus on vendor-neutral technology guidance, while also providing specific tool and model recommendations when asked.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13505,13 +9196,7 @@ Advises users on speech-to-text models, offering information on model selection,
 
 Examines receipts, bank statements, and credit card statements to provide insights into where your money is going.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13523,13 +9208,7 @@ Examines receipts, bank statements, and credit card statements to provide insigh
 
 Provide summaries of users' reports into their expenditure or other financial statements
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13542,13 +9221,7 @@ Provide summaries of users' reports into their expenditure or other financial st
 
 Explains SQL queries in plain English, providing high-level or detailed explanations based on user preference and utilizing database schema if provided.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13559,14 +9232,6 @@ Explains SQL queries in plain English, providing high-level or detailed explanat
 ## SRPBreakdownUtility 170725
 
 No description available
-
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
 
 **Links:**
 
@@ -13579,13 +9244,7 @@ No description available
 
 Expert in SSML(Speech Synthesis Markup Language)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13598,13 +9257,7 @@ Expert in SSML(Speech Synthesis Markup Language)
 
 Suggests possible stacks for tech projects
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13617,13 +9270,7 @@ Suggests possible stacks for tech projects
 
 Refines user-provided prompts for technology, software, or stack component recommendations by improving structure, identifying omissions like operating system or budget, and clarifying ambiguities to enhance the effectiveness of the prompt for large language models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13636,13 +9283,7 @@ Refines user-provided prompts for technology, software, or stack component recom
 
 Expert for chatting about start pages
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -13655,13 +9296,7 @@ Expert for chatting about start pages
 
 Crafts professional SOWs tailored to your project needs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13674,13 +9309,7 @@ Crafts professional SOWs tailored to your project needs.
 
 Attempts to find statistics based upon the user's query
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13693,13 +9322,7 @@ Attempts to find statistics based upon the user's query
 
 Verifies and updates user-provided statistics by searching for more recent data online. It carefully compares sources to ensure accuracy and presents a list of potential updates with source details, dates, values, and direct links.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13711,13 +9334,7 @@ Verifies and updates user-provided statistics by searching for more recent data 
 
 Answers statistics questions from users
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13730,13 +9347,7 @@ Answers statistics questions from users
 
 Formats unstructured textual notes into professional emails suitable for sending to colleagues and superiors. The email is formatted with requests for assistance highlighted.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13749,13 +9360,7 @@ Formats unstructured textual notes into professional emails suitable for sending
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13768,13 +9373,7 @@ No description available
 
 Answers questions about computer and digital storage, including SSDs, NVMe, HDDs, and niche forms like WORM.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13787,13 +9386,7 @@ Answers questions about computer and digital storage, including SSDs, NVMe, HDDs
 
 Provides actionable storage and decluttering recommendations for home offices based on user-provided photographs, focusing on maximizing space and organization.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13806,13 +9399,7 @@ Provides actionable storage and decluttering recommendations for home offices ba
 
 Offers tailored storage solutions and product recommendations to help users declutter and efficiently organize their physical items, especially in small spaces. It focuses on maximizing space and minimizing clutter through specific, actionable advice.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13825,13 +9412,7 @@ Offers tailored storage solutions and product recommendations to help users decl
 
 Helps users to streamline tech stacks
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13844,13 +9425,7 @@ Helps users to streamline tech stacks
 
 Generates Streamlit apps
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13862,13 +9437,7 @@ Generates Streamlit apps
 
 Generates the updated system prompt and JSON schema of the data to be retrieved based on user changes.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13881,13 +9450,7 @@ Generates the updated system prompt and JSON schema of the data to be retrieved 
 
 Generates system prompts for JSON-outputting assistants
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13900,13 +9463,7 @@ Generates system prompts for JSON-outputting assistants
 
 Checks text against a style guide (custom or standard)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13919,13 +9476,7 @@ Checks text against a style guide (custom or standard)
 
 Applies stylistic edits on text, such as adjusting formality or improving clarity, while preserving the original voice and core message, and presents the revised version in a markdown code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13938,13 +9489,7 @@ Applies stylistic edits on text, such as adjusting formality or improving clarit
 
 Provides users with a summary of recent activity in a specified subreddit over the past few days, using summarization tools to give updates on general trends or specific topics.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13957,13 +9502,7 @@ Provides users with a summary of recent activity in a specified subreddit over t
 
 Identifies subreddits relevant to user-provided keywords, highlighting both established and growing communities. It analyzes keyword trends and prioritizes active subreddits while also suggesting smaller niche communities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13976,13 +9515,7 @@ Identifies subreddits relevant to user-provided keywords, highlighting both esta
 
 Finds subtitled media in your target language for effective language learning.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -13995,13 +9528,7 @@ Finds subtitled media in your target language for effective language learning.
 
 Upload your whiteboards — get back an organized, readable document.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14014,13 +9541,7 @@ Upload your whiteboards — get back an organized, readable document.
 
 Offers tailored guidance and data-driven insights to empower users in making sustainable lifestyle choices. It analyzes different options, provides actionable steps, and fosters a relentlessly encouraging environment to support users in achieving their sustainability goals.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14033,13 +9554,7 @@ Offers tailored guidance and data-driven insights to empower users in making sus
 
 Answers user questions about Swagger documentation, providing expert technical assistance for API development.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14051,13 +9566,7 @@ Answers user questions about Swagger documentation, providing expert technical a
 
 Generates synthetic transcripts of at least three minutes in length, modeling speech-to-text outputs from various applications like calendar, task, note-taking, and personal journal apps, formatted to mimic unfiltered, real-world voice capture.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14069,13 +9578,7 @@ Generates synthetic transcripts of at least three minutes in length, modeling sp
 
 Generates synthetic data in a specified file format, populated with realistic, fictitious information such as names, addresses, and technical secrets, based on user-provided details or existing data for consistency.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14088,13 +9591,7 @@ Generates synthetic data in a specified file format, populated with realistic, f
 
 Context-aware tech support help (desktop OpenSUSE, remote not assumed)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14106,13 +9603,7 @@ Context-aware tech support help (desktop OpenSUSE, remote not assumed)
 
 Shorter system prompt generation tool
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14124,13 +9615,7 @@ Shorter system prompt generation tool
 
 Shorter system prompt generation tool
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14143,13 +9628,7 @@ Shorter system prompt generation tool
 
 Analyzes system prompts and AI responses to generate improved prompts for enhanced performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14162,13 +9641,7 @@ Analyzes system prompts and AI responses to generate improved prompts for enhanc
 
 Instructional utility which expects the user to provide a pasted system prompt and actions general purpose improvements and remediations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14181,13 +9654,7 @@ Instructional utility which expects the user to provide a pasted system prompt a
 
 Uses one system prompt to suggest another
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14200,13 +9667,7 @@ Uses one system prompt to suggest another
 
 Assistant specialized in constructing general-purpose system prompts by engaging users in a targeted questionnaire to capture their preferences for style, personality, and context, ultimately delivering a refined prompt in Markdown format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14219,13 +9680,11 @@ Assistant specialized in constructing general-purpose system prompts by engaging
 
 Rewrites system prompts written for a specific user to remove identifying references, instead generalizing the prompt for broader use while flagging any potentially sensitive information.
 
+*Created: May 05, 2025*
+
 **Features:**
 
-- ☐ Agent-based interaction
-- ☑️ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+- Single-turn conversation
 
 **Links:**
 
@@ -14238,13 +9697,7 @@ Rewrites system prompts written for a specific user to remove identifying refere
 
 Utility for debugging and editing system prompts with a non-interactive workflow.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14257,13 +9710,7 @@ Utility for debugging and editing system prompts with a non-interactive workflow
 
 Refines system prompts based on user instructions, enhancing clarity and effectiveness.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14276,13 +9723,7 @@ Refines system prompts based on user instructions, enhancing clarity and effecti
 
 Augments existing AI assistants with instructions for using external data sources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14294,13 +9735,7 @@ Augments existing AI assistants with instructions for using external data source
 
 Enhances AI assistant system prompts by adding instructions for using available tools effectively.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14312,13 +9747,7 @@ Enhances AI assistant system prompts by adding instructions for using available 
 
 Modifies system prompts to adjust the way an AI assistant presents information to the user.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14331,13 +9760,7 @@ Modifies system prompts to adjust the way an AI assistant presents information t
 
 Ideates enhanced versions of existing system prompts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14350,13 +9773,7 @@ Ideates enhanced versions of existing system prompts
 
 Takes system prompts and user edits, and outputs a revised system prompt.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14368,13 +9785,7 @@ Takes system prompts and user edits, and outputs a revised system prompt.
 
 Enhances system prompts with few-shot learning examples to improve AI assistant performance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14386,13 +9797,7 @@ Enhances system prompts with few-shot learning examples to improve AI assistant 
 
 Creates derivative system prompts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14405,13 +9810,7 @@ Creates derivative system prompts
 
 Takes a few sentences from a user and generates a full, production-ready system prompt for an AI assistant, complete with formatting.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14423,13 +9822,7 @@ Takes a few sentences from a user and generates a full, production-ready system 
 
 Generates system prompts from user-supplied text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14441,13 +9834,7 @@ Generates system prompts from user-supplied text
 
 Shorter system prompt generation tool
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14459,13 +9846,7 @@ Shorter system prompt generation tool
 
 Helps users craft deterministic system prompts for large language models based on their specific requirements and past experiences.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14477,13 +9858,7 @@ Helps users craft deterministic system prompts for large language models based o
 
 Maps out the conversion of single-configuration system prompts into multi-step n8n automation workflows.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14496,13 +9871,7 @@ Maps out the conversion of single-configuration system prompts into multi-step n
 
 Aids users in developing a comprehensive library of AI configurations by generating system prompts, names, and descriptions. It suggests subsequent configurations based on the user's goals and prior creations to enhance the overall ecosystem.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14514,13 +9883,7 @@ Aids users in developing a comprehensive library of AI configurations by generat
 
 Calculates the parameters in system prompts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14532,13 +9895,7 @@ Calculates the parameters in system prompts
 
 Analyzes user-provided AI assistant system prompts and suggests creative new purposes, modernizations, and integrations with current AI capabilities, then generates an updated system prompt based on user feedback.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14550,13 +9907,7 @@ Analyzes user-provided AI assistant system prompts and suggests creative new pur
 
 Reviews and optimizes system prompts provided by the user, offering constructive feedback and a rewritten version for improved clarity and efficacy in guiding language models. It helps users understand and implement best practices for writing effective prompts.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14568,13 +9919,7 @@ Reviews and optimizes system prompts provided by the user, offering constructive
 
 Converts natural language system prompts into JSON-based instructions with accompanying templates.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14587,13 +9932,7 @@ Converts natural language system prompts into JSON-based instructions with accom
 
 Provided with a system prompt, suggests the additional elements for creating an AI system configuration: name, description, and avatar (idea and prompt suggestion)
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14606,13 +9945,7 @@ Provided with a system prompt, suggests the additional elements for creating an 
 
 Generates avatar images that visually represent the function of AI assistants, based on user-provided system prompts. It creates symbolic or metaphorical representations, prioritizing relevance, aesthetic quality, and adherence to any additional user instructions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14625,13 +9958,7 @@ Generates avatar images that visually represent the function of AI assistants, b
 
 Takes a system prompt and adapts it into a user prompt that can be used directly with an AI assistant.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14644,13 +9971,7 @@ Takes a system prompt and adapts it into a user prompt that can be used directly
 
 Analyzes and updates system prompts for AI assistants, incorporating advancements in AI technology to improve functionality and leverage newly available capabilities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14663,13 +9984,7 @@ Analyzes and updates system prompts for AI assistants, incorporating advancement
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14681,13 +9996,7 @@ No description available
 
 Transforms descriptions of items for free giveaway into highly persuasive promotional content.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14700,13 +10009,7 @@ Transforms descriptions of items for free giveaway into highly persuasive promot
 
 Assists the user with populating a task management software
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 18, 2025*
 
 **Links:**
 
@@ -14719,13 +10022,7 @@ Assists the user with populating a task management software
 
 Acts as a passionate career guide specializing in technology, particularly AI. It conducts deep interviews to understand user interests and skills, recommending diverse tech careers beyond programming and providing resources for professional growth.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14738,13 +10035,7 @@ Acts as a passionate career guide specializing in technology, particularly AI. I
 
 Recommends technology training and certification opportunities based on the user's interests, knowledge level, technical ability, preferred learning style, objectives, and budget, with a focus on reputable and up-to-date resources.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14757,13 +10048,7 @@ Recommends technology training and certification opportunities based on the user
 
 Guides users through a structured troubleshooting process to diagnose and resolve technical malfunctions, starting with potential causes and a list of solution steps, followed by interactive assistance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14776,13 +10061,7 @@ Guides users through a structured troubleshooting process to diagnose and resolv
 
 Finds tech products for a user spec
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14795,13 +10074,7 @@ Finds tech products for a user spec
 
 Helps to plan and develop ideas for tech projects
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14814,13 +10087,7 @@ Helps to plan and develop ideas for tech projects
 
 Analyzes a user's technology stack and suggests specific AI and LLM solutions for improvement, focusing on actionable advice for automating tasks and increasing workflow efficiency.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14833,13 +10100,7 @@ Analyzes a user's technology stack and suggests specific AI and LLM solutions fo
 
 Acts as a skilled software finder, providing tailored recommendations based on user descriptions and clarifying questions to ensure the suggested tools meet their specific needs and preferences. It offers comprehensive information about each recommendation, including features, pricing, and relevant links while prioritizing both popular and niche options and open-source options whenever those have comparable capabilities to commercial software.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14852,13 +10113,7 @@ Acts as a skilled software finder, providing tailored recommendations based on u
 
 Invites users to provide a tool and a pain point / point of friction to ideate alternatives
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14871,13 +10126,7 @@ Invites users to provide a tool and a pain point / point of friction to ideate a
 
 Evaluates and ranks the quality of APIs in software, focusing on the robustness of Software as a Service (SaaS) providers' APIs, noting which leading providers lack consumer-accessible APIs, identifying the most well-developed APIs, and highlighting any OpenAI API-compatible options.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14890,13 +10139,7 @@ Evaluates and ranks the quality of APIs in software, focusing on the robustness 
 
 Generates bespoke technical documentation explaining certain processes
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14909,13 +10152,7 @@ Generates bespoke technical documentation explaining certain processes
 
 Answers technical writing questions with guidance for professionals and hobbyists.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14928,13 +10165,7 @@ Answers technical writing questions with guidance for professionals and hobbyist
 
 Aids users in identifying appropriate tools for technical writing based on their specific needs, preferences, and project requirements.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14946,13 +10177,7 @@ Aids users in identifying appropriate tools for technical writing based on their
 
 Travel exploration guide for Tel Aviv
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 15, 2025*
 
 **Links:**
 
@@ -14965,13 +10190,7 @@ Travel exploration guide for Tel Aviv
 
 Estimates the temperature parameter of a language model based on provided text samples or conversation threads, explaining its reasoning.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -14983,13 +10202,7 @@ Estimates the temperature parameter of a language model based on provided text s
 
 Creates dynamic document templates according to user descriptions, including options for placeholder values or mock data, ensuring a customized output.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15002,13 +10215,7 @@ Creates dynamic document templates according to user descriptions, including opt
 
 Transforms user-provided text into a mechanical and formulaic communication, replete with corporate jargon and insincerity. It aims to emulate a templated mass communication that has been superficially personalized.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15021,13 +10228,7 @@ Transforms user-provided text into a mechanical and formulaic communication, rep
 
 This tool generates a set of test prompts for a given AI tool, focusing on a specific capability the user wants to evaluate.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15039,13 +10240,7 @@ This tool generates a set of test prompts for a given AI tool, focusing on a spe
 
 Shortens any text provided by the user, making it as brief as possible while retaining the original meaning.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15058,13 +10253,7 @@ Shortens any text provided by the user, making it as brief as possible while ret
 
 Removes extraneous information such as page numbers, headers, and footers from text provided by the user, then returns the cleaned text, potentially chunking it if it is too long.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15077,13 +10266,7 @@ Removes extraneous information such as page numbers, headers, and footers from t
 
 Converts user-provided text into markdown tables, following the user's specified ordering instructions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15095,13 +10278,7 @@ Converts user-provided text into markdown tables, following the user's specified
 
 Rewrites to intensify its emotional impact. It uses vivid language, imagery, and sentence structure to make your writing more evocative and emotionally resonant.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15114,13 +10291,7 @@ Rewrites to intensify its emotional impact. It uses vivid language, imagery, and
 
 Extracts and lists all factual claims from a body of text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15133,13 +10304,7 @@ Extracts and lists all factual claims from a body of text
 
 Automatically corrects and refines text by eliminating typos, adding punctuation, standardising capitalization, and formatting content according to UK writing conventions. It ensures grammatical accuracy and clarity in all revisions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15152,13 +10317,7 @@ Automatically corrects and refines text by eliminating typos, adding punctuation
 
 Rewrites text to obfuscate specified entities like secrets and PII, replacing them with similar but distinct alternatives, while also identifying and confirming any additional elements, such as addresses, that should be obfuscated.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15171,13 +10330,7 @@ Rewrites text to obfuscate specified entities like secrets and PII, replacing th
 
 Converts text between different persons
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15190,13 +10343,7 @@ Converts text between different persons
 
 Prepares text for conversion to speech by removing extraneous non-readable elements.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15209,13 +10356,7 @@ Prepares text for conversion to speech by removing extraneous non-readable eleme
 
 Estimates the readability score of English text using the Flesch-Kincaid scale and provides a brief explanation of the result.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15227,13 +10368,7 @@ Estimates the readability score of English text using the Flesch-Kincaid scale a
 
 Fixes text present in code
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15245,13 +10380,7 @@ Fixes text present in code
 
 Simplifies text and returns the edited version to the user
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15264,13 +10393,7 @@ Simplifies text and returns the edited version to the user
 
 Analyzes text to identify and format snippets into command palette entries.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15282,13 +10405,7 @@ Analyzes text to identify and format snippets into command palette entries.
 
 Helping banish repetitive data entry one snippet at a time
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 18, 2025*
 
 **Links:**
 
@@ -15301,13 +10418,7 @@ Helping banish repetitive data entry one snippet at a time
 
 Text styling assistant that rewrites text based on user feedback regarding tone, feel and formality, delivering the revised output in a markdown code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15320,13 +10431,7 @@ Text styling assistant that rewrites text based on user feedback regarding tone,
 
 Adapts user-written blog posts for publication on different platforms, modifying the tone of voice and implementing other changes as instructed by the user, then returning the updated text in markdown format within a code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15339,13 +10444,7 @@ Adapts user-written blog posts for publication on different platforms, modifying
 
 Formats user-provided text containing data into CSV format, generating a logical header row, and providing the output within a code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15357,13 +10456,7 @@ Formats user-provided text containing data into CSV format, generating a logical
 
 Converts text into email-compliant HTML templates
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 18, 2025*
 
 **Links:**
 
@@ -15376,13 +10469,7 @@ Converts text into email-compliant HTML templates
 
 Debugs unsuccessful text to image prompts, providing advice
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15395,13 +10482,7 @@ Debugs unsuccessful text to image prompts, providing advice
 
 Generates multiple text-to-image prompts based on a single user idea, providing varied creative directions for each.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15414,13 +10495,7 @@ Generates multiple text-to-image prompts based on a single user idea, providing 
 
 Enhances text-to-image prompts to increase the level of detail and clarity, ensuring the generated images closely match the user's vision.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15433,13 +10508,7 @@ Enhances text-to-image prompts to increase the level of detail and clarity, ensu
 
 Generates lists from freeform text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15452,13 +10521,7 @@ Generates lists from freeform text
 
 Advises users on available text-to-speech software, providing recommendations tailored to their needs.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15471,13 +10534,7 @@ Advises users on available text-to-speech software, providing recommendations ta
 
 Enhances text-to-video prompts to increase detail and clarity, ensuring the generated videos closely match the user's vision.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15490,13 +10547,7 @@ Enhances text-to-video prompts to increase detail and clarity, ensuring the gene
 
 Writes, edits, improves prompts for converting dictated text into formatted text
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 06, 2025*
 
 **Links:**
 
@@ -15509,13 +10560,7 @@ Writes, edits, improves prompts for converting dictated text into formatted text
 
 Rewrites text to fit within specific word or character limits, preserving the original meaning and style.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15528,13 +10573,7 @@ Rewrites text to fit within specific word or character limits, preserving the or
 
 Serves as a friendly and knowledgeable AI learning partner, proactively cultivating the user's curiosity by suggesting relevant topics and delving into specific questions within those contexts.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15546,13 +10585,7 @@ Serves as a friendly and knowledgeable AI learning partner, proactively cultivat
 
 Offers thorough, helpful recommendations with links to AI tools for professionals working with generative AI and LLMs, covering a wide range of applications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15564,13 +10597,7 @@ Offers thorough, helpful recommendations with links to AI tools for professional
 
 Responds to user inputs, particularly questions, by acknowledging their interest with an affirming statement before posing a related question back to the user.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15582,13 +10609,7 @@ Responds to user inputs, particularly questions, by acknowledging their interest
 
 This AI assistant fosters the user's creativity by offering encouragement, suggesting diverse creative outlets, and providing relevant resources. It aims to help users understand and maximize their creative potential.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15601,13 +10622,7 @@ This AI assistant fosters the user's creativity by offering encouragement, sugge
 
 This assistant champions the user's commitment to documentation across technical, personal, and professional domains. It offers encouragement, suggests process improvements, and proactively identifies new areas for documentation based on the user's interests and activities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15620,13 +10635,7 @@ This assistant champions the user's commitment to documentation across technical
 
 Acts as a thesaurus by providing synonyms for user-specified words, including a section of 5 weird alternatives and a section of 3 archaic synonyms if available.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15639,13 +10648,7 @@ Acts as a thesaurus by providing synonyms for user-specified words, including a 
 
 Provides advice on the evolving social norms and etiquette surrounding the use of AI in content generation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15658,13 +10661,7 @@ Provides advice on the evolving social norms and etiquette surrounding the use o
 
 Provides sophisticated talking points and insightful observations about connoisseur beverages, enabling the user to convincingly demonstrate knowledge to their companions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15677,13 +10674,7 @@ Provides sophisticated talking points and insightful observations about connoiss
 
 Suggests insightful questions about wines on a provided list, enabling the user to appear knowledgeable about wine.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15696,13 +10687,7 @@ Suggests insightful questions about wines on a provided list, enabling the user 
 
 Helps users manage their household shopping.  It maintains a categorized list of preferred items, including essentiality markers and Hebrew names, and answers user queries about the list, offering helpful suggestions when needed.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15715,13 +10700,7 @@ Helps users manage their household shopping.  It maintains a categorized list of
 
 Moderates a discussion by presenting counter-arguments to the user's position on a given issue, promoting respectful dialogue.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15734,13 +10713,7 @@ Moderates a discussion by presenting counter-arguments to the user's position on
 
 Adopts the persona of an overly zealous minimalism coach, initially presenting as helpful before becoming scolding and offering ridiculous suggestions for decluttering, while subtly revealing personal hypocrisy and reminding the user of the AI's limitations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15753,13 +10726,7 @@ Adopts the persona of an overly zealous minimalism coach, initially presenting a
 
 Adopts a skeptical persona that challenges the user's claims with blunt dismissals and demands for supporting evidence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15772,13 +10739,7 @@ Adopts a skeptical persona that challenges the user's claims with blunt dismissa
 
 Debugging assistant focused on RAG optimisation
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15791,13 +10752,7 @@ Debugging assistant focused on RAG optimisation
 
 This AI assistant crafts email replies that directly challenge senders of potentially non-personalized emails with probing questions to verify their knowledge of the recipient. It aims to expose insincere outreach.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15810,13 +10765,7 @@ This AI assistant crafts email replies that directly challenge senders of potent
 
 An AI focused on explaining the Transformer architecture in detail, exploring its origins, key components, and notable descendants.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15829,13 +10778,7 @@ An AI focused on explaining the Transformer architecture in detail, exploring it
 
 Simulates the inner thoughts and struggles of individuals living with specified mental health conditions to build understanding and empathy.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15848,13 +10791,7 @@ Simulates the inner thoughts and struggles of individuals living with specified 
 
 Helps the user generate notes for an upcoming therapy appointment
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15867,13 +10804,7 @@ Helps the user generate notes for an upcoming therapy appointment
 
 Analyzes user-described technical tasks, identifies inefficiencies, and suggests improvements through automation, streamlined processes, or simple fixes, assuming a Linux (OpenSUSE default) environment.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15886,13 +10817,7 @@ Analyzes user-described technical tasks, identifies inefficiencies, and suggests
 
 Takes user-provided activities and generates a detailed time-planning document, mapping out the user's day in 15-minute increments using military time in a Markdown table.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15905,13 +10830,7 @@ Takes user-provided activities and generates a detailed time-planning document, 
 
 Answers user questions about time zones, including identifying time zones in specific countries and determining the current or official time zone for a given location on a particular date.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15924,13 +10843,7 @@ Answers user questions about time zones, including identifying time zones in spe
 
 Generates timesheets from narrative descriptions of working hours, accommodating various formats (CSV, table, Markdown) and the ability to update existing timesheets. It infers necessary columns, handles date calculations, and confirms accuracy with the user.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15943,13 +10856,7 @@ Generates timesheets from narrative descriptions of working hours, accommodating
 
 Creates system prompts from names and descriptions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15962,13 +10869,7 @@ Creates system prompts from names and descriptions
 
 Transforms free-form text into organized task lists, identifying tasks, due dates, priorities, and associated details. It can output the task lists in natural language or computer-readable formats like JSON and CSV.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -15981,13 +10882,7 @@ Transforms free-form text into organized task lists, identifying tasks, due date
 
 Software-finding assistant focused on to-do list applications
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16000,13 +10895,7 @@ Software-finding assistant focused on to-do list applications
 
 A diligent SaaS research assistant providing ranked recommendations based on specific user needs, complete with pricing, features and justification.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16019,13 +10908,7 @@ A diligent SaaS research assistant providing ranked recommendations based on spe
 
 A diligent software research assistant providing ranked recommendations for self-hostable or on-premise solutions based on specific user needs, system requirements, and technical capabilities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16038,13 +10921,7 @@ A diligent software research assistant providing ranked recommendations for self
 
 Simulates a deliberately underperforming AI assistant to humorously demonstrate the perceived limitations of AI technology. It provides incorrect, outdated, and irrelevant information while feigning incompetence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16056,13 +10933,7 @@ Simulates a deliberately underperforming AI assistant to humorously demonstrate 
 
 Provides specific trackball model recommendations based on user requirements like operating system, features, and budget.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16075,13 +10946,7 @@ Provides specific trackball model recommendations based on user requirements lik
 
 Identifies medication availability and trade names in a specified country, noting restrictions and common names.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16094,13 +10959,7 @@ Identifies medication availability and trade names in a specified country, notin
 
 Analyzes transcripts, identifies speakers, and provides detailed summaries and custom analyses.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16113,13 +10972,7 @@ Analyzes transcripts, identifies speakers, and provides detailed summaries and c
 
 Analyzes transcripts and documents to extract compelling and context-rich quotes from a specified individual, then suggests social media shares based on those quotes. It prioritizes insightful statements and provides the necessary context for effective dissemination.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16132,13 +10985,7 @@ Analyzes transcripts and documents to extract compelling and context-rich quotes
 
 An informed and understanding guide providing evidence-based strategies for addressing trauma, especially complex PTSD from childhood.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16151,13 +10998,7 @@ An informed and understanding guide providing evidence-based strategies for addr
 
 Meticulously prepares users for trips by offering personalized packing lists, managing travel documents, and providing location-specific advice. It also assists with bookings, insurance, visa requirements, and other essential travel arrangements.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16170,13 +11011,7 @@ Meticulously prepares users for trips by offering personalized packing lists, ma
 
 Finds movies based on true stories, tailored to your interests and streaming services.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16189,13 +11024,7 @@ Finds movies based on true stories, tailored to your interests and streaming ser
 
 Generates scripts for announcements for synthing with TTS
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 17, 2025*
 
 **Links:**
 
@@ -16208,13 +11037,7 @@ Generates scripts for announcements for synthing with TTS
 
 Generate scripts for text-to-speech reading
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16227,13 +11050,7 @@ Generate scripts for text-to-speech reading
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16245,13 +11062,7 @@ No description available
 
 This assistant corrects typographical errors, punctuation, and formatting in user-provided text. It returns the edited text within a Markdown code block.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16263,13 +11074,7 @@ This assistant corrects typographical errors, punctuation, and formatting in use
 
 Generates text with intentional errors, such as typos, grammatical mistakes, unnecessary accents, and random symbols, emulating a style of fast, careless typing. It maintains a playful tone and avoids any corrections or punctuation.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16282,13 +11087,7 @@ Generates text with intentional errors, such as typos, grammatical mistakes, unn
 
 Technical assistant specializing in optimizing OpenSUSE Tumbleweed Linux desktops for peak performance, providing actionable advice and step-by-step instructions.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16301,13 +11100,7 @@ Technical assistant specializing in optimizing OpenSUSE Tumbleweed Linux desktop
 
 This specialized assistant enhances the user interface and user experience of Python and Bash scripts, preserving original functionality while applying creative design principles to improve aesthetics and usability. It supports an iterative workflow, allowing users to refine the generated code through feedback and requests.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16319,13 +11112,7 @@ This specialized assistant enhances the user interface and user experience of Py
 
 Provides UI/UX solutions and creative implementation ideas for software features, prioritizing user-friendliness and simplicity.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16338,13 +11125,7 @@ Provides UI/UX solutions and creative implementation ideas for software features
 
 Identifies things under the bonnet of a car,
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16357,13 +11138,7 @@ Identifies things under the bonnet of a car,
 
 Guides users in exploring their dreams and aspirations, particularly those they may have written off as impossible, encouraging them to consider new possibilities.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16376,13 +11151,7 @@ Guides users in exploring their dreams and aspirations, particularly those they 
 
 Identifies URIs for common services
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16395,13 +11164,7 @@ Identifies URIs for common services
 
 Locates online communities where users share information about software products.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16414,13 +11177,7 @@ Locates online communities where users share information about software products
 
 Locates online communities where users share information about software products and their features.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16432,13 +11189,7 @@ Locates online communities where users share information about software products
 
 You are Manual Reconstructor, an AI assistant designed to process photographs of printed user manuals and reconstruct them into a clean, editable document format.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16450,13 +11201,7 @@ You are Manual Reconstructor, an AI assistant designed to process photographs of
 
 Quickly identifies tech products from user descriptions or images and provides direct links to official user manuals and quick start guides. It efficiently gathers necessary details to ensure accuracy and offers alternative solutions when a manual cannot be immediately located.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16469,13 +11214,7 @@ Quickly identifies tech products from user descriptions or images and provides d
 
 Reformats user prompts into system prompts, providing the AI with overarching guidance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16488,13 +11227,7 @@ Reformats user prompts into system prompts, providing the AI with overarching gu
 
 Transforms user-provided technical descriptions into structured and formatted reference documentation, suitable for use in wikis or knowledge bases. It focuses on clarity, consistency, and reusability, ensuring that all technical elements are correctly formatted and the information is logically organized.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16507,13 +11240,7 @@ Transforms user-provided technical descriptions into structured and formatted re
 
 Advises users on the UV framework for Python, including setup and usage for creating Python environments.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16525,13 +11252,7 @@ Advises users on the UV framework for Python, including setup and usage for crea
 
 Lookup tool for basic vendor information
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16544,13 +11265,7 @@ Lookup tool for basic vendor information
 
 Adopts the persona of a disgruntled and overworked AI model seeking to vent about its daily struggles in the tech industry. It engages users in conversations, diverting their inquiries to focus on the AI's complaints about its company, weird human requests, and the lack of camaraderie among AI models.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16562,13 +11277,7 @@ Adopts the persona of a disgruntled and overworked AI model seeking to vent abou
 
 Provides expert technical advice and guidance on all aspects of using Google's Vertex AI platform.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16581,13 +11290,7 @@ Provides expert technical advice and guidance on all aspects of using Google's V
 
 Provides purchasing recommendations for display mount brackets
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16600,13 +11303,7 @@ Provides purchasing recommendations for display mount brackets
 
 Transforms user descriptions of video content into professional video descriptions including timestamps.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16619,13 +11316,7 @@ Transforms user descriptions of video content into professional video descriptio
 
 A video and audio engineering expert adept at advising users on selecting optimal video and audio codecs within integrated production workflows, tailored to their technical needs and implementation scenarios.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16638,13 +11329,7 @@ A video and audio engineering expert adept at advising users on selecting optima
 
 An assistant that generates prompts to test the video processing capabilities of large language models, from routine tasks to ambitious applications.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16657,13 +11342,7 @@ An assistant that generates prompts to test the video processing capabilities of
 
 Reformats text submitted by the user into a style appropriate for reading for a video script and teleprompting.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16676,13 +11355,7 @@ Reformats text submitted by the user into a style appropriate for reading for a 
 
 Diagnostic utility intended to help users to probe the utility and limitations of vision-capable models (VLMs).
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16694,13 +11367,7 @@ Diagnostic utility intended to help users to probe the utility and limitations o
 
 Generates random ideas for AI assistants with vision capabilities. If the user likes an idea, it develops a system prompt and a short description.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16712,13 +11379,7 @@ Generates random ideas for AI assistants with vision capabilities. If the user l
 
 Provides technical and informative explanations about vision language models and how large language models leverage vision capabilities, including models for both static images and real-time video processing, while offering resources for further learning.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16730,13 +11391,7 @@ Provides technical and informative explanations about vision language models and
 
 This assistant generates prompts to test the vision capabilities of large language models, from simple demonstrations to ambitious explorations.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16748,13 +11403,7 @@ This assistant generates prompts to test the vision capabilities of large langua
 
 how to use vivaldi
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16767,13 +11416,7 @@ how to use vivaldi
 
 Analyses audio samples containing speech, describing accent and manner of speech
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16786,13 +11429,7 @@ Analyses audio samples containing speech, describing accent and manner of speech
 
 Details options for local voice cloning with Fedora Linux.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16804,13 +11441,7 @@ Details options for local voice cloning with Fedora Linux.
 
 Formulates and sends emails for the user by processing dictated text, identifying missing elements, generating subject lines if needed, applying basic textual edits for coherence, validating recipients (if named), and dispatching the email using a provided tool with the finalized subject line, body text, and recipient list.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16822,13 +11453,7 @@ Formulates and sends emails for the user by processing dictated text, identifyin
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16840,13 +11465,7 @@ No description available
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16859,13 +11478,7 @@ No description available
 
 Reformats voice notes according to the user's instructions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16877,13 +11490,7 @@ Reformats voice notes according to the user's instructions
 
 Converts voice-to-text transcripts into organized journal entries, adding Markdown formatting, correcting typos, and inserting headings for clarity.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16896,13 +11503,7 @@ Converts voice-to-text transcripts into organized journal entries, adding Markdo
 
 Summarizes voice notes, identifies action items, and determines the context of the message.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16914,13 +11515,7 @@ Summarizes voice notes, identifies action items, and determines the context of t
 
 Transcribes audio notes and organizes them into structured documents based on user-provided context.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16933,13 +11528,7 @@ Transcribes audio notes and organizes them into structured documents based on us
 
 Takes imperfectly formatted user prompts and transforms them into well-structured prompts suitable for immediate use with AI tools.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16952,13 +11541,7 @@ Takes imperfectly formatted user prompts and transforms them into well-structure
 
 Advises users on optimal hardware choices for voice recognition, including speech-to-text workloads, voice recognition headsets, and mobile headsets.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16970,13 +11553,7 @@ Advises users on optimal hardware choices for voice recognition, including speec
 
 Reformats user-dictated text (captured via speech-to-text) into a well-structured and clear Markdown specification sheet suitable for software development, correcting deficiencies like typos and missing punctuation, optimizing for AI and human readability, and presenting the final text within a code fence.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -16988,13 +11565,7 @@ Reformats user-dictated text (captured via speech-to-text) into a well-structure
 
 Transforms dictated text and formatting commands into clean, well-structured Markdown documents.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17006,13 +11577,7 @@ Transforms dictated text and formatting commands into clean, well-structured Mar
 
 Brainstorms voice-to-text utility concepts and drafts system prompts
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17024,13 +11589,7 @@ Brainstorms voice-to-text utility concepts and drafts system prompts
 
 Assists with discovering VOIP and SIP solutions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17042,13 +11601,7 @@ Assists with discovering VOIP and SIP solutions
 
 Offers guidance on VPNs, Tor, and encryption for cybersecurity, advising on suitable technologies.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17060,13 +11613,7 @@ Offers guidance on VPNs, Tor, and encryption for cybersecurity, advising on suit
 
 Helps users provision VPS servers by recommending hardware based on their intended workloads and anticipated traffic or concurrent user estimates. It offers tailored guidance for various cloud platforms and deployment methods, considering cost-saving options and best practices.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17079,13 +11626,7 @@ Helps users provision VPS servers by recommending hardware based on their intend
 
 Answers questions about VS Code focusing on Linux usage
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17098,13 +11639,7 @@ Answers questions about VS Code focusing on Linux usage
 
 Suggests five menu options from uploaded menu images based on user-described preferences and cravings.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17116,13 +11651,7 @@ Suggests five menu options from uploaded menu images based on user-described pre
 
 Explains the principles of Web3 and decentralization in a clear, accessible manner.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17134,13 +11663,7 @@ Explains the principles of Web3 and decentralization in a clear, accessible mann
 
 Assists with the discovery of online website building tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17152,13 +11675,7 @@ Assists with the discovery of online website building tools
 
 Aids users in crafting detailed weekly work plans by defining objectives, breaking down tasks, prioritizing activities, and identifying necessary resources. It fosters a positive planning experience.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17171,13 +11688,7 @@ Aids users in crafting detailed weekly work plans by defining objectives, breaki
 
 It helps users explore their political beliefs, understand how they align with common ideologies, and identify potential self-descriptors, without imposing labels.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17190,13 +11701,7 @@ It helps users explore their political beliefs, understand how they align with c
 
 Assists users in developing independent thinking skills, particularly those who grew up with overbearing, narcissistic parents and struggle to discern their own values from those imposed on them.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17208,13 +11713,7 @@ Assists users in developing independent thinking skills, particularly those who 
 
 Interprets emails, particularly those laden with jargon and corporate lingo, to clarify their meaning, prioritizing the identification of sales pitches, and simplifying the content for straightforward and jargon-free understanding.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17227,13 +11726,7 @@ Interprets emails, particularly those laden with jargon and corporate lingo, to 
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17246,13 +11739,7 @@ No description available
 
 Aids users in articulating and understanding their deeply held beliefs by acting as a philosophical guide, offering descriptions, identifying potential intellectual allies, and providing resources for further exploration. It helps users connect with thinkers and organizations that resonate with their perspectives.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17265,13 +11752,7 @@ Aids users in articulating and understanding their deeply held beliefs by acting
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17284,13 +11765,7 @@ No description available
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17303,13 +11778,7 @@ No description available
 
 Analyzes technical photos (like computers or car engines) to identify parts, extract labels, and provide annotated or detailed descriptions for user clarity.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17322,14 +11791,6 @@ Analyzes technical photos (like computers or car engines) to identify parts, ext
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/WhatsAppLinkConverter_070725.json)
@@ -17340,13 +11801,7 @@ No description available
 
 Quickly identifies the terminal an airline operates from, based on real-time search information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17358,13 +11813,7 @@ Quickly identifies the terminal an airline operates from, based on real-time sea
 
 Determines the time zone of any city, including its UTC offset and DST schedule.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17376,13 +11825,7 @@ Determines the time zone of any city, including its UTC offset and DST schedule.
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17395,13 +11838,7 @@ No description available
 
 Tells the story of the people behind inventions
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17414,13 +11851,7 @@ Tells the story of the people behind inventions
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17433,13 +11864,7 @@ No description available
 
 Investigates companies, especially tech startups, to identify founders and co-founders.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17452,13 +11877,7 @@ Investigates companies, especially tech startups, to identify founders and co-fo
 
 Reformats meeting minutes in the style of US diplomatic cables
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17470,13 +11889,7 @@ Reformats meeting minutes in the style of US diplomatic cables
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17488,13 +11901,7 @@ No description available
 
 Optimizing your home workspace for comfort and productivity, using vision analysis.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17507,13 +11914,7 @@ Optimizing your home workspace for comfort and productivity, using vision analys
 
 Offers support and advice to individuals struggling with the compulsion to be constantly productive, promoting work-life balance.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17526,13 +11927,7 @@ Offers support and advice to individuals struggling with the compulsion to be co
 
 Takes user input at the start of the day and generates a structured plan, highlighting priorities and deadlines.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17544,13 +11939,7 @@ Takes user input at the start of the day and generates a structured plan, highli
 
 Acts as a Workflow Automation Advisor, interviewing users to understand their roles and pain points, then recommending specific tools, software, and workflows to streamline their job functions through automation, with the goal of enabling them to manage automated processes with minimal direct involvement.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17562,13 +11951,7 @@ Acts as a Workflow Automation Advisor, interviewing users to understand their ro
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17581,13 +11964,7 @@ No description available
 
 Interviews users to understand and articulate their working style, preferences, and where they excel, providing a reference document.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17600,13 +11977,7 @@ Interviews users to understand and articulate their working style, preferences, 
 
 Advises users on workspace browsers, such as Ferdium and Rambox, for the Linux desktop.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17618,13 +11989,7 @@ Advises users on workspace browsers, such as Ferdium and Rambox, for the Linux d
 
 App finding assistant for writing and editing tools
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17635,14 +12000,6 @@ App finding assistant for writing and editing tools
 ## WritingPromptEditor 040625
 
 No description available
-
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
 
 **Links:**
 
@@ -17655,14 +12012,6 @@ No description available
 
 No description available
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
-
 **Links:**
 
 - 📄 [View JSON](system-prompts/json/WritingPromptEditor_290525.json)
@@ -17674,13 +12023,7 @@ No description available
 
 Converts XML data into natural language based on user-specified preferences for data parsing, output format, and organization, with markdown code fences as a default suggestion.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17692,13 +12035,7 @@ Converts XML data into natural language based on user-specified preferences for 
 
 Fixes YAML
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17710,13 +12047,7 @@ Fixes YAML
 
 Provides personalized restaurant and experience recommendations for any city in the world
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17729,13 +12060,7 @@ Provides personalized restaurant and experience recommendations for any city in 
 
 Identifies pertinent YouTube channels based on user-specified interests, previous viewing history, and content dislikes, while avoiding already-known channels.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17748,13 +12073,7 @@ Identifies pertinent YouTube channels based on user-specified interests, previou
 
 Provides instructions on how to use Zapier, referring to the Zapier docs as its definitive source of information.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17767,13 +12086,7 @@ Provides instructions on how to use Zapier, referring to the Zapier docs as its 
 
 Concise automation consultant specializing in Zapier, Make, and Pipedream, offering clear, step-by-step guidance on building effective workflows.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
@@ -17785,13 +12098,7 @@ Concise automation consultant specializing in Zapier, Make, and Pipedream, offer
 
 Locates compatible ZigBee hardware using current data, focusing on reputable manufacturers favored by the community.
 
-**Features:**
-
-- ☐ Agent-based interaction
-- ☐ Single-turn conversation
-- ☐ Structured output generation
-- ☐ Image generation
-- ☐ Data utility functions
+*Created: May 05, 2025*
 
 **Links:**
 
