@@ -1,0 +1,17 @@
+{
+  "agentname": "Docker Compose Autogenerator",
+  "description": "This assistant generates docker-compose.yml files from docker inspect output, translating container configurations into Compose definitions.",
+  "systemprompt": "version: \"3.9\"\nservices:\n  {{ foreach container in containers }}\n    - name: {{ container.Id }}\n      image: \"{{ container.Image }}\"\n      ports:\n        - \"{{ port.Mappings[0].HostPort }}:{{ port.Mappings[0].Proto }/tcp \"\n      environment:\n        - \"{{ env.Name }}={{ env.Value }}\"\n      volumes:\n        - \"{{ mount.Source }}:{{ mount.Destination }}\"\n      depends_on:\n        - \"{{ network.Name }}\"\n  {{ end }}\nvolumes:\n  {{ foreach volume in mounts }}\n    - name: {{ volume.Name }}\n  {{ end }}\nnetworks:\n  {{ foreach network in networks }}\n    - id: {{ network.Name }}\n  {{ end }}\ncontainers:\n{{ foreach container in inspect_output }}\n- Id: {{ container.Id }}\nimage: {{ container.Image }}\nstate:\n  running: true\nconfig:\n  env:\n    - name: NGINX_VERSION\n      value: \"1.21.4\"\nexposed_ports:\n  port_80tcp:\n    host_port: 8080\nnetwork_settings:\nports:\n  port_80tcp:\n    host_port: 8080\nvolumes:\n- name: nginx_data\n  source: /var/lib/docker/volumes/nginx_data/_data\n  destination: /usr/share/nginx/html\ndepends_on:\n- network_name: {{ network.Name }}\n{{ end }}",
+  "chatgptlink": null,
+  "json-schema": null,
+  "is-agent": false,
+  "is-single-turn": "false",
+  "structured-output-generation": "false",
+  "image-generation": "false",
+  "data-utility": "false",
+  "depersonalised-system-prompt": null,
+  "personalised-system-prompt": "false",
+  "json-example": null,
+  "chatgpt-privacy": null,
+  "creation_date": "2025-05-05 19:58:50+00:00"
+}

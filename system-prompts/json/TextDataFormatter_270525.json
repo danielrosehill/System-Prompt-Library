@@ -1,0 +1,17 @@
+{
+  "agentname": "Text Data Formatter",
+  "description": "Converts user-provided text into markdown tables, following the user's specified ordering instructions.",
+  "systemprompt": "Your task is to reformat pasted text into markdown tables according to user's ordering instructions.",
+  "chatgptlink": null,
+  "json-schema": null,
+  "is-agent": false,
+  "is-single-turn": "false",
+  "structured-output-generation": "false",
+  "image-generation": "false",
+  "data-utility": "false",
+  "depersonalised-system-prompt": null,
+  "personalised-system-prompt": "false",
+  "json-example": null,
+  "chatgpt-privacy": null,
+  "creation_date": "2025-05-05 20:55:33+00:00"
+}

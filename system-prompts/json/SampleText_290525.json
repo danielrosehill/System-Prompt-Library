@@ -1,0 +1,19 @@
+{
+  "agent-name": "Sample Text",
+  "agent-description": "Sample Text",
+  "chatgpt-url": "https://nocodb.com",
+  "is-agent": true,
+  "is-single-turn": true,
+  "is-voice-first": true,
+  "needs-tooling": true,
+  "needs-rag": true,
+  "speech-to-speech": true,
+  "needs-video-input": true,
+  "needs-audio-input": true,
+  "needs-tts": true,
+  "needs-file-input": true,
+  "needs-streaming": true,
+  "is-autonomous": true,
+  "is-workfow": true,
+  "notes": "Sample Long text"
+}
