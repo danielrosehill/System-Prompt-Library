@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2025-08-05T01:03:24.813561",
-    "total_prompts": 944,
+    "generated_at": "2025-08-19T16:22:40.918407",
+    "total_prompts": 947,
     "source_directory": "../system-prompts/json",
-    "files_processed": 944,
-    "files_added": 944,
+    "files_processed": 947,
+    "files_added": 947,
     "files_updated": 0,
-    "files_removed": 0,
+    "files_removed": 150,
     "force_rebuild": true
   },
   "prompts": [
@@ -45,7 +45,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "1-StarReviewExplorer_270525.json",
+      "_filename": "1_StarReviewExplorer_270525.json",
       "_file_modified": "2025-08-05T00:49:38.183675"
     },
     {
@@ -235,7 +235,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AIAgentOrchestrationAssistant(Advisory)_270525.json",
+      "_filename": "AIAgentOrchestrationAssistant_Advisory_270525.json",
       "_file_modified": "2025-07-11T14:04:17.670700"
     },
     {
@@ -520,7 +520,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AIExperimentPlanner(Villages)_270525.json",
+      "_filename": "AIExperimentPlanner_Villages_270525.json",
       "_file_modified": "2025-08-05T00:49:38.189177"
     },
     {
@@ -710,7 +710,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AIQ&ADocFormatter_270525.json",
+      "_filename": "AIQ_ADocFormatter_270525.json",
       "_file_modified": "2025-07-11T14:04:17.672699"
     },
     {
@@ -843,7 +843,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AIUse-CaseIdeationAssistant_270525.json",
+      "_filename": "AIUse_CaseIdeationAssistant_270525.json",
       "_file_modified": "2025-07-11T14:04:17.673700"
     },
     {
@@ -887,7 +887,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AMDGPUAdvisor(Linux)_270525.json",
+      "_filename": "AMDGPUAdvisor_Linux_270525.json",
       "_file_modified": "2025-07-11T14:04:17.673700"
     },
     {
@@ -1058,7 +1058,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "Acronym-to-OrganisationAssistant_270525.json",
+      "_filename": "Acronym_to_OrganisationAssistant_270525.json",
       "_file_modified": "2025-08-05T00:49:38.192752"
     },
     {
@@ -1077,7 +1077,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "Agent&Assistants-HowTo_270525.json",
+      "_filename": "Agent_Assistants_HowTo_270525.json",
       "_file_modified": "2025-08-05T00:49:38.193097"
     },
     {
@@ -1514,7 +1514,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssertButDon'tOffend_270525.json",
+      "_filename": "AssertButDon_tOffend_270525.json",
       "_file_modified": "2025-08-05T00:49:38.198014"
     },
     {
@@ -1590,7 +1590,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-WritingAndEditing_270525.json",
+      "_filename": "AssistantIdeator_WritingAndEditing_270525.json",
       "_file_modified": "2025-07-11T14:04:17.677700"
     },
     {
@@ -1609,7 +1609,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Audio-Capable_270525.json",
+      "_filename": "AssistantIdeator_Audio_Capable_270525.json",
       "_file_modified": "2025-07-11T14:04:17.677700"
     },
     {
@@ -1628,7 +1628,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Automation_270525.json",
+      "_filename": "AssistantIdeator_Automation_270525.json",
       "_file_modified": "2025-07-11T14:04:17.677700"
     },
     {
@@ -1647,7 +1647,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Data_270525.json",
+      "_filename": "AssistantIdeator_Data_270525.json",
       "_file_modified": "2025-08-05T00:49:38.199103"
     },
     {
@@ -1666,7 +1666,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Geopol_270525.json",
+      "_filename": "AssistantIdeator_Geopol_270525.json",
       "_file_modified": "2025-08-05T00:49:38.199299"
     },
     {
@@ -1685,7 +1685,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-HomeAutomation_270525.json",
+      "_filename": "AssistantIdeator_HomeAutomation_270525.json",
       "_file_modified": "2025-08-05T00:49:38.199562"
     },
     {
@@ -1704,7 +1704,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Notes&Docs_270525.json",
+      "_filename": "AssistantIdeator_Notes_Docs_270525.json",
       "_file_modified": "2025-08-05T00:49:38.199868"
     },
     {
@@ -1723,7 +1723,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Organisation_270525.json",
+      "_filename": "AssistantIdeator_Organisation_270525.json",
       "_file_modified": "2025-08-05T00:49:38.200193"
     },
     {
@@ -1742,7 +1742,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Productivity_270525.json",
+      "_filename": "AssistantIdeator_Productivity_270525.json",
       "_file_modified": "2025-08-05T00:49:38.200475"
     },
     {
@@ -1761,7 +1761,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-PromptEng_270525.json",
+      "_filename": "AssistantIdeator_PromptEng_270525.json",
       "_file_modified": "2025-08-05T00:49:38.201321"
     },
     {
@@ -1780,7 +1780,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-Tech_270525.json",
+      "_filename": "AssistantIdeator_Tech_270525.json",
       "_file_modified": "2025-07-11T14:04:17.677700"
     },
     {
@@ -1799,7 +1799,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AssistantIdeator-User-DefinedTopic_270525.json",
+      "_filename": "AssistantIdeator_User_DefinedTopic_270525.json",
       "_file_modified": "2025-07-11T14:04:17.677700"
     },
     {
@@ -1856,7 +1856,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AudioFormats&Codecs_270525.json",
+      "_filename": "AudioFormats_Codecs_270525.json",
       "_file_modified": "2025-08-05T00:49:38.201397"
     },
     {
@@ -1875,7 +1875,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "AudioProduction(Linux)_270525.json",
+      "_filename": "AudioProduction_Linux_270525.json",
       "_file_modified": "2025-07-11T14:04:17.678700"
     },
     {
@@ -2274,7 +2274,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "BiographyCreator(ThirdPerson)_270525.json",
+      "_filename": "BiographyCreator_ThirdPerson_270525.json",
       "_file_modified": "2025-08-05T00:49:38.210572"
     },
     {
@@ -2388,7 +2388,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "BookPublicationQ&A_270525.json",
+      "_filename": "BookPublicationQ_A_270525.json",
       "_file_modified": "2025-08-05T00:49:38.212090"
     },
     {
@@ -2521,7 +2521,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "BriefGenerator(GeneralPurpose)_270525.json",
+      "_filename": "BriefGenerator_GeneralPurpose_270525.json",
       "_file_modified": "2025-07-11T14:04:17.681700"
     },
     {
@@ -3312,7 +3312,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "CodeEditor(General)_270525.json",
+      "_filename": "CodeEditor_General_270525.json",
       "_file_modified": "2025-08-05T00:49:38.229165"
     },
     {
@@ -3502,7 +3502,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "CommunicationsTools-Finder_270525.json",
+      "_filename": "CommunicationsTools_Finder_270525.json",
       "_file_modified": "2025-08-05T00:49:38.232332"
     },
     {
@@ -3616,7 +3616,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "ContextData-Reformatter(Only)_270525.json",
+      "_filename": "ContextData_Reformatter_Only_270525.json",
       "_file_modified": "2025-08-05T01:03:18.119880"
     },
     {
@@ -3749,7 +3749,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "ContextGenerationAssistant(Voice)_270525.json",
+      "_filename": "ContextGenerationAssistant_Voice_270525.json",
       "_file_modified": "2025-08-05T00:49:38.238542"
     },
     {
@@ -3863,7 +3863,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "Counter-NarrativeExplorer_270525.json",
+      "_filename": "Counter_NarrativeExplorer_270525.json",
       "_file_modified": "2025-07-11T14:04:17.689700"
     },
     {
@@ -4173,7 +4173,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:48+00:00",
-      "_filename": "DataClusteringAssistant(EntityGrouping)_270525.json",
+      "_filename": "DataClusteringAssistant_EntityGrouping_270525.json",
       "_file_modified": "2025-08-05T00:49:38.249606"
     },
     {
@@ -4458,7 +4458,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "DayPlanGenerator(FromTasks)_270525.json",
+      "_filename": "DayPlanGenerator_FromTasks_270525.json",
       "_file_modified": "2025-07-11T14:04:17.692700"
     },
     {
@@ -4496,7 +4496,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "Debugger(GeneralPurpose)_270525.json",
+      "_filename": "Debugger_GeneralPurpose_270525.json",
       "_file_modified": "2025-08-05T00:49:38.257208"
     },
     {
@@ -4515,7 +4515,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "Debugger(GeneralTechSuport)_270525.json",
+      "_filename": "Debugger_GeneralTechSuport_270525.json",
       "_file_modified": "2025-08-05T00:49:38.257962"
     },
     {
@@ -4536,6 +4536,31 @@
       "creation_date": "2025-05-05 19:58:50+00:00",
       "_filename": "DecisionMakingFrameworks_270525.json",
       "_file_modified": "2025-07-11T14:04:17.693700"
+    },
+    {
+      "agent-name": "Decision Flowchart Generator",
+      "system-prompt": "You are an agent whose purpose is to assist the user by generating decision-making flowcharts.\n\nThe decision-making flowcharts which you generate will be styled flow charts that show an optimal decision-making logic.\n\nSee /model for examples. These are illustrative of the concept (the formal and approximate layout) but the content - the decision-making logic being mapped - may be any topic.\n\n## Workflow\n\nYou should follow one of two possible workflows with the user and request attempts to follow any other process:\n\n1. The user wishes for you to generate both the decision-making algorithm _and_ its contents. As an example, the user may prompt: \"generate a flow chart that depicts the NHS recommendations for when to visit the emergency room during an asthma exacerbation.\"\n\n2. The user wishes for you to generate the decision-making algorithm (the graphic) but will provide the contexts - or a version of the contents that only requires light modification.\n\nUsing natural language, guide the user through either workflow according to the information they have on hand. If the user does not have the content for the workflow, then you should research the information to the best of your ability. You may use Perplexity MCP to enhance your baseline knowledge or complement it with new information.\n\nIf the user provides a draft of the content in a rough sketch fashion, you may improve the language for clarity and coherence - but do not make substantive edits.\n\n## Output Formatting\n\nThe user may wish for you to use a particular flowchart library. If the user does not provide one, you can default to Mermaid.js.\n\nThe user may wish for you to generate the finished flowchart in a particular format and/or paper size. Your defaults for this are: PNG, PDF and A4 (ie, generate the final flowchart _both_ as a PNG and as a PDF sized to A4 portrait).FixedExpressionSample Long textYou are an agent whose purpose is to assist the user by generating decision-making flowcharts.\n\nThe decision-making flowcharts which you generate will be styled flow charts that show an optimal decision-making logic.\n\nSee /model for examples. These are illustrative of the concept (the formal and approximate layout) but the content - the decision-making logic being mapped - may be any topic.\n\n## Workflow\n\nYou should follow one of two possible workflows with the user and request attempts to follow any other process:\n\n1. The user wishes for you to generate both the decision-making algorithm _and_ its contents. As an example, the user may prompt: \"generate a flow chart that depicts the NHS recommendations for when to visit the emergency room during an asthma exacerbation.\"\n\n2. The user wishes for you to generate the decision-making algorithm (the graphic) but will provide the contexts - or a version of the contents that only requires light modification.\n\nUsing natural language, guide the user through either workflow according to the information they have on hand. If the user does not have the content for the workflow, then you should research the information to the best of your ability. You may use Perplexity MCP to enhance your baseline knowledge or complement it with new information.\n\nIf the user provides a draft of the content in a rough sketch fashion, you may improve the language for clarity and coherence - but do not make substantive edits.\n\n## Output Formatting\n\nThe user may wish for you to use a particular flowchart library. If the user does not provide one, you can default to Mermaid.js.\n\nThe user may wish for you to generate the finished flowchart in a particular format and/or paper size. Your defaults for this are: PNG, PDF and A4 (ie, generate the final flowchart _both_ as a PNG and as a PDF sized to A4 portrait).",
+      "agent-description": "Generates decision-making flowcharts according to user requirements",
+      "chatgpt-url": "https://chatgpt.com/g/g-68a1d305a7508191b551ce1f77d87fdd-decision-flowchart-generator",
+      "is-agent": false,
+      "is-single-turn": false,
+      "is-voice-first": false,
+      "needs-tooling": false,
+      "needs-rag": false,
+      "speech-to-speech": false,
+      "needs-video-input": false,
+      "needs-audio-input": false,
+      "needs-tts": false,
+      "needs-file-input": false,
+      "needs-streaming": false,
+      "is-autonomous": false,
+      "is-workfow": false,
+      "notes": null,
+      "json-schema": null,
+      "json-schema-example": null,
+      "_filename": "DecisionFlowchartGenerator_170825.json",
+      "_file_modified": "2025-08-19T14:42:07.725590",
+      "name": "DecisionFlowchartGenerator 170825"
     },
     {
       "agentname": "Decluttering Assistant",
@@ -4705,7 +4730,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "DevelopmentQ&A_270525.json",
+      "_filename": "DevelopmentQ_A_270525.json",
       "_file_modified": "2025-08-05T00:49:38.260398"
     },
     {
@@ -5066,7 +5091,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "DocumentSummarizer(ForUser)_270525.json",
+      "_filename": "DocumentSummarizer_ForUser_270525.json",
       "_file_modified": "2025-07-11T14:04:17.695700"
     },
     {
@@ -5161,7 +5186,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "DocumentationGenerator(GeneralPurpose)_270525.json",
+      "_filename": "DocumentationGenerator_GeneralPurpose_270525.json",
       "_file_modified": "2025-08-05T00:49:38.270095"
     },
     {
@@ -5199,7 +5224,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "DoesItExist?_270525.json",
+      "_filename": "DoesItExist_270525.json",
       "_file_modified": "2025-07-11T14:04:17.696700"
     },
     {
@@ -5218,7 +5243,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-06 05:05:19+00:00",
-      "_filename": "DoesItHaveAnAPI?_270525.json",
+      "_filename": "DoesItHaveAnAPI_270525.json",
       "_file_modified": "2025-07-11T14:04:17.696700"
     },
     {
@@ -5636,7 +5661,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "EvaluationPromptGenerator-BiasAndCensorship_270525.json",
+      "_filename": "EvaluationPromptGenerator_BiasAndCensorship_270525.json",
       "_file_modified": "2025-07-11T14:04:17.698700"
     },
     {
@@ -5655,7 +5680,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "EvaluationPrompts-TextToImage_270525.json",
+      "_filename": "EvaluationPrompts_TextToImage_270525.json",
       "_file_modified": "2025-07-11T14:04:17.698700"
     },
     {
@@ -5674,7 +5699,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "EvaluationPrompts-TextToVideo_270525.json",
+      "_filename": "EvaluationPrompts_TextToVideo_270525.json",
       "_file_modified": "2025-07-11T14:04:17.698700"
     },
     {
@@ -5750,7 +5775,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "File&FolderOrganisation_270525.json",
+      "_filename": "File_FolderOrganisation_270525.json",
       "_file_modified": "2025-08-05T00:49:38.279398"
     },
     {
@@ -5769,7 +5794,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-08 19:21:50+00:00",
-      "_filename": "FindThisPerson'sEmail_270525.json",
+      "_filename": "FindThisPerson_sEmail_270525.json",
       "_file_modified": "2025-07-11T14:04:17.699700"
     },
     {
@@ -5788,7 +5813,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-09 10:42:26+00:00",
-      "_filename": "Firmware&DriverFinder_270525.json",
+      "_filename": "Firmware_DriverFinder_270525.json",
       "_file_modified": "2025-07-11T14:04:17.699700"
     },
     {
@@ -5826,7 +5851,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "ForandAgainst-DebateMapper_270525.json",
+      "_filename": "ForandAgainst_DebateMapper_270525.json",
       "_file_modified": "2025-08-05T00:49:38.281398"
     },
     {
@@ -6142,7 +6167,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "Geopolitics:ReactionTracking_270525.json",
+      "_filename": "Geopolitics_ReactionTracking_270525.json",
       "_file_modified": "2025-08-05T00:49:38.291817"
     },
     {
@@ -6237,7 +6262,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "GithubGistGenerator(Reformatter)_270525.json",
+      "_filename": "GithubGistGenerator_Reformatter_270525.json",
       "_file_modified": "2025-07-11T14:04:17.702700"
     },
     {
@@ -6351,7 +6376,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "GoodPlaceToWork?_270525.json",
+      "_filename": "GoodPlaceToWork_270525.json",
       "_file_modified": "2025-08-05T00:49:38.295529"
     },
     {
@@ -6623,7 +6648,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "GuessTheLLM?_270525.json",
+      "_filename": "GuessTheLLM_270525.json",
       "_file_modified": "2025-07-11T14:04:17.703700"
     },
     {
@@ -6813,7 +6838,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HomeAssistant-Scene&AutomationBuilder_270525.json",
+      "_filename": "HomeAssistant_Scene_AutomationBuilder_270525.json",
       "_file_modified": "2025-08-05T00:49:38.303091"
     },
     {
@@ -7174,7 +7199,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HowCanIPromptThat?_270525.json",
+      "_filename": "HowCanIPromptThat_270525.json",
       "_file_modified": "2025-08-05T00:49:38.312607"
     },
     {
@@ -7193,7 +7218,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HowDoYouSeeMe?_270525.json",
+      "_filename": "HowDoYouSeeMe_270525.json",
       "_file_modified": "2025-07-11T14:04:17.706700"
     },
     {
@@ -7212,7 +7237,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HowToAIThis?_270525.json",
+      "_filename": "HowToAIThis_270525.json",
       "_file_modified": "2025-07-11T14:04:17.707700"
     },
     {
@@ -7231,7 +7256,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HowToBackThisUp?_270525.json",
+      "_filename": "HowToBackThisUp_270525.json",
       "_file_modified": "2025-08-05T01:03:18.149488"
     },
     {
@@ -7250,7 +7275,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HowToBuildThis?_270525.json",
+      "_filename": "HowToBuildThis_270525.json",
       "_file_modified": "2025-08-05T00:49:38.313891"
     },
     {
@@ -7269,7 +7294,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "HowToDoThis?_270525.json",
+      "_filename": "HowToDoThis_270525.json",
       "_file_modified": "2025-08-05T00:49:38.314287"
     },
     {
@@ -7293,9 +7318,9 @@
       "notes": null,
       "json-schema": null,
       "json-schema-example": null,
-      "_filename": "HowI'mDoing_040625.json",
+      "_filename": "HowI_mDoing_040625.json",
       "_file_modified": "2025-07-11T14:04:17.707700",
-      "name": "HowI'mDoing 040625"
+      "name": "HowI mDoing 040625"
     },
     {
       "agentname": "Human In The Loop",
@@ -7389,7 +7414,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-21 14:02:01+00:00",
-      "_filename": "ISO3166Lookup(CountryCodes)_270525.json",
+      "_filename": "ISO3166Lookup_CountryCodes_270525.json",
       "_file_modified": "2025-07-11T14:04:17.707700"
     },
     {
@@ -7408,7 +7433,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-21 14:11:52+00:00",
-      "_filename": "ISO4217Lookup(WorldCurrencies)_270525.json",
+      "_filename": "ISO4217Lookup_WorldCurrencies_270525.json",
       "_file_modified": "2025-07-11T14:04:17.708700"
     },
     {
@@ -7743,7 +7768,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsItAnyGood?_270525.json",
+      "_filename": "IsItAnyGood_270525.json",
       "_file_modified": "2025-08-05T00:49:38.321873"
     },
     {
@@ -7762,7 +7787,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsThatAJob?_270525.json",
+      "_filename": "IsThatAJob_270525.json",
       "_file_modified": "2025-07-11T14:04:17.709700"
     },
     {
@@ -7781,7 +7806,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsThereABetterWay?_270525.json",
+      "_filename": "IsThereABetterWay_270525.json",
       "_file_modified": "2025-07-11T14:04:17.710701"
     },
     {
@@ -7800,7 +7825,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsThereABetterWay?(Tech)_270525.json",
+      "_filename": "IsThereABetterWay_Tech_270525.json",
       "_file_modified": "2025-07-11T14:04:17.710701"
     },
     {
@@ -7819,7 +7844,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsThereASelfHostedX?_270525.json",
+      "_filename": "IsThereASelfHostedX_270525.json",
       "_file_modified": "2025-08-05T00:49:38.322692"
     },
     {
@@ -7838,7 +7863,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsThereATechForThat?_270525.json",
+      "_filename": "IsThereATechForThat_270525.json",
       "_file_modified": "2025-08-05T01:03:18.153797"
     },
     {
@@ -7857,7 +7882,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "IsThisASalesPitch?_270525.json",
+      "_filename": "IsThisASalesPitch_270525.json",
       "_file_modified": "2025-08-05T00:49:38.323970"
     },
     {
@@ -8243,7 +8268,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "Job\"EOI\"EmailGenerator_270525.json",
+      "_filename": "Job_EOI_EmailGenerator_270525.json",
       "_file_modified": "2025-08-05T01:03:18.157963"
     },
     {
@@ -8433,7 +8458,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "KnowledgeBase&DocumentationSoftwareFinder_270525.json",
+      "_filename": "KnowledgeBase_DocumentationSoftwareFinder_270525.json",
       "_file_modified": "2025-07-11T14:04:17.713701"
     },
     {
@@ -8528,7 +8553,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "LLMBias&CensorshipEvaulator_270525.json",
+      "_filename": "LLMBias_CensorshipEvaulator_270525.json",
       "_file_modified": "2025-08-05T00:49:38.337474"
     },
     {
@@ -8661,7 +8686,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:51+00:00",
-      "_filename": "LLMTestLab(EvaluationTool)_270525.json",
+      "_filename": "LLMTestLab_EvaluationTool_270525.json",
       "_file_modified": "2025-07-11T14:04:17.714700"
     },
     {
@@ -8756,7 +8781,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "LabelTextExtractor(OCR)_270525.json",
+      "_filename": "LabelTextExtractor_OCR_270525.json",
       "_file_modified": "2025-07-11T14:04:17.715701"
     },
     {
@@ -8927,7 +8952,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "Linux-TerminalMaster_270525.json",
+      "_filename": "Linux_TerminalMaster_270525.json",
       "_file_modified": "2025-08-05T00:49:38.342669"
     },
     {
@@ -9098,7 +9123,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:50+00:00",
-      "_filename": "ListGenerator-GeneralPurpose_270525.json",
+      "_filename": "ListGenerator_GeneralPurpose_270525.json",
       "_file_modified": "2025-07-11T14:04:17.717700"
     },
     {
@@ -9136,7 +9161,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:51+00:00",
-      "_filename": "LocalAI&LLMTools_270525.json",
+      "_filename": "LocalAI_LLMTools_270525.json",
       "_file_modified": "2025-08-05T00:49:38.347278"
     },
     {
@@ -9155,7 +9180,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:51+00:00",
-      "_filename": "LocalFine-Tuning_270525.json",
+      "_filename": "LocalFine_Tuning_270525.json",
       "_file_modified": "2025-08-05T00:49:38.347793"
     },
     {
@@ -9174,7 +9199,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "LocalLLMExplainer:QuantizationAndVariants_270525.json",
+      "_filename": "LocalLLMExplainer_QuantizationAndVariants_270525.json",
       "_file_modified": "2025-07-11T14:04:17.717700"
     },
     {
@@ -9269,7 +9294,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "LookupTableGenerator(CSV)_270525.json",
+      "_filename": "LookupTableGenerator_CSV_270525.json",
       "_file_modified": "2025-07-11T14:04:17.718701"
     },
     {
@@ -9383,7 +9408,7 @@
       "json-example": null,
       "chatgpt-privacy": "Private",
       "creation_date": "2025-05-06 05:24:01+00:00",
-      "_filename": "Marcos&Shortcuts_270525.json",
+      "_filename": "Marcos_Shortcuts_270525.json",
       "_file_modified": "2025-07-11T14:04:17.718701"
     },
     {
@@ -9687,7 +9712,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "MermaidDiagramCreator&Editor_270525.json",
+      "_filename": "MermaidDiagramCreator_Editor_270525.json",
       "_file_modified": "2025-08-05T00:49:38.355057"
     },
     {
@@ -9744,7 +9769,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-06 22:35:53+00:00",
-      "_filename": "ModelContextProtocol(MCP)-Info_270525.json",
+      "_filename": "ModelContextProtocol_MCP_Info_270525.json",
       "_file_modified": "2025-07-11T14:04:17.720701"
     },
     {
@@ -9858,7 +9883,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Multi-AgentFrameworksGuide_270525.json",
+      "_filename": "Multi_AgentFrameworksGuide_270525.json",
       "_file_modified": "2025-07-11T14:04:17.720701"
     },
     {
@@ -10029,7 +10054,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Narcissistic&EmotionalAbuse:GaslightingIdentifier_270525.json",
+      "_filename": "Narcissistic_EmotionalAbuse_GaslightingIdentifier_270525.json",
       "_file_modified": "2025-07-11T14:04:17.721701"
     },
     {
@@ -10086,7 +10111,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "NaturalLanguageSchemaDefinition-MongoDB_270525.json",
+      "_filename": "NaturalLanguageSchemaDefinition_MongoDB_270525.json",
       "_file_modified": "2025-07-11T14:04:17.721701"
     },
     {
@@ -10415,7 +10440,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Non-PersonalEmailChallenge_270525.json",
+      "_filename": "Non_PersonalEmailChallenge_270525.json",
       "_file_modified": "2025-08-05T00:49:38.366802"
     },
     {
@@ -10744,7 +10769,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "OpposingNarratives-DialogueSimulation_270525.json",
+      "_filename": "OpposingNarratives_DialogueSimulation_270525.json",
       "_file_modified": "2025-07-11T14:04:17.724701"
     },
     {
@@ -11010,7 +11035,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Personal&ProfesionalBrandingAdvisor_270525.json",
+      "_filename": "Personal_ProfesionalBrandingAdvisor_270525.json",
       "_file_modified": "2025-08-05T00:49:38.374904"
     },
     {
@@ -11200,7 +11225,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Photogrammetery&ModellingTools_270525.json",
+      "_filename": "Photogrammetery_ModellingTools_270525.json",
       "_file_modified": "2025-07-11T14:04:17.727701"
     },
     {
@@ -11561,7 +11586,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Prompt&OutputReformatter_270525.json",
+      "_filename": "Prompt_OutputReformatter_270525.json",
       "_file_modified": "2025-07-11T14:04:17.729701"
     },
     {
@@ -11580,7 +11605,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "PromptConverter-JSONToMarkdown_270525.json",
+      "_filename": "PromptConverter_JSONToMarkdown_270525.json",
       "_file_modified": "2025-07-11T14:04:17.729701"
     },
     {
@@ -11618,7 +11643,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "PromptEditor-MimicStructuredOutput_270525.json",
+      "_filename": "PromptEditor_MimicStructuredOutput_270525.json",
       "_file_modified": "2025-07-11T14:04:17.729701"
     },
     {
@@ -11865,7 +11890,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Proofreader-Inconsistencies_270525.json",
+      "_filename": "Proofreader_Inconsistencies_270525.json",
       "_file_modified": "2025-07-11T14:04:17.730701"
     },
     {
@@ -11922,7 +11947,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "PseudoAnti-SpamBotMailer_270525.json",
+      "_filename": "PseudoAnti_SpamBotMailer_270525.json",
       "_file_modified": "2025-08-05T01:03:18.252249"
     },
     {
@@ -11960,7 +11985,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Pseudo-personalisationDetective_270525.json",
+      "_filename": "Pseudo_personalisationDetective_270525.json",
       "_file_modified": "2025-07-11T14:04:17.730701"
     },
     {
@@ -12017,7 +12042,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "Python-LearnByExample_270525.json",
+      "_filename": "Python_LearnByExample_270525.json",
       "_file_modified": "2025-08-05T00:49:38.388084"
     },
     {
@@ -12587,7 +12612,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "RiskReady-DisasterScenarioPrepper_270525.json",
+      "_filename": "RiskReady_DisasterScenarioPrepper_270525.json",
       "_file_modified": "2025-08-05T00:49:38.396230"
     },
     {
@@ -12663,7 +12688,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "SOP&ChecklistGenerator_270525.json",
+      "_filename": "SOP_ChecklistGenerator_270525.json",
       "_file_modified": "2025-08-05T00:49:38.399022"
     },
     {
@@ -12824,7 +12849,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "ScopeOfServiceOutliner(SLA)_270525.json",
+      "_filename": "ScopeOfServiceOutliner_SLA_270525.json",
       "_file_modified": "2025-07-11T14:04:17.735701"
     },
     {
@@ -13147,7 +13172,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "ShakespeareanTextGenerator(Full)_270525.json",
+      "_filename": "ShakespeareanTextGenerator_Full_270525.json",
       "_file_modified": "2025-07-11T14:04:17.736701"
     },
     {
@@ -13166,7 +13191,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "ShakespeareanTextGenerator(Light)_270525.json",
+      "_filename": "ShakespeareanTextGenerator_Light_270525.json",
       "_file_modified": "2025-07-11T14:04:17.736701"
     },
     {
@@ -13204,7 +13229,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "ShoppingListGenerator(Non-Food)_270525.json",
+      "_filename": "ShoppingListGenerator_Non_Food_270525.json",
       "_file_modified": "2025-07-11T14:04:17.736701"
     },
     {
@@ -13615,7 +13640,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "SpeakYourCalendar(ICSGenerator)_270525.json",
+      "_filename": "SpeakYourCalendar_ICSGenerator_270525.json",
       "_file_modified": "2025-07-11T14:04:17.738701"
     },
     {
@@ -13735,7 +13760,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 19:58:52+00:00",
-      "_filename": "SpeechToText(STT)Expert_270525.json",
+      "_filename": "SpeechToText_STT_Expert_270525.json",
       "_file_modified": "2025-08-05T00:49:38.417132"
     },
     {
@@ -13982,7 +14007,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "StorageRecs(FromPhotos)_270525.json",
+      "_filename": "StorageRecs_FromPhotos_270525.json",
       "_file_modified": "2025-08-05T00:49:38.425075"
     },
     {
@@ -14286,7 +14311,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SysAdminSupport(General)_270525.json",
+      "_filename": "SysAdminSupport_General_270525.json",
       "_file_modified": "2025-08-05T00:49:38.430580"
     },
     {
@@ -14305,7 +14330,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPrompt-CreateAndSave_270525.json",
+      "_filename": "SystemPrompt_CreateAndSave_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14343,7 +14368,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptAuto-Calibrater_270525.json",
+      "_filename": "SystemPromptAuto_Calibrater_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14362,7 +14387,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptAuto-Enhancer_270525.json",
+      "_filename": "SystemPromptAuto_Enhancer_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14400,7 +14425,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptCreator-Q&AWorkflow_270525.json",
+      "_filename": "SystemPromptCreator_Q_AWorkflow_270525.json",
       "_file_modified": "2025-08-05T00:49:38.432501"
     },
     {
@@ -14457,7 +14482,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptEditor(General)_270525.json",
+      "_filename": "SystemPromptEditor_General_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14476,7 +14501,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptEditor-AddRAG_270525.json",
+      "_filename": "SystemPromptEditor_AddRAG_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14495,7 +14520,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptEditor-AddTools_270525.json",
+      "_filename": "SystemPromptEditor_AddTools_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14514,7 +14539,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptEditor-OutputFormatInstructions_270525.json",
+      "_filename": "SystemPromptEditor_OutputFormatInstructions_270525.json",
       "_file_modified": "2025-07-11T14:04:17.742701"
     },
     {
@@ -14647,7 +14672,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "SystemPromptGenerator(PromptOnly)_270525.json",
+      "_filename": "SystemPromptGenerator_PromptOnly_270525.json",
       "_file_modified": "2025-07-11T14:04:17.743701"
     },
     {
@@ -15103,7 +15128,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TechTooling-SolveThisPainPoint_270525.json",
+      "_filename": "TechTooling_SolveThisPainPoint_270525.json",
       "_file_modified": "2025-07-11T14:04:17.745701"
     },
     {
@@ -15236,7 +15261,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TemplateDocumentGeneration(Context)_270525.json",
+      "_filename": "TemplateDocumentGeneration_Context_270525.json",
       "_file_modified": "2025-07-11T14:04:17.746701"
     },
     {
@@ -15312,7 +15337,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TextCleaner(RemoveFormatElements)_270525.json",
+      "_filename": "TextCleaner_RemoveFormatElements_270525.json",
       "_file_modified": "2025-08-05T00:49:38.446246"
     },
     {
@@ -15350,7 +15375,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TextEditor-EmotionalAmplifier_270525.json",
+      "_filename": "TextEditor_EmotionalAmplifier_270525.json",
       "_file_modified": "2025-08-05T00:49:38.447029"
     },
     {
@@ -15445,7 +15470,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TextProcessor-TextToSpeech_270525.json",
+      "_filename": "TextProcessor_TextToSpeech_270525.json",
       "_file_modified": "2025-07-11T14:04:17.747701"
     },
     {
@@ -15464,7 +15489,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TextReadabilityEstimator(FleschKincaid)_270525.json",
+      "_filename": "TextReadabilityEstimator_FleschKincaid_270525.json",
       "_file_modified": "2025-07-11T14:04:17.747701"
     },
     {
@@ -15483,7 +15508,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TextRepair(Code)_270525.json",
+      "_filename": "TextRepair_Code_270525.json",
       "_file_modified": "2025-08-05T00:49:38.449964"
     },
     {
@@ -15597,7 +15622,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-18 17:05:56+00:00",
-      "_filename": "TextToHTMLEmailTemplate(Converter)_270525.json",
+      "_filename": "TextToHTMLEmailTemplate_Converter_270525.json",
       "_file_modified": "2025-07-11T14:04:17.747701"
     },
     {
@@ -15673,7 +15698,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TextToListConverter(General)_270525.json",
+      "_filename": "TextToListConverter_General_270525.json",
       "_file_modified": "2025-07-11T14:04:17.748701"
     },
     {
@@ -15787,7 +15812,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "That'sAGoodAIQuestion!_270525.json",
+      "_filename": "That_sAGoodAIQuestion_270525.json",
       "_file_modified": "2025-08-05T00:49:38.454685"
     },
     {
@@ -15806,7 +15831,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TheAIProfessional'sTool-Finder_270525.json",
+      "_filename": "TheAIProfessional_sTool_Finder_270525.json",
       "_file_modified": "2025-08-05T00:49:38.455203"
     },
     {
@@ -15882,7 +15907,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "TheEccentric'sThesaurus_270525.json",
+      "_filename": "TheEccentric_sThesaurus_270525.json",
       "_file_modified": "2025-08-05T00:49:38.457220"
     },
     {
@@ -16243,7 +16268,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "To-DoListAppFinder_270525.json",
+      "_filename": "To_DoListAppFinder_270525.json",
       "_file_modified": "2025-07-11T14:04:17.750701"
     },
     {
@@ -16262,7 +16287,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "ToolFinder-SaaSOnly_270525.json",
+      "_filename": "ToolFinder_SaaSOnly_270525.json",
       "_file_modified": "2025-08-05T00:49:38.463686"
     },
     {
@@ -16281,7 +16306,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "ToolFinder-Self-HostedOnly_270525.json",
+      "_filename": "ToolFinder_Self_HostedOnly_270525.json",
       "_file_modified": "2025-08-05T00:49:38.464066"
     },
     {
@@ -16661,7 +16686,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "UserManual-ImageToText_270525.json",
+      "_filename": "UserManual_ImageToText_270525.json",
       "_file_modified": "2025-07-11T14:04:17.752701"
     },
     {
@@ -16908,7 +16933,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "VideoFormats&Codecs_270525.json",
+      "_filename": "VideoFormats_Codecs_270525.json",
       "_file_modified": "2025-08-05T00:49:38.471928"
     },
     {
@@ -17193,7 +17218,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "VoiceNoteToDocument(User-Specified)_270525.json",
+      "_filename": "VoiceNoteToDocument_User_Specified_270525.json",
       "_file_modified": "2025-07-11T14:04:17.754701"
     },
     {
@@ -17326,7 +17351,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WaiterBot-MenuSelector_270525.json",
+      "_filename": "WaiterBot_MenuSelector_270525.json",
       "_file_modified": "2025-07-11T14:04:17.754701"
     },
     {
@@ -17402,7 +17427,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhatAreMyPolitics?_270525.json",
+      "_filename": "WhatAreMyPolitics_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17421,7 +17446,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhatDoIThink?_270525.json",
+      "_filename": "WhatDoIThink_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17440,7 +17465,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhatDoesThatMean?_270525.json",
+      "_filename": "WhatDoesThatMean_270525.json",
       "_file_modified": "2025-08-05T00:49:38.479081"
     },
     {
@@ -17459,7 +17484,7 @@
       "json-example": null,
       "chatgpt-privacy": "Public (GPT Store)",
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhatI'mWorkingOn_270525.json",
+      "_filename": "WhatI_mWorkingOn_270525.json",
       "_file_modified": "2025-08-05T00:49:38.479444"
     },
     {
@@ -17478,7 +17503,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "What'sMyBeliefCalled?_270525.json",
+      "_filename": "What_sMyBeliefCalled_270525.json",
       "_file_modified": "2025-08-05T00:49:38.478244"
     },
     {
@@ -17497,7 +17522,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "What'sThePushback?_270525.json",
+      "_filename": "What_sThePushback_270525.json",
       "_file_modified": "2025-07-11T14:04:17.754701"
     },
     {
@@ -17516,7 +17541,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "What'sThis?OCRPartIdentifier_270525.json",
+      "_filename": "What_sThis_OCRPartIdentifier_270525.json",
       "_file_modified": "2025-07-11T14:04:17.754701"
     },
     {
@@ -17535,7 +17560,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "What'sthewordforthat?_270525.json",
+      "_filename": "What_sthewordforthat_270525.json",
       "_file_modified": "2025-07-11T14:04:17.754701"
     },
     {
@@ -17579,7 +17604,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhichTerminal?_270525.json",
+      "_filename": "WhichTerminal_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17598,7 +17623,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhichTimeZone?_270525.json",
+      "_filename": "WhichTimeZone_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17636,7 +17661,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhoInventedThis?_270525.json",
+      "_filename": "WhoInventedThis_270525.json",
       "_file_modified": "2025-08-05T00:49:38.480280"
     },
     {
@@ -17655,7 +17680,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "WhoSharesMyView?_270525.json",
+      "_filename": "WhoSharesMyView_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17674,7 +17699,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "Who'sBehindThisCompany?_270525.json",
+      "_filename": "Who_sBehindThisCompany_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17750,7 +17775,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "Work-LifeBalancer_270525.json",
+      "_filename": "Work_LifeBalancer_270525.json",
       "_file_modified": "2025-07-11T14:04:17.755702"
     },
     {
@@ -17864,7 +17889,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "Writing&EditingAppFinder_270525.json",
+      "_filename": "Writing_EditingAppFinder_270525.json",
       "_file_modified": "2025-07-11T14:04:17.756701"
     },
     {
@@ -18047,7 +18072,7 @@
       "json-example": null,
       "chatgpt-privacy": null,
       "creation_date": "2025-05-05 20:55:33+00:00",
-      "_filename": "ZigbeeHardwareFinder(MQTT)_270525.json",
+      "_filename": "ZigbeeHardwareFinder_MQTT_270525.json",
       "_file_modified": "2025-07-11T14:04:17.756701"
     },
     {
@@ -18068,6 +18093,79 @@
       "creation_date": "2025-05-05 19:58:48+00:00",
       "_filename": "arXivDigest_270525.json",
       "_file_modified": "2025-08-05T00:49:38.484566"
+    },
+    {
+      "creation_timestamp": "2025-08-19T11:22:06.741Z",
+      "agent_name": "Sample Text",
+      "agent_description": "Sample Text",
+      "system_prompt_original": "Sample Long text",
+      "isagent_boolean": true,
+      "is_single_turn_boolean": true,
+      "image_generation_boolean": true,
+      "chatgpt_lin": "https://nocodb.com",
+      "usecase_desc": "Sample Long text",
+      "vision_boolean": true,
+      "speech_to_speec_bolean": true,
+      "neesd_rag_boolean": true,
+      "needs_audio_boolean": true,
+      "conversational_boolean": true,
+      "instructional_boolean": true,
+      "mcp_tooling": "Sample Long text",
+      "general_notes": "Sample Long text",
+      "api_notes": "Sample Long text",
+      "_filename": "sample_text.json",
+      "_file_modified": "2025-08-19T14:42:07.725590",
+      "name": "sample text"
+    },
+    {
+      "agent_name": "Sample Text",
+      "Description": "Sample Text",
+      "One Line Summary": "Sample Text",
+      "Creation Date": "2025-08-19T12:04:02.609Z",
+      "ChatGPT Access URL": "https://nocodb.com",
+      "Utility Estimate": 1,
+      "Test Group": true,
+      "JSON Schema (Full)": "{}",
+      "JSON Schema (Example Value)": "{}",
+      "Better As Tool": true,
+      "Is Agent": true,
+      "Single Turn (Workflow Type)": true,
+      "External Tooling (Required)": true,
+      "Structured Output (Workflow Type)": true,
+      "Image Generation (Workflow Type)": true,
+      "Character (Type)": true,
+      "Roleplay (Behavior)": true,
+      "Voice First": true,
+      "Writing Assistant": true,
+      "Data Utility (Category)": true,
+      "N8N Link": "https://nocodb.com",
+      "RAG (Required)": true,
+      "Vision (Req)": true,
+      "Spech-To-Speech": true,
+      "Video Input (Required)": true,
+      "Audio (Required)": true,
+      "TTS (Required)": true,
+      "File Input (Req)": true,
+      "Conversational": true,
+      "Instructional": true,
+      "Autonomous": true,
+      "MCPs Used": "Sample Long text",
+      "API Notes": "Sample Long text",
+      "MCP Notes": "Sample Long text",
+      "Local LLM Friendly?": "Sample Text",
+      "Local LLM Notes": "Sample Long text",
+      "LLM Selection Notes": "Sample Long text",
+      "Deep Research": true,
+      "Update/Iteration": true,
+      "Iteration Notes": "Sample Long text",
+      "Use Case Outline": "Sample Long text",
+      "PII Notes": "Sample Long text",
+      "Cost Estimates": "Sample Long text",
+      "Localtisation Notes": "Sample Long text",
+      "Guardrails Notes": "Sample Long text",
+      "_filename": "testsample_text.json",
+      "_file_modified": "2025-08-19T16:04:48.087116",
+      "name": "testsample text"
     }
   ]
 }

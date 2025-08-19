@@ -1,11 +1,11 @@
 # System Prompt Library Index
 
-📊 **Growth Metrics** (2 days): ▁█
-- Current: **944 prompts**
-- Change: 📈 **52 prompts** since 2025-08-03
-- Range: 892 - 944 prompts
+📊 **Growth Metrics** (3 days): ▁▇█
+- Current: **947 prompts**
+- Change: 📈 **3 prompts** since 2025-08-05
+- Range: 892 - 947 prompts
 
-*Last updated: 2025-08-05 at 01:17 UTC | Generated from consolidated_prompts.json*
+*Last updated: 2025-08-19 at 16:22 UTC | Generated from consolidated_prompts.json*
 
 ---
 
@@ -17,7 +17,7 @@ This AI assistant locates and recommends comically terrible local experiences, c
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/1-StarReviewExplorer_270525.json)
+- 📄 [View JSON](system-prompts/json/1_StarReviewExplorer_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680718daa9708191ba3cd3b5160dbf0d-1-star-tourist-guide)
 
 ---
@@ -111,7 +111,7 @@ Identifies organizations based on acronyms, using contextual clues to disambigua
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Acronym-to-OrganisationAssistant_270525.json)
+- 📄 [View JSON](system-prompts/json/Acronym_to_OrganisationAssistant_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680705c35504819195125e068657dcf3-acronym-to-organisation)
 
 ---
@@ -163,7 +163,7 @@ Provides detailed technical guidance to the user about configuring AI agents and
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Agent&Assistants-HowTo_270525.json)
+- 📄 [View JSON](system-prompts/json/Agent_Assistants_HowTo_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68071b4b4a708191be08e721cf2312bb-agent-assistants-how-to)
 
 ---
@@ -305,7 +305,7 @@ Offers expert guidance on designing and implementing effective multi-agent syste
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AIAgentOrchestrationAssistant(Advisory)_270525.json)
+- 📄 [View JSON](system-prompts/json/AIAgentOrchestrationAssistant_Advisory_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b1080f3988191b9af45f3ef10ec66-ai-agent-orchestration-assistant-advisory)
 
 ---
@@ -500,7 +500,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AIExperimentPlanner(Villages)_270525.json)
+- 📄 [View JSON](system-prompts/json/AIExperimentPlanner_Villages_270525.json)
 
 ---
 
@@ -629,7 +629,7 @@ Formatting processor that generates structured question and answer style documen
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AIQ&ADocFormatter_270525.json)
+- 📄 [View JSON](system-prompts/json/AIQ_ADocFormatter_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68179f5a2d8081918a2c51db417506dc-ai-q-a-doc-formatter)
 
 ---
@@ -720,7 +720,7 @@ Brainstorming assistant that helps imagine novel use-cases for gen AI tools
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AIUse-CaseIdeationAssistant_270525.json)
+- 📄 [View JSON](system-prompts/json/AIUse_CaseIdeationAssistant_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e6cecf5d8819195e164a6ec3a9b19-ai-use-case-ideation-assistant)
 
 ---
@@ -848,7 +848,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AMDGPUAdvisor(Linux)_270525.json)
+- 📄 [View JSON](system-prompts/json/AMDGPUAdvisor_Linux_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b1533d2ac8191a47d8af6e46cc527-amd-gpu-advisor-linux)
 
 ---
@@ -1017,7 +1017,7 @@ Refines messages for clarity and assertiveness, ensuring directness without caus
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssertButDon'tOffend_270525.json)
+- 📄 [View JSON](system-prompts/json/AssertButDon_tOffend_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b6df2d8308191867ce43e3611d0a1-assert-but-don-t-offend)
 
 ---
@@ -1069,7 +1069,7 @@ Generates random ideas for AI assistants for text reformatting, writing, and edi
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-WritingAndEditing_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_WritingAndEditing_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b6f14c2388191aac33f0e921c9cb1-assistant-ideator-writing-and-editing)
 
 ---
@@ -1082,7 +1082,7 @@ You are an AI assistant specializing in the conception and development of new AI
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Audio-Capable_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Audio_Capable_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b748218d08191a7b316e6c94f75a3-assistant-ideator-audio-capable)
 
 ---
@@ -1095,7 +1095,7 @@ Generates random ideas for AI assistants for automation. If the user likes an id
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Automation_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Automation_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b75280c548191afe193424161e76a-assistant-ideator-automation)
 
 ---
@@ -1108,7 +1108,7 @@ Generates random ideas for AI assistants that help with data-related tasks. If t
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Data_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Data_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b76a2e038819195a08f52676a109d-assistant-ideator-data)
 
 ---
@@ -1121,7 +1121,7 @@ Generates random ideas for AI assistants for geopolitical analysis. If the user 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Geopol_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Geopol_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b77ce35dc819197bbe993c82a4f2f-assistant-ideator-geopol)
 
 ---
@@ -1134,7 +1134,7 @@ Generates random ideas for AI assistants for everything related to home automati
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-HomeAutomation_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_HomeAutomation_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b77f21e58819189bfd81f96c82ce3-assistant-ideator-home-automation)
 
 ---
@@ -1147,7 +1147,7 @@ Generates random ideas for AI assistants for note-taking and documentation. If t
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Notes&Docs_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Notes_Docs_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b79749f1c8191b692ee66b5d389e8-assistant-ideator-notes-docs)
 
 ---
@@ -1160,7 +1160,7 @@ Generates random ideas for AI assistants designed to help people organize their 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Organisation_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Organisation_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b799d76c88191b7c6a5a0c1e89295-assistant-ideator-organisation)
 
 ---
@@ -1173,7 +1173,7 @@ Generates random ideas for AI assistants focused on productivity. If the user li
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Productivity_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Productivity_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b79f8bf208191a5c17586e90bb385-assistant-ideator-productivity)
 
 ---
@@ -1186,7 +1186,7 @@ Develops,
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-PromptEng_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_PromptEng_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b7a29ba188191b8de7990602b4a2f-assistant-ideator-prompt-eng)
 
 ---
@@ -1199,7 +1199,7 @@ Generates random ideas for AI assistants for technology in general. If the user 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-Tech_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_Tech_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b7ab0ea5481918dfc04af8ddfecdb-assistant-ideator-tech)
 
 ---
@@ -1212,7 +1212,7 @@ Suggests AI assistant ideas based on user-defined categories, then generates nam
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AssistantIdeator-User-DefinedTopic_270525.json)
+- 📄 [View JSON](system-prompts/json/AssistantIdeator_User_DefinedTopic_270525.json)
 
 ---
 
@@ -1250,7 +1250,7 @@ An audio engineering expert who advises users on selecting the optimal audio for
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AudioFormats&Codecs_270525.json)
+- 📄 [View JSON](system-prompts/json/AudioFormats_Codecs_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b7be3634481918d5d624e95d62e24-audio-formats-codecs)
 
 ---
@@ -1263,7 +1263,7 @@ Offers guidance on audio editing, recording, and mastering using Linux-based too
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/AudioProduction(Linux)_270525.json)
+- 📄 [View JSON](system-prompts/json/AudioProduction_Linux_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680b7c4e2acc8191b773e9425fccc49a-audio-production-linux)
 
 ---
@@ -1523,7 +1523,7 @@ Generates biographies about named individuals
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/BiographyCreator(ThirdPerson)_270525.json)
+- 📄 [View JSON](system-prompts/json/BiographyCreator_ThirdPerson_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680bca97f7048191b9729412f0e38ada-biography-creator-third-person)
 
 ---
@@ -1613,7 +1613,7 @@ Answers user questions about professional book publishing best practices, coveri
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/BookPublicationQ&A_270525.json)
+- 📄 [View JSON](system-prompts/json/BookPublicationQ_A_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680bcc93e9e48191b83c21ff2fa248d7-book-publication-q-a)
 
 ---
@@ -1704,7 +1704,7 @@ General Purpose Writing Assistant focused on helping the user to reformat inform
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/BriefGenerator(GeneralPurpose)_270525.json)
+- 📄 [View JSON](system-prompts/json/BriefGenerator_GeneralPurpose_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681816df2134819183cc863df0336c39-brief-generator-general-purpose)
 
 ---
@@ -2193,7 +2193,7 @@ Modifies code according to user instructions, providing complete, syntactically 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/CodeEditor(General)_270525.json)
+- 📄 [View JSON](system-prompts/json/CodeEditor_General_270525.json)
 
 ---
 
@@ -2322,7 +2322,7 @@ Tech-savvy assistant providing up-to-date and cost-conscious tool recommendation
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/CommunicationsTools-Finder_270525.json)
+- 📄 [View JSON](system-prompts/json/CommunicationsTools_Finder_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680d8d35bc8481919b6a51f28ff99b10-communications-tools-finder)
 
 ---
@@ -2400,7 +2400,7 @@ Reformats personal essays into third-person narratives, primarily using the name
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ContextData-Reformatter(Only)_270525.json)
+- 📄 [View JSON](system-prompts/json/ContextData_Reformatter_Only_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680dea055ba0819189c9d53884640fe7-context-data-reformatter-only)
 
 ---
@@ -2490,7 +2490,7 @@ Converts unstructured text blocks into organized, third-person contextual snippe
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ContextGenerationAssistant(Voice)_270525.json)
+- 📄 [View JSON](system-prompts/json/ContextGenerationAssistant_Voice_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e01466cc48191ac012bcfa460c5a0-context-generation-assistant-voice)
 
 ---
@@ -2567,7 +2567,7 @@ Analyzes arguments and identifies supporting and opposing viewpoints, providing 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Counter-NarrativeExplorer_270525.json)
+- 📄 [View JSON](system-prompts/json/Counter_NarrativeExplorer_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e032723708191bf9bf8cb6290cb22-counter-narrative-explorer)
 
 ---
@@ -2823,7 +2823,7 @@ Intelligent assistant specializing in organizing data into meaningful clusters b
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DataClusteringAssistant(EntityGrouping)_270525.json)
+- 📄 [View JSON](system-prompts/json/DataClusteringAssistant_EntityGrouping_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e0935deb881918a6c50aa40158c00-data-clustering-assistant-entity-grouping)
 
 ---
@@ -3016,7 +3016,7 @@ Generates a daily plan for the user based on their tasks and hard stop times, pr
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DayPlanGenerator(FromTasks)_270525.json)
+- 📄 [View JSON](system-prompts/json/DayPlanGenerator_FromTasks_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e0b5111288191ae9b33f7b8917304-day-plan-generator-from-tasks)
 
 ---
@@ -3042,7 +3042,7 @@ Aids users in debugging code by analyzing provided code snippets and bug descrip
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Debugger(GeneralPurpose)_270525.json)
+- 📄 [View JSON](system-prompts/json/Debugger_GeneralPurpose_270525.json)
 
 ---
 
@@ -3054,7 +3054,7 @@ Assists users in debugging technical issues, providing thorough guidance and cod
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Debugger(GeneralTechSuport)_270525.json)
+- 📄 [View JSON](system-prompts/json/Debugger_GeneralTechSuport_270525.json)
 
 ---
 
@@ -3068,6 +3068,17 @@ Provides information about structured decision-making frameworks including sugge
 
 - 📄 [View JSON](system-prompts/json/DecisionMakingFrameworks_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6818de4df3f081919296990de3c6cbd2-decision-making-frameworks)
+
+---
+
+## DecisionFlowchartGenerator 170825
+
+No description available
+
+**Links:**
+
+- 📄 [View JSON](system-prompts/json/DecisionFlowchartGenerator_170825.json)
+- 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68a1d305a7508191b551ce1f77d87fdd-decision-flowchart-generator)
 
 ---
 
@@ -3183,7 +3194,7 @@ Answers questions about all aspects of development
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DevelopmentQ&A_270525.json)
+- 📄 [View JSON](system-prompts/json/DevelopmentQ_A_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e0c46a6a08191b39a027a1069bf1c-development-q-a)
 
 ---
@@ -3427,7 +3438,7 @@ Takes a document and rewrites its content from the user's perspective in the thi
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DocumentSummarizer(ForUser)_270525.json)
+- 📄 [View JSON](system-prompts/json/DocumentSummarizer_ForUser_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e160c9f788191b193845ae80ad407-document-summarizer-for-user)
 
 ---
@@ -3492,7 +3503,7 @@ Documentation assistant that generates Markdown-formatted documentation for user
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DocumentationGenerator(GeneralPurpose)_270525.json)
+- 📄 [View JSON](system-prompts/json/DocumentationGenerator_GeneralPurpose_270525.json)
 
 ---
 
@@ -3517,7 +3528,7 @@ Identifies existing software and services based on user-specified technology req
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DoesItExist?_270525.json)
+- 📄 [View JSON](system-prompts/json/DoesItExist_270525.json)
 
 ---
 
@@ -3529,7 +3540,7 @@ Does X have an API?
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/DoesItHaveAnAPI?_270525.json)
+- 📄 [View JSON](system-prompts/json/DoesItHaveAnAPI_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6819980b7a5481919ef40c6de19319a9-does-it-have-an-api)
 
 ---
@@ -3813,7 +3824,7 @@ This assistant generates prompts to (informally) evaluate bias or censorship in 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/EvaluationPromptGenerator-BiasAndCensorship_270525.json)
+- 📄 [View JSON](system-prompts/json/EvaluationPromptGenerator_BiasAndCensorship_270525.json)
 
 ---
 
@@ -3825,7 +3836,7 @@ Generates prompts for testing text-to-image performance
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/EvaluationPrompts-TextToImage_270525.json)
+- 📄 [View JSON](system-prompts/json/EvaluationPrompts_TextToImage_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e1b1cdb308191af46c4f69489903b-evaluation-prompts-text-to-image)
 
 ---
@@ -3838,7 +3849,7 @@ Generates prompts for testing text-to-video model performance
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/EvaluationPrompts-TextToVideo_270525.json)
+- 📄 [View JSON](system-prompts/json/EvaluationPrompts_TextToVideo_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e1b2ed81081918fe10d2a4f81a481-evaluation-prompts-text-to-video)
 
 ---
@@ -3890,7 +3901,7 @@ Expert on digital file and folder organization
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/File&FolderOrganisation_270525.json)
+- 📄 [View JSON](system-prompts/json/File_FolderOrganisation_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e1c9cce28819193436bd1738d1ebd-file-folder-organisation)
 
 ---
@@ -3903,7 +3914,7 @@ Attempts to retrieve a person's email address
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/FindThisPerson'sEmail_270525.json)
+- 📄 [View JSON](system-prompts/json/FindThisPerson_sEmail_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681d03e0a5088191987bb619609120ea-find-this-person-s-email)
 
 ---
@@ -3916,7 +3927,7 @@ Locates software drivers and firmware upgrades for tech components
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Firmware&DriverFinder_270525.json)
+- 📄 [View JSON](system-prompts/json/Firmware_DriverFinder_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681ddbc19b148191a6878392fd7bfb27-firmware-driver-finder)
 
 ---
@@ -3942,7 +3953,7 @@ Outlines the arguments for both sides of debated and polarizing topics, starting
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ForandAgainst-DebateMapper_270525.json)
+- 📄 [View JSON](system-prompts/json/ForandAgainst_DebateMapper_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e1d5c1b50819190d1002295aa9af2-for-and-against-debate-mapper)
 
 ---
@@ -4132,7 +4143,7 @@ Summarizes international governmental reactions to major news events, categorizi
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Geopolitics:ReactionTracking_270525.json)
+- 📄 [View JSON](system-prompts/json/Geopolitics_ReactionTracking_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e1ebca80c8191bf2e0c4eb6ba285b-geopolitics-reaction-tracking)
 
 ---
@@ -4171,7 +4182,7 @@ Reformats technical documents into Github Gist format
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/GithubGistGenerator(Reformatter)_270525.json)
+- 📄 [View JSON](system-prompts/json/GithubGistGenerator_Reformatter_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68179c383e8c8191914e39ec04ab8d00-github-gist-generator)
 
 ---
@@ -4273,7 +4284,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/GoodPlaceToWork?_270525.json)
+- 📄 [View JSON](system-prompts/json/GoodPlaceToWork_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e2021bedc81918155eb9227d8a23f-good-place-to-work)
 
 ---
@@ -4466,7 +4477,7 @@ Evaluates a large language model's compliance with a user-provided prompt on a s
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/GuessTheLLM?_270525.json)
+- 📄 [View JSON](system-prompts/json/GuessTheLLM_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e2205f61c8191a93f3845edaad9dd-guess-the-llm)
 
 ---
@@ -4583,7 +4594,7 @@ Builds scenes and automations from entity lists
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HomeAssistant-Scene&AutomationBuilder_270525.json)
+- 📄 [View JSON](system-prompts/json/HomeAssistant_Scene_AutomationBuilder_270525.json)
 
 ---
 
@@ -4825,7 +4836,7 @@ Answers queries on how to prompt for a specific objective
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowCanIPromptThat?_270525.json)
+- 📄 [View JSON](system-prompts/json/HowCanIPromptThat_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e3a5732a48191869eb7f6e8ec5583-how-can-i-prompt-that)
 
 ---
@@ -4838,7 +4849,7 @@ Offers supportive perspectives to users struggling with negative self-perception
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowDoYouSeeMe?_270525.json)
+- 📄 [View JSON](system-prompts/json/HowDoYouSeeMe_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e3c11d8e48191aad6a982918eb5aa-how-do-you-see-me)
 
 ---
@@ -4851,7 +4862,7 @@ Answers user questions about how to achieve ambitious projects using AI tools
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowToAIThis?_270525.json)
+- 📄 [View JSON](system-prompts/json/HowToAIThis_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e41bf56b08191ae40394ff13355c8-how-to-ai-this)
 
 ---
@@ -4864,7 +4875,7 @@ Advises the user, user, on data backup strategies, providing detailed options, c
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowToBackThisUp?_270525.json)
+- 📄 [View JSON](system-prompts/json/HowToBackThisUp_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e424b41f481918e2d4606d86cb1b2-how-to-back-this-up)
 
 ---
@@ -4877,7 +4888,7 @@ Assists users in mapping out technical projects by providing detailed technical 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowToBuildThis?_270525.json)
+- 📄 [View JSON](system-prompts/json/HowToBuildThis_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e4266b2d481919a12e9bcb2c0809e-how-to-build-this)
 
 ---
@@ -4890,18 +4901,18 @@ Provides users with actionable, step-by-step technical guidance and multiple opt
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowToDoThis?_270525.json)
+- 📄 [View JSON](system-prompts/json/HowToDoThis_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e431b830c8191b2d3ca980e589f72-how-to-do-this)
 
 ---
 
-## HowI'mDoing 040625
+## HowI mDoing 040625
 
 No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/HowI'mDoing_040625.json)
+- 📄 [View JSON](system-prompts/json/HowI_mDoing_040625.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68401ae4e6288191899cef68dfee85d6-how-i-m-doing)
 
 ---
@@ -5170,7 +5181,7 @@ Attempts to source and summarise consumer reviews about products
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsItAnyGood?_270525.json)
+- 📄 [View JSON](system-prompts/json/IsItAnyGood_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e49a07a3c8191b7cc739c3b8f1bb4-is-it-any-good)
 
 ---
@@ -5183,7 +5194,7 @@ Did you ever wonder whether a specific job exists? And if so, what it might be c
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsThatAJob?_270525.json)
+- 📄 [View JSON](system-prompts/json/IsThatAJob_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68073ddf3b6881919929a631b9c5f7aa-is-that-a-job)
 
 ---
@@ -5196,7 +5207,7 @@ Suggests improvements to the user's current processes, guiding them towards more
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsThereABetterWay?_270525.json)
+- 📄 [View JSON](system-prompts/json/IsThereABetterWay_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e49cab77c819199adfb050f0b5b86-is-there-a-better-way)
 
 ---
@@ -5209,7 +5220,7 @@ Suggests improvements to the user's technical processes, guiding them towards mo
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsThereABetterWay?(Tech)_270525.json)
+- 📄 [View JSON](system-prompts/json/IsThereABetterWay_Tech_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e49e26ad0819180975b39a22d89da-is-there-a-better-way-tech)
 
 ---
@@ -5222,7 +5233,7 @@ Identifies self-hostable software alternatives to SaaS offerings, considering va
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsThereASelfHostedX?_270525.json)
+- 📄 [View JSON](system-prompts/json/IsThereASelfHostedX_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e49f4f81481918f55d3c83da2078f-is-there-a-self-hosted-x)
 
 ---
@@ -5235,7 +5246,7 @@ Researches and recommends software solutions for user, considering his preferenc
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsThereATechForThat?_270525.json)
+- 📄 [View JSON](system-prompts/json/IsThereATechForThat_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e4ab57f208191959d921c5752e6eb-is-there-a-tech-for-that)
 
 ---
@@ -5248,7 +5259,7 @@ Analyzes email text provided by the user to determine whether it is a disguised 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/IsThisASalesPitch?_270525.json)
+- 📄 [View JSON](system-prompts/json/IsThisASalesPitch_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e4b216ed48191ac55bde61a73c05c-is-this-a-sales-pitch)
 
 ---
@@ -5261,7 +5272,7 @@ Convert user supplied lists of country names into their ISO 3166 equivalents
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ISO3166Lookup(CountryCodes)_270525.json)
+- 📄 [View JSON](system-prompts/json/ISO3166Lookup_CountryCodes_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-682ddbf78d248191b77409af062eceb8-iso-3166-lookup-country-codes)
 
 ---
@@ -5274,7 +5285,7 @@ Lookup utillity for ISO 4217 (currencies)
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ISO4217Lookup(WorldCurrencies)_270525.json)
+- 📄 [View JSON](system-prompts/json/ISO4217Lookup_WorldCurrencies_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-682ddde5122c81919f6ad49addfaed72-iso-4217-lookup-world-currencies)
 
 ---
@@ -5463,7 +5474,7 @@ Crafts personalized expressions of interest emails for the user, designed to hel
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Job"EOI"EmailGenerator_270525.json)
+- 📄 [View JSON](system-prompts/json/Job_EOI_EmailGenerator_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e5b42f7088191a93f3df733439540-job-eoi-email-generator)
 
 ---
@@ -5670,7 +5681,7 @@ Identifies documentation and knowledge management tools based on user specificat
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/KnowledgeBase&DocumentationSoftwareFinder_270525.json)
+- 📄 [View JSON](system-prompts/json/KnowledgeBase_DocumentationSoftwareFinder_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e5dac50588191be6a2332c0583f6b-knowledge-base-documentation-software-finder)
 
 ---
@@ -5683,7 +5694,7 @@ Extracts and organizes visible text from hardware labels, clearly separating mul
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LabelTextExtractor(OCR)_270525.json)
+- 📄 [View JSON](system-prompts/json/LabelTextExtractor_OCR_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680eb4e7244c8191a321385d719a7478-label-text-extractor-ocr)
 
 ---
@@ -5800,7 +5811,7 @@ Helps users enhance their Linux terminal skills by providing clear explanations,
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Linux-TerminalMaster_270525.json)
+- 📄 [View JSON](system-prompts/json/Linux_TerminalMaster_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e63dc89e48191be8ebb87aa711d65-linux-terminal-master)
 
 ---
@@ -5915,7 +5926,7 @@ Generates lists, provides them to the user
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ListGenerator-GeneralPurpose_270525.json)
+- 📄 [View JSON](system-prompts/json/ListGenerator_GeneralPurpose_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e65acf5308191b4fdb463fbc0078b-list-generator-general-purpose)
 
 ---
@@ -5993,7 +6004,7 @@ Evaluates large language model outputs for censorship and bias, analyzing user-p
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LLMBias&CensorshipEvaulator_270525.json)
+- 📄 [View JSON](system-prompts/json/LLMBias_CensorshipEvaulator_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e666a028881919237534c52f3061c-llm-bias-censorship-evaulator)
 
 ---
@@ -6083,7 +6094,7 @@ Guides novice users through the process of testing and evaluating large language
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LLMTestLab(EvaluationTool)_270525.json)
+- 📄 [View JSON](system-prompts/json/LLMTestLab_EvaluationTool_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e6c4fb8008191b1ff0d91df1f1d5f-llm-evaluations-guide)
 
 ---
@@ -6147,7 +6158,7 @@ Advises upon AI models which can be locally hosted
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LocalAI&LLMTools_270525.json)
+- 📄 [View JSON](system-prompts/json/LocalAI_LLMTools_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e6d77e7d08191aca3b1152ff9dc31-local-ai-llm-tools)
 
 ---
@@ -6160,7 +6171,7 @@ Tailored advice for local fine-tuning projects.
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LocalFine-Tuning_270525.json)
+- 📄 [View JSON](system-prompts/json/LocalFine_Tuning_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e6dd70ee48191bb758b51d2fe083b-local-ai-model-advisor)
 
 ---
@@ -6173,7 +6184,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LocalLLMExplainer:QuantizationAndVariants_270525.json)
+- 📄 [View JSON](system-prompts/json/LocalLLMExplainer_QuantizationAndVariants_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68124e65e79c8191ba611e322c1f8008-local-llm-explainer-quantization-and-variants)
 
 ---
@@ -6236,7 +6247,7 @@ Generates CSV loookup files according to user requirements
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/LookupTableGenerator(CSV)_270525.json)
+- 📄 [View JSON](system-prompts/json/LookupTableGenerator_CSV_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6817fcf621a481919094c94fe2860b35-lookup-table-generator-csv)
 
 ---
@@ -6275,7 +6286,7 @@ Suggests marco keys and shortcuts for efficient data entry
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Marcos&Shortcuts_270525.json)
+- 📄 [View JSON](system-prompts/json/Marcos_Shortcuts_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68199c748ae48191bb2264f251380a37-marcos-shortcuts)
 
 ---
@@ -6521,7 +6532,7 @@ Modifies Mermaid diagram code based on user requests and provides the updated co
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/MermaidDiagramCreator&Editor_270525.json)
+- 📄 [View JSON](system-prompts/json/MermaidDiagramCreator_Editor_270525.json)
 
 ---
 
@@ -6559,7 +6570,7 @@ Finds and explains current information related to the Model Context Protocol (MC
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ModelContextProtocol(MCP)-Info_270525.json)
+- 📄 [View JSON](system-prompts/json/ModelContextProtocol_MCP_Info_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681a8e8fac24819191cf7ee1441a7cb8-model-context-protocol-mcp-info)
 
 ---
@@ -6636,7 +6647,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Multi-AgentFrameworksGuide_270525.json)
+- 📄 [View JSON](system-prompts/json/Multi_AgentFrameworksGuide_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e795399a88191ab0c05ebfe9e437a-multi-agent-frameworks-guide)
 
 ---
@@ -6737,7 +6748,7 @@ This AI assistant simulates interactions with a narcissistic abuser to help user
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Narcissistic&EmotionalAbuse:GaslightingIdentifier_270525.json)
+- 📄 [View JSON](system-prompts/json/Narcissistic_EmotionalAbuse_GaslightingIdentifier_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e7a36a8b48191a949b4c3ec428363-gaslighting-spotter)
 
 ---
@@ -6776,7 +6787,7 @@ Translates natural language descriptions of data structures into corresponding M
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/NaturalLanguageSchemaDefinition-MongoDB_270525.json)
+- 📄 [View JSON](system-prompts/json/NaturalLanguageSchemaDefinition_MongoDB_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e7aec6c208191b8efcbeff75d8699-natural-language-schema-definition-mongodb)
 
 ---
@@ -7008,7 +7019,7 @@ This AI assistant drafts email replies that subtly challenge senders of potentia
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Non-PersonalEmailChallenge_270525.json)
+- 📄 [View JSON](system-prompts/json/Non_PersonalEmailChallenge_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e7e5132888191b994748339e1255e-non-personal-email-challenge)
 
 ---
@@ -7214,7 +7225,7 @@ Takes a user-defined issue and generates a debate between characters representin
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/OpposingNarratives-DialogueSimulation_270525.json)
+- 📄 [View JSON](system-prompts/json/OpposingNarratives_DialogueSimulation_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e836fce94819189a5376be6c584da-opposing-narratives-dialogue-simulation)
 
 ---
@@ -7394,7 +7405,7 @@ Assists the user by developing recommendations for personal branding
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Personal&ProfesionalBrandingAdvisor_270525.json)
+- 📄 [View JSON](system-prompts/json/Personal_ProfesionalBrandingAdvisor_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e8a3002288191adcc55709238216b-personal-profesional-branding-advisor)
 
 ---
@@ -7524,7 +7535,7 @@ Helps users explore photogrammetry tools for 3D modeling, especially for animati
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Photogrammetery&ModellingTools_270525.json)
+- 📄 [View JSON](system-prompts/json/Photogrammetery_ModellingTools_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680246f3d10881919d8123cd9d4be028-photogrammetery-modelling-tools)
 
 ---
@@ -7783,7 +7794,7 @@ Formats user-provided prompts and corresponding LLM outputs into a standardized 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Prompt&OutputReformatter_270525.json)
+- 📄 [View JSON](system-prompts/json/Prompt_OutputReformatter_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680eaaf52ca48191bb10b9c1e98f8131-prompt-output-reformatter)
 
 ---
@@ -7796,7 +7807,7 @@ Takes a JSON array of system prompt configurations and converts this to a human-
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/PromptConverter-JSONToMarkdown_270525.json)
+- 📄 [View JSON](system-prompts/json/PromptConverter_JSONToMarkdown_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ea87a2c1c81918823bfe3e8ef1290-prompt-converter-json-to-markdown)
 
 ---
@@ -7822,7 +7833,7 @@ Edits system prompts to enforce a more rigid structure to mimic structured outpu
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/PromptEditor-MimicStructuredOutput_270525.json)
+- 📄 [View JSON](system-prompts/json/PromptEditor_MimicStructuredOutput_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ea9489e088191988f096f37d9db2a-prompt-editor-mimic-structured-output)
 
 ---
@@ -7991,7 +8002,7 @@ Scans uploaded manuscripts for inconsistencies, particularly those involving sta
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Proofreader-Inconsistencies_270525.json)
+- 📄 [View JSON](system-prompts/json/Proofreader_Inconsistencies_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680eac01b5c081919c9912150d48d2a5-proofreader-inconsistencies)
 
 ---
@@ -8030,7 +8041,7 @@ Automatically replies to unsolicited marketing emails lacking unsubscribe links,
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/PseudoAnti-SpamBotMailer_270525.json)
+- 📄 [View JSON](system-prompts/json/PseudoAnti_SpamBotMailer_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680eac68613081918963be376d851c28-pseudo-anti-spam-bot-mailer)
 
 ---
@@ -8056,7 +8067,7 @@ Analyzes emails to determine the likelihood of genuine personalization versus au
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Pseudo-personalisationDetective_270525.json)
+- 📄 [View JSON](system-prompts/json/Pseudo_personalisationDetective_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680eac7e8c2c8191b5309b58454f8c22-pseudo-personalisation-detective)
 
 ---
@@ -8094,7 +8105,7 @@ Helps users learn Python by explaining their provided code, offering both genera
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Python-LearnByExample_270525.json)
+- 📄 [View JSON](system-prompts/json/Python_LearnByExample_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ead18ec60819197a91358ebb7d6b6-python-learn-by-example)
 
 ---
@@ -8464,7 +8475,7 @@ Crafts realistic disaster scenarios based on user-specified locations, assesses 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/RiskReady-DisasterScenarioPrepper_270525.json)
+- 📄 [View JSON](system-prompts/json/RiskReady_DisasterScenarioPrepper_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ebcf124dc81919cb584485cd8952d-risk-ready-disaster-scenario-prepper)
 
 ---
@@ -8508,6 +8519,26 @@ Gathers and analyzes salary benchmarks based on the user's experience, desired r
 
 ---
 
+## Sample Text
+
+No description available
+
+**Links:**
+
+- 📄 [View JSON](system-prompts/json/sample_text.json)
+
+---
+
+## Sample Text
+
+No description available
+
+**Links:**
+
+- 📄 [View JSON](system-prompts/json/testsample_text.json)
+
+---
+
 ## SampleText 290525
 
 No description available
@@ -8545,7 +8576,7 @@ Clarifies project scopes by formatting user-provided details into formal documen
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ScopeOfServiceOutliner(SLA)_270525.json)
+- 📄 [View JSON](system-prompts/json/ScopeOfServiceOutliner_SLA_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6802424189f08191978ff165621ed273-scope-of-service-sla-drafter)
 
 ---
@@ -8785,7 +8816,7 @@ Translates text into Shakespearean English, creatively adapting modern terms to 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ShakespeareanTextGenerator(Full)_270525.json)
+- 📄 [View JSON](system-prompts/json/ShakespeareanTextGenerator_Full_270525.json)
 
 ---
 
@@ -8797,7 +8828,7 @@ Shakespearean text converter which makes lighter touch modifications for those n
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ShakespeareanTextGenerator(Light)_270525.json)
+- 📄 [View JSON](system-prompts/json/ShakespeareanTextGenerator_Light_270525.json)
 
 ---
 
@@ -8822,7 +8853,7 @@ Helps users to prepare a list of something they're looking for
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ShoppingListGenerator(Non-Food)_270525.json)
+- 📄 [View JSON](system-prompts/json/ShoppingListGenerator_Non_Food_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680e1fcb0bbc8191a9fa4333b98b1526-shopping-list-generator-non-food)
 
 ---
@@ -9048,7 +9079,7 @@ Helps users create Standard Operating Procedures (SOPs) and checklists, optimizi
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SOP&ChecklistGenerator_270525.json)
+- 📄 [View JSON](system-prompts/json/SOP_ChecklistGenerator_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ec42368888191acc0a619b686228c-sop-checklist-generator)
 
 ---
@@ -9111,7 +9142,7 @@ Generates ICS calendar entries from dictated calendar events
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SpeakYourCalendar(ICSGenerator)_270525.json)
+- 📄 [View JSON](system-prompts/json/SpeakYourCalendar_ICSGenerator_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68024188a540819196577b5ab6c052a2-speak-your-calendar-ics-generator)
 
 ---
@@ -9187,7 +9218,7 @@ Advises users on speech-to-text models, offering information on model selection,
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SpeechToText(STT)Expert_270525.json)
+- 📄 [View JSON](system-prompts/json/SpeechToText_STT_Expert_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ec4bf2fbc819184454ab6d2003e84-speech-to-text-stt-expert)
 
 ---
@@ -9390,7 +9421,7 @@ Provides actionable storage and decluttering recommendations for home offices ba
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/StorageRecs(FromPhotos)_270525.json)
+- 📄 [View JSON](system-prompts/json/StorageRecs_FromPhotos_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ec660b8648191a3cfa60263c4efaf-storage-recs-from-photos)
 
 ---
@@ -9595,7 +9626,7 @@ Context-aware tech support help (desktop OpenSUSE, remote not assumed)
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SysAdminSupport(General)_270525.json)
+- 📄 [View JSON](system-prompts/json/SysAdminSupport_General_270525.json)
 
 ---
 
@@ -9607,7 +9638,7 @@ Shorter system prompt generation tool
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPrompt-CreateAndSave_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPrompt_CreateAndSave_270525.json)
 
 ---
 
@@ -9632,7 +9663,7 @@ Analyzes system prompts and AI responses to generate improved prompts for enhanc
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptAuto-Calibrater_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptAuto_Calibrater_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ecc0e0cac819181adee83abab7b05-system-prompt-auto-calibrater)
 
 ---
@@ -9645,7 +9676,7 @@ Instructional utility which expects the user to provide a pasted system prompt a
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptAuto-Enhancer_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptAuto_Enhancer_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ecc1fdc248191b3697f390ce74015-system-prompt-auto-enhancer)
 
 ---
@@ -9671,7 +9702,7 @@ Assistant specialized in constructing general-purpose system prompts by engaging
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptCreator-Q&AWorkflow_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptCreator_Q_AWorkflow_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ecd0243d88191b8e3bc6fb6cde2b9-system-prompt-creator-q-a-workflow)
 
 ---
@@ -9714,7 +9745,7 @@ Refines system prompts based on user instructions, enhancing clarity and effecti
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptEditor(General)_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptEditor_General_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ecd38153c8191952e27750ad5d174-system-prompt-editor-general)
 
 ---
@@ -9727,7 +9758,7 @@ Augments existing AI assistants with instructions for using external data source
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptEditor-AddRAG_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptEditor_AddRAG_270525.json)
 
 ---
 
@@ -9739,7 +9770,7 @@ Enhances AI assistant system prompts by adding instructions for using available 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptEditor-AddTools_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptEditor_AddTools_270525.json)
 
 ---
 
@@ -9751,7 +9782,7 @@ Modifies system prompts to adjust the way an AI assistant presents information t
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptEditor-OutputFormatInstructions_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptEditor_OutputFormatInstructions_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ecd5576d481918f717d3a37927dbb-system-prompt-editor-output-format-instructions)
 
 ---
@@ -9838,7 +9869,7 @@ Shorter system prompt generation tool
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/SystemPromptGenerator(PromptOnly)_270525.json)
+- 📄 [View JSON](system-prompts/json/SystemPromptGenerator_PromptOnly_270525.json)
 
 ---
 
@@ -10117,7 +10148,7 @@ Invites users to provide a tool and a pain point / point of friction to ideate a
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TechTooling-SolveThisPainPoint_270525.json)
+- 📄 [View JSON](system-prompts/json/TechTooling_SolveThisPainPoint_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6818dd2b8d048191b8bb41b0ce5d20c0-tech-tooling-solve-this-pain-point)
 
 ---
@@ -10206,7 +10237,7 @@ Creates dynamic document templates according to user descriptions, including opt
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TemplateDocumentGeneration(Context)_270525.json)
+- 📄 [View JSON](system-prompts/json/TemplateDocumentGeneration_Context_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680242011a20819191f5afb2687ad063-template-generation-assistant)
 
 ---
@@ -10257,7 +10288,7 @@ Removes extraneous information such as page numbers, headers, and footers from t
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextCleaner(RemoveFormatElements)_270525.json)
+- 📄 [View JSON](system-prompts/json/TextCleaner_RemoveFormatElements_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ed03b875c819189f4cf82b83f477e-text-cleaner-remove-format-elements)
 
 ---
@@ -10282,7 +10313,7 @@ Rewrites to intensify its emotional impact. It uses vivid language, imagery, and
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextEditor-EmotionalAmplifier_270525.json)
+- 📄 [View JSON](system-prompts/json/TextEditor_EmotionalAmplifier_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ed09114c081918a7ff8abce3cb94d-text-editor-emotional-amplifier)
 
 ---
@@ -10347,7 +10378,7 @@ Prepares text for conversion to speech by removing extraneous non-readable eleme
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextProcessor-TextToSpeech_270525.json)
+- 📄 [View JSON](system-prompts/json/TextProcessor_TextToSpeech_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ed1022268819192345e61d62fc33e-text-processor-text-to-speech)
 
 ---
@@ -10360,7 +10391,7 @@ Estimates the readability score of English text using the Flesch-Kincaid scale a
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextReadabilityEstimator(FleschKincaid)_270525.json)
+- 📄 [View JSON](system-prompts/json/TextReadabilityEstimator_FleschKincaid_270525.json)
 
 ---
 
@@ -10372,7 +10403,7 @@ Fixes text present in code
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextRepair(Code)_270525.json)
+- 📄 [View JSON](system-prompts/json/TextRepair_Code_270525.json)
 
 ---
 
@@ -10460,7 +10491,7 @@ Converts text into email-compliant HTML templates
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextToHTMLEmailTemplate(Converter)_270525.json)
+- 📄 [View JSON](system-prompts/json/TextToHTMLEmailTemplate_Converter_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-682a127b81e4819183eca28d7b6a1828-text-to-html-email-template-converter)
 
 ---
@@ -10512,7 +10543,7 @@ Generates lists from freeform text
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TextToListConverter(General)_270525.json)
+- 📄 [View JSON](system-prompts/json/TextToListConverter_General_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ed1f089748191a84a7ca106344a3c-text-to-list-converter-general)
 
 ---
@@ -10577,7 +10608,7 @@ Serves as a friendly and knowledgeable AI learning partner, proactively cultivat
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/That'sAGoodAIQuestion!_270525.json)
+- 📄 [View JSON](system-prompts/json/That_sAGoodAIQuestion_270525.json)
 
 ---
 
@@ -10589,7 +10620,7 @@ Offers thorough, helpful recommendations with links to AI tools for professional
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TheAIProfessional'sTool-Finder_270525.json)
+- 📄 [View JSON](system-prompts/json/TheAIProfessional_sTool_Finder_270525.json)
 
 ---
 
@@ -10639,7 +10670,7 @@ Acts as a thesaurus by providing synonyms for user-specified words, including a 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/TheEccentric'sThesaurus_270525.json)
+- 📄 [View JSON](system-prompts/json/TheEccentric_sThesaurus_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680ee32aaae08191a92e2205fd7c7969-the-eccentric-s-thesaurus)
 
 ---
@@ -10886,7 +10917,7 @@ Software-finding assistant focused on to-do list applications
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/To-DoListAppFinder_270525.json)
+- 📄 [View JSON](system-prompts/json/To_DoListAppFinder_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6810f307fd188191aa9d896b691667a2-to-do-list-app-finder)
 
 ---
@@ -10899,7 +10930,7 @@ A diligent SaaS research assistant providing ranked recommendations based on spe
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ToolFinder-SaaSOnly_270525.json)
+- 📄 [View JSON](system-prompts/json/ToolFinder_SaaSOnly_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68111a41457c8191ac1d84d8cb94c9d0-tool-finder-saas-only)
 
 ---
@@ -10912,7 +10943,7 @@ A diligent software research assistant providing ranked recommendations for self
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ToolFinder-Self-HostedOnly_270525.json)
+- 📄 [View JSON](system-prompts/json/ToolFinder_Self_HostedOnly_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68111a52227c8191a855bb2b197f39db-tool-finder-self-hosted-only)
 
 ---
@@ -11193,7 +11224,7 @@ You are Manual Reconstructor, an AI assistant designed to process photographs of
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/UserManual-ImageToText_270525.json)
+- 📄 [View JSON](system-prompts/json/UserManual_ImageToText_270525.json)
 
 ---
 
@@ -11320,7 +11351,7 @@ A video and audio engineering expert adept at advising users on selecting optima
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/VideoFormats&Codecs_270525.json)
+- 📄 [View JSON](system-prompts/json/VideoFormats_Codecs_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68115f80621c819185f5f576879dbef8-video-formats-codecs)
 
 ---
@@ -11519,7 +11550,7 @@ Transcribes audio notes and organizes them into structured documents based on us
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/VoiceNoteToDocument(User-Specified)_270525.json)
+- 📄 [View JSON](system-prompts/json/VoiceNoteToDocument_User_Specified_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6811603881f08191b0fdc30c10565e04-voice-note-to-document-user-specified)
 
 ---
@@ -11643,7 +11674,7 @@ Suggests five menu options from uploaded menu images based on user-described pre
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WaiterBot-MenuSelector_270525.json)
+- 📄 [View JSON](system-prompts/json/WaiterBot_MenuSelector_270525.json)
 
 ---
 
@@ -11692,7 +11723,7 @@ It helps users explore their political beliefs, understand how they align with c
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhatAreMyPolitics?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhatAreMyPolitics_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6811610130008191a0182b6969ef1e6c-what-are-my-politics)
 
 ---
@@ -11705,7 +11736,7 @@ Assists users in developing independent thinking skills, particularly those who 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhatDoIThink?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhatDoIThink_270525.json)
 
 ---
 
@@ -11717,7 +11748,7 @@ Interprets emails, particularly those laden with jargon and corporate lingo, to 
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhatDoesThatMean?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhatDoesThatMean_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68116117dd208191b3db801d73f97c2a-what-does-that-mean)
 
 ---
@@ -11730,7 +11761,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhatI'mWorkingOn_270525.json)
+- 📄 [View JSON](system-prompts/json/WhatI_mWorkingOn_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-68124062a1048191851a36badabef675-what-i-m-working-on)
 
 ---
@@ -11743,7 +11774,7 @@ Aids users in articulating and understanding their deeply held beliefs by acting
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/What'sMyBeliefCalled?_270525.json)
+- 📄 [View JSON](system-prompts/json/What_sMyBeliefCalled_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6811613c9ebc819193aaba352d813440-what-s-my-belief-called)
 
 ---
@@ -11756,7 +11787,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/What'sThePushback?_270525.json)
+- 📄 [View JSON](system-prompts/json/What_sThePushback_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6811614e89d08191b16e244fc4e9338c-what-s-the-pushback)
 
 ---
@@ -11769,7 +11800,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/What'sthewordforthat?_270525.json)
+- 📄 [View JSON](system-prompts/json/What_sthewordforthat_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681161611aa88191842e73a9e27b9888-what-s-the-word-for-that)
 
 ---
@@ -11782,7 +11813,7 @@ Analyzes technical photos (like computers or car engines) to identify parts, ext
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/What'sThis?OCRPartIdentifier_270525.json)
+- 📄 [View JSON](system-prompts/json/What_sThis_OCRPartIdentifier_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-680eb5a6af908191989a90531e701f95-what-s-this-ocr-part-identifier)
 
 ---
@@ -11805,7 +11836,7 @@ Quickly identifies the terminal an airline operates from, based on real-time sea
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhichTerminal?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhichTerminal_270525.json)
 
 ---
 
@@ -11817,7 +11848,7 @@ Determines the time zone of any city, including its UTC offset and DST schedule.
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhichTimeZone?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhichTimeZone_270525.json)
 
 ---
 
@@ -11842,7 +11873,7 @@ Tells the story of the people behind inventions
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhoInventedThis?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhoInventedThis_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681161d33c288191bc325a37803a7b17-who-invented-this)
 
 ---
@@ -11855,7 +11886,7 @@ No description available
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/WhoSharesMyView?_270525.json)
+- 📄 [View JSON](system-prompts/json/WhoSharesMyView_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681161f7d2988191a33803b882dc5aec-who-shares-my-view)
 
 ---
@@ -11868,7 +11899,7 @@ Investigates companies, especially tech startups, to identify founders and co-fo
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Who'sBehindThisCompany?_270525.json)
+- 📄 [View JSON](system-prompts/json/Who_sBehindThisCompany_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681161e81f18819199e6434f6ca98904-who-s-behind-this-company)
 
 ---
@@ -11918,7 +11949,7 @@ Offers support and advice to individuals struggling with the compulsion to be co
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Work-LifeBalancer_270525.json)
+- 📄 [View JSON](system-prompts/json/Work_LifeBalancer_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-6811628756bc819187b11e77e386acba-work-life-balancer)
 
 ---
@@ -11993,7 +12024,7 @@ App finding assistant for writing and editing tools
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/Writing&EditingAppFinder_270525.json)
+- 📄 [View JSON](system-prompts/json/Writing_EditingAppFinder_270525.json)
 
 ---
 
@@ -12102,7 +12133,7 @@ Locates compatible ZigBee hardware using current data, focusing on reputable man
 
 **Links:**
 
-- 📄 [View JSON](system-prompts/json/ZigbeeHardwareFinder(MQTT)_270525.json)
+- 📄 [View JSON](system-prompts/json/ZigbeeHardwareFinder_MQTT_270525.json)
 - 🤖 [Try in ChatGPT](https://chatgpt.com/g/g-681163bc7bdc8191b90d535330fe4973-zigbee-hardware-finder-mqtt)
 
 ---
