@@ -1,104 +1,1004 @@
 {
   "tags": [
     {
-      "id": "automation",
-      "name": "Automation",
-      "description": "Workflow automation and task scheduling"
+      "id": "python",
+      "name": "Python",
+      "description": "Python programming language"
     },
     {
-      "id": "coding",
-      "name": "Coding",
-      "description": "Programming and software development"
+      "id": "javascript",
+      "name": "JavaScript",
+      "description": "JavaScript programming language"
     },
     {
-      "id": "writing",
-      "name": "Writing",
-      "description": "Content creation and writing assistance"
+      "id": "typescript",
+      "name": "TypeScript",
+      "description": "TypeScript programming language"
     },
     {
-      "id": "research",
-      "name": "Research",
-      "description": "Information gathering and analysis"
+      "id": "java",
+      "name": "Java",
+      "description": "Java programming language"
     },
     {
-      "id": "business",
-      "name": "Business",
-      "description": "Business strategy and operations"
+      "id": "csharp",
+      "name": "C#",
+      "description": "C# programming language"
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "description": "C++ programming language"
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "description": "C programming language"
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "description": "Go programming language"
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "description": "Rust programming language"
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "description": "PHP programming language"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "description": "Ruby programming language"
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "description": "Kotlin programming language"
+    },
+    {
+      "id": "scala",
+      "name": "Scala",
+      "description": "Scala programming language"
+    },
+    {
+      "id": "swift",
+      "name": "Swift",
+      "description": "Swift programming language"
+    },
+    {
+      "id": "r",
+      "name": "R",
+      "description": "R statistical programming language"
+    },
+    {
+      "id": "matlab",
+      "name": "MATLAB",
+      "description": "MATLAB programming language"
+    },
+    {
+      "id": "perl",
+      "name": "Perl",
+      "description": "Perl programming language"
+    },
+    {
+      "id": "shell",
+      "name": "Shell Scripting",
+      "description": "Shell scripting and bash"
+    },
+    {
+      "id": "powershell",
+      "name": "PowerShell",
+      "description": "PowerShell scripting"
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "description": "SQL database queries"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "description": "React frontend framework"
+    },
+    {
+      "id": "vue",
+      "name": "Vue.js",
+      "description": "Vue.js frontend framework"
+    },
+    {
+      "id": "angular",
+      "name": "Angular",
+      "description": "Angular frontend framework"
+    },
+    {
+      "id": "svelte",
+      "name": "Svelte",
+      "description": "Svelte frontend framework"
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "description": "Node.js runtime environment"
+    },
+    {
+      "id": "express",
+      "name": "Express.js",
+      "description": "Express.js web framework"
+    },
+    {
+      "id": "nestjs",
+      "name": "NestJS",
+      "description": "NestJS Node.js framework"
+    },
+    {
+      "id": "django",
+      "name": "Django",
+      "description": "Django Python web framework"
+    },
+    {
+      "id": "flask",
+      "name": "Flask",
+      "description": "Flask Python web framework"
+    },
+    {
+      "id": "fastapi",
+      "name": "FastAPI",
+      "description": "FastAPI Python framework"
+    },
+    {
+      "id": "spring",
+      "name": "Spring",
+      "description": "Spring Java framework"
+    },
+    {
+      "id": "spring-boot",
+      "name": "Spring Boot",
+      "description": "Spring Boot framework"
+    },
+    {
+      "id": "rails",
+      "name": "Ruby on Rails",
+      "description": "Ruby on Rails framework"
+    },
+    {
+      "id": "laravel",
+      "name": "Laravel",
+      "description": "Laravel PHP framework"
+    },
+    {
+      "id": "dotnet",
+      "name": ".NET",
+      "description": ".NET framework"
+    },
+    {
+      "id": "tensorflow",
+      "name": "TensorFlow",
+      "description": "TensorFlow ML framework"
+    },
+    {
+      "id": "pytorch",
+      "name": "PyTorch",
+      "description": "PyTorch ML framework"
+    },
+    {
+      "id": "pandas",
+      "name": "Pandas",
+      "description": "Pandas data manipulation"
+    },
+    {
+      "id": "numpy",
+      "name": "NumPy",
+      "description": "NumPy numerical computing"
+    },
+    {
+      "id": "scikit-learn",
+      "name": "Scikit-learn",
+      "description": "Scikit-learn ML library"
+    },
+    {
+      "id": "bootstrap",
+      "name": "Bootstrap",
+      "description": "Bootstrap CSS framework"
+    },
+    {
+      "id": "tailwind",
+      "name": "Tailwind CSS",
+      "description": "Tailwind CSS framework"
+    },
+    {
+      "id": "jquery",
+      "name": "jQuery",
+      "description": "jQuery JavaScript library"
+    },
+    {
+      "id": "d3",
+      "name": "D3.js",
+      "description": "D3.js data visualization"
+    },
+    {
+      "id": "three",
+      "name": "Three.js",
+      "description": "Three.js 3D graphics"
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "description": "Amazon Web Services"
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "description": "Microsoft Azure"
+    },
+    {
+      "id": "gcp",
+      "name": "Google Cloud",
+      "description": "Google Cloud Platform"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "description": "Docker containerization"
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "description": "Kubernetes orchestration"
+    },
+    {
+      "id": "terraform",
+      "name": "Terraform",
+      "description": "Terraform infrastructure as code"
+    },
+    {
+      "id": "ansible",
+      "name": "Ansible",
+      "description": "Ansible automation"
+    },
+    {
+      "id": "jenkins",
+      "name": "Jenkins",
+      "description": "Jenkins CI/CD"
+    },
+    {
+      "id": "gitlab-ci",
+      "name": "GitLab CI",
+      "description": "GitLab CI/CD"
+    },
+    {
+      "id": "github-actions",
+      "name": "GitHub Actions",
+      "description": "GitHub Actions workflows"
+    },
+    {
+      "id": "nginx",
+      "name": "Nginx",
+      "description": "Nginx web server"
+    },
+    {
+      "id": "apache",
+      "name": "Apache",
+      "description": "Apache HTTP server"
+    },
+    {
+      "id": "redis",
+      "name": "Redis",
+      "description": "Redis caching"
+    },
+    {
+      "id": "elasticsearch",
+      "name": "Elasticsearch",
+      "description": "Elasticsearch search"
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "description": "MongoDB database"
+    },
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "description": "PostgreSQL database"
+    },
+    {
+      "id": "mysql",
+      "name": "MySQL",
+      "description": "MySQL database"
+    },
+    {
+      "id": "kafka",
+      "name": "Apache Kafka",
+      "description": "Apache Kafka streaming"
+    },
+    {
+      "id": "rabbitmq",
+      "name": "RabbitMQ",
+      "description": "RabbitMQ messaging"
+    },
+    {
+      "id": "microservices",
+      "name": "Microservices",
+      "description": "Microservices architecture"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning",
+      "description": "Machine learning algorithms"
+    },
+    {
+      "id": "deep-learning",
+      "name": "Deep Learning",
+      "description": "Deep learning neural networks"
+    },
+    {
+      "id": "nlp",
+      "name": "Natural Language Processing",
+      "description": "NLP and text processing"
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer Vision",
+      "description": "Computer vision and image processing"
+    },
+    {
+      "id": "data-science",
+      "name": "Data Science",
+      "description": "Data science and analytics"
+    },
+    {
+      "id": "neural-networks",
+      "name": "Neural Networks",
+      "description": "Neural network architectures"
+    },
+    {
+      "id": "transformers",
+      "name": "Transformers",
+      "description": "Transformer models"
+    },
+    {
+      "id": "llm",
+      "name": "Large Language Models",
+      "description": "Large language models"
+    },
+    {
+      "id": "gpt",
+      "name": "GPT",
+      "description": "GPT models and variants"
+    },
+    {
+      "id": "bert",
+      "name": "BERT",
+      "description": "BERT and variants"
+    },
+    {
+      "id": "reinforcement-learning",
+      "name": "Reinforcement Learning",
+      "description": "RL algorithms"
+    },
+    {
+      "id": "supervised-learning",
+      "name": "Supervised Learning",
+      "description": "Supervised ML methods"
+    },
+    {
+      "id": "unsupervised-learning",
+      "name": "Unsupervised Learning",
+      "description": "Unsupervised ML methods"
+    },
+    {
+      "id": "classification",
+      "name": "Classification",
+      "description": "Classification algorithms"
+    },
+    {
+      "id": "regression",
+      "name": "Regression",
+      "description": "Regression analysis"
+    },
+    {
+      "id": "clustering",
+      "name": "Clustering",
+      "description": "Clustering algorithms"
+    },
+    {
+      "id": "recommendation-systems",
+      "name": "Recommendation Systems",
+      "description": "Recommendation engines"
+    },
+    {
+      "id": "time-series",
+      "name": "Time Series",
+      "description": "Time series analysis"
+    },
+    {
+      "id": "anomaly-detection",
+      "name": "Anomaly Detection",
+      "description": "Anomaly detection methods"
+    },
+    {
+      "id": "feature-engineering",
+      "name": "Feature Engineering",
+      "description": "Feature selection and engineering"
+    },
+    {
+      "id": "model-deployment",
+      "name": "Model Deployment",
+      "description": "ML model deployment"
+    },
+    {
+      "id": "mlops",
+      "name": "MLOps",
+      "description": "ML operations and lifecycle"
+    },
+    {
+      "id": "automl",
+      "name": "AutoML",
+      "description": "Automated machine learning"
+    },
+    {
+      "id": "explainable-ai",
+      "name": "Explainable AI",
+      "description": "AI interpretability"
+    },
+    {
+      "id": "ai-ethics",
+      "name": "AI Ethics",
+      "description": "AI ethics and fairness"
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare",
+      "description": "Healthcare and medical applications"
+    },
+    {
+      "id": "fintech",
+      "name": "FinTech",
+      "description": "Financial technology"
+    },
+    {
+      "id": "ecommerce",
+      "name": "E-commerce",
+      "description": "Electronic commerce"
     },
     {
       "id": "education",
       "name": "Education",
-      "description": "Learning and teaching tools"
+      "description": "Educational technology"
     },
     {
-      "id": "health",
-      "name": "Health",
-      "description": "Health and wellness related"
+      "id": "gaming",
+      "name": "Gaming",
+      "description": "Game development and gaming"
     },
     {
-      "id": "ai-tools",
-      "name": "AI Tools",
-      "description": "AI and machine learning focused"
+      "id": "iot",
+      "name": "Internet of Things",
+      "description": "IoT devices and systems"
     },
     {
-      "id": "data-processing",
-      "name": "Data Processing",
-      "description": "Data manipulation and analysis"
+      "id": "blockchain",
+      "name": "Blockchain",
+      "description": "Blockchain technology"
     },
     {
-      "id": "creative",
-      "name": "Creative",
-      "description": "Creative and artistic applications"
+      "id": "cryptocurrency",
+      "name": "Cryptocurrency",
+      "description": "Digital currencies"
     },
     {
-      "id": "technical",
-      "name": "Technical",
-      "description": "Technical and engineering focused"
+      "id": "cybersecurity",
+      "name": "Cybersecurity",
+      "description": "Security and protection"
     },
     {
-      "id": "communication",
-      "name": "Communication",
-      "description": "Communication and collaboration"
+      "id": "devops",
+      "name": "DevOps",
+      "description": "Development operations"
     },
     {
-      "id": "planning",
-      "name": "Planning",
-      "description": "Strategic planning and organization"
+      "id": "mobile-development",
+      "name": "Mobile Development",
+      "description": "Mobile app development"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development",
+      "description": "Web application development"
+    },
+    {
+      "id": "api-development",
+      "name": "API Development",
+      "description": "API design and development"
+    },
+    {
+      "id": "database-design",
+      "name": "Database Design",
+      "description": "Database architecture"
+    },
+    {
+      "id": "ui-ux",
+      "name": "UI/UX Design",
+      "description": "User interface and experience"
+    },
+    {
+      "id": "product-management",
+      "name": "Product Management",
+      "description": "Product strategy and management"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management",
+      "description": "Project planning and execution"
+    },
+    {
+      "id": "agile",
+      "name": "Agile",
+      "description": "Agile development methodologies"
+    },
+    {
+      "id": "scrum",
+      "name": "Scrum",
+      "description": "Scrum framework"
+    },
+    {
+      "id": "kanban",
+      "name": "Kanban",
+      "description": "Kanban methodology"
+    },
+    {
+      "id": "testing",
+      "name": "Software Testing",
+      "description": "Testing and quality assurance"
+    },
+    {
+      "id": "performance-optimization",
+      "name": "Performance Optimization",
+      "description": "System performance tuning"
+    },
+    {
+      "id": "scalability",
+      "name": "Scalability",
+      "description": "System scalability design"
+    },
+    {
+      "id": "monitoring",
+      "name": "System Monitoring",
+      "description": "Monitoring and observability"
+    },
+    {
+      "id": "logging",
+      "name": "Logging",
+      "description": "Application logging"
     },
     {
       "id": "debugging",
       "name": "Debugging",
-      "description": "Problem solving and troubleshooting"
+      "description": "Code debugging and troubleshooting"
     },
     {
-      "id": "advisory",
-      "name": "Advisory",
-      "description": "Consultation and guidance"
+      "id": "code-review",
+      "name": "Code Review",
+      "description": "Code review processes"
     },
     {
-      "id": "specialized",
-      "name": "Specialized",
-      "description": "Domain-specific expertise"
+      "id": "documentation",
+      "name": "Documentation",
+      "description": "Technical documentation"
     },
     {
-      "id": "interactive",
-      "name": "Interactive",
-      "description": "Multi-turn conversational"
+      "id": "version-control",
+      "name": "Version Control",
+      "description": "Git and version control"
     },
     {
-      "id": "single-use",
-      "name": "Single Use",
-      "description": "One-time or single-turn tasks"
+      "id": "open-source",
+      "name": "Open Source",
+      "description": "Open source development"
     },
     {
-      "id": "structured-output",
-      "name": "Structured Output",
-      "description": "Produces formatted or structured results"
+      "id": "business-analysis",
+      "name": "Business Analysis",
+      "description": "Business requirements analysis"
     },
     {
-      "id": "multimodal",
-      "name": "Multimodal",
-      "description": "Handles multiple input/output types"
+      "id": "data-analytics",
+      "name": "Data Analytics",
+      "description": "Business data analytics"
+    },
+    {
+      "id": "reporting",
+      "name": "Business Reporting",
+      "description": "Report generation and BI"
+    },
+    {
+      "id": "crm",
+      "name": "Customer Relationship Management",
+      "description": "CRM systems"
+    },
+    {
+      "id": "erp",
+      "name": "Enterprise Resource Planning",
+      "description": "ERP systems"
+    },
+    {
+      "id": "marketing",
+      "name": "Digital Marketing",
+      "description": "Marketing strategies"
+    },
+    {
+      "id": "seo",
+      "name": "Search Engine Optimization",
+      "description": "SEO optimization"
+    },
+    {
+      "id": "content-marketing",
+      "name": "Content Marketing",
+      "description": "Content strategy"
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media",
+      "description": "Social media management"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing",
+      "description": "Email campaigns"
+    },
+    {
+      "id": "sales",
+      "name": "Sales",
+      "description": "Sales processes and automation"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support",
+      "description": "Customer service tools"
+    },
+    {
+      "id": "hr",
+      "name": "Human Resources",
+      "description": "HR management systems"
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "description": "Financial accounting"
+    },
+    {
+      "id": "legal",
+      "name": "Legal",
+      "description": "Legal technology and compliance"
+    },
+    {
+      "id": "compliance",
+      "name": "Regulatory Compliance",
+      "description": "Compliance management"
+    },
+    {
+      "id": "risk-management",
+      "name": "Risk Management",
+      "description": "Risk assessment"
+    },
+    {
+      "id": "supply-chain",
+      "name": "Supply Chain",
+      "description": "Supply chain management"
+    },
+    {
+      "id": "logistics",
+      "name": "Logistics",
+      "description": "Logistics and shipping"
+    },
+    {
+      "id": "consulting",
+      "name": "Business Consulting",
+      "description": "Consulting services"
+    },
+    {
+      "id": "mental-health",
+      "name": "Mental Health",
+      "description": "Mental health and wellness"
+    },
+    {
+      "id": "adhd",
+      "name": "ADHD",
+      "description": "ADHD support and tools"
+    },
+    {
+      "id": "autism",
+      "name": "Autism",
+      "description": "Autism support and tools"
+    },
+    {
+      "id": "accessibility",
+      "name": "Accessibility",
+      "description": "Digital accessibility"
+    },
+    {
+      "id": "assistive-technology",
+      "name": "Assistive Technology",
+      "description": "AT for disabilities"
+    },
+    {
+      "id": "telemedicine",
+      "name": "Telemedicine",
+      "description": "Remote healthcare"
+    },
+    {
+      "id": "medical-imaging",
+      "name": "Medical Imaging",
+      "description": "Medical image analysis"
+    },
+    {
+      "id": "clinical-trials",
+      "name": "Clinical Trials",
+      "description": "Clinical research"
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "description": "Pharmaceutical systems"
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness",
+      "description": "Health and fitness tracking"
+    },
+    {
+      "id": "nutrition",
+      "name": "Nutrition",
+      "description": "Nutritional analysis"
+    },
+    {
+      "id": "wellness",
+      "name": "Wellness",
+      "description": "Wellness and lifestyle"
+    },
+    {
+      "id": "therapy",
+      "name": "Therapy",
+      "description": "Therapeutic applications"
+    },
+    {
+      "id": "rehabilitation",
+      "name": "Rehabilitation",
+      "description": "Rehabilitation technology"
+    },
+    {
+      "id": "elderly-care",
+      "name": "Elderly Care",
+      "description": "Senior care technology"
+    },
+    {
+      "id": "content-creation",
+      "name": "Content Creation",
+      "description": "Digital content creation"
+    },
+    {
+      "id": "video-editing",
+      "name": "Video Editing",
+      "description": "Video production and editing"
+    },
+    {
+      "id": "audio-processing",
+      "name": "Audio Processing",
+      "description": "Audio editing and processing"
+    },
+    {
+      "id": "graphic-design",
+      "name": "Graphic Design",
+      "description": "Visual design and graphics"
+    },
+    {
+      "id": "photography",
+      "name": "Photography",
+      "description": "Photography and image editing"
+    },
+    {
+      "id": "animation",
+      "name": "Animation",
+      "description": "Animation and motion graphics"
+    },
+    {
+      "id": "3d-modeling",
+      "name": "3D Modeling",
+      "description": "3D design and modeling"
+    },
+    {
+      "id": "game-design",
+      "name": "Game Design",
+      "description": "Video game design"
+    },
+    {
+      "id": "storytelling",
+      "name": "Storytelling",
+      "description": "Narrative and story creation"
+    },
+    {
+      "id": "writing",
+      "name": "Creative Writing",
+      "description": "Writing and authoring"
+    },
+    {
+      "id": "journalism",
+      "name": "Journalism",
+      "description": "News and journalism"
+    },
+    {
+      "id": "publishing",
+      "name": "Publishing",
+      "description": "Digital publishing"
+    },
+    {
+      "id": "podcasting",
+      "name": "Podcasting",
+      "description": "Podcast production"
+    },
+    {
+      "id": "streaming",
+      "name": "Live Streaming",
+      "description": "Live streaming technology"
+    },
+    {
+      "id": "virtual-reality",
+      "name": "Virtual Reality",
+      "description": "VR applications"
+    },
+    {
+      "id": "automation-tools",
+      "name": "Automation Tools",
+      "description": "Process automation platforms"
+    },
+    {
+      "id": "workflow-management",
+      "name": "Workflow Management",
+      "description": "Workflow orchestration"
+    },
+    {
+      "id": "collaboration",
+      "name": "Team Collaboration",
+      "description": "Collaboration platforms"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "description": "Communication tools"
+    },
+    {
+      "id": "file-management",
+      "name": "File Management",
+      "description": "File organization systems"
+    },
+    {
+      "id": "backup-recovery",
+      "name": "Backup & Recovery",
+      "description": "Data backup solutions"
+    },
+    {
+      "id": "virtualization",
+      "name": "Virtualization",
+      "description": "Virtual machines and containers"
+    },
+    {
+      "id": "network-administration",
+      "name": "Network Administration",
+      "description": "Network management"
+    },
+    {
+      "id": "system-administration",
+      "name": "System Administration",
+      "description": "System admin tools"
+    },
+    {
+      "id": "server-management",
+      "name": "Server Management",
+      "description": "Server administration"
+    },
+    {
+      "id": "cloud-migration",
+      "name": "Cloud Migration",
+      "description": "Cloud migration strategies"
+    },
+    {
+      "id": "disaster-recovery",
+      "name": "Disaster Recovery",
+      "description": "DR planning and execution"
+    },
+    {
+      "id": "capacity-planning",
+      "name": "Capacity Planning",
+      "description": "Resource capacity planning"
+    },
+    {
+      "id": "cost-optimization",
+      "name": "Cost Optimization",
+      "description": "Cost management and optimization"
+    },
+    {
+      "id": "vendor-management",
+      "name": "Vendor Management",
+      "description": "Vendor relationship management"
+    },
+    {
+      "id": "asset-management",
+      "name": "Asset Management",
+      "description": "IT asset management"
+    },
+    {
+      "id": "change-management",
+      "name": "Change Management",
+      "description": "Change control processes"
+    },
+    {
+      "id": "incident-management",
+      "name": "Incident Management",
+      "description": "Incident response"
+    },
+    {
+      "id": "knowledge-management",
+      "name": "Knowledge Management",
+      "description": "Knowledge base systems"
+    },
+    {
+      "id": "training",
+      "name": "Training & Development",
+      "description": "Learning and development"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "description": "Productivity enhancement"
+    },
+    {
+      "id": "organization",
+      "name": "Organization",
+      "description": "Task and time organization"
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "description": "Research and information gathering"
+    },
+    {
+      "id": "analysis",
+      "name": "Analysis",
+      "description": "Data and information analysis"
+    },
+    {
+      "id": "visualization",
+      "name": "Data Visualization",
+      "description": "Data visualization and charts"
+    },
+    {
+      "id": "reporting",
+      "name": "Reporting",
+      "description": "Report generation"
+    },
+    {
+      "id": "dashboard",
+      "name": "Dashboard",
+      "description": "Dashboard creation"
+    },
+    {
+      "id": "integration",
+      "name": "System Integration",
+      "description": "System integration"
+    },
+    {
+      "id": "migration",
+      "name": "Data Migration",
+      "description": "Data migration tools"
+    },
+    {
+      "id": "optimization",
+      "name": "Optimization",
+      "description": "Performance optimization"
     }
   ]
 }

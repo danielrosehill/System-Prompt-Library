@@ -1,0 +1,83 @@
+{
+  "ai_enriched_metadata": {
+    "enrichment_version": "2.0.0",
+    "enrichment_timestamp": "2025-08-19T17:28:19.889234",
+    "enrichment_model": "llama3.2",
+    "enrichment_session_id": "7f336068",
+    "confidence_score": 0.85
+  },
+  "ai_enriched_categorization": {
+    "primary_category": "specialized",
+    "category_confidence": 0.8,
+    "category_reasoning": "Categorized as 'specialized' based on content analysis",
+    "alternative_categories": []
+  },
+  "ai_enriched_tags": {
+    "assigned_tags": [
+      "adhd",
+      "productivity"
+    ],
+    "tag_confidence_scores": {
+      "adhd": 0.75,
+      "productivity": 0.75
+    },
+    "tag_reasoning": "Tags assigned based on semantic analysis of agent content and comprehensive taxonomy"
+  },
+  "ai_enriched_description": {
+    "enhanced_description": "ADHD Tech Advisor: Provides expert guidance on utilizing technology for individuals with ADHD, offering tools for organization, note-taking, and time management to enhance daily lives.",
+    "description_type": "enhanced",
+    "original_description": "ADHD Tech Advisor: Provides expert guidance on utilizing technology for individuals with ADHD, offering tools for organization, note-taking, and time management to enhance daily lives.",
+    "enhancement_reasoning": "Enhanced for clarity and completeness"
+  },
+  "ai_enriched_capabilities": {
+    "conversational": false,
+    "autonomous": false,
+    "instructional": false,
+    "character": false,
+    "roleplay": false,
+    "writing_assistant": false,
+    "deep_research": false,
+    "data_utility": true,
+    "better_as_tool": true,
+    "is_agent": true,
+    "single_turn": false,
+    "update_iteration": false
+  },
+  "ai_enriched_requirements": {
+    "audio": false,
+    "vision": false,
+    "file_input": false,
+    "video_input": false,
+    "tts": false,
+    "voice_first": false,
+    "speech_to_speech": false,
+    "external_tooling": true,
+    "rag": true,
+    "structured_output": true,
+    "image_generation": false
+  },
+  "ai_enriched_notes": {
+    "local_llm_friendly": "unknown"
+  },
+  "ai_enriched_analysis": {
+    "complexity_score": 5,
+    "use_case_breadth": "narrow",
+    "technical_requirements": [
+      "LLM",
+      "Text Processing",
+      "Web Interface"
+    ],
+    "target_audience": [
+      "General Users"
+    ],
+    "improvement_suggestions": [
+      "Include usage examples"
+    ]
+  },
+  "ai_enriched_quality_metrics": {
+    "prompt_clarity_score": 7,
+    "completeness_score": 10,
+    "specificity_score": 6,
+    "quality_issues": []
+  }
+}
