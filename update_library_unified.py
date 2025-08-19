@@ -108,6 +108,8 @@ class SystemPromptLibraryUpdater:
                 with open(json_file, 'r', encoding='utf-8') as f:
                     try:
                         prompt_data = json.load(f)
+                        # Add the original filename to the data
+                        prompt_data['_original_filename'] = json_file.name
                         consolidated_prompts.append(prompt_data)
                         processed_files += 1
                     except json.JSONDecodeError as e:
@@ -263,9 +265,14 @@ class SystemPromptLibraryUpdater:
                 checkbox = "☑️" if value else "☐"
                 features.append(f"  - {checkbox} {label}")
             
-            # Links section
-            json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
-            links = [f"  - 📄 [JSON File](system-prompts/json/{json_filename})"]
+            # Links section - use original filename if available
+            original_filename = prompt.get('_original_filename')
+            if original_filename:
+                links = [f"  - 📄 [JSON File](system-prompts/json/{original_filename})"]
+            else:
+                # Fallback to old method if filename not stored
+                json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
+                links = [f"  - 📄 [JSON File](system-prompts/json/{json_filename})"]
             
             if prompt.get('chatgptlink'):
                 links.append(f"  - 🤖 [ChatGPT]({prompt['chatgptlink']})")
