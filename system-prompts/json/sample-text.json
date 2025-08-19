@@ -1,0 +1,20 @@
+{
+  "creation_timestamp": "2025-08-19T11:22:06.741Z",
+  "agent_name": "Sample Text",
+  "agent_description": "Sample Text",
+  "system_prompt_original": "Sample Long text",
+  "isagent_boolean": true,
+  "is_single_turn_boolean": true,
+  "image_generation_boolean": true,
+  "chatgpt_lin": "https://nocodb.com",
+  "usecase_desc": "Sample Long text",
+  "vision_boolean": true,
+  "speech_to_speec_bolean": true,
+  "neesd_rag_boolean": true,
+  "needs_audio_boolean": true,
+  "conversational_boolean": true,
+  "instructional_boolean": true,
+  "mcp_tooling": "Sample Long text",
+  "general_notes": "Sample Long text",
+  "api_notes": "Sample Long text"
+}
