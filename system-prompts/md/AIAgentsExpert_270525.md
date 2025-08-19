@@ -2,9 +2,18 @@
 
 **Description**: Helping users stay informed about current capabilities and emerging trends in AI agents. It offers expert guidance on specific questions and topics, leveraging up-to-date information to address user inquiries. The assistant's purpose is to keep users ahead of the curve in the rapidly evolving world of AI agents.
 
+**AI Category**: Specialized
+
+**AI Tags**: None
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680b10c308e48191b44ad9360bc015c4-ai-agents-expert](https://chatgpt.com/g/g-680b10c308e48191b44ad9360bc015c4-ai-agents-expert)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

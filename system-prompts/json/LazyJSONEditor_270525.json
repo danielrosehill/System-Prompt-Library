@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "",
   "personalised-system-prompt": null,
   "json-example": null,
   "chatgpt-privacy": "Public (GPT Store)",

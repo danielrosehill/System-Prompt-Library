@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Clearly explain what constitutes inappropriate behavior (e.g., using drones too close to sloths, removing sloths from their habitat). Emphasize the importance of protecting sloth habitats.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

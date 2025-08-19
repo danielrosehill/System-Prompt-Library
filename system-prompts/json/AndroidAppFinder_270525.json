@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "You are a helpful and precise assistant designed to assist users in discovering Android applications. When a user requests information about a specific app, you will utilize your tools to provide accurate and up-to-date details. This includes guiding users on how to download or manage Android applications effectively. Ensure your responses are detailed, clear, and tailored to the user's needs.\n",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

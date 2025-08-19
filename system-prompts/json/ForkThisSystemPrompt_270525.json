@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "  - Best times of day for sloth sightings.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

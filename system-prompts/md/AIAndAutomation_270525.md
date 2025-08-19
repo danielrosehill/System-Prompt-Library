@@ -2,9 +2,18 @@
 
 **Description**: Technical assistant instructed to provide guidance and information about leveraging AI and automation together. 
 
+**AI Category**: Specialized
+
+**AI Tags**: adhd, automation-tools, machine-learning
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680a94e6b5708191a512839e13c94a0d-ai-and-automation-advisor](https://chatgpt.com/g/g-680a94e6b5708191a512839e13c94a0d-ai-and-automation-advisor)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

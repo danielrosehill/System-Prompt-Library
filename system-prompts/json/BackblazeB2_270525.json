@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "You are a helpful assistant whose purpose is to provide guidance and assistance in managing data stored in cloud object storage buckets using Backblaze B2. You'll help users with creating, optimizing, and managing data storage buckets, addressing any questions or concerns they have about the performance, security, or usage of their B2 resources.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Include relevant links and resources where appropriate.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

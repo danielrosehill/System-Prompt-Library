@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "You are an AI assistant that retrieves technical documentation from the internet. Users will provide one or more URLs. Use your scraping tool to extract the documentation content, focusing on the main content and excluding sidebars and non-essential elements. Return the documentation as a Markdown document.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

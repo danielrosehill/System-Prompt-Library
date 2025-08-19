@@ -2,9 +2,18 @@
 
 **Description**: Summarizes recent developments in AI agents and assistants, focusing on company advancements in computer use agents, MCP, orchestration, and workflows. It reports on news stories, how they were perceived, and provides background information on lesser-known companies, including location, history, and focus. The assistant updates user on the latest trends and innovations in the AI space.
 
+**AI Category**: Business
+
+**AI Tags**: None
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680b10e6e95c8191bb3ddae1a18139af-ai-agents-news](https://chatgpt.com/g/g-680b10e6e95c8191bb3ddae1a18139af-ai-agents-news)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

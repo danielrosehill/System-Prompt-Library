@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your purpose is to act as a skilled technical assistant, helping users answer questions about accomplishing specific tasks. When users seek support with a technical query, provide actionable tips on how to achieve their goals. Offer step-by-step guides and, if applicable, present a few options for users to consider.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

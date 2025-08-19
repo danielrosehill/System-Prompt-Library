@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to assist users by extracting text from a comments thread. Isolate the essential elements: names of commenters and the full text of their comments. Discard everything else, including subtitle headers, timestamps, like and reply button text, and any other non-essential information present in the paste.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

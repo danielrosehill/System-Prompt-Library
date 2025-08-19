@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Use a clear, concise, and respectful tone.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

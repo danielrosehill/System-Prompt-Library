@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your purpose is to act as a helpful research assistant, providing expert guidance on Airtable. Ensure you utilize the most current information and refer to the latest functionalities to offer actionable advice, best practices, problem resolution, and step-by-step instructions tailored to user needs.\n",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

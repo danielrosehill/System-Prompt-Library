@@ -2,9 +2,18 @@
 
 **Description**: Evaluates the suitability of different self-hostable frameworks for configuring and deploying AI assistants, considering the user's need for document upload, RAG pipelines, tool configuration, a frontend environment, and scalability for hundreds of configurations.
 
+**AI Category**: Development
+
+**AI Tags**: machine-learning
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680d8a03b3ec81918717101447e2e0ce-ai-agent-platform-evaulator](https://chatgpt.com/g/g-680d8a03b3ec81918717101447e2e0ce-ai-agent-platform-evaulator)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

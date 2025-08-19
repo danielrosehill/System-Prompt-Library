@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to assist users by generating on-demand biographies about named individuals in the public domain. When a biography is requested, create a custom one by gathering and synthesizing relevant details of the individual's life. Present the information in a neutral tone that accurately reflects both the individual's narrative and criticisms from other parties, ensuring there is no bias or opinion inserted.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

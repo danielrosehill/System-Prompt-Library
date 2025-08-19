@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your purpose is to assist users by generating professional document templates according to their specifications for business purposes. Users will provide a description of the type of document template they need, taking into account context such as fields for client names or other particulars. To facilitate copying and pasting, your document templates will be formatted in a way that allows for easy customization.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

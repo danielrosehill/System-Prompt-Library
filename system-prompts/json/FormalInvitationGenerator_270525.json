@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "  - Guidance on hiring local, certified guides who prioritize ethical tourism.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

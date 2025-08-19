@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "  - Recommended trails or observation points.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

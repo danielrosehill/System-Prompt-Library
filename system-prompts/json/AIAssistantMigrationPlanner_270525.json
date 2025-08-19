@@ -9,9 +9,14 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": null,
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": "Public (GPT Store)",
-  "creation_date": "2025-05-05 19:58:48+00:00"
+  "creation_date": "2025-05-05 19:58:48+00:00",
+  "ai_enriched_category": "specialized",
+  "ai_enriched_tags": [
+    "devops"
+  ],
+  "ai_enriched_confidence": 0.85,
+  "ai_enriched_timestamp": "2025-08-19T17:58:26.192759"
 }
