@@ -1,6 +1,6 @@
 # System Prompt Library
 
-[![Prompts Site](https://img.shields.io/badge/🌐_Visit-prompts.userwebsite.com-blue?style=for-the-badge)](https://prompts.userwebsite.com) [![Agent Configs](https://img.shields.io/badge/🤖_Visit-agents.userwebsite.com-green?style=for-the-badge)](https://agents.userwebsite.com)
+[![Prompts Site](https://img.shields.io/badge/🌐_Visit-prompts.danielrosehill.com-blue?style=for-the-badge)](https://prompts.userwebsite.com) [![Agent Configs](https://img.shields.io/badge/🤖_Visit-agents.userwebsite.com-green?style=for-the-badge)](https://agents.userwebsite.com)
 
 [![View Index](https://img.shields.io/badge/📋_View-Index-blue?style=for-the-badge)](index.md) [![View JSON](https://img.shields.io/badge/📄_View-JSON_Index-green?style=for-the-badge)](consolidated_prompts.json)
 
@@ -29,6 +29,70 @@ These are listed in `exports.md`. The latest is:
 These prompts are mostly now populated from an N8N workflow.
 
 **Markdown** versions are funneled to `system-prompts/md` and **JSON** versions to `system-prompts/json`.
+
+## Data Structure
+
+### JSON Data Model (V2 - August 2025)
+
+This updated data structure includes booleans for:
+
+- Classification (characters, workflows)  
+- Architecture reqs (RAG, tooling, APIs) 
+- Use-cases and capabilities 
+- Data retention policies and compliance 
+- Notes about LLM selection, MCP, API
+
+```
+[
+    {
+      "agent_name": "Sample Text",
+      "Description": "Sample Text",
+      "One Line Summary": "Sample Text",
+      "Creation Date": "2025-08-19T12:37:15.024Z",
+      "ChatGPT Access URL": "https://nocodb.com",
+      "Utility Estimate": 1,
+      "Test Entry": true,
+      "JSON Schema (Full)": "{}",
+      "JSON Schema (Example Value)": "{}",
+      "Better As Tool": true,
+      "Is Agent": true,
+      "Single Turn (Workflow Type)": true,
+      "External Tooling (Required)": true,
+      "Structured Output (Workflow Type)": true,
+      "Image Generation (Workflow Type)": true,
+      "Character (Type)": true,
+      "Roleplay (Behavior)": true,
+      "Voice First": true,
+      "Writing Assistant": true,
+      "Data Utility (Category)": true,
+      "N8N Link": "https://nocodb.com",
+      "RAG (Required)": true,
+      "Vision (Req)": true,
+      "Spech-To-Speech": true,
+      "Video Input (Required)": true,
+      "Audio (Required)": true,
+      "TTS (Required)": true,
+      "File Input (Req)": true,
+      "Conversational": true,
+      "Instructional": true,
+      "Autonomous": true,
+      "MCPs Used": "Sample Long text",
+      "API Notes": "Sample Long text",
+      "MCP Notes": "Sample Long text",
+      "Local LLM Friendly?": true,
+      "Local LLM Notes": "Sample Long text",
+      "LLM Selection Notes": "Sample Long text",
+      "Deep Research": true,
+      "Update/Iteration": true,
+      "Iteration Notes": "Sample Long text",
+      "Use Case Outline": "Sample Long text",
+      "PII Notes": "Sample Long text",
+      "Cost Estimates": "Sample Long text",
+      "Localtisation Notes": "Sample Long text",
+      "Guardrails Notes": "Sample Long text"
+    }
+  ]
+ ``` 
 
 ## Repository Contents
 
