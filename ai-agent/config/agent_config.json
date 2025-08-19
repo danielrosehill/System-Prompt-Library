@@ -1,0 +1,75 @@
+{
+  "agent_name": "System Prompt Categorizer",
+  "description": "AI agent for automatically categorizing and enhancing system prompt library entries without modifying the existing schema",
+  "version": "1.0.0",
+  "llm_options": {
+    "local": {
+      "model": "llama3.2",
+      "provider": "ollama",
+      "endpoint": "http://localhost:11434",
+      "cost_per_token": 0.0,
+      "recommended": true,
+      "notes": "Best for cost-effectiveness and privacy"
+    },
+    "cloud_affordable": {
+      "model": "gpt-4o-mini",
+      "provider": "openai",
+      "cost_per_1k_tokens": 0.00015,
+      "recommended": false,
+      "notes": "Fallback option if local model unavailable"
+    }
+  },
+  "processing_config": {
+    "batch_size": 10,
+    "max_retries": 3,
+    "timeout_seconds": 30,
+    "preserve_existing_data": true,
+    "backup_before_changes": true
+  },
+  "field_mapping": {
+    "existing_fields_to_populate": [
+      "description",
+      "agentname"
+    ],
+    "existing_fields_to_preserve": [
+      "systemprompt",
+      "chatgptlink",
+      "json-schema",
+      "is-agent",
+      "is-single-turn",
+      "structured-output-generation",
+      "image-generation",
+      "data-utility",
+      "depersonalised-system-prompt",
+      "personalised-system-prompt",
+      "json-example",
+      "chatgpt-privacy",
+      "creation_date"
+    ],
+    "note": "Agent will NOT add new fields or modify schema - only populate missing values in existing fields"
+  },
+  "categorization_rules": {
+    "description_generation": {
+      "max_length": 200,
+      "style": "concise and professional",
+      "include_purpose": true,
+      "include_capabilities": true
+    },
+    "category_assignment": {
+      "use_taxonomy": "taxonomies/categories.json",
+      "method": "keyword_matching_and_context_analysis",
+      "confidence_threshold": 0.7
+    },
+    "tag_assignment": {
+      "use_taxonomy": "taxonomies/tags.json",
+      "max_tags": 3,
+      "method": "semantic_similarity"
+    }
+  },
+  "quality_checks": {
+    "validate_json_structure": true,
+    "check_required_fields": true,
+    "verify_no_schema_changes": true,
+    "backup_validation": true
+  }
+}

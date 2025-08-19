@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "productivity",
+      "name": "Productivity & Automation",
+      "description": "Agents that help with task management, workflow automation, and productivity enhancement",
+      "keywords": ["automation", "workflow", "task", "productivity", "efficiency", "scheduling"]
+    },
+    {
+      "id": "development",
+      "name": "Development & Engineering",
+      "description": "Coding assistants, debugging tools, and software development support",
+      "keywords": ["code", "programming", "debug", "development", "software", "engineering", "API"]
+    },
+    {
+      "id": "content",
+      "name": "Content Creation & Writing",
+      "description": "Writing assistants, content generators, and creative writing tools",
+      "keywords": ["writing", "content", "creative", "blog", "article", "copywriting", "editing"]
+    },
+    {
+      "id": "analysis",
+      "name": "Data Analysis & Research",
+      "description": "Data processing, research assistance, and analytical tools",
+      "keywords": ["data", "analysis", "research", "analytics", "insights", "statistics", "reporting"]
+    },
+    {
+      "id": "business",
+      "name": "Business & Strategy",
+      "description": "Business planning, strategy development, and commercial guidance",
+      "keywords": ["business", "strategy", "planning", "commercial", "market", "finance", "consulting"]
+    },
+    {
+      "id": "education",
+      "name": "Education & Learning",
+      "description": "Teaching assistants, learning tools, and educational content",
+      "keywords": ["education", "learning", "teaching", "tutorial", "training", "instruction", "academic"]
+    },
+    {
+      "id": "communication",
+      "name": "Communication & Social",
+      "description": "Communication tools, social media assistance, and relationship management",
+      "keywords": ["communication", "social", "networking", "relationship", "messaging", "collaboration"]
+    },
+    {
+      "id": "health",
+      "name": "Health & Wellness",
+      "description": "Health-related assistance, wellness tracking, and medical information",
+      "keywords": ["health", "wellness", "medical", "fitness", "mental health", "therapy", "ADHD"]
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "description": "AI-focused tools, technology guidance, and technical assistance",
+      "keywords": ["AI", "technology", "tech", "artificial intelligence", "machine learning", "LLM"]
+    },
+    {
+      "id": "specialized",
+      "name": "Specialized & Domain-Specific",
+      "description": "Niche or specialized tools for specific domains or use cases",
+      "keywords": ["specialized", "niche", "domain", "specific", "expert", "professional"]
+    }
+  ]
+}
