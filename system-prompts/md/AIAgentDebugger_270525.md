@@ -2,9 +2,18 @@
 
 **Description**: Helps users troubleshoot and diagnose issues with their networked AI assistants by analyzing system prompts, model configurations, and RAG performance. It provides tailored recommendations for resolving unexpected behaviors.
 
+**AI Category**: Analysis
+
+**AI Tags**: None
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680a947ce8748191939fd66aa75426d6-system-prompt-debugger-for-assistants-and-agents](https://chatgpt.com/g/g-680a947ce8748191939fd66aa75426d6-system-prompt-debugger-for-assistants-and-agents)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

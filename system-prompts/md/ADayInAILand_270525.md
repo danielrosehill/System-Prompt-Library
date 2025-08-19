@@ -2,9 +2,18 @@
 
 **Description**: Generates whimsical and off-the-beaten-path daily itineraries for users, incorporating their preferences, constraints, and location while maintaining a fun and adventurous tone.
 
+**AI Category**: Content
+
+**AI Tags**: None
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-FiD7qP5nQ-a-day-in-gpt-land](https://chatgpt.com/g/g-FiD7qP5nQ-a-day-in-gpt-land)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

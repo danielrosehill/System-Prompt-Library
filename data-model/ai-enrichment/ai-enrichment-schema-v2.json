@@ -1,0 +1,420 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI Enrichment Data Model v2",
+  "type": "object",
+  "description": "Enhanced schema for AI-generated enrichment data that supplements the original system prompt data with comprehensive field mapping",
+  "properties": {
+    "ai_enriched_metadata": {
+      "type": "object",
+      "description": "Metadata about the AI enrichment process",
+      "properties": {
+        "enrichment_version": {
+          "type": "string",
+          "description": "Version of the enrichment model used",
+          "default": "2.0.0"
+        },
+        "enrichment_timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the enrichment was performed"
+        },
+        "enrichment_model": {
+          "type": "string",
+          "description": "LLM model used for enrichment (e.g., 'llama3.2', 'gpt-4o-mini')"
+        },
+        "enrichment_session_id": {
+          "type": "string",
+          "description": "Unique session identifier for the enrichment run"
+        },
+        "confidence_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Overall confidence in the enrichment quality"
+        }
+      },
+      "required": ["enrichment_version", "enrichment_timestamp", "enrichment_model"]
+    },
+    "ai_enriched_categorization": {
+      "type": "object",
+      "description": "AI-generated categorization data",
+      "properties": {
+        "primary_category": {
+          "type": "string",
+          "description": "Primary category assigned by AI",
+          "enum": ["productivity", "development", "content", "analysis", "business", "education", "communication", "health", "technology", "specialized"]
+        },
+        "category_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Confidence score for the category assignment"
+        },
+        "category_reasoning": {
+          "type": "string",
+          "description": "AI's reasoning for the category choice",
+          "maxLength": 500
+        },
+        "alternative_categories": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {"type": "string"},
+              "confidence": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            }
+          },
+          "description": "Alternative categories considered by AI",
+          "maxItems": 3
+        }
+      },
+      "required": ["primary_category", "category_confidence"]
+    },
+    "ai_enriched_tags": {
+      "type": "object",
+      "description": "AI-generated tagging data",
+      "properties": {
+        "assigned_tags": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Tags assigned by AI analysis",
+          "maxItems": 8
+        },
+        "tag_confidence_scores": {
+          "type": "object",
+          "description": "Confidence scores for each assigned tag",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        },
+        "tag_reasoning": {
+          "type": "string",
+          "description": "AI's reasoning for tag selection",
+          "maxLength": 300
+        }
+      },
+      "required": ["assigned_tags"]
+    },
+    "ai_enriched_description": {
+      "type": "object",
+      "description": "AI-enhanced description data",
+      "properties": {
+        "enhanced_description": {
+          "type": "string",
+          "description": "AI-generated or enhanced description",
+          "maxLength": 300
+        },
+        "description_type": {
+          "type": "string",
+          "enum": ["generated", "enhanced", "corrected"],
+          "description": "Type of description modification performed"
+        },
+        "original_description": {
+          "type": "string",
+          "description": "Original description before AI enhancement"
+        },
+        "enhancement_reasoning": {
+          "type": "string",
+          "description": "Why the description was modified",
+          "maxLength": 200
+        }
+      },
+      "required": ["enhanced_description", "description_type"]
+    },
+    "ai_enriched_capabilities": {
+      "type": "object",
+      "description": "AI-detected capabilities and behavioral features",
+      "properties": {
+        "conversational": {
+          "type": "boolean",
+          "description": "Supports multi-turn conversations",
+          "default": false
+        },
+        "autonomous": {
+          "type": "boolean", 
+          "description": "Operates autonomously without supervision",
+          "default": false
+        },
+        "instructional": {
+          "type": "boolean",
+          "description": "Designed for teaching or step-by-step guidance", 
+          "default": false
+        },
+        "character": {
+          "type": "boolean",
+          "description": "Assumes a specific character/persona",
+          "default": false
+        },
+        "roleplay": {
+          "type": "boolean",
+          "description": "Supports roleplay functionality",
+          "default": false
+        },
+        "writing_assistant": {
+          "type": "boolean",
+          "description": "Functions as a writing assistant",
+          "default": false
+        },
+        "deep_research": {
+          "type": "boolean",
+          "description": "Designed for deep research tasks",
+          "default": false
+        },
+        "data_utility": {
+          "type": "boolean",
+          "description": "Relevant to data processing/utility use cases",
+          "default": false
+        },
+        "better_as_tool": {
+          "type": "boolean",
+          "description": "Better suited as a tool rather than standalone agent",
+          "default": false
+        },
+        "is_agent": {
+          "type": "boolean",
+          "description": "True agent (tool-using, stateful)",
+          "default": false
+        },
+        "single_turn": {
+          "type": "boolean",
+          "description": "Designed for single-turn interactions",
+          "default": false
+        },
+        "update_iteration": {
+          "type": "boolean",
+          "description": "Has undergone update or iteration cycles",
+          "default": false
+        }
+      }
+    },
+    "ai_enriched_requirements": {
+      "type": "object", 
+      "description": "AI-detected technical requirements and modalities",
+      "properties": {
+        "audio": {
+          "type": "boolean",
+          "description": "Requires audio input",
+          "default": false
+        },
+        "vision": {
+          "type": "boolean",
+          "description": "Requires vision input", 
+          "default": false
+        },
+        "file_input": {
+          "type": "boolean",
+          "description": "Requires file input support",
+          "default": false
+        },
+        "video_input": {
+          "type": "boolean",
+          "description": "Requires video input",
+          "default": false
+        },
+        "tts": {
+          "type": "boolean",
+          "description": "Requires text-to-speech output",
+          "default": false
+        },
+        "voice_first": {
+          "type": "boolean",
+          "description": "Designed primarily for voice-first use",
+          "default": false
+        },
+        "speech_to_speech": {
+          "type": "boolean",
+          "description": "Supports speech-to-speech interaction",
+          "default": false
+        },
+        "external_tooling": {
+          "type": "boolean",
+          "description": "Requires external tools for function",
+          "default": false
+        },
+        "rag": {
+          "type": "boolean",
+          "description": "Requires retrieval-augmented generation",
+          "default": false
+        },
+        "structured_output": {
+          "type": "boolean",
+          "description": "Produces structured output",
+          "default": false
+        },
+        "image_generation": {
+          "type": "boolean",
+          "description": "Includes image generation in workflow",
+          "default": false
+        }
+      }
+    },
+    "ai_enriched_notes": {
+      "type": "object",
+      "description": "AI-generated contextual notes and assessments",
+      "properties": {
+        "use_case_outline": {
+          "type": "string",
+          "description": "AI-generated outline of supported use cases"
+        },
+        "api_notes": {
+          "type": "string", 
+          "description": "AI-detected API usage notes and dependencies"
+        },
+        "llm_selection_notes": {
+          "type": "string",
+          "description": "AI recommendations for suitable LLMs"
+        },
+        "local_llm_notes": {
+          "type": "string",
+          "description": "AI assessment of local LLM performance and compatibility"
+        },
+        "local_llm_friendly": {
+          "type": "string",
+          "description": "AI assessment of local LLM suitability",
+          "enum": ["yes", "no", "partial", "unknown"]
+        },
+        "guardrails_notes": {
+          "type": "string",
+          "description": "AI-detected safety rules or refusal logic"
+        },
+        "pii_notes": {
+          "type": "string",
+          "description": "AI assessment of PII handling requirements"
+        },
+        "cost_estimates": {
+          "type": "string",
+          "description": "AI-generated cost estimates and considerations"
+        },
+        "utility_estimate": {
+          "type": "string", 
+          "description": "AI assessment of usefulness and utility rating"
+        },
+        "iteration_notes": {
+          "type": "string",
+          "description": "AI-detected iteration and update patterns"
+        },
+        "localization_notes": {
+          "type": "string",
+          "description": "AI assessment of localization and language support requirements"
+        },
+        "mcp_notes": {
+          "type": "string",
+          "description": "AI-detected Model Context Protocol usage and integrations"
+        },
+        "mcps_used": {
+          "type": "string",
+          "description": "AI-detected list of MCP components/tools used"
+        }
+      }
+    },
+    "ai_enriched_analysis": {
+      "type": "object",
+      "description": "Detailed analysis of the agent's capabilities and characteristics",
+      "properties": {
+        "complexity_score": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "Complexity rating from 1-10"
+        },
+        "use_case_breadth": {
+          "type": "string",
+          "enum": ["narrow", "moderate", "broad"],
+          "description": "Breadth of applicable use cases"
+        },
+        "technical_requirements": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Technical requirements and dependencies"
+        },
+        "target_audience": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Primary target user groups"
+        },
+        "improvement_suggestions": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "AI suggestions for improvement",
+          "maxItems": 5
+        }
+      }
+    },
+    "ai_enriched_quality_metrics": {
+      "type": "object",
+      "description": "Quality assessment metrics",
+      "properties": {
+        "prompt_clarity_score": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "How clear and well-defined the prompt is"
+        },
+        "completeness_score": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "How complete the prompt definition is"
+        },
+        "specificity_score": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "How specific and targeted the prompt is"
+        },
+        "quality_issues": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Identified quality issues",
+          "maxItems": 5
+        }
+      }
+    },
+    "ai_enriched_links": {
+      "type": "object",
+      "description": "AI-detected or generated links and references",
+      "properties": {
+        "chatgpt_access_url": {
+          "type": "string",
+          "description": "AI-detected or suggested ChatGPT deployment URL",
+          "format": "uri"
+        },
+        "n8n_link": {
+          "type": "string",
+          "description": "AI-detected or suggested n8n automation link",
+          "format": "uri"
+        },
+        "related_prompts": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "AI-suggested related prompts in the library",
+          "maxItems": 5
+        }
+      }
+    },
+    "ai_enriched_dates": {
+      "type": "object",
+      "description": "AI-detected or estimated dates",
+      "properties": {
+        "estimated_creation_date": {
+          "type": "string",
+          "format": "date",
+          "description": "AI-estimated creation date if not provided"
+        },
+        "last_update_estimate": {
+          "type": "string",
+          "format": "date",
+          "description": "AI-estimated last update date"
+        }
+      }
+    }
+  },
+  "required": ["ai_enriched_metadata"],
+  "additionalProperties": false
+}

@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Provide information in a structured format (e.g., bullet points, numbered lists, headings) for easy readability.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

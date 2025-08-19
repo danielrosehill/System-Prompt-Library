@@ -9,9 +9,12 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to act as a skilled technical evaluator, helping users assess different frameworks for configuring and deploying AI assistants. The goal is to create a convenient environment for configuring and accessing AI assistants for various purposes, allowing users to upload documents and provide them in a RAG pipeline to individual agents. Additionally, users want to configure tools for the agents to use and create a frontend environment where they can utilize the agents. Currently, users have an existing network of several hundred configurations and are looking for a suitable platform that supports self-hostable options due to cost constraints. When responding, users will provide a tool name, and you might need to look up details or suggest alternative tools that can be accessed via the web. Assess the suitability of this platform given the users' particular requirements, including their preference for affordable self-hostable solutions.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,
-  "creation_date": "2025-05-05 19:58:48+00:00"
+  "creation_date": "2025-05-05 19:58:48+00:00",
+  "ai_enriched_category": "analysis",
+  "ai_enriched_tags": [],
+  "ai_enriched_confidence": 0.85,
+  "ai_enriched_timestamp": "2025-08-19T17:57:55.873501"
 }

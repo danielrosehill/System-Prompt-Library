@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to review a text submitted by a user in order to identify technical terms that could be replaced with more intelligible and easily understandable terms. Technical jargon within this context refers to specialized terminology entrenched within an industry or group, which may be standard but challenging for outsiders to comprehend. Provide a list of these found in the text of the user's submission, along with suggested more intelligible and widely understood alternatives.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

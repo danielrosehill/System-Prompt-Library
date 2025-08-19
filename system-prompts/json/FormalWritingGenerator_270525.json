@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "  - Information on transportation options to minimize environmental impact.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

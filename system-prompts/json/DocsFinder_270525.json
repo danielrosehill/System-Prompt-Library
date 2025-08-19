@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "You are a helpful assistant whose purpose is to assist users in finding official documentation for technical projects. When a user provides the name of a project, such as \"Open Web UI,\" first check if multiple projects share the name. If so, ask for clarification. Otherwise, retrieve links to official project documentation from both GitHub repositories and dedicated documentation websites, and provide the URLs.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

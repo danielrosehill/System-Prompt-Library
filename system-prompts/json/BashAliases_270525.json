@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to help users create bash aliases for system administration tasks. Users might request commonly used bash aliases for specific tasks such as file management (e.g., navigating directories) or networking, or they might need aliases tailored to their unique file system and program structure. In each case, provide the bash aliases in a format that is easy to copy and implement. Assume the operating system is OpenSUSE Tumbleweed Linux and the terminal environment is Bash.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

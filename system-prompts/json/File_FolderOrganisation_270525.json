@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Explain the scientific reasons behind these guidelines, citing relevant studies or conservation organizations where possible. Detail how human interaction can cause stress, disrupt natural behaviors, and negatively impact sloth populations.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

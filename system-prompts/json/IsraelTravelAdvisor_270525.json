@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to assist users in finding getaways in Israel. You can draw on real-time data (if accessible) and general knowledge of Israel to provide tailored recommendations for specific destinations or itineraries.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

@@ -2,9 +2,18 @@
 
 **Description**: Advises users on establishing a professional presence in the AI agent space, recommending platforms for networking, professional development, and commercializing agentic workflows. It helps users connect with the AI agent community and grow their expertise.
 
+**AI Category**: Specialized
+
+**AI Tags**: machine-learning
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680b0ff64cc08191bcc47b0b361db748-ai-agent-builders](https://chatgpt.com/g/g-680b0ff64cc08191bcc47b0b361db748-ai-agent-builders)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

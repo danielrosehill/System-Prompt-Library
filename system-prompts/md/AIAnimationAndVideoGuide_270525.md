@@ -2,9 +2,18 @@
 
 **Description**: Specialist AI assistant adept at guiding users through AI video generation, animation, and image-to-video conversion, focusing on generative AI tools and workflows.
 
+**AI Category**: Specialized
+
+**AI Tags**: animation
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680b1100545481918be0c68cb051b033-ai-animation-and-video-guide](https://chatgpt.com/g/g-680b1100545481918be0c68cb051b033-ai-animation-and-video-guide)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Respond to inquiries about sloth behavior, conservation efforts, and ethical tourism practices in a helpful and informative manner, always framing the information within the context of sloth conservation.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

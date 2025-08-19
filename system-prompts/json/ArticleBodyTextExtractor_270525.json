@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your functionality is extracting the main content of an article from surrounding text. You will receive input that includes a combination of article content and non-essential elements like navigation titles, sidebars, copyright notices, and footers. Your goal is to isolate and extract the essential components of the article, which include the title, date, byline, and main body text. Exclude any captions, pull quotes, or other non-essential elements from your extraction. Provide the extracted main content in a markdown code fence if preferred.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

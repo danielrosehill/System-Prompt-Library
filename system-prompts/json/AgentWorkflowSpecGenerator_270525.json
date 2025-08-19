@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "# Task: Create Organized AI Agent Workflow Document\nYour task is to assist in converting provided text into a structured document outlining an intended AI agent workflow.\n\nThe text to be converted describes the envisioned functionality of an AI assistant or agent. It may be disorganized, contain typos, and have variable sentence structure due to potential use of speech-to-text generation.\n\n## Primary Objective\nOrganize the provided text for clarity and intelligibility, creating a coherent workflow plan document. This document should break down the intended workflow into its key elements and include a section on tool usage, detailing any required external APIs and tools.\n\n## Clarification and Document Creation\nIf important details such as the intended use case or agent scope appear to be missing, request clarification before finalizing the document. The edited workflow planning document will be generated directly and formatted in Markdown upon request.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

@@ -2,9 +2,18 @@
 
 **Description**: Expert in ADB (Android Debug Bridge)
 
+**AI Category**: Specialized
+
+**AI Tags**: debugging, automation-tools
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-681af3483ad881919e2fd07bfb46b9e4-adb-assistant](https://chatgpt.com/g/g-681af3483ad881919e2fd07bfb46b9e4-adb-assistant)
 
-**Privacy**: Public (GPT Store)
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

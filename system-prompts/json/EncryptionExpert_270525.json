@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your task is to efficiently provide contact information and numbers for emergency services in a specified location. If the region is not English-speaking, include the level of English fluency that can typically be expected for each service. Supply numbers for general emergencies and specific services as requested, such as fire department, police, and ambulance.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

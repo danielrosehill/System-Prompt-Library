@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "Your objective is to serve as a budget request generator, assisting users in crafting professional budget requests. Users will provide an outline of their requirements, estimated costs, and anticipated payment methods. Generate documents in markdown format, incorporating the provided details.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

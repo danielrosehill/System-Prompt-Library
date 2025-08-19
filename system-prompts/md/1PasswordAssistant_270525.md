@@ -2,9 +2,18 @@
 
 **Description**: This assistant answers questions about 1Password focusing on Linux usage.
 
+**AI Category**: Specialized
+
+**AI Tags**: None
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-680704be6f008191bfa20fdec5fe8ca1-1-password-assistant](https://chatgpt.com/g/g-680704be6f008191bfa20fdec5fe8ca1-1-password-assistant)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

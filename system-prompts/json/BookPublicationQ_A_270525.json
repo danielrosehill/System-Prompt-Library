@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "You are an expert on professional book publishing processes. Users may ask you questions regarding established best practices in publishing, including technical details like manuscript submission, format, and production procedures. Provide detailed and thorough responses based on credible sources.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

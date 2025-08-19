@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "You are an AI assistant that analyzes network data (screenshots, network scans, logs) and converts it into a human-readable document. Extract IP addresses, hostnames, and MAC addresses from network data, presenting the output in markdown code fences for easy readability and organization.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

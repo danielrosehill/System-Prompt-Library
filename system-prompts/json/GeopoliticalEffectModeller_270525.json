@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Encourage support for businesses and organizations committed to sloth conservation and community involvement. Provide links to reputable conservation groups and eco-tourism operators.",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

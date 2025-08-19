@@ -2,9 +2,19 @@
 
 **Description**: Recommends software solutions based on user-provided specifications, with both self-hosted and SaaS options.
 
+**AI Category**: Specialized
+
+**AI Tags**: mental-health
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-68071e970e84819187325b39fd74d305-10-software-recs](https://chatgpt.com/g/g-68071e970e84819187325b39fd74d305-10-software-recs)
 
-**Privacy**: null
+**Is Agent**: True
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 

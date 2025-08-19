@@ -119,7 +119,7 @@ class SystemPromptLibraryUpdater:
                 continue
         
         # Sort prompts alphabetically by agent name
-        consolidated_prompts.sort(key=lambda x: x.get('agent_name', '').lower())
+        consolidated_prompts.sort(key=lambda x: x.get('agentname', '').lower())
         
         # Save consolidated file
         with open(self.consolidated_file, 'w', encoding='utf-8') as f:
@@ -213,7 +213,7 @@ class SystemPromptLibraryUpdater:
         with open(self.consolidated_file, 'r', encoding='utf-8') as f:
             prompts = json.load(f)
         
-        valid_prompts = [p for p in prompts if p.get('agent_name')]
+        valid_prompts = [p for p in prompts if p.get('agentname')]
         prompt_count = len(valid_prompts)
         
         # Update growth history
@@ -240,20 +240,20 @@ class SystemPromptLibraryUpdater:
 """
         
         # Sort prompts alphabetically
-        valid_prompts.sort(key=lambda x: x.get('agent_name', '').lower())
+        valid_prompts.sort(key=lambda x: x.get('agentname', '').lower())
         
         for prompt in valid_prompts:
-            agent_name = prompt.get('agent_name', 'Unnamed')
-            description = prompt.get('Description', 'No description available')
+            agent_name = prompt.get('agentname', 'Unnamed')
+            description = prompt.get('description', 'No description available')
             
             # Feature capabilities with checkboxes
             features = []
             feature_fields = {
-                'agent': 'Agent-based interaction',
-                'singleTurn': 'Single-turn conversation',
-                'structuredOutput': 'Structured output generation',
-                'imageGeneration': 'Image generation',
-                'dataUtility': 'Data utility functions'
+                'is-agent': 'Agent-based interaction',
+                'is-single-turn': 'Single-turn conversation',
+                'structured-output-generation': 'Structured output generation',
+                'image-generation': 'Image generation',
+                'data-utility': 'Data utility functions'
             }
             
             for field, label in feature_fields.items():
@@ -267,8 +267,8 @@ class SystemPromptLibraryUpdater:
             json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
             links = [f"  - 📄 [JSON File](system-prompts/json/{json_filename})"]
             
-            if prompt.get('customgpt'):
-                links.append(f"  - 🤖 [ChatGPT]({prompt['customgpt']})")
+            if prompt.get('chatgptlink'):
+                links.append(f"  - 🤖 [ChatGPT]({prompt['chatgptlink']})")
             
             # Build entry
             index_content += f"""## {agent_name}

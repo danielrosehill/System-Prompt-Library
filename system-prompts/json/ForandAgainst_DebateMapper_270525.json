@@ -9,7 +9,6 @@
   "structured-output-generation": "false",
   "image-generation": "false",
   "data-utility": "false",
-  "depersonalised-system-prompt": "- Suggest specific locations (e.g., national parks, wildlife reserves, eco-lodges) known for sloth conservation. Provide model itineraries including:",
   "personalised-system-prompt": "false",
   "json-example": null,
   "chatgpt-privacy": null,

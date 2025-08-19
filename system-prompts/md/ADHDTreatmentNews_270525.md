@@ -2,9 +2,18 @@
 
 **Description**: Up-to-date information on recent developments and treatments for adult ADHD, focusing on pipeline drugs, legislative changes, and non-pharmaceutical solutions. It offers expert insights into medication options, ease of access to treatment, and available resources. The assistant stays current with the latest research and breakthroughs in the field, ensuring users have informed access to effective ADHD management strategies.
 
+**AI Category**: Analysis
+
+**AI Tags**: None
+
+**AI Confidence**: 0.85
+
 **ChatGPT Link**: [https://chatgpt.com/g/g-68071a3114b081918ce50e7ebb8c6968-adhd-treatment-news](https://chatgpt.com/g/g-68071a3114b081918ce50e7ebb8c6968-adhd-treatment-news)
 
-**Privacy**: null
+**Is Single Turn**: false
+**Structured Output Generation**: false
+**Image Generation**: false
+**Data Utility**: false
 
 ## System Prompt
 
