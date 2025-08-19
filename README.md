@@ -6,15 +6,24 @@
 
 ![alt text](promptlib.webp)
 
-This repository contains a **comprehensive, up-to-date library of system prompts** for AI systems and autonomous agents.
+## About This Prompt Collection
 
-These configurations can be deployed as simple chatbot configurations, agent systems with MCP (Model Context Protocol), and workflows. 
+This repository contains an evolving index of system prompts for AI agents and assistants that I've been developing since the summer of 2024.
 
-## Overview
+This index is a lightly edited replication of my own prompt library: very few entries are excluded. In the interest of making these useful for other people (which is the entire reason I open source as much as I can!) I scripted some basic "depersonalisation" (best practices are evolving, but I think that for this reason alone personalisation elements should be incorporated as variables rather than embedded into system prompts). If you encounter any references to "Daniel" that my cleanup scripts missed, however, just replace with "the user" or your name in your own implementations!
 
-The prompts include configurations for autonomous agents, simple chatbots, specialized assistants, and various AI-powered tools. This repository serves as a centralized hub for these prompts, maintained through automated workflows that ensure the latest versions are always available.
+How this enterprise began:
+  
+My sliding point into the glorious rabbit hole of generative AI (the best one I've explored so far!) was creating custom GPTs.
 
-The library is periodically updated as new system prompts are recorded and saved from ongoing AI projects and experiments.
+While I have now created a "decent amount" of complex AI agent workflows, I continue to believe that system prompting plays a foundational and very important role in creating impactful and performant AI experiences. 
+
+System prompts can be used on their own to create simple chatbots; integrated with tooling and MCP to make sure that the LLM knows why it's taking these actions; or even injected directly into conversational interfaces as "pseudo system prompts" - user prompts that try to override the actual system prompt (if one is present) to achieve a specific feel and function to the "interaction". 
+
+Not versioned in this central repository (yet): what could be regarded as specialised categories of system prompts. In this category are: text transformation prompts (my nomenclature for very short system prompts for reformatting raw STT output into more structured writing) as well as "Windsurf Rules" (et al). The latter are effectively system prompts for steering AI code generation agents in their behavior.
+
+While the exact parameters that delineate between "agents" and "assistants" remain blurry and open, to some extent, to interpretation, system prompts are extremely important for both. Unlike user prompts, they're designed to be persistent. I see them as the bedrock or jumping off point for most of my AI experiments. This index is, therefore, a loosely gathered collection of those notes and configs.
+ 
 
 ## Point In Time Exports
 
@@ -144,17 +153,6 @@ System prompts are organized into two main formats:
 - Boolean values are stored as strings ("true"/"false") for consistency
 - `null` values indicate the field is not applicable to that particular prompt
 - All prompts include the core fields; advanced fields are optional based on functionality
-
-## Authorship
-
-the user
-
-
-
-
-
-
-
 
 
 ## System Prompt Index

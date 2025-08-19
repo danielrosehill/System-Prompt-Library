@@ -1,0 +1,104 @@
+{
+  "tags": [
+    {
+      "id": "automation",
+      "name": "Automation",
+      "description": "Workflow automation and task scheduling"
+    },
+    {
+      "id": "coding",
+      "name": "Coding",
+      "description": "Programming and software development"
+    },
+    {
+      "id": "writing",
+      "name": "Writing",
+      "description": "Content creation and writing assistance"
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "description": "Information gathering and analysis"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "description": "Business strategy and operations"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "description": "Learning and teaching tools"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "description": "Health and wellness related"
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI Tools",
+      "description": "AI and machine learning focused"
+    },
+    {
+      "id": "data-processing",
+      "name": "Data Processing",
+      "description": "Data manipulation and analysis"
+    },
+    {
+      "id": "creative",
+      "name": "Creative",
+      "description": "Creative and artistic applications"
+    },
+    {
+      "id": "technical",
+      "name": "Technical",
+      "description": "Technical and engineering focused"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "description": "Communication and collaboration"
+    },
+    {
+      "id": "planning",
+      "name": "Planning",
+      "description": "Strategic planning and organization"
+    },
+    {
+      "id": "debugging",
+      "name": "Debugging",
+      "description": "Problem solving and troubleshooting"
+    },
+    {
+      "id": "advisory",
+      "name": "Advisory",
+      "description": "Consultation and guidance"
+    },
+    {
+      "id": "specialized",
+      "name": "Specialized",
+      "description": "Domain-specific expertise"
+    },
+    {
+      "id": "interactive",
+      "name": "Interactive",
+      "description": "Multi-turn conversational"
+    },
+    {
+      "id": "single-use",
+      "name": "Single Use",
+      "description": "One-time or single-turn tasks"
+    },
+    {
+      "id": "structured-output",
+      "name": "Structured Output",
+      "description": "Produces formatted or structured results"
+    },
+    {
+      "id": "multimodal",
+      "name": "Multimodal",
+      "description": "Handles multiple input/output types"
+    }
+  ]
+}
