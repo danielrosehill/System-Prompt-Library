@@ -1,0 +1,212 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "System Prompt Agent",
+  "type": "object",
+  "description": "Schema for system prompt agent definitions in the library",
+  "properties": {
+    "agentname": {
+      "type": "string",
+      "description": "The display name of the agent/assistant."
+    },
+    "api_notes": {
+      "type": "string",
+      "description": "Free-text notes on API usage, dependencies, or quirks."
+    },
+    "audio": {
+      "type": "boolean",
+      "description": "Indicates if audio input is required.",
+      "default": false
+    },
+    "autonomous": {
+      "type": "boolean",
+      "description": "Marks if the agent operates autonomously without supervision.",
+      "default": false
+    },
+    "better_as_tool": {
+      "type": "boolean",
+      "description": "Marks if this is better suited as a tool rather than a standalone agent.",
+      "default": false
+    },
+    "character": {
+      "type": "boolean",
+      "description": "Indicates whether the agent assumes a specific character/persona.",
+      "default": false
+    },
+    "chatgpt_access_url": {
+      "type": "string",
+      "description": "Direct link to the deployed ChatGPT agent.",
+      "format": "uri"
+    },
+    "conversational": {
+      "type": "boolean",
+      "description": "Indicates if the agent supports multi-turn conversations.",
+      "default": false
+    },
+    "cost_estimates": {
+      "type": "string",
+      "description": "Notes or figures on estimated operating costs."
+    },
+    "creation_date": {
+      "type": "string",
+      "description": "Date the agent was created.",
+      "format": "date"
+    },
+    "data_utility": {
+      "type": "boolean",
+      "description": "Marks relevance to data processing/utility use cases.",
+      "default": false
+    },
+    "deep_research": {
+      "type": "boolean",
+      "description": "Indicates if the agent is designed for deep research tasks.",
+      "default": false
+    },
+    "description": {
+      "type": "string",
+      "description": "Text description of the agent\u2019s purpose and behavior."
+    },
+    "external_tooling": {
+      "type": "boolean",
+      "description": "Marks if external tools are mandatory for function.",
+      "default": false
+    },
+    "file_input": {
+      "type": "boolean",
+      "description": "Indicates if file input support is required.",
+      "default": false
+    },
+    "guardrails_notes": {
+      "type": "string",
+      "description": "Free-text notes describing safety rules or refusal logic."
+    },
+    "image_generation": {
+      "type": "boolean",
+      "description": "Marks if image generation is part of the workflow.",
+      "default": false
+    },
+    "instructional": {
+      "type": "boolean",
+      "description": "Indicates if designed for teaching or step-by-step guidance.",
+      "default": false
+    },
+    "is_agent": {
+      "type": "boolean",
+      "description": "Marks if this is a true agent (tool-using, stateful).",
+      "default": false
+    },
+    "iteration_notes": {
+      "type": "string",
+      "description": "Free-text notes about iteration history."
+    },
+    "json_schema": {
+      "type": "object",
+      "description": "Full JSON schema definition for structured output."
+    },
+    "llm_selection_notes": {
+      "type": "string",
+      "description": "Notes on which LLMs are most suitable."
+    },
+    "local_llm_friendly?": {
+      "type": "string",
+      "description": "Indicates suitability for running on local LLMs."
+    },
+    "local_llm_notes": {
+      "type": "string",
+      "description": "Notes about performance or quirks on local LLMs."
+    },
+    "localtisation_notes": {
+      "type": "string",
+      "description": "Notes about localization or language support."
+    },
+    "mcp_notes": {
+      "type": "string",
+      "description": "Notes related to Model Context Protocol integrations."
+    },
+    "mcps_used": {
+      "type": "string",
+      "description": "List of Model Context Protocol components/tools used."
+    },
+    "n8n_link": {
+      "type": "string",
+      "description": "Link to associated n8n automation.",
+      "format": "uri"
+    },
+    "pii_notes": {
+      "type": "string",
+      "description": "Notes on handling personally identifiable information."
+    },
+    "rag": {
+      "type": "boolean",
+      "description": "Marks if retrieval-augmented generation is required.",
+      "default": false
+    },
+    "roleplay": {
+      "type": "boolean",
+      "description": "Indicates roleplay functionality/behavior.",
+      "default": false
+    },
+    "single_turn": {
+      "type": "boolean",
+      "description": "Marks if designed for single-turn interactions.",
+      "default": false
+    },
+    "spech-to-speech": {
+      "type": "boolean",
+      "description": "Indicates if speech-to-speech interaction is supported.",
+      "default": false
+    },
+    "structured_output": {
+      "type": "boolean",
+      "description": "Marks if structured output is produced.",
+      "default": false
+    },
+    "tts": {
+      "type": "boolean",
+      "description": "Indicates if text-to-speech output is required.",
+      "default": false
+    },
+    "update_iteration": {
+      "type": "boolean",
+      "description": "Marks if an update or iteration cycle occurred.",
+      "default": false
+    },
+    "use_case_outline": {
+      "type": "string",
+      "description": "Free-text outline of supported use cases."
+    },
+    "utility_estimate": {
+      "type": "string",
+      "description": "Numerical or qualitative estimate of usefulness."
+    },
+    "video_input": {
+      "type": "boolean",
+      "description": "Marks if video input is required.",
+      "default": false
+    },
+    "vision": {
+      "type": "boolean",
+      "description": "Indicates if vision input is required.",
+      "default": false
+    },
+    "voice_first": {
+      "type": "boolean",
+      "description": "Marks if designed primarily for voice-first use.",
+      "default": false
+    },
+    "writing_assistant": {
+      "type": "boolean",
+      "description": "Indicates if designed as a writing assistant.",
+      "default": false
+    }
+  },
+  "required": [
+    "audio",
+    "external_tooling",
+    "file_input",
+    "rag",
+    "tts",
+    "video_input",
+    "vision"
+  ],
+  "additionalProperties": false
+}

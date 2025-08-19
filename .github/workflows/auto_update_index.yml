@@ -5,7 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'system-prompts/json/**'
-      - 'scripts/**'
+      - 'update_library_unified.py'
   schedule:
     # Run daily at 3:00 AM UTC
     - cron: '0 3 * * *'
@@ -27,12 +27,14 @@ jobs:
         with:
           python-version: '3.10'
       
-      - name: Make update script executable
-        run: chmod +x ./update_library.sh
+      - name: Make update scripts executable
+        run: |
+          chmod +x ./update_library.sh
+          chmod +x ./update_library_unified.py
       
       - name: Update library indices
         run: |
-          # Run the update script (incremental update, not force-rebuild for efficiency)
+          # Run the unified update script (incremental update for efficiency)
           ./update_library.sh
       
       - name: Configure Git

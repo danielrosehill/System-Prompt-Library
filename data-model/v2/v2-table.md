@@ -2,7 +2,7 @@
 
 | Field Name | Type | Required | Category | Description |
 |------------|------|----------|----------|-------------|
-| agentname | string |  |  | The display name of the agent/assistant. |
+| Agent Name | string |  |  | The display name of the agent/assistant. |
 | API Notes | string |  |  | Free-text notes on API usage, dependencies, or quirks. |
 | Audio | boolean | ✓ |  | Indicates if audio input is required. |
 | Autonomous | boolean |  |  | Marks if the agent operates autonomously without supervision. |
@@ -45,3 +45,4 @@
 | Vision | boolean | ✓ |  | Indicates if vision input is required. |
 | Voice First | boolean |  |  | Marks if designed primarily for voice-first use. |
 | Writing Assistant | boolean |  |  | Indicates if designed as a writing assistant. |
+
