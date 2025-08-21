@@ -1,0 +1,380 @@
+{
+  "name": "Add New Agents To Repo",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -544,
+        -48
+      ],
+      "id": "a459b7cc-517b-45dc-bc65-31bc50287b8c",
+      "name": "Webhook",
+      "webhookId": "727801f0-d656-420a-b344-661335ec56ad"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        400,
+        -160
+      ],
+      "id": "24e82b80-efa5-4366-96a7-29d80f8ebd36",
+      "name": "Code"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        384,
+        48
+      ],
+      "id": "27addbc5-d13d-45ef-8c32-7f684eff9cd4",
+      "name": "Code1"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        576,
+        -176
+      ],
+      "id": "7e1fa714-bbed-47e6-a8df-2baa083b275f",
+      "name": "Create a file",
+      "webhookId": "de3f8d45-f774-4915-8704-1d65538571a7"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [
+        608,
+        48
+      ],
+      "id": "9cffcf6f-abe4-4212-8199-ccacd910a92f",
+      "name": "Create a file1",
+      "webhookId": "de3f8d45-f774-4915-8704-1d65538571a7"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -16,
+        -48
+      ],
+      "id": "35d32160-86c5-4737-ba7f-ad685e6e1bae",
+      "name": "Flatten"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        176,
+        -48
+      ],
+      "id": "f7e99194-a8d5-45e5-8d8a-46ba677fe58f",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        -240,
+        -32
+      ],
+      "id": "70f875fd-95a8-497c-994d-04bcd5b311d2",
+      "name": "Safety check"
+    }
+  ],
+  "pinData": {
+    "Webhook": [
+      {
+        "json": {
+          "headers": {
+            "host": "n8n.example.com",
+            "user-agent": "axios/1.11.0",
+            "content-length": "2288",
+            "accept": "application/json, text/plain, */*",
+            "accept-encoding": "gzip, br",
+            "cdn-loop": "cloudflare; loops=1",
+            "cf-connecting-ip": "192.168.1.100",
+            "cf-ipcountry": "US",
+            "cf-ray": "9719dfab6a4f0b3a-NYC",
+            "cf-visitor": "{\"scheme\":\"https\"}",
+            "cf-warp-tag-id": "c16bc4c8-eefc-48f0-be27-e2fb4f0f9d38",
+            "connection": "keep-alive",
+            "content-type": "application/json",
+            "x-forwarded-for": "192.168.1.100",
+            "x-forwarded-proto": "https"
+          },
+          "params": {},
+          "query": {},
+          "body": {
+            "type": "records.after.insert",
+            "id": "1181072f-55b9-499a-9959-2031cf1b8ae6",
+            "version": "v3",
+            "data": {
+              "table_id": "example_table_id",
+              "table_name": "Agents",
+              "rows": [
+                {
+                  "Id": 1,
+                  "CreatedAt": "2025-08-19T13:07:14.840Z",
+                  "UpdatedAt": "2025-08-19T13:07:14.840Z",
+                  "Name": "Sample Text",
+                  "System Prompt": "Sample Long text",
+                  "Description": "Sample Text",
+                  "Creation Date": "2025-08-19T13:07:14.840Z",
+                  "Personal Or PII": true,
+                  "ChatGPT Access URL": "https://example.com",
+                  "Utility Estimate": 1,
+                  "Test Entry": true,
+                  "JSON Schema (Full)": "{}",
+                  "Commercial Potential": true,
+                  "For Work": true,
+                  "Notes & Observations": "Sample Long text",
+                  "Better As Tool": true,
+                  "Duplicate": true,
+                  "Open Source OK": true,
+                  "Is Agent": true,
+                  "Single Turn (Workflow Type)": true,
+                  "External Tooling (Required)": true,
+                  "Structured Output (Workflow Type)": true,
+                  "Image Generation (Workflow Type)": true,
+                  "Character (Type)": true,
+                  "Roleplay (Behavior)": true,
+                  "Voice First": true,
+                  "Writing Assistant": true,
+                  "Data Utility (Category)": true,
+                  "Job Search (Category)": true,
+                  "Priority Deployment": true,
+                  "Depersonalised System Prompt": "Sample Long text",
+                  "Personalised System Prompt": "Sample Long text",
+                  "N8N Link": "https://example.com",
+                  "Hugging Face Chat": "https://example.com",
+                  "Models (Lookup)_id": 1,
+                  "ChatGPT Privacy_id": 1,
+                  "Avatars_id": 1,
+                  "Useful": true,
+                  "Not For Public": true,
+                  "Via N8N Form": true,
+                  "JSON Schema (Example Value)": "{}",
+                  "Best Configs": true,
+                  "Add To Repo": true,
+                  "Most Useful": true,
+                  "Why Useful": "Sample Long text",
+                  "RAG (Required)": true,
+                  "Vision (Req)": true,
+                  "Spech-To-Speech": true,
+                  "Video Input (Required)": true,
+                  "Audio (Required)": true,
+                  "TTS (Required)": true,
+                  "File Input (Req)": true,
+                  "Needs Realtime": true,
+                  "Needs Streaming Input": true,
+                  "Conversational": true,
+                  "Instructional": true,
+                  "Workflow Component": true,
+                  "Autonomous": true,
+                  "Chatbot (Assistant)": true,
+                  "MCPs Used": "Sample Long text",
+                  "API Notes": "Sample Long text",
+                  "MCP Notes": "Sample Long text",
+                  "Local LLM Notes": "Sample Long text",
+                  "LLM Selection Notes": "Sample Long text",
+                  "Health Advice": true,
+                  "Mental Helath Related": true,
+                  "Deep Research": true,
+                  "Update/Iteration": true,
+                  "One Line Summary": "Sample Text",
+                  "Use Case Outline": "Sample Long text",
+                  "Iteration Notes": "Sample Long text",
+                  "PII Notes": "Sample Long text",
+                  "Cost Estimates": "Sample Long text",
+                  "Localtisation Notes": "Sample Long text",
+                  "Guardrails Notes": "Sample Long text",
+                  "Local LLM Friendly": true
+                }
+              ]
+            }
+          },
+          "webhookUrl": "https://n8n.example.com/webhook-test/727801f0-d656-420a-b344-661335ec56ad",
+          "executionMode": "test"
+        }
+      }
+    ],
+    "Flatten": [
+      {
+        "json": {
+          "Id": 1,
+          "CreatedAt": "2025-08-19T13:07:14.840Z",
+          "UpdatedAt": "2025-08-19T13:07:14.840Z",
+          "Name": "Sample Text",
+          "System Prompt": "Sample Long text",
+          "Description": "Sample Text",
+          "Creation Date": "2025-08-19T13:07:14.840Z",
+          "Personal Or PII": true,
+          "ChatGPT Access URL": "https://example.com",
+          "Utility Estimate": 1,
+          "Test Entry": true,
+          "JSON Schema (Full)": "{}",
+          "Commercial Potential": true,
+          "For Work": true,
+          "Notes & Observations": "Sample Long text",
+          "Better As Tool": true,
+          "Duplicate": true,
+          "Open Source OK": true,
+          "Is Agent": true,
+          "Single Turn (Workflow Type)": true,
+          "External Tooling (Required)": true,
+          "Structured Output (Workflow Type)": true,
+          "Image Generation (Workflow Type)": true,
+          "Character (Type)": true,
+          "Roleplay (Behavior)": true,
+          "Voice First": true,
+          "Writing Assistant": true,
+          "Data Utility (Category)": true,
+          "Job Search (Category)": true,
+          "Priority Deployment": true,
+          "Depersonalised System Prompt": "Sample Long text",
+          "Personalised System Prompt": "Sample Long text",
+          "N8N Link": "https://example.com",
+          "Hugging Face Chat": "https://example.com",
+          "Models (Lookup)_id": 1,
+          "ChatGPT Privacy_id": 1,
+          "Avatars_id": 1,
+          "Useful": true,
+          "Not For Public": true,
+          "Via N8N Form": true,
+          "JSON Schema (Example Value)": "{}",
+          "Best Configs": true,
+          "Add To Repo": true,
+          "Most Useful": true,
+          "Why Useful": "Sample Long text",
+          "RAG (Required)": true,
+          "Vision (Req)": true,
+          "Spech-To-Speech": true,
+          "Video Input (Required)": true,
+          "Audio (Required)": true,
+          "TTS (Required)": true,
+          "File Input (Req)": true,
+          "Needs Realtime": true,
+          "Needs Streaming Input": true,
+          "Conversational": true,
+          "Instructional": true,
+          "Workflow Component": true,
+          "Autonomous": true,
+          "Chatbot (Assistant)": true,
+          "MCPs Used": "Sample Long text",
+          "API Notes": "Sample Long text",
+          "MCP Notes": "Sample Long text",
+          "Local LLM Notes": "Sample Long text",
+          "LLM Selection Notes": "Sample Long text",
+          "Health Advice": true,
+          "Mental Helath Related": true,
+          "Deep Research": true,
+          "Update/Iteration": true,
+          "One Line Summary": "Sample Text",
+          "Use Case Outline": "Sample Long text",
+          "Iteration Notes": "Sample Long text",
+          "PII Notes": "Sample Long text",
+          "Cost Estimates": "Sample Long text",
+          "Localtisation Notes": "Sample Long text",
+          "Guardrails Notes": "Sample Long text",
+          "Local LLM Friendly": true
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Safety check",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "Create a file",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code1": {
+      "main": [
+        [
+          {
+            "node": "Create a file1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Flatten": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Safety check": {
+      "main": [
+        [
+          {
+            "node": "Flatten",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Code1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "97e70c72-d42e-4118-bcc6-ff35df3f2970",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "example-instance-id-for-demo-purposes-only"
+  },
+  "id": "ExampleWorkflowId",
+  "tags": []
+}
