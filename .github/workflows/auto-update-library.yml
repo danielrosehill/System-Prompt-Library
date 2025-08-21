@@ -1,0 +1,80 @@
+name: Auto Update System Prompt Library
+
+on:
+  # Run daily at 3:00 AM UTC
+  schedule:
+    - cron: '0 3 * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: 'Force rebuild all files'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  update-library:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: Run library update script
+      run: |
+        if [ "${{ github.event.inputs.force_rebuild }}" = "true" ]; then
+          echo "Running with force rebuild..."
+          python3 update_library_unified.py --force-rebuild
+        else
+          echo "Running incremental update..."
+          python3 update_library_unified.py
+        fi
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Changes detected:"
+          git status --short
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git add .
+        git commit -m "🤖 Auto-update library: $(date '+%Y-%m-%d %H:%M UTC')
+        
+        - Updated consolidated_prompts.json
+        - Regenerated index.md with latest prompts
+        - Updated README.md with current index
+        
+        Automated by GitHub Actions"
+        
+        git push
+    
+    - name: Summary
+      run: |
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" = "true" ]; then
+          echo "✅ Library updated and changes committed"
+        else
+          echo "ℹ️ No changes detected - library already up to date"
+        fi

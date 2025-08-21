@@ -1,0 +1,144 @@
+name: Manual Update System Prompt Library
+
+on:
+  workflow_dispatch:
+    inputs:
+      update_type:
+        description: 'Type of update to perform'
+        required: true
+        default: 'full'
+        type: choice
+        options:
+        - full
+        - consolidate-only
+        - index-only
+        - readme-only
+      force_rebuild:
+        description: 'Force rebuild all files'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  update-library:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: Show current status
+      run: |
+        echo "📊 Repository Status:"
+        echo "Current branch: $(git branch --show-current)"
+        echo "Last commit: $(git log -1 --oneline)"
+        echo ""
+        echo "📁 File counts:"
+        echo "JSON files: $(find system-prompts/json -name '*.json' 2>/dev/null | wc -l)"
+        echo "Consolidated file exists: $([ -f consolidated_prompts.json ] && echo 'Yes' || echo 'No')"
+        echo "Index file exists: $([ -f index.md ] && echo 'Yes' || echo 'No')"
+    
+    - name: Run library update script
+      run: |
+        echo "🚀 Running update with parameters:"
+        echo "Update type: ${{ github.event.inputs.update_type }}"
+        echo "Force rebuild: ${{ github.event.inputs.force_rebuild }}"
+        echo ""
+        
+        # Build command arguments
+        ARGS=""
+        if [ "${{ github.event.inputs.force_rebuild }}" = "true" ]; then
+          ARGS="$ARGS --force-rebuild"
+        fi
+        
+        case "${{ github.event.inputs.update_type }}" in
+          "consolidate-only")
+            ARGS="$ARGS --consolidate-only"
+            ;;
+          "index-only")
+            ARGS="$ARGS --index-only"
+            ;;
+          "readme-only")
+            ARGS="$ARGS --readme-only"
+            ;;
+          "full")
+            # No additional args needed for full update
+            ;;
+        esac
+        
+        echo "Command: python3 update_library_unified.py $ARGS"
+        python3 update_library_unified.py $ARGS
+    
+    - name: Show update results
+      run: |
+        echo "📈 Update Results:"
+        if [ -f consolidated_prompts.metadata.json ]; then
+          echo "Consolidated metadata:"
+          cat consolidated_prompts.metadata.json | python3 -m json.tool
+        fi
+        echo ""
+        if [ -f index_metadata.json ]; then
+          echo "Index metadata:"
+          cat index_metadata.json | python3 -m json.tool
+        fi
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ Changes detected:"
+          git status --short
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️ No changes detected"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git add .
+        
+        # Create detailed commit message
+        COMMIT_MSG="🔧 Manual library update (${{ github.event.inputs.update_type }}): $(date '+%Y-%m-%d %H:%M UTC')"
+        
+        if [ -f consolidated_prompts.metadata.json ]; then
+          VALID_PROMPTS=$(cat consolidated_prompts.metadata.json | python3 -c "import sys, json; data=json.load(sys.stdin); print(data['stats']['valid_prompts'])" 2>/dev/null || echo "unknown")
+          COMMIT_MSG="$COMMIT_MSG
+
+📊 Stats: $VALID_PROMPTS valid prompts processed"
+        fi
+        
+        COMMIT_MSG="$COMMIT_MSG
+
+🔄 Update type: ${{ github.event.inputs.update_type }}
+🔨 Force rebuild: ${{ github.event.inputs.force_rebuild }}
+
+Triggered manually via GitHub Actions"
+        
+        git commit -m "$COMMIT_MSG"
+        git push
+    
+    - name: Summary
+      run: |
+        echo "🎯 Workflow Summary:"
+        echo "Update type: ${{ github.event.inputs.update_type }}"
+        echo "Force rebuild: ${{ github.event.inputs.force_rebuild }}"
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" = "true" ]; then
+          echo "Result: ✅ Changes committed and pushed"
+        else
+          echo "Result: ℹ️ No changes needed"
+        fi
