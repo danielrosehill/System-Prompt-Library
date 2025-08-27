@@ -561,7 +561,6 @@
     "SQLToNaturalLanguage_270525.json": "92a73e755d53c462ff13bbc5e199003fe96158cb77960db58b9ddb0bf7f8a31e",
     "SSMLSupport_270525.json": "1c781d1a54b367b3b491c85120f644bd8a7b02cff1da10adef1ad6faca046519",
     "SalaryResearchSidekick_270525.json": "5e1f987b4f59b16f92a0e387aebeed97384185f40365ce7d7d8c67a39d6fb799",
-    "SampleText_290525.json": "d7eb8625e087c60cbc01bec2c3a6c27239bd193d109eb0e534a31c94ce0687b4",
     "ScanEmailThreadForActionRequests_270525.json": "13049b5bf183ee587b350e854185313afdb54785b64996174ae0bac05f1a54de",
     "ScreenshotToCSV_270525.json": "25e5898e0bc17f1de7919f8f442a32af63fb2791d3c5107e6de03afa9c629cfe",
     "ScreenshotToCalendarAppointment_270525.json": "eff5e58c09035e993cadc1af37826f8b5a2d6ef415b592075c75d768170aa2c9",
@@ -944,17 +943,23 @@
     "Work_LifeBalancer_270525.json": "4d8e2f9fdd476019bad092ac9d2e4bf853de4d0546b1705968003c3ced490a84",
     "Writing_EditingAppFinder_270525.json": "c2325bcd7b33e8db62d1a3352d654f692b89d8c66efc22005decab517ad22b13",
     "ZigbeeHardwareFinder_MQTT_270525.json": "06b79f5262d5366207ecf1ea050bfadc045d1c4f3658c39bcfdb9124a351c5f4",
-    "sample_text.json": "739f699b3481ca458c19636a777933fd0d487990a975652dc3eb5b83d69ec27b",
     "testsample_text.json": "ac5277490cd5c114e6a6e4125797f065e5a48439486faa3c6d76b7c005a432e9",
-    "decision-flowchart-generator_190825.json": "79ab7c39d8b8d9f948d2d07c8ca87904f282cf4b53ca68711a9ffa8fa1d69d32"
+    "decision-flowchart-generator_190825.json": "79ab7c39d8b8d9f948d2d07c8ca87904f282cf4b53ca68711a9ffa8fa1d69d32",
+    "patient-json-fixer-v2_210825.json": "cce45ce4cac8a2f982103a8e9d79cdaabe0d452a2c16007f77e707214b4406db",
+    "patient-json-fixer_210825.json": "b821eed255a4c93d0df94eb3d59e3fefaad8e42ab94e526455e7a7a921b9b851",
+    "overzealous-travel-agent_240825.json": "4ae4a9f80d5afa7cf06159b2aba22e9ecc684948beec1acfa2c37c47099e902a",
+    "rigging-expert_220825.json": "a5657afc3500a7c69b1134f3a7d3dd6cb15ae9f969b11de6c9c3901ef7613e9a",
+    "update3_sample-text_270825.json": "36e3f46f22f74b2cc51484450a252f38fca562b896d7a74913219b5b97c793b5",
+    "webflow-expert_270825.json": "4a7908f9b72dfb8dddbd7274e3589827a5d22958af63ae51d1ecf65917c49d2d",
+    "workflow3_sample-text_270825.json": "36e3f46f22f74b2cc51484450a252f38fca562b896d7a74913219b5b97c793b5"
   },
   "last_update": "2025-08-19T16:22:40.918405",
   "total_files": 947,
-  "last_updated": "2025-08-19T18:08:32.211635",
+  "last_updated": "2025-08-27T13:57:24.017075",
   "stats": {
-    "total_files": 947,
-    "processed_files": 947,
-    "updated_files": 947,
-    "valid_prompts": 947
+    "total_files": 952,
+    "processed_files": 952,
+    "updated_files": 7,
+    "valid_prompts": 952
   }
 }
