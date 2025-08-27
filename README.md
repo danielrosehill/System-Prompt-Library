@@ -6,14 +6,15 @@
 
 ![alt text](images/banner.webp)
 
-
+<!-- BEGIN_STATS_SECTION -->
 ## 📊 Library Statistics
 
-📈 ▁█▅▅
+![Growth Chart](images/growth_chart.png)
 
 **Total System Prompts:** 922 | **Last Updated:** 2025-08-27
 
 *This library has grown from 892 to 922 prompts since tracking began*
+<!-- END_STATS_SECTION -->
 
 ## Table of Contents
 

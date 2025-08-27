@@ -8,6 +8,8 @@ current statistics and a sparkline chart to the README header.
 
 import json
 import re
+import subprocess
+import sys
 from pathlib import Path
 from datetime import datetime
 from typing import List, Dict
@@ -35,6 +37,35 @@ def generate_sparkline(counts: List[int]) -> str:
     sparkline = "📈 " + "".join(blocks[n] for n in normalized)
     
     return sparkline
+
+
+def generate_growth_chart(repo_root: Path) -> bool:
+    """Generate growth chart using the chart generation script."""
+    try:
+        # Run the chart generation script in the virtual environment
+        venv_python = repo_root / "chart-env" / "bin" / "python3"
+        chart_script = repo_root / "scripts" / "generate_growth_chart.py"
+        
+        if venv_python.exists() and chart_script.exists():
+            result = subprocess.run(
+                [str(venv_python), str(chart_script)],
+                cwd=str(repo_root),
+                capture_output=True,
+                text=True
+            )
+            return result.returncode == 0
+        else:
+            # Fallback: try with system python
+            result = subprocess.run(
+                [sys.executable, str(chart_script)],
+                cwd=str(repo_root),
+                capture_output=True,
+                text=True
+            )
+            return result.returncode == 0
+    except Exception as e:
+        print(f"⚠️ Chart generation failed: {e}")
+        return False
 
 
 def load_growth_data(repo_root: Path) -> tuple:
@@ -80,18 +111,26 @@ def update_readme_with_stats(repo_root: Path):
     except:
         formatted_date = datetime.now().strftime('%Y-%m-%d')
     
-    # Generate sparkline from growth history
+    # Generate growth chart
+    chart_generated = generate_growth_chart(repo_root)
+    
+    # Get counts for fallback text
     counts = [entry["count"] for entry in growth_data.get("entries", [])]
     if not counts:
         counts = [current_count]
     
-    sparkline = generate_sparkline(counts)
+    # Create stats section with proper chart
+    if chart_generated:
+        chart_section = "![Growth Chart](images/growth_chart.png)"
+    else:
+        # Fallback to sparkline if chart generation fails
+        chart_section = generate_sparkline(counts)
     
     # Create stats section
     stats_section = f"""
 ## 📊 Library Statistics
 
-{sparkline}
+{chart_section}
 
 **Total System Prompts:** {current_count:,} | **Last Updated:** {formatted_date}
 
@@ -103,26 +142,31 @@ def update_readme_with_stats(repo_root: Path):
     with open(readme_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Check if stats section already exists
-    stats_pattern = r'## 📊 Library Statistics.*?(?=##|\Z)'
+    # Use markers to only update the statistics section, preserving manual edits
+    stats_begin_marker = "<!-- BEGIN_STATS_SECTION -->"
+    stats_end_marker = "<!-- END_STATS_SECTION -->"
     
-    if re.search(stats_pattern, content, re.DOTALL):
-        # Replace existing stats section
-        new_content = re.sub(stats_pattern, stats_section.strip() + '\n\n', content, flags=re.DOTALL)
-        print("✅ Updated existing statistics section")
+    # Check if markers exist
+    if stats_begin_marker in content and stats_end_marker in content:
+        # Replace only the content between markers
+        pattern = f"{stats_begin_marker}.*?{stats_end_marker}"
+        replacement = f"{stats_begin_marker}\n{stats_section.strip()}\n{stats_end_marker}"
+        new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+        print("✅ Updated existing statistics section between markers")
     else:
-        # Insert stats section after the badges but before Table of Contents
+        # Insert stats section with markers after the badges but before Table of Contents
         # Look for the pattern: badges -> image -> Table of Contents
         toc_pattern = r'(!\[alt text\].*?\n\n)(## Table of Contents)'
         
         if re.search(toc_pattern, content, re.DOTALL):
+            stats_with_markers = f"{stats_begin_marker}\n{stats_section.strip()}\n{stats_end_marker}\n\n"
             new_content = re.sub(
                 toc_pattern, 
-                r'\1' + stats_section + r'\2', 
+                r'\1' + stats_with_markers + r'\2', 
                 content, 
                 flags=re.DOTALL
             )
-            print("✅ Added new statistics section before Table of Contents")
+            print("✅ Added new statistics section with markers before Table of Contents")
         else:
             # Fallback: add after the first heading
             lines = content.split('\n')
@@ -132,9 +176,10 @@ def update_readme_with_stats(repo_root: Path):
                     insert_pos = i
                     break
             
-            lines.insert(insert_pos, stats_section.strip())
+            stats_with_markers = f"{stats_begin_marker}\n{stats_section.strip()}\n{stats_end_marker}"
+            lines.insert(insert_pos, stats_with_markers)
             new_content = '\n'.join(lines)
-            print("✅ Added new statistics section (fallback method)")
+            print("✅ Added new statistics section with markers (fallback method)")
     
     # Write updated content
     with open(readme_file, 'w', encoding='utf-8') as f:
