@@ -955,11 +955,11 @@
   },
   "last_update": "2025-08-19T16:22:40.918405",
   "total_files": 947,
-  "last_updated": "2025-08-27T13:57:24.017075",
+  "last_updated": "2025-08-27T14:34:10.850697",
   "stats": {
     "total_files": 952,
     "processed_files": 952,
-    "updated_files": 7,
+    "updated_files": 0,
     "valid_prompts": 952
   }
 }
