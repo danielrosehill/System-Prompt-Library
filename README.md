@@ -23,6 +23,22 @@ System prompts can be used on their own to create simple chatbots; integrated wi
 Not versioned in this central repository (yet): what could be regarded as specialised categories of system prompts. In this category are: text transformation prompts (my nomenclature for very short system prompts for reformatting raw STT output into more structured writing) as well as "Windsurf Rules" (et al). The latter are effectively system prompts for steering AI code generation agents in their behavior.
 
 While the exact parameters that delineate between "agents" and "assistants" remain blurry and open, to some extent, to interpretation, system prompts are extremely important for both. Unlike user prompts, they're designed to be persistent. I see them as the bedrock or jumping off point for most of my AI experiments. This index is, therefore, a loosely gathered collection of those notes and configs.
+
+## N8N Workflow For Updating Repo From Form
+
+![alt text](images/flow.png)
+
+See: `n8n-workflow` for login:
+
+- I index my assistants/agents/system prompts in NocoDB 
+- I add them via form 
+- I use an "open source OK" Boolean to hide configs I don't want to share (almost all are shared!) 
+
+Workflow logic:
+
+- Check if open source = okay. If so proceed with this workflow 
+- Truncated JSON goes to JSON branch here 
+- JSON gets sent to agent who converts it into a more descriptive model card. This goes into the markdown branch 
  
 
 ## Point In Time Exports
@@ -32,6 +48,10 @@ I periodically export lightly cleaned versions of the consolidated system prompt
 These are listed in `exports.md`. The latest is:
 
 [![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825)
+
+## Changelog
+
+- 27/08/25: Markdown files are now generated via an AI agent which processes the JSON and generates a custom model card
 
 ## Formats
 
