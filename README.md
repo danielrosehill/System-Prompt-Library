@@ -10,7 +10,7 @@
 
 This repository contains an evolving index of system prompts for AI agents and assistants that I've been developing since the summer of 2024.
 
-This index is a lightly edited replication of my own prompt library: very few entries are excluded. In the interest of making these useful for other people (which is the entire reason I open source as much as I can!) I scripted some basic "depersonalisation" (best practices are evolving, but I think that for this reason alone personalisation elements should be incorporated as variables rather than embedded into system prompts). If you encounter any references to "Daniel" that my cleanup scripts missed, however, just replace with "the user" or your name in your own implementations!
+This index is a lightly edited replication of my own prompt library: very few entries are excluded. 
 
 How this enterprise began:
   
@@ -28,7 +28,7 @@ While the exact parameters that delineate between "agents" and "assistants" rema
 
 ![alt text](images/flow.png)
 
-See: `n8n-workflow` for login:
+See: `n8n-workflow` for the workflow for anyone wishng to create something like this themselves: 
 
 - I index my assistants/agents/system prompts in NocoDB 
 - I add them via form 
@@ -40,6 +40,11 @@ Workflow logic:
 - Truncated JSON goes to JSON branch here 
 - JSON gets sent to agent who converts it into a more descriptive model card. This goes into the markdown branch 
  
+## Depersonalisation 
+
+In the interest of making these useful for other people (which is the entire reason I open source as much as I can!) I scripted some basic "depersonalisation" (best practices are evolving, but I think that for this reason alone personalisation elements should be incorporated as variables rather than embedded into system prompts). 
+
+If you encounter any references to "Daniel" (or Jerusalem or Linux) that my cleanup scripts missed, however, just replace with "the user" or your name in your own implementations
 
 ## Point In Time Exports
 
