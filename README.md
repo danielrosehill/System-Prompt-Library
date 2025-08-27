@@ -6,6 +6,20 @@
 
 ![alt text](promptlib.webp)
 
+## Table of Contents
+
+- [About This Prompt Collection](#about-this-prompt-collection)
+- [N8N Workflow For Updating Repo From Form](#n8n-workflow-for-updating-repo-from-form)
+- [Depersonalisation (Notes)](#depersonalisation-notes)
+- [Point In Time Exports](#point-in-time-exports)
+- [Changelog](#changelog)
+- [Formats](#formats)
+- [Data Structure](#data-structure)
+- [Repository Contents](#repository-contents)
+- [JSON Data Dictionary](#json-data-dictionary)
+- [Related Repositories](#related-repositories)
+- [System Prompt Index](#system-prompt-index)
+
 ## About This Prompt Collection
 
 This repository contains an evolving index of system prompts for AI agents and assistants that I've been developing since the summer of 2024.
@@ -39,24 +53,38 @@ Workflow logic:
 - Check if open source = okay. If so proceed with this workflow 
 - Truncated JSON goes to JSON branch here 
 - JSON gets sent to agent who converts it into a more descriptive model card. This goes into the markdown branch 
+
+---
  
-## Depersonalisation 
+## Depersonalisation (Notes)
 
 In the interest of making these useful for other people (which is the entire reason I open source as much as I can!) I scripted some basic "depersonalisation" (best practices are evolving, but I think that for this reason alone personalisation elements should be incorporated as variables rather than embedded into system prompts). 
 
-If you encounter any references to "Daniel" (or Jerusalem or Linux) that my cleanup scripts missed, however, just replace with "the user" or your name in your own implementations
+Personalisation elements that I include in SPs tend to follow patterns that should be fairly easy to script around:
+
+- "The user, Daniel."
+- "Daniel lives in Jerusalem." 
+- "Daniel uses Linux" 
+
+(Etc)
+
+---
 
 ## Point In Time Exports
 
-I periodically export lightly cleaned versions of the consolidated system prompt file.
+I periodically export lightly cleaned versions of the consolidated system prompt file to Github (releases) and Hugging Face (datasets).
 
 These are listed in `exports.md`. The latest is:
 
 [![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825)
 
+---
+
 ## Changelog
 
 - 27/08/25: Markdown files are now generated via an AI agent which processes the JSON and generates a custom model card
+
+---
 
 ## Formats
 
@@ -199,71 +227,71 @@ Note: this is a trailing processs which lags behind my initial collection proces
 
 ### Text Transformation & Processing
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [Text-Transformation-Prompt-Library](https://github.com/danielrosehill/Text-Transformation-Prompt-Library) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Text-Transformation-Prompt-Library?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Text-Transformation-Prompt-Library?style=flat-square) | Text transformation prompts (version 1) |
-| [Text-Transformation-Prompt-Collection-2](https://github.com/danielrosehill/Text-Transformation-Prompt-Collection-2) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Text-Transformation-Prompt-Collection-2?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Text-Transformation-Prompt-Collection-2?style=flat-square) | Text transformation prompts (version 2) |
-| [Text-Transformation-Prompt-Combiner](https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Text-Transformation-Prompt-Combiner?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Text-Transformation-Prompt-Combiner?style=flat-square) | Text transformation prompt builder |
-| [AI-Text-Rewriting-Toolbox](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/AI-Text-Rewriting-Toolbox?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/AI-Text-Rewriting-Toolbox?style=flat-square) | AI text rewriting toolbox |
+| Repository | Description |
+|------------|-------------|
+| [Text-Transformation-Prompt-Library](https://github.com/danielrosehill/Text-Transformation-Prompt-Library) | Text transformation prompts (version 1) |
+| [Text-Transformation-Prompt-Collection-2](https://github.com/danielrosehill/Text-Transformation-Prompt-Collection-2) | Text transformation prompts (version 2) |
+| [Text-Transformation-Prompt-Combiner](https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner) | Text transformation prompt builder |
+| [AI-Text-Rewriting-Toolbox](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox) | AI text rewriting toolbox |
 
 ### Speech-to-Text & Audio Processing
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [Speech-To-Text-System-Prompt-Library](https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Speech-To-Text-System-Prompt-Library?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Speech-To-Text-System-Prompt-Library?style=flat-square) | Speech-to-text system prompts |
-| [Audiopenai-Edit-Prompts](https://github.com/danielrosehill/Audiopenai-Edit-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Audiopenai-Edit-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Audiopenai-Edit-Prompts?style=flat-square) | Audio editing prompts for OpenAI |
-| [STT-Basic-Cleanup-System-Prompt](https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/STT-Basic-Cleanup-System-Prompt?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/STT-Basic-Cleanup-System-Prompt?style=flat-square) | Basic STT cleanup prompt |
+| Repository | Description |
+|------------|-------------|
+| [Speech-To-Text-System-Prompt-Library](https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library) | Speech-to-text system prompts |
+| [Audiopenai-Edit-Prompts](https://github.com/danielrosehill/Audiopenai-Edit-Prompts) | Audio editing prompts for OpenAI |
+| [STT-Basic-Cleanup-System-Prompt](https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt) | Basic STT cleanup prompt |
 
 ### Domain-Specific Prompt Libraries
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [Careers-Utilities-System-Prompts](https://github.com/danielrosehill/Careers-Utilities-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Careers-Utilities-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Careers-Utilities-System-Prompts?style=flat-square) | Career utilities system prompts |
-| [Geopolitical-Analysis-System-Prompts](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopolitical-Analysis-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopolitical-Analysis-System-Prompts?style=flat-square) | Geopolitical analysis prompts |
-| [Linux-Related-System-Prompts](https://github.com/danielrosehill/Linux-Related-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Linux-Related-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Linux-Related-System-Prompts?style=flat-square) | Linux-related system prompts |
-| [Email-Management-System-Prompts](https://github.com/danielrosehill/Email-Management-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Email-Management-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Email-Management-System-Prompts?style=flat-square) | Email management system prompts |
-| [Research-System-Prompts](https://github.com/danielrosehill/Research-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Research-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Research-System-Prompts?style=flat-square) | Research system prompts |
-| [Home-Inventory-AI-Assistants](https://github.com/danielrosehill/Home-Inventory-AI-Assistants) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Home-Inventory-AI-Assistants?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Home-Inventory-AI-Assistants?style=flat-square) | Home inventory helper prompts |
+| Repository | Description |
+|------------|-------------|
+| [Careers-Utilities-System-Prompts](https://github.com/danielrosehill/Careers-Utilities-System-Prompts) | Career utilities system prompts |
+| [Geopolitical-Analysis-System-Prompts](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts) | Geopolitical analysis prompts |
+| [Linux-Related-System-Prompts](https://github.com/danielrosehill/Linux-Related-System-Prompts) | Linux-related system prompts |
+| [Email-Management-System-Prompts](https://github.com/danielrosehill/Email-Management-System-Prompts) | Email management system prompts |
+| [Research-System-Prompts](https://github.com/danielrosehill/Research-System-Prompts) | Research system prompts |
+| [Home-Inventory-AI-Assistants](https://github.com/danielrosehill/Home-Inventory-AI-Assistants) | Home inventory helper prompts |
 
 ### Data & Development Utilities
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [Data-Utilities-System-Prompts](https://github.com/danielrosehill/Data-Utilities-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Data-Utilities-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Data-Utilities-System-Prompts?style=flat-square) | Data utilities system prompts |
-| [Fun-LLM-Data-Prompts](https://github.com/danielrosehill/Fun-LLM-Data-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Fun-LLM-Data-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Fun-LLM-Data-Prompts?style=flat-square) | Fun LLM data prompts |
-| [AI-Dev-Prompts-Example](https://github.com/danielrosehill/AI-Dev-Prompts-Example) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/AI-Dev-Prompts-Example?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/AI-Dev-Prompts-Example?style=flat-square) | Sample development prompts |
-| [RooCode-Mode-Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/RooCode-Mode-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/RooCode-Mode-Prompts?style=flat-square) | RooCode mode prompts |
+| Repository | Description |
+|------------|-------------|
+| [Data-Utilities-System-Prompts](https://github.com/danielrosehill/Data-Utilities-System-Prompts) | Data utilities system prompts |
+| [Fun-LLM-Data-Prompts](https://github.com/danielrosehill/Fun-LLM-Data-Prompts) | Fun LLM data prompts |
+| [AI-Dev-Prompts-Example](https://github.com/danielrosehill/AI-Dev-Prompts-Example) | Sample development prompts |
+| [RooCode-Mode-Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts) | RooCode mode prompts |
 
 ### AI & LLM Utilities
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [AI-Orchestration-System-Prompts](https://github.com/danielrosehill/AI-Orchestration-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/AI-Orchestration-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/AI-Orchestration-System-Prompts?style=flat-square) | AI orchestration system prompts |
-| [Structured-Gemini-Prompts](https://github.com/danielrosehill/Structured-Gemini-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Structured-Gemini-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Structured-Gemini-Prompts?style=flat-square) | Structured Gemini prompts |
-| [LLM-Evaluation-Prompts](https://github.com/danielrosehill/LLM-Evaluation-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Evaluation-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Evaluation-Prompts?style=flat-square) | LLM evaluation prompts |
-| [System-Prompt-Generation-Configurations](https://github.com/danielrosehill/System-Prompt-Generation-Configurations) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/System-Prompt-Generation-Configurations?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/System-Prompt-Generation-Configurations?style=flat-square) | AI prompt editing utilities |
+| Repository | Description |
+|------------|-------------|
+| [AI-Orchestration-System-Prompts](https://github.com/danielrosehill/AI-Orchestration-System-Prompts) | AI orchestration system prompts |
+| [Structured-Gemini-Prompts](https://github.com/danielrosehill/Structured-Gemini-Prompts) | Structured Gemini prompts |
+| [LLM-Evaluation-Prompts](https://github.com/danielrosehill/LLM-Evaluation-Prompts) | LLM evaluation prompts |
+| [System-Prompt-Generation-Configurations](https://github.com/danielrosehill/System-Prompt-Generation-Configurations) | AI prompt editing utilities |
 
 ### General & Stylistic Prompts
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [General-System-Prompts](https://github.com/danielrosehill/General-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/General-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/General-System-Prompts?style=flat-square) | General purpose system prompts |
-| [ChatGPT-Stylistic-System-Prompts](https://github.com/danielrosehill/ChatGPT-Stylistic-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/ChatGPT-Stylistic-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/ChatGPT-Stylistic-System-Prompts?style=flat-square) | Stylistic system prompts for ChatGPT |
-| [Pseudobot-System-Prompts](https://github.com/danielrosehill/Pseudobot-System-Prompts) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Pseudobot-System-Prompts?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Pseudobot-System-Prompts?style=flat-square) | Pseudobot system prompts |
+| Repository | Description |
+|------------|-------------|
+| [General-System-Prompts](https://github.com/danielrosehill/General-System-Prompts) | General purpose system prompts |
+| [ChatGPT-Stylistic-System-Prompts](https://github.com/danielrosehill/ChatGPT-Stylistic-System-Prompts) | Stylistic system prompts for ChatGPT |
+| [Pseudobot-System-Prompts](https://github.com/danielrosehill/Pseudobot-System-Prompts) | Pseudobot system prompts |
 
 ### Collections & Indexes
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [My-Prompt-Libraries](https://github.com/danielrosehill/My-Prompt-Libraries) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/My-Prompt-Libraries?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/My-Prompt-Libraries?style=flat-square) | Prompt library index |
-| [Prompt-Snippet-Library](https://github.com/danielrosehill/Prompt-Snippet-Library) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Prompt-Snippet-Library?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Prompt-Snippet-Library?style=flat-square) | Prompt snippets collection |
+| Repository | Description |
+|------------|-------------|
+| [My-Prompt-Libraries](https://github.com/danielrosehill/My-Prompt-Libraries) | Prompt library index |
+| [Prompt-Snippet-Library](https://github.com/danielrosehill/Prompt-Snippet-Library) | Prompt snippets collection |
 
 ### Individual Prompts & Fun Projects
 
-| Repository | Badges | Description |
-|------------|--------|-------------|
-| [No-BS-AI-System-Prompt](https://github.com/danielrosehill/No-BS-AI-System-Prompt) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/No-BS-AI-System-Prompt?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/No-BS-AI-System-Prompt?style=flat-square) | No-BS AI system prompt |
-| [Shakespearean-Text-Generators](https://github.com/danielrosehill/Shakespearean-Text-Generators) | ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Shakespearean-Text-Generators?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Shakespearean-Text-Generators?style=flat-square) | Shakespearean text generators |
+| Repository | Description |
+|------------|-------------|
+| [No-BS-AI-System-Prompt](https://github.com/danielrosehill/No-BS-AI-System-Prompt) | No-BS AI system prompt |
+| [Shakespearean-Text-Generators](https://github.com/danielrosehill/Shakespearean-Text-Generators) | Shakespearean text generators |
 
 
 
