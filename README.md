@@ -179,6 +179,82 @@ System prompts are organized into two main formats:
 - `null` values indicate the field is not applicable to that particular prompt
 - All prompts include the core fields; advanced fields are optional based on functionality
  
+---
+
+## Related Repositories
+
+I periodicaly aggregate these system prompts into libraries.
+
+Note: this is a trailing processs which lags behind my initial collection process by months, typically, if it happens at all: I index them as I create them and (over time) group them into batches.
+
+### Text Transformation & Processing
+
+| Repository | Description |
+|------------|-------------|
+| [Text-Transformation-Prompt-Library](https://github.com/danielrosehill/Text-Transformation-Prompt-Library) | Text transformation prompts (version 1) |
+| [Text-Transformation-Prompt-Collection-2](https://github.com/danielrosehill/Text-Transformation-Prompt-Collection-2) | Text transformation prompts (version 2) |
+| [Text-Transformation-Prompt-Combiner](https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner) | Text transformation prompt builder |
+| [AI-Text-Rewriting-Toolbox](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox) | AI text rewriting toolbox |
+
+### Speech-to-Text & Audio Processing
+
+| Repository | Description |
+|------------|-------------|
+| [Speech-To-Text-System-Prompt-Library](https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library) | Speech-to-text system prompts |
+| [Audiopenai-Edit-Prompts](https://github.com/danielrosehill/Audiopenai-Edit-Prompts) | Audio editing prompts for OpenAI |
+| [STT-Basic-Cleanup-System-Prompt](https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt) | Basic STT cleanup prompt |
+
+### Domain-Specific Prompt Libraries
+
+| Repository | Description |
+|------------|-------------|
+| [Careers-Utilities-System-Prompts](https://github.com/danielrosehill/Careers-Utilities-System-Prompts) | Career utilities system prompts |
+| [Geopolitical-Analysis-System-Prompts](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts) | Geopolitical analysis prompts |
+| [Linux-Related-System-Prompts](https://github.com/danielrosehill/Linux-Related-System-Prompts) | Linux-related system prompts |
+| [Email-Management-System-Prompts](https://github.com/danielrosehill/Email-Management-System-Prompts) | Email management system prompts |
+| [Research-System-Prompts](https://github.com/danielrosehill/Research-System-Prompts) | Research system prompts |
+| [Home-Inventory-AI-Assistants](https://github.com/danielrosehill/Home-Inventory-AI-Assistants) | Home inventory helper prompts |
+
+### Data & Development Utilities
+
+| Repository | Description |
+|------------|-------------|
+| [Data-Utilities-System-Prompts](https://github.com/danielrosehill/Data-Utilities-System-Prompts) | Data utilities system prompts |
+| [Fun-LLM-Data-Prompts](https://github.com/danielrosehill/Fun-LLM-Data-Prompts) | Fun LLM data prompts |
+| [AI-Dev-Prompts-Example](https://github.com/danielrosehill/AI-Dev-Prompts-Example) | Sample development prompts |
+| [RooCode-Mode-Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts) | RooCode mode prompts |
+
+### AI & LLM Utilities
+
+| Repository | Description |
+|------------|-------------|
+| [AI-Orchestration-System-Prompts](https://github.com/danielrosehill/AI-Orchestration-System-Prompts) | AI orchestration system prompts |
+| [Structured-Gemini-Prompts](https://github.com/danielrosehill/Structured-Gemini-Prompts) | Structured Gemini prompts |
+| [LLM-Evaluation-Prompts](https://github.com/danielrosehill/LLM-Evaluation-Prompts) | LLM evaluation prompts |
+| [System-Prompt-Generation-Configurations](https://github.com/danielrosehill/System-Prompt-Generation-Configurations) | AI prompt editing utilities |
+
+### General & Stylistic Prompts
+
+| Repository | Description |
+|------------|-------------|
+| [General-System-Prompts](https://github.com/danielrosehill/General-System-Prompts) | General purpose system prompts |
+| [ChatGPT-Stylistic-System-Prompts](https://github.com/danielrosehill/ChatGPT-Stylistic-System-Prompts) | Stylistic system prompts for ChatGPT |
+| [Pseudobot-System-Prompts](https://github.com/danielrosehill/Pseudobot-System-Prompts) | Pseudobot system prompts |
+
+### Collections & Indexes
+
+| Repository | Description |
+|------------|-------------|
+| [My-Prompt-Libraries](https://github.com/danielrosehill/My-Prompt-Libraries) | Prompt library index |
+| [Prompt-Snippet-Library](https://github.com/danielrosehill/Prompt-Snippet-Library) | Prompt snippets collection |
+
+### Individual Prompts & Fun Projects
+
+| Repository | Description |
+|------------|-------------|
+| [No-BS-AI-System-Prompt](https://github.com/danielrosehill/No-BS-AI-System-Prompt) | No-BS AI system prompt |
+| [Shakespearean-Text-Generators](https://github.com/danielrosehill/Shakespearean-Text-Generators) | Shakespearean text generators |
+
 
 
 ## System Prompt Index
