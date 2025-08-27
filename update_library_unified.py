@@ -361,13 +361,34 @@ class SystemPromptLibraryUpdater:
         self.log("README updated successfully", "SUCCESS")
         return True
     
+    def update_readme_stats(self) -> bool:
+        """Update README with current statistics and growth chart."""
+        self.log("Updating README statistics", "PROGRESS")
+        
+        try:
+            # Import the update function from our stats script
+            import sys
+            sys.path.append(str(self.repo_root / "scripts"))
+            from update_readme_stats import update_readme_with_stats
+            
+            success = update_readme_with_stats(self.repo_root)
+            if success:
+                self.log("README statistics updated successfully", "SUCCESS")
+            else:
+                self.log("Failed to update README statistics", "ERROR")
+            return success
+            
+        except Exception as e:
+            self.log(f"Error updating README statistics: {e}", "ERROR")
+            return False
+    
     def run_full_update(self, force_rebuild: bool = False) -> bool:
         """Run the complete update process."""
         self.log("🚀 Starting System Prompt Library Update", "INFO")
         self.log(f"Repository: {self.repo_root}")
         
         success_count = 0
-        total_tasks = 3
+        total_tasks = 4  # Updated to include README stats
         
         # Step 1: Consolidate JSON files
         success, processed, valid = self.consolidate_prompts(force_rebuild)
@@ -383,11 +404,17 @@ class SystemPromptLibraryUpdater:
         else:
             self.log("Index generation failed, continuing with README update", "WARNING")
         
-        # Step 3: Update README
+        # Step 3: Update README with latest content
         if self.update_readme():
             success_count += 1
         else:
             self.log("README update failed", "WARNING")
+        
+        # Step 4: Update README statistics with growth chart
+        if self.update_readme_stats():
+            success_count += 1
+        else:
+            self.log("README statistics update failed", "WARNING")
         
         # Summary
         self.log(f"📊 Completed {success_count}/{total_tasks} tasks successfully")
