@@ -957,13 +957,10 @@
     "email-thread-summariser_280825.json": "34263c54b7b8394b72c490fef07e4cf6daee603200cf53cf349619bd1ed02c9a",
     "writing-agent-config-helper_170925.json": "80b75416f3ba28a0d2870357abafa7b796e159756001eeca900b2c43d73dad14"
   },
-  "last_update": "2025-08-19T16:22:40.918405",
-  "total_files": 947,
-  "last_updated": "2025-09-24T15:40:03.035194",
+  "last_updated": "2025-09-24T15:57:35.470246",
   "stats": {
     "total_files": 956,
-    "processed_files": 956,
-    "updated_files": 956,
-    "valid_prompts": 956
+    "valid_prompts": 956,
+    "processed_files": 956
   }
 }
