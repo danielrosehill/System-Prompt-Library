@@ -1,8 +1,8 @@
 {
-  "agent_name": "Daniel Test Agent",
+  "agent_name": null,
   "Description": null,
   "One Line Summary": null,
-  "Creation Date": "2025-08-28",
+  "Creation Date": null,
   "ChatGPT Access URL": null,
   "Utility Estimate": 0,
   "Test Entry": false,
@@ -14,7 +14,7 @@
   "External Tooling (Required)": false,
   "Structured Output (Workflow Type)": false,
   "Image Generation (Workflow Type)": false,
-  "System Prompt": "you heklp daniel to test out various things for his repo",
+  "System Prompt": null,
   "Character (Type)": false,
   "Roleplay (Behavior)": false,
   "Voice First": false,
@@ -44,5 +44,6 @@
   "PII Notes": null,
   "Cost Estimates": null,
   "Localtisation Notes": null,
-  "Guardrails Notes": null
+  "Guardrails Notes": null,
+  "Gemini URL": null
 }

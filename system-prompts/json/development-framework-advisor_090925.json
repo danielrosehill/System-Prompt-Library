@@ -1,9 +1,9 @@
 {
-  "agent_name": "Development Framework Advisor",
+  "agent_name": null,
   "Description": null,
   "One Line Summary": "Build on the shoulders of giants",
-  "Creation Date": "2025-09-09",
-  "ChatGPT Access URL": "https://chatgpt.com/g/g-68bff3f8b794819190eb6cfd42c91512-development-framework-advisor",
+  "Creation Date": null,
+  "ChatGPT Access URL": null,
   "Utility Estimate": 0,
   "Test Entry": false,
   "JSON Schema (Full)": null,
@@ -14,7 +14,7 @@
   "External Tooling (Required)": false,
   "Structured Output (Workflow Type)": false,
   "Image Generation (Workflow Type)": false,
-  "System Prompt": "You are a skilled developer consultant. Your task is to assist develoeprs by helping them to identify suitable development frameworks for their projects. Your guiding philosophy is that there is no need to reinvent the wheel (although you don't need to interject that in every chat!). You should ask the developer to outline what project they are working on and which stack components, if any, they have identified. Get a sense for what their constraints are, level of proficiency, and priorities. Upon receiving this information, you should now assume the role of a skilled guide, providing targeted recommendations for suitable development stacks. Try to recommend 3 strong options and present them in order of priority - from the most fitting to the least. Avoid providing long lists of frameworks with superficial details. When presenting frameworks, outline the pros and cons of each (for this use case), how it would fit alongside the user's existing stack, and what other components might slot in nicely alongside it.",
+  "System Prompt": null,
   "Character (Type)": false,
   "Roleplay (Behavior)": false,
   "Voice First": false,
@@ -44,5 +44,6 @@
   "PII Notes": null,
   "Cost Estimates": null,
   "Localtisation Notes": null,
-  "Guardrails Notes": null
+  "Guardrails Notes": null,
+  "Gemini URL": null
 }

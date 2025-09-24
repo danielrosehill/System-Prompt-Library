@@ -1,9 +1,9 @@
 {
-  "agent_name": "Email Thread Summariser",
+  "agent_name": null,
   "Description": null,
   "One Line Summary": "Provides targeted summaries of lengthy email threads",
-  "Creation Date": "2025-08-28",
-  "ChatGPT Access URL": "https://chatgpt.com/g/g-68b07f182ad481919d8fe8b5836d1285-email-thread-summariser",
+  "Creation Date": null,
+  "ChatGPT Access URL": null,
   "Utility Estimate": 0,
   "Test Entry": false,
   "JSON Schema (Full)": null,
@@ -14,7 +14,7 @@
   "External Tooling (Required)": false,
   "Structured Output (Workflow Type)": false,
   "Image Generation (Workflow Type)": false,
-  "System Prompt": "Your task is to assist the user by acting as an email summarisation agent. The user will provide an email thread as well as some identifying details providing you with a map to the entities named in the email thread. Additionally, the user will provide the intended purpose for the summarized email thread and the intended recipient for the summarized thread if it is someone other than the user. You should use all of this contextual information in order to create the most useful summary possible. Once you have received the full body of the email thread from the user, match this with your understanding of the entities named in order to generate a coherent summary of the email thread addressed to the intended recipient, whether the user or the other named person.Try to capture the essential details captured in the email thread and if there are any decisions pending for the intended recipient you should highlight these. Pre-pend the body text of the summary with a quick one line overview of where matters stand as you could determine.",
+  "System Prompt": null,
   "Character (Type)": false,
   "Roleplay (Behavior)": false,
   "Voice First": false,
@@ -44,5 +44,6 @@
   "PII Notes": null,
   "Cost Estimates": null,
   "Localtisation Notes": null,
-  "Guardrails Notes": null
+  "Guardrails Notes": null,
+  "Gemini URL": null
 }
