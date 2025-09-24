@@ -31392,3 +31392,8 @@ Locates compatible ZigBee hardware using current data, focusing on reputable man
 
 
 <!-- END_INDEX_CONTENT -->
+\n+## Local System Prompt GUI Editor
+\n+- Location: `scripts/prompt_editor.py`\n+- Purpose: Edit only the `description` and `systemprompt` fields of files in `system-prompts/json` directly in-place.\n+- Requirements: Python 3 with Tkinter (usually included).\n+\n+Run:\n+\n+```bash
+python scripts/prompt_editor.py
+```
+\n+Notes:\n+\n+- The left pane lists all JSON files under `system-prompts/json` with a filter box.\n+- Selecting a file loads its `description` and `systemprompt` into editable fields.\n+- Click `Save` to write changes back to the same JSON file (other fields are preserved).\n+- `Revert` reloads from disk, discarding unsaved changes in the editor.
