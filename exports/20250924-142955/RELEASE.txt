@@ -1,5 +1,0 @@
-Release: 1
-Timestamp: 20250924-142955
-Files: 956
-Archive: release-1_20250924-142955.tar.gz
-Format: tar.gz

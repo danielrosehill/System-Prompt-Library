@@ -120,8 +120,8 @@ class SystemPromptLibraryUpdater:
                 self.log(f"Error processing {json_file.name}: {e}", "WARNING")
                 continue
         
-        # Sort prompts alphabetically by agent name
-        consolidated_prompts.sort(key=lambda x: x.get('agentname', '').lower())
+        # Sort prompts alphabetically by agent name (using new standardized field name)
+        consolidated_prompts.sort(key=lambda x: (x.get('agent_name') or '').lower())
         
         # Save consolidated file
         with open(self.consolidated_file, 'w', encoding='utf-8') as f:
@@ -215,7 +215,7 @@ class SystemPromptLibraryUpdater:
         with open(self.consolidated_file, 'r', encoding='utf-8') as f:
             prompts = json.load(f)
         
-        valid_prompts = [p for p in prompts if p.get('agentname')]
+        valid_prompts = [p for p in prompts if p.get('agent_name')]
         prompt_count = len(valid_prompts)
         
         # Update growth history
@@ -242,20 +242,20 @@ class SystemPromptLibraryUpdater:
 """
         
         # Sort prompts alphabetically
-        valid_prompts.sort(key=lambda x: x.get('agentname', '').lower())
+        valid_prompts.sort(key=lambda x: (x.get('agent_name') or '').lower())
         
         for prompt in valid_prompts:
-            agent_name = prompt.get('agentname', 'Unnamed')
-            description = prompt.get('description', 'No description available')
+            agent_name = prompt.get('agent_name', 'Unnamed')
+            description = prompt.get('Description', 'No description available')
             
-            # Feature capabilities with checkboxes
+            # Feature capabilities with checkboxes (using new standardized field names)
             features = []
             feature_fields = {
-                'is-agent': 'Agent-based interaction',
-                'is-single-turn': 'Single-turn conversation',
-                'structured-output-generation': 'Structured output generation',
-                'image-generation': 'Image generation',
-                'data-utility': 'Data utility functions'
+                'Is Agent': 'Agent-based interaction',
+                'Single Turn (Workflow Type)': 'Single-turn conversation',
+                'Structured Output (Workflow Type)': 'Structured output generation',
+                'Image Generation (Workflow Type)': 'Image generation',
+                'Data Utility (Category)': 'Data utility functions'
             }
             
             for field, label in feature_fields.items():
@@ -274,8 +274,8 @@ class SystemPromptLibraryUpdater:
                 json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
                 links = [f"  - 📄 [JSON File](system-prompts/json/{json_filename})"]
             
-            if prompt.get('chatgptlink'):
-                links.append(f"  - 🤖 [ChatGPT]({prompt['chatgptlink']})")
+            if prompt.get('ChatGPT Access URL'):
+                links.append(f"  - 🤖 [ChatGPT]({prompt['ChatGPT Access URL']})")
             
             # Build entry
             index_content += f"""## {agent_name}
