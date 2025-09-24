@@ -18,3 +18,9 @@ Thumbs.db
 *.tmp
 *.bak
 .chart-env
+
+# Virtual environments
+.venv/
+venv/
+**/.venv/
+**/venv/
