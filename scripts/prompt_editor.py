@@ -341,21 +341,21 @@ class PromptEditor(QMainWindow):
         self.current_path = path
         self.current_data = data
         
-        # Load all fields
-        self._set_text(self.title_text, data.get("agentname", ""))
-        self._set_text(self.desc_text, data.get("description", ""))
-        self._set_text(self.chatgpt_text, data.get("chatgptlink", ""))
-        self._set_text(self.sp_text, data.get("systemprompt", ""))
-        self._set_text(self.schema_text, data.get("json-schema", ""))
-        self._set_text(self.example_text, data.get("json-example", ""))
+        # Load all fields (using new standardized field names)
+        self._set_text(self.title_text, data.get("agent_name", ""))
+        self._set_text(self.desc_text, data.get("Description", ""))
+        self._set_text(self.chatgpt_text, data.get("ChatGPT Access URL", ""))
+        self._set_text(self.sp_text, data.get("System Prompt", ""))
+        self._set_text(self.schema_text, data.get("JSON Schema (Full)", ""))
+        self._set_text(self.example_text, data.get("JSON Schema (Example Value)", ""))
         
-        # Load boolean flags
-        self._set_checkbox(self.is_agent_cb, data.get("is-agent", False))
-        self._set_checkbox(self.is_single_turn_cb, data.get("is-single-turn", "false"))
-        self._set_checkbox(self.structured_output_cb, data.get("structured-output-generation", "false"))
-        self._set_checkbox(self.image_generation_cb, data.get("image-generation", "false"))
-        self._set_checkbox(self.data_utility_cb, data.get("data-utility", "false"))
-        self._set_checkbox(self.personalised_cb, data.get("personalised-system-prompt", "false"))
+        # Load boolean flags (using new standardized field names)
+        self._set_checkbox(self.is_agent_cb, data.get("Is Agent", False))
+        self._set_checkbox(self.is_single_turn_cb, data.get("Single Turn (Workflow Type)", False))
+        self._set_checkbox(self.structured_output_cb, data.get("Structured Output (Workflow Type)", False))
+        self._set_checkbox(self.image_generation_cb, data.get("Image Generation (Workflow Type)", False))
+        self._set_checkbox(self.data_utility_cb, data.get("Data Utility (Category)", False))
+        self._set_checkbox(self.personalised_cb, data.get("Personalised", False))
         
         self.dirty = False
         self._update_title()
@@ -392,22 +392,22 @@ class PromptEditor(QMainWindow):
             QMessageBox.information(self, "No file", "Select a JSON file to save.")
             return
         
-        # Get all field values
+        # Get all field values (using new standardized field names)
         data = dict(self.current_data)
-        data["agentname"] = self.title_text.text()
-        data["description"] = self.desc_text.toPlainText()
-        data["chatgptlink"] = self.chatgpt_text.text() or None
-        data["systemprompt"] = self.sp_text.toPlainText()
-        data["json-schema"] = self.schema_text.toPlainText() or None
-        data["json-example"] = self.example_text.toPlainText() or None
+        data["agent_name"] = self.title_text.text()
+        data["Description"] = self.desc_text.toPlainText()
+        data["ChatGPT Access URL"] = self.chatgpt_text.text() or None
+        data["System Prompt"] = self.sp_text.toPlainText()
+        data["JSON Schema (Full)"] = self.schema_text.toPlainText() or None
+        data["JSON Schema (Example Value)"] = self.example_text.toPlainText() or None
         
-        # Save boolean flags as strings (matching existing format)
-        data["is-agent"] = self.is_agent_cb.isChecked()
-        data["is-single-turn"] = "true" if self.is_single_turn_cb.isChecked() else "false"
-        data["structured-output-generation"] = "true" if self.structured_output_cb.isChecked() else "false"
-        data["image-generation"] = "true" if self.image_generation_cb.isChecked() else "false"
-        data["data-utility"] = "true" if self.data_utility_cb.isChecked() else "false"
-        data["personalised-system-prompt"] = "true" if self.personalised_cb.isChecked() else "false"
+        # Save boolean flags as actual booleans (matching new standardized format)
+        data["Is Agent"] = self.is_agent_cb.isChecked()
+        data["Single Turn (Workflow Type)"] = self.is_single_turn_cb.isChecked()
+        data["Structured Output (Workflow Type)"] = self.structured_output_cb.isChecked()
+        data["Image Generation (Workflow Type)"] = self.image_generation_cb.isChecked()
+        data["Data Utility (Category)"] = self.data_utility_cb.isChecked()
+        data["Personalised"] = self.personalised_cb.isChecked()
         try:
             # Write atomically
             tmp = self.current_path.with_suffix(self.current_path.suffix + ".tmp")

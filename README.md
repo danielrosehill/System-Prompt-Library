@@ -181,41 +181,91 @@ System prompts are organized into two main formats:
 
 ## JSON Data Dictionary
 
+**Note**: All JSON files have been standardized to the new format (as of September 2024). The format includes comprehensive metadata fields for better categorization and functionality tracking.
+
 ### Core Fields
 | Field | Type | Description |
 |-------|------|-------------|
-| `agentname` | String | Display name of the AI agent or assistant |
-| `description` | String | Brief description of the agent's purpose and capabilities |
-| `systemprompt` | String | The complete system prompt text used to configure the AI |
-| `creation_date` | String | ISO timestamp of when the prompt was created |
+| `agent_name` | String | Display name of the AI agent or assistant |
+| `Description` | String/null | Brief description of the agent's purpose and capabilities |
+| `System Prompt` | String | The complete system prompt text used to configure the AI |
+| `One Line Summary` | String/null | Concise one-line description of functionality |
+| `Creation Date` | String/null | Date in YYYY-MM-DD format when the prompt was created |
 
 ### Integration & Links
 | Field | Type | Description |
 |-------|------|-------------|
-| `chatgptlink` | String/null | URL to ChatGPT custom GPT implementation (if available) |
+| `ChatGPT Access URL` | String/null | URL to ChatGPT custom GPT implementation (if available) |
+| `N8N Link` | String/null | Link to N8N workflow implementation |
+| `Gemini URL` | String/null | URL to Google Gemini implementation |
 
-### Capability Flags
+### Core Capability Flags
 | Field | Type | Description |
 |-------|------|-------------|
-| `is-agent` | Boolean | Whether this is a complex autonomous agent (vs simple assistant) |
-| `is-single-turn` | String | "true"/"false" - Whether designed for single interactions only |
-| `structured-output-generation` | String | "true"/"false" - Can generate structured data formats |
-| `image-generation` | String | "true"/"false" - Includes image generation capabilities |
-| `data-utility` | String | "true"/"false" - Designed for data processing/analysis tasks |
-| `personalised-system-prompt` | String | "true"/"false" - Contains user-specific personalization |
+| `Is Agent` | Boolean | Whether this is a complex autonomous agent (vs simple assistant) |
+| `Single Turn (Workflow Type)` | Boolean | Whether designed for single interactions only |
+| `Structured Output (Workflow Type)` | Boolean | Can generate structured data formats |
+| `Image Generation (Workflow Type)` | Boolean | Includes image generation capabilities |
+| `Data Utility (Category)` | Boolean | Designed for data processing/analysis tasks |
+
+### Workflow & Behavior Types
+| Field | Type | Description |
+|-------|------|-------------|
+| `Character (Type)` | Boolean | Roleplay character or persona-based assistant |
+| `Roleplay (Behavior)` | Boolean | Engages in roleplay scenarios |
+| `Conversational` | Boolean | Designed for ongoing conversations |
+| `Instructional` | Boolean | Provides step-by-step instructions |
+| `Autonomous` | Boolean | Can operate independently with minimal input |
+| `Writing Assistant` | Boolean | Specialized for writing and editing tasks |
+
+### Technical Requirements
+| Field | Type | Description |
+|-------|------|-------------|
+| `External Tooling (Required)` | Boolean | Requires external tools or APIs |
+| `RAG (Required)` | Boolean | Requires Retrieval-Augmented Generation |
+| `Vision (Req)` | Boolean | Requires vision/image processing capabilities |
+| `Voice First` | Boolean | Optimized for voice interactions |
+| `Audio (Required)` | Boolean | Requires audio processing |
+| `TTS (Required)` | Boolean | Requires text-to-speech functionality |
+| `Video Input (Required)` | Boolean | Requires video input processing |
+| `File Input (Req)` | Boolean | Requires file upload/processing |
+| `Local LLM Friendly?` | Boolean | Compatible with local LLM deployments |
 
 ### Advanced Configuration
 | Field | Type | Description |
 |-------|------|-------------|
-| `json-schema` | Object/null | JSON schema definition for structured outputs (if applicable) |
-| `json-example` | String/null | Example JSON output format (if applicable) |
-| `depersonalised-system-prompt` | String/null | Generic version without personal references |
-| `chatgpt-privacy` | String/null | Privacy settings for ChatGPT implementations |
+| `JSON Schema (Full)` | Object/null | JSON schema definition for structured outputs |
+| `JSON Schema (Example Value)` | String/null | Example JSON output format |
+| `Utility Estimate` | Number | Estimated utility score (0-10) |
+| `Test Entry` | Boolean | Whether this is a test/sample entry |
+| `Better As Tool` | Boolean | Would work better as a dedicated tool |
+
+### Development & Integration Notes
+| Field | Type | Description |
+|-------|------|-------------|
+| `MCPs Used` | String/null | Model Context Protocol servers used |
+| `API Notes` | String/null | Notes about API requirements or usage |
+| `MCP Notes` | String/null | Notes about MCP integration |
+| `Local LLM Notes` | String/null | Notes about local LLM compatibility |
+| `LLM Selection Notes` | String/null | Guidance on which LLMs work best |
+| `Cost Estimates` | String/null | Estimated costs for operation |
+| `PII Notes` | String/null | Notes about personally identifiable information |
+| `Guardrails Notes` | String/null | Notes about safety and content filtering |
+| `Localtisation Notes` | String/null | Notes about localization requirements |
+
+### Workflow & Process Fields
+| Field | Type | Description |
+|-------|------|-------------|
+| `Deep Research` | Boolean | Requires extensive research capabilities |
+| `Update/Iteration` | Boolean | Supports iterative improvement |
+| `Iteration Notes` | String/null | Notes about iteration processes |
+| `Use Case Outline` | String/null | Detailed use case descriptions |
 
 ### Notes
-- Boolean values are stored as strings ("true"/"false") for consistency
+- All boolean values are stored as actual booleans (true/false) for consistency
 - `null` values indicate the field is not applicable to that particular prompt
-- All prompts include the core fields; advanced fields are optional based on functionality
+- All prompts include the complete standardized schema with appropriate defaults
+- The format was standardized in September 2024 to support enhanced tooling and analysis
  
 ---
 

@@ -117,3 +117,22 @@ The script processes all JSON files and provides a summary:
 - Files with errors (if any)
 
 All 956 JSON files in the library have been successfully standardized to the new format.
+
+## Prompt Editor Compatibility
+
+The System Prompt Library GUI editor (`scripts/prompt_editor.py`) has been updated to support the new standardized format:
+
+- **Field Mapping**: Updated to use new field names (`agent_name`, `Description`, `System Prompt`, etc.)
+- **Boolean Handling**: Now saves boolean values as actual booleans instead of strings
+- **Full Compatibility**: Works seamlessly with all standardized JSON files
+
+To launch the editor:
+```bash
+# From repository root
+./run_prompt_editor.sh
+
+# Or directly
+cd scripts && python3 prompt_editor.py
+```
+
+The editor provides a modern Qt-based interface for editing all system prompt metadata and content.
