@@ -62,7 +62,7 @@ Workflow logic:
 
 - Check if open source = okay. If so proceed with this workflow 
 - Truncated JSON goes to JSON branch here 
-- JSON gets sent to agent who converts it into a more descriptive model card. This goes into the markdown branch 
+- JSON gets sent to an agent which converts it into a more descriptive model card. These are now exported periodically as Markdown snapshots under `exports/<timestamp>/`.
 
 ---
  
@@ -100,7 +100,7 @@ These are listed in `exports.md`. The latest is:
 
 These prompts are mostly now populated from an N8N workflow.
 
-**Markdown** versions are funneled to `system-prompts/md` and **JSON** versions to `system-prompts/json`.
+Markdown snapshots are generated under `exports/<timestamp>/`. JSON lives in `system-prompts/json`.
 
 ## Data Structure
 
@@ -176,8 +176,8 @@ This updated data structure includes booleans for:
 
 ### Storage Formats
 System prompts are organized into two main formats:
-- **JSON Format**: Structured data with metadata (`system-prompts/json/` - 923 files)
-- **Markdown Format**: Human-readable documentation (`system-prompts/md/` - 851 files)
+- **JSON Format**: Structured data with metadata (`system-prompts/json/`)
+- **Markdown Snapshots**: Human-readable documentation generated on demand (`exports/<timestamp>/`)
 
 ## JSON Data Dictionary
 

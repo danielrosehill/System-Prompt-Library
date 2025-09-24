@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
 """
-Export system prompt JSON configs to a point-in-time Markdown snapshot.
+Export system prompt JSON configs to a point-in-time Markdown snapshot and archive it as a numbered release.
 
-Reads all JSON files from system-prompts/json (JSON fork) and writes a
-timestamped directory under exports/, generating one Markdown file per config
-following the general markdown template used in the MD fork.
+Reads all JSON files from system-prompts/json and writes a timestamped
+directory under exports/, generating one Markdown file per config following the
+general markdown model-card template used in this repo.
 
 Usage:
   python3 scripts/export_point_in_time_md.py
   python3 scripts/export_point_in_time_md.py --out-dir exports/20250101-120000
+  python3 scripts/export_point_in_time_md.py --archive-format zip
 
 Notes:
 - Handles both JSON schemas observed in this repo (lowercase-with-hyphens and
   Title Case with spaces) by normalizing keys.
 - Missing values are rendered as "Not provided".
+ - Produces an archive (tar.gz by default) and assigns an auto-incremented
+   release number stored in exports/releases.json.
 """
 
 from __future__ import annotations
@@ -22,6 +25,8 @@ import argparse
 import json
 import re
 from datetime import datetime
+import tarfile
+import zipfile
 from pathlib import Path
 from typing import Any, Dict, Optional
 
@@ -29,6 +34,7 @@ from typing import Any, Dict, Optional
 REPO_ROOT = Path(__file__).resolve().parents[1]
 JSON_DIR = REPO_ROOT / "system-prompts" / "json"
 EXPORTS_DIR = REPO_ROOT / "exports"
+RELEASES_INDEX = EXPORTS_DIR / "releases.json"
 
 
 def as_bool(value: Any) -> bool:
@@ -249,8 +255,21 @@ def render_markdown(data: Dict[str, Any], json_filename: str) -> str:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Export point-in-time Markdown snapshot from JSON configs")
+    parser = argparse.ArgumentParser(description="Export point-in-time Markdown snapshot from JSON configs and package as a release")
     parser.add_argument("--out-dir", type=str, help="Output directory under exports/ (optional)")
+    parser.add_argument(
+        "--archive-format",
+        type=str,
+        choices=["tar.gz", "zip"],
+        default="tar.gz",
+        help="Archive format for the release (default: tar.gz)",
+    )
+    parser.add_argument(
+        "--release-number",
+        type=int,
+        default=None,
+        help="Override auto-incremented release number (advanced)",
+    )
     args = parser.parse_args()
 
     if not JSON_DIR.exists():
@@ -299,10 +318,78 @@ def main() -> int:
             print(f"ERROR: Failed writing {md_path.name}: {e}")
             continue
 
-    print(f"Exported {count} markdown files to {out_dir.relative_to(REPO_ROOT)}")
+    # Determine release number
+    releases = {"releases": []}
+    if RELEASES_INDEX.exists():
+        try:
+            with open(RELEASES_INDEX, "r", encoding="utf-8") as f:
+                releases = json.load(f) or {"releases": []}
+        except Exception:
+            releases = {"releases": []}
+
+    existing_numbers = [r.get("number", 0) for r in releases.get("releases", [])]
+    next_number = (max(existing_numbers) if existing_numbers else 0) + 1
+    if args.release_number is not None:
+        next_number = int(args.release_number)
+
+    # Create archive
+    timestamp = out_dir.name
+    base_name = f"release-{next_number}_{timestamp}"
+    archive_path: Path
+    if args.archive_format == "tar.gz":
+        archive_path = EXPORTS_DIR / f"{base_name}.tar.gz"
+        # Avoid overwrite: append suffix if exists
+        suffix = 1
+        while archive_path.exists():
+            archive_path = EXPORTS_DIR / f"{base_name}({suffix}).tar.gz"
+            suffix += 1
+        with tarfile.open(archive_path, "w:gz") as tar:
+            tar.add(out_dir, arcname=timestamp)
+    else:
+        archive_path = EXPORTS_DIR / f"{base_name}.zip"
+        suffix = 1
+        while archive_path.exists():
+            archive_path = EXPORTS_DIR / f"{base_name}({suffix}).zip"
+            suffix += 1
+        with zipfile.ZipFile(archive_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
+            for p in out_dir.rglob("*"):
+                if p.is_file():
+                    zf.write(p, arcname=str(Path(timestamp) / p.relative_to(out_dir)))
+
+    # Write release marker inside the folder
+    try:
+        with open(out_dir / "RELEASE.txt", "w", encoding="utf-8") as f:
+            f.write(
+                f"Release: {next_number}\n"
+                f"Timestamp: {timestamp}\n"
+                f"Files: {count}\n"
+                f"Archive: {archive_path.name}\n"
+                f"Format: {args.archive_format}\n"
+            )
+    except Exception:
+        pass
+
+    # Update releases index
+    entry = {
+        "number": next_number,
+        "timestamp": timestamp,
+        "dir": str(out_dir.relative_to(REPO_ROOT)),
+        "count": count,
+        "archive": str(archive_path.relative_to(REPO_ROOT)),
+        "format": args.archive_format,
+        "created_at": datetime.now().isoformat(),
+    }
+    releases.setdefault("releases", []).append(entry)
+    RELEASES_INDEX.parent.mkdir(parents=True, exist_ok=True)
+    with open(RELEASES_INDEX, "w", encoding="utf-8") as f:
+        json.dump(releases, f, indent=2)
+
+    print(
+        f"Exported {count} markdown files to {out_dir.relative_to(REPO_ROOT)} | "
+        f"Release #{next_number} -> {archive_path.relative_to(REPO_ROOT)}"
+    )
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
