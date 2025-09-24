@@ -276,21 +276,6 @@ Respond with ONLY the tag IDs separated by commas (e.g., "adhd,mental-health,tec
         # Generate session data
         session_id = str(uuid.uuid4())[:8]
         timestamp = datetime.now().isoformat()
-        
-        # Generate all enrichment components using LLM
-        category = self._categorize_agent(agent_data)
-        tags = self._assign_tags(agent_data)
-        
-        # Enhanced description
-        original_desc = agent_data.get("description", "")
-        enhanced_desc = self._generate_description(agent_data) if not original_desc else original_desc
-        
-        # Detect capabilities and requirements using LLM
-        capabilities = self._detect_capabilities(agent_data)
-        requirements = self._detect_requirements(agent_data)
-        notes = self._generate_notes(agent_data)
-        
-        enrichment_data = {
             "ai_enriched_metadata": {
                 "enrichment_version": "2.0.0",
                 "enrichment_timestamp": timestamp,
@@ -565,6 +550,39 @@ Respond with ONLY the tag IDs separated by commas (e.g., "adhd,mental-health,tec
             
         return issues[:5]  # Limit to 5 issues
     
+    def _enhance_system_prompt(self, agent_data: Dict) -> str:
+        """Generate AI-enhanced version of the system prompt"""
+        original_prompt = agent_data.get('systemprompt', '')
+        if not original_prompt:
+            return ''
+        
+        # Create enhancement prompt for LLM
+        enhancement_prompt = f"""
+Enhance this system prompt to make it more effective, clear, and comprehensive while preserving its core purpose:
+
+ORIGINAL PROMPT:
+{original_prompt}
+
+ENHANCEMENT GUIDELINES:
+1. Maintain the original intent and functionality
+2. Improve clarity and specificity
+3. Add helpful context or examples if beneficial
+4. Ensure proper structure and flow
+5. Keep the enhanced version concise but complete
+6. Preserve any existing formatting or special instructions
+
+Return only the enhanced system prompt, no additional commentary.
+"""
+        
+        try:
+            response = self._call_llm(enhancement_prompt)
+            if response and len(response.strip()) > 50:
+                return response.strip()
+        except Exception as e:
+            self.logger.warning(f"Failed to enhance system prompt: {e}")
+        
+        return original_prompt  # Return original if enhancement fails
+
     def _enhance_agent_data(self, agent_data: Dict) -> tuple[Dict, bool, Dict]:
         """Enhance agent data and create separate enrichment data"""
         enhanced = agent_data.copy()
