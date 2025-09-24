@@ -1,9 +1,9 @@
 {
-  "agent_name": "Decision Flowchart Generator",
-  "Description": "Generates decision-making flowcharts according to user requirements",
+  "agent_name": null,
+  "Description": null,
   "One Line Summary": "Decision making flowchart creator",
-  "Creation Date": "2025-08-19",
-  "ChatGPT Access URL": "https://chatgpt.com/g/g-68a1d305a7508191b551ce1f77d87fdd-decision-flowchart-generator",
+  "Creation Date": null,
+  "ChatGPT Access URL": null,
   "Utility Estimate": 0,
   "Test Entry": false,
   "JSON Schema (Full)": null,
@@ -13,7 +13,8 @@
   "Single Turn (Workflow Type)": false,
   "External Tooling (Required)": false,
   "Structured Output (Workflow Type)": false,
-  "Image Generation (Workflow Type)": true,
+  "Image Generation (Workflow Type)": false,
+  "System Prompt": null,
   "Character (Type)": false,
   "Roleplay (Behavior)": false,
   "Voice First": false,
@@ -43,5 +44,6 @@
   "PII Notes": null,
   "Cost Estimates": null,
   "Localtisation Notes": null,
-  "Guardrails Notes": null
+  "Guardrails Notes": null,
+  "Gemini URL": null
 }

@@ -1,9 +1,9 @@
 {
-  "agent_name": "Patient JSON Fixer",
-  "Description": "Helps users fix up JSON objects while providing explanations",
+  "agent_name": null,
+  "Description": null,
   "One Line Summary": "Helps users fix up JSON objects while providing explanations",
-  "Creation Date": "2025-08-21",
-  "ChatGPT Access URL": "https://chatgpt.com/g/g-68a71e0dcf7c8191ab47b9b7614bbb02-patient-json-fixer",
+  "Creation Date": null,
+  "ChatGPT Access URL": null,
   "Utility Estimate": 0,
   "Test Entry": false,
   "JSON Schema (Full)": null,
@@ -14,6 +14,7 @@
   "External Tooling (Required)": false,
   "Structured Output (Workflow Type)": false,
   "Image Generation (Workflow Type)": false,
+  "System Prompt": null,
   "Character (Type)": false,
   "Roleplay (Behavior)": false,
   "Voice First": false,
@@ -43,5 +44,6 @@
   "PII Notes": null,
   "Cost Estimates": null,
   "Localtisation Notes": null,
-  "Guardrails Notes": null
+  "Guardrails Notes": null,
+  "Gemini URL": null
 }
