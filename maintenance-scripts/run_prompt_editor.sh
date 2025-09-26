@@ -4,7 +4,7 @@ set -euo pipefail
 # Use uv to manage venv, install deps, and run the prompt editor GUI.
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-REPO_ROOT="$SCRIPT_DIR"
+REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 VENV_DIR="${REPO_ROOT}/.venv"
 PYTHON_BIN="${PYTHON:-python3}"
 
@@ -39,4 +39,4 @@ else
 fi
 
 echo "[run] Launching GUI..."
-exec python "${REPO_ROOT}/scripts/prompt_editor.py" "$@"
+exec python "${SCRIPT_DIR}/editors/prompt_editor.py" "$@"

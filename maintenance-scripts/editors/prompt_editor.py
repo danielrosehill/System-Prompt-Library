@@ -17,8 +17,8 @@ from PySide6.QtGui import QFont, QAction, QTextCharFormat, QColor, QTextCursor
 import markdown
 
 
-ROOT = Path(__file__).resolve().parents[1]
-PROMPTS_DIR = ROOT / "system-prompts" / "json"
+ROOT = Path(__file__).resolve().parents[2]  # Go up to repo root from maintenance-scripts/editors/
+PROMPTS_DIR = ROOT / "repo-data" / "json"
 
 
 class MarkdownEditor(QWidget):

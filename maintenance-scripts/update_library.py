@@ -37,12 +37,12 @@ class SystemPromptLibraryUpdater:
     
     def __init__(self, repo_root: Path):
         self.repo_root = repo_root
-        self.json_dir = repo_root / "system-prompts" / "json"
-        self.consolidated_file = repo_root / "consolidated_prompts.json"
-        self.consolidated_metadata_file = repo_root / "consolidated_prompts.metadata.json"
+        self.json_dir = repo_root / "repo-data" / "json"
+        self.consolidated_file = repo_root / "repo-data" / "consolidated_prompts.json"
+        self.consolidated_metadata_file = repo_root / "repo-data" / "consolidated_prompts.metadata.json"
         self.index_file = repo_root / "index.md"
-        self.index_metadata_file = repo_root / "index_metadata.json"
-        self.growth_history_file = repo_root / "growth_history.json"
+        self.index_metadata_file = repo_root / "repo-data" / "index_metadata.json"
+        self.growth_history_file = repo_root / "repo-data" / "growth_history.json"
         self.readme_file = repo_root / "README.md"
         self.images_dir = repo_root / "images"
         self.chart_file = self.images_dir / "growth_chart.png"
@@ -387,11 +387,11 @@ class SystemPromptLibraryUpdater:
             # Links section - use original filename if available
             original_filename = prompt.get('_original_filename')
             if original_filename:
-                links = [f"  - 📄 [JSON File](system-prompts/json/{original_filename})"]
+                links = [f"  - 📄 [JSON File](repo-data/json/{original_filename})"]
             else:
                 # Fallback to old method if filename not stored
                 json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
-                links = [f"  - 📄 [JSON File](system-prompts/json/{json_filename})"]
+                links = [f"  - 📄 [JSON File](repo-data/json/{json_filename})"]
             
             if prompt.get('ChatGPT Access URL'):
                 links.append(f"  - 🤖 [ChatGPT]({prompt['ChatGPT Access URL']})")
@@ -530,8 +530,8 @@ def main():
     
     args = parser.parse_args()
     
-    # Get repository root
-    repo_root = Path(__file__).parent
+    # Get repository root (script is now in maintenance-scripts/)
+    repo_root = Path(__file__).parent.parent
     
     # Create updater
     updater = SystemPromptLibraryUpdater(repo_root)

@@ -1,37 +1,25 @@
 #!/bin/bash
 
-# System Prompt Library Master Update Script
-# Shell wrapper for the Python master update script
-# Updated 2025-09-24 to use new master script with growth metrics
+# System Prompt Library - Main Update Script
+# Wrapper that calls the maintenance script in the new location
+# Updated for reorganized repository structure
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PYTHON_SCRIPT="$SCRIPT_DIR/update_library.py"
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+MAINTENANCE_SCRIPT="$REPO_ROOT/maintenance-scripts/update_library.sh"
 
-# Check if virtual environment exists and activate it
-if [[ -d "$SCRIPT_DIR/.venv" ]]; then
-    echo "🔄 Activating virtual environment..."
-    source "$SCRIPT_DIR/.venv/bin/activate"
-fi
-
-# Check if the Python script exists
-if [[ ! -f "$PYTHON_SCRIPT" ]]; then
-    echo "❌ Error: update_library.py not found at $PYTHON_SCRIPT"
+# Check if the maintenance script exists
+if [[ ! -f "$MAINTENANCE_SCRIPT" ]]; then
+    echo "❌ Error: Maintenance script not found at $MAINTENANCE_SCRIPT"
     exit 1
 fi
 
-echo "🚀 System Prompt Library - Master Update Process"
-echo "📁 Working from: $SCRIPT_DIR"
+echo "🚀 System Prompt Library - Update Process"
+echo "📁 Repository root: $REPO_ROOT"
+echo "🔧 Calling maintenance script..."
 echo ""
 
-# Run the Python script with all passed arguments
-python3 "$PYTHON_SCRIPT" "$@"
+# Run the maintenance script with all passed arguments
+"$MAINTENANCE_SCRIPT" "$@"
 
-# Capture exit code
-EXIT_CODE=$?
-
-# Deactivate virtual environment if it was activated
-if [[ -n "$VIRTUAL_ENV" ]]; then
-    deactivate
-fi
-
-exit $EXIT_CODE
+# Pass through the exit code
+exit $?
