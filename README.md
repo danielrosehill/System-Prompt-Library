@@ -1,24 +1,25 @@
 # System Prompt Library
 
-[![Prompts Site](https://img.shields.io/badge/🌐_Visit-prompts.danielrosehill.com-blue?style=for-the-badge)](https://prompts.userwebsite.com) [![Agent Configs](https://img.shields.io/badge/🤖_Visit-agents.danielrosehill.com-green?style=for-the-badge)](https://agents.danielrosehill.com)
+[![Prompts Site](https://img.shields.io/badge/Visit-prompts.danielrosehill.com-blue?style=for-the-badge)](https://prompts.userwebsite.com) [![Agent Configs](https://img.shields.io/badge/Visit-agents.danielrosehill.com-green?style=for-the-badge)](https://agents.danielrosehill.com)
 
-[![View Index](https://img.shields.io/badge/📋_View-Index-blue?style=for-the-badge)](index.md) [![View JSON](https://img.shields.io/badge/📄_View-JSON_Index-green?style=for-the-badge)](consolidated_prompts.json)
+[![View Index](https://img.shields.io/badge/View-Index-blue?style=for-the-badge)](index.md) [![View JSON](https://img.shields.io/badge/View-JSON_Index-green?style=for-the-badge)](consolidated_prompts.json)
 
 ![alt text](images/banner.webp)
 
 <!-- BEGIN_STATS_SECTION -->
-## 📊 Library Statistics
+## Library Statistics
 
 ![Growth Chart](images/growth_chart.png)
 
-**Total System Prompts:** 922 | **Last Updated:** 2025-08-27
+**Total System Prompts:** 1080 | **Last Updated:** 2025-09-27
 
-*This library has grown from 892 to 922 prompts since tracking began*
+*This library has grown from 892 to 1080 prompts since tracking began*
 <!-- END_STATS_SECTION -->
 
 ## Table of Contents
 
 - [About This Prompt Collection](#about-this-prompt-collection)
+- [Duplication and Versioning](#duplication-and-versioning)
 - [N8N Workflow For Updating Repo From Form](#n8n-workflow-for-updating-repo-from-form)
 - [Depersonalisation (Notes)](#depersonalisation-notes)
 - [Point In Time Exports](#point-in-time-exports)
@@ -47,6 +48,14 @@ System prompts can be used on their own to create simple chatbots; integrated wi
 Not versioned in this central repository (yet): what could be regarded as specialised categories of system prompts. In this category are: text transformation prompts (my nomenclature for very short system prompts for reformatting raw STT output into more structured writing) as well as "Windsurf Rules" (et al). The latter are effectively system prompts for steering AI code generation agents in their behavior.
 
 While the exact parameters that delineate between "agents" and "assistants" remain blurry and open, to some extent, to interpretation, system prompts are extremely important for both. Unlike user prompts, they're designed to be persistent. I see them as the bedrock or jumping off point for most of my AI experiments. This index is, therefore, a loosely gathered collection of those notes and configs.
+
+## Duplication and Versioning
+
+I have curated several different collections of system prompts at various points over the past year. Sometimes I add previous indexes retrospectively to this main collection. As a result, there might be some duplication within the library.
+
+When duplicates are identified, I eventually get around to removing them or consolidating them. However, it's worth noting that some apparent "duplicates" actually refer to different iterations and versions of the same configuration, representing the evolution of a particular system prompt over time.
+
+This approach allows the library to capture both the breadth of different prompt concepts and the iterative refinement process that leads to more effective system prompts.
 
 ## N8N Workflow For Updating Repo From Form
 
@@ -86,7 +95,7 @@ I periodically export lightly cleaned versions of the consolidated system prompt
 
 These are listed in `exports.md`. The latest is:
 
-[![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/🤗%20Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825)
+[![Hugging Face Dataset - 2025-03-08](https://img.shields.io/badge/Hugging%20Face-2025--03--08-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825)
 
 ---
 

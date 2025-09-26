@@ -186,10 +186,10 @@ class GrowthMetricsUpdater:
             ax.set_xlabel('Date', fontsize=14, fontweight='bold')
             ax.set_ylabel('Number of Prompts', fontsize=14, fontweight='bold')
             
-            # Format x-axis
-            ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
-            ax.xaxis.set_major_locator(mdates.DayLocator(interval=max(1, len(dates)//6)))
-            plt.xticks(rotation=45)
+            # Format x-axis - show only months and years
+            ax.xaxis.set_major_formatter(mdates.DateFormatter('%m/%y'))
+            ax.xaxis.set_major_locator(mdates.MonthLocator())
+            plt.xticks(rotation=0)
             
             # Add grid
             ax.grid(True, alpha=0.3, linestyle='--')
