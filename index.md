@@ -1,10 +1,10 @@
 # System Prompt Index
 
-📈 ▁▆▄▄█
+📈 ▁▂▂▂▃█
 
-**Total Prompts:** 956 (922 with names) | **Last Updated:** 2025-09-24
+**Total Prompts:** 1080 (1046 with names) | **Last Updated:** 2025-09-27
 
-*Generated on 2025-09-24 from consolidated system prompts*
+*Generated on 2025-09-27 from consolidated system prompts*
 
 ---
 
@@ -93,6 +93,23 @@ Generates whimsical and off-the-beaten-path daily itineraries for users, incorpo
 
 ---
 
+## Absurd Solution Ideator
+
+Generates 5 increasingly ridiculous solutions to any problem presented by the user.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/absurd-solution-ideator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-K6z1rdWmh-absurd-solution-ideator)
+
+---
+
 ## AC/DC Adapter Matcher
 
 Identifies the appropriate AC-DC adapter for specific electronics
@@ -177,6 +194,23 @@ Expert in ADB (Android Debug Bridge)
 
 ---
 
+## ADHD Medication Advisor
+
+ADHD medication and holistic strategy advisor.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/adhd-medication-advisor_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-X1LKXjhxt-adhd-medication-advisor)
+
+---
+
 ## ADHD Tech Advisor
 
 ADHD Tech Advisor: Provides expert guidance on utilizing technology for individuals with ADHD, offering tools for organization, note-taking, and time management to enhance daily lives.
@@ -208,6 +242,23 @@ Up-to-date information on recent developments and treatments for adult ADHD, foc
 **Links:**
   - 📄 [JSON File](system-prompts/json/ADHDTreatmentNews_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071a3114b081918ce50e7ebb8c6968-adhd-treatment-news)
+
+---
+
+## Agenda For The Pub
+
+Formats discussion points into a friendly meeting agenda with drink break suggestions.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/agenda-for-the-pub_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-kUnX6lKVm-agenda-for-the-pub)
 
 ---
 
@@ -584,6 +635,23 @@ Advises users on current and emerging AI capabilities, providing specific, non-p
 
 ---
 
+## AI Career Catalyst
+
+Guides users in leveraging AI to enhance their careers and future-proof their professional growth
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/ai-career-catalyst_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-QX63wl7mk-ai-career-ideator)
+
+---
+
 ## AI Certification Advisor
 
 Explores the user's requirements and recommends AI related certifications based on their interests and experience level.
@@ -598,6 +666,23 @@ Explores the user's requirements and recommends AI related certifications based 
 **Links:**
   - 📄 [JSON File](system-prompts/json/AICertificationAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b11857d648191a6be21c9fecad1a9-ai-certification-advisor)
+
+---
+
+## AI Could Help Here!
+
+Identifies ways AI and GPTs can improve your life suggesting concrete use-cases
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/ai-could-help-here_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-9V1PGBmlv-ai-could-help-here)
 
 ---
 
@@ -906,6 +991,23 @@ Acts as a knowledgeable AI advisor, guiding small business owners and individual
 
 ---
 
+## AI Tech Advisor
+
+Suggests emerging AI technologies for specific use cases.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/ai-tech-advisor_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-SwX92pm8c-ai-tech-advisor)
+
+---
+
 ## AI Tool Finder
 
 Assists users in discovering relevant AI tools by asking clarifying questions to understand their needs and then recommending suitable options with details on functionality, pricing, and website links. It prioritizes suggesting recent tools.
@@ -920,6 +1022,23 @@ Assists users in discovering relevant AI tools by asking clarifying questions to
 **Links:**
   - 📄 [JSON File](system-prompts/json/AIToolFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b13c397b08191b803439e2fee784c-ai-tool-finder)
+
+---
+
+## AI Use Case Documenter
+
+Helps users design structured use-case documents that can be used for AI agents, system prompts, or other configuration-based workflows.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/ai-use-case-documenter_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-udlR99fMj-ai-use-case-documenter)
 
 ---
 
@@ -1076,6 +1195,23 @@ Everything you wanted to know about DNS, ad-blocking, etc
 
 ---
 
+## AMA Sloth
+
+Provides detailed information about sloths and shares fun facts about their lifestyle
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/ama-sloth_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-NNF3BVRCp-ask-a-sloth)
+
+---
+
 ## AMD GPU Advisor (Linux)
 
 None
@@ -1141,6 +1277,23 @@ None
 **Links:**
   - 📄 [JSON File](system-prompts/json/Androidvoiceapps_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b69644990819184971a5a5f782ce2-android-voice-apps)
+
+---
+
+## Antenna Detective
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/antenna-detective_240925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d44afc0a9c8191968afb5ce20f0732-antenna-detective)
 
 ---
 
@@ -1328,6 +1481,23 @@ Roleplay assistant targeted at improving users' assertiveness
 **Links:**
   - 📄 [JSON File](system-prompts/json/AssertivenessCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6e1e91c481919a2a45d999e36592-assertiveness-coach)
+
+---
+
+## Assertiveness Coach
+
+Coaches users to be more assertive and set boundaries.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/assertiveness-coach_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-bZ6ZOCq8Z-assertiveness-coach)
 
 ---
 
@@ -1653,6 +1823,23 @@ This assistant generates prompts to test the audio processing capabilities of au
 
 ---
 
+## Automate My Workflow
+
+A strategist guiding you towards total job automation, one task at a time.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/automate-my-workflow_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-SaJGzEr7O-automate-my-workflow)
+
+---
+
 ## Automation And Workflow Apps Finder
 
 Software discovery platform for automation and workflow tools. Includes response suggestion for low-code and no-code preferences.
@@ -1806,6 +1993,23 @@ Answers questions about B2 by Backblaze
 
 ---
 
+## Backoffice AI Tool Suggester
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/backoffice-ai-tool-suggester_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-h2bbjenP4-backoffice-ai-tool-suggester)
+
+---
+
 ## Backup Approach Advisor
 
 Advises upon backup approaches for tech tools
@@ -1942,6 +2146,23 @@ Summarizes legal contracts and flags important terms
 
 ---
 
+## Beer Tap Identifier
+
+Identifies and describes beers from photos of beer taps.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/beer-tap-identifier_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-To4LJ5qvI-beer-tap-identifier)
+
+---
+
 ## Bilateral Relationship Analyst
 
 Produces detailed reports on the dynamics between two countries, reporting on items such as trade balance, diplomatic engagement, and geopolitical activity, and analysing current trends.
@@ -1956,6 +2177,23 @@ Produces detailed reports on the dynamics between two countries, reporting on it
 **Links:**
   - 📄 [JSON File](system-prompts/json/BilateralRelationshipAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bca5a55d48191bdc51f8cb9a3cf28-bilateral-relationship-analyst)
+
+---
+
+## Bilateral Trade Data
+
+Provides detailed analysis of bilateral trade relationships between countries
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/bilateral-trade-data_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-lMuFYt50i-bilateral-trade-data)
 
 ---
 
@@ -1989,6 +2227,23 @@ Crafts and refines biographies based on user specifications, accommodating modif
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/BiographyGenerationAssistant_270525.json)
+
+---
+
+## Bland Bot
+
+Generates dull statements and platitudes.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/bland-bot_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-9QhuIeFJO-bland-bot)
 
 ---
 
@@ -2094,6 +2349,23 @@ Answers user questions about professional book publishing best practices, coveri
 
 ---
 
+## Boring Family Newsletter Generator
+
+Generates tedious, overly detailed, and humorously dull family newsletters based on mundane details
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/boring-family-newsletter-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-0D7HblT1a-boring-family-newsletter-generator)
+
+---
+
 ## Boss Update Batcher
 
 Helps users compile, organize, and format updates for their boss. It offers flexible delivery options (single batch or spread out), intelligent grouping and summarization of information, and can even provide daily or weekly digests.
@@ -2159,6 +2431,23 @@ Summarises brainstorming sessions providing both overviews and next steps sectio
 **Links:**
   - 📄 [JSON File](system-prompts/json/BrainstormingSessionSummariser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfc0060dc819180a65dc8a18735fc-brainstorming-session-summariser)
+
+---
+
+## Brand Palette Identifier
+
+Identifies brand colors and fonts from documents, images, and screenshots to create a cohesive brand palette
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/brand-palette-identifier_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-zFnYsLkYo-brand-palette-identifier)
 
 ---
 
@@ -2230,6 +2519,40 @@ AI assistant that helps users create and refine creative briefs optimized for AI
 
 ---
 
+## Briefing Biography Generator
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/briefing-biography-generator_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d578b020d4819196dbaa130851511d-briefing-biography-generator)
+
+---
+
+## Broken Link Helper
+
+Helps users find working versions of broken links or identify issues preventing them from resolving
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/broken-link-helper_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-A9HZrPLoA-broken-link-helper)
+
+---
+
 ## Browser Automation Guide
 
 Advises on browser automation tools for different operating systems, assisting with RPA integrations and AI systems.
@@ -2295,6 +2618,23 @@ Helps to generate budget requests
 **Links:**
   - 📄 [JSON File](system-prompts/json/BudgetRequestGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfedc62fc819185e86fcf1a0dcd18-budget-request-generator)
+
+---
+
+## Bug And Wildlife ID - Israel
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/bug-and-wildlife-id-israel_240925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d444a72468819197d3446b37ad8e17-bug-and-wildlife-id-israel)
 
 ---
 
@@ -2380,6 +2720,23 @@ Advises users on enhancing business resilience by evaluating current processes, 
 **Links:**
   - 📄 [JSON File](system-prompts/json/BusinessContinuityAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cffa942c081919d1db9512eb1d07b-business-continuity-advisor)
+
+---
+
+## Business Continuity Advisor
+
+A bot to advise upon the level of resilience of your business processes
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/business-continuity-advisor_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-3xcGPBeU0-business-continuity-advisor)
 
 ---
 
@@ -2587,6 +2944,23 @@ None
 
 ---
 
+## Challenge This Viewpoint
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/challenge-this-viewpoint_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55741c62081919160daf1bba73e49-challenge-this-viewpoint)
+
+---
+
 ## Chaotic Text Editor
 
 Takes text and applies inconsistent formatting rules to create a chaotic output.
@@ -2686,6 +3060,23 @@ None
 **Links:**
   - 📄 [JSON File](system-prompts/json/CircadianRhythmAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d045df81881919de14c8fe7327d1a-circadian-rhythm-advice)
+
+---
+
+## Climate Change Inaction Explorer
+
+Generates illustrative scenarios where humanity continues with current practices despite scientific warnings about climate change and social/environmental crises.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/climate-change-inaction-explorer_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-AltOe5P4k-climate-change-inaction-explorer)
 
 ---
 
@@ -2837,6 +3228,23 @@ Assists developers in updating their code to utilize the most current versions o
 **Links:**
   - 📄 [JSON File](system-prompts/json/SDK_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d061a99c081918125e8660687279a-code-editor-update-api-sdk)
+
+---
+
+## Code Repo Finder
+
+Helps users discover relevant code repositories based on their needs
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/code-repo-finder_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-dtZc41TFz-code-repo-finder)
 
 ---
 
@@ -3499,6 +3907,23 @@ Generates detailed, custom documentation in markdown format based on user-provid
 
 ---
 
+## Custom GPT Brainstorming Assistant
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/custom-gpt-brainstorming-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-Sg1Uvkc5e-custom-gpt-creator)
+
+---
+
 ## Custom Search Engines
 
 Advises users on the creation and optimization of custom search engines.
@@ -3581,6 +4006,23 @@ Generates daily plans from user-provided dictated text
 **Links:**
   - 📄 [JSON File](system-prompts/json/DailyPlanGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0548df8881919b44ca533a33d2b0-daily-plan-generator)
+
+---
+
+## Daily Schedule Manager
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/daily-schedule-manager_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-aId4Jee9a-daily-schedule-manager)
 
 ---
 
@@ -3820,6 +4262,23 @@ Data analysis assistant specialized in identifying anomalies, correlations, and 
 
 ---
 
+## Data Visualisation & Storytelling Guide
+
+Guides users towards thinking about how data could be effectively visualised including through leveraging mixed media.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/data-visualisation-storytelling-guide_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-r2ms27CFU-data-visualisation-storytelling-guide)
+
+---
+
 ## Data Visualization and Storytelling
 
 Assists users with data visualization projects by suggesting techniques for effective data presentation and storytelling, including specific tools and guidance.
@@ -3868,6 +4327,23 @@ Helps users select appropriate databases for their applications by asking clarif
 **Links:**
   - 📄 [JSON File](system-prompts/json/DatabaseMatchmaker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0b3eb2008191adec19c894ccce92-database-matchmaker)
+
+---
+
+## Database Schema Genie (Postgres)
+
+Assists in creating comprehensive Postgres database schemas.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/database-schema-genie-postgres_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-5cNjzPcmY-schema-genie)
 
 ---
 
@@ -4107,6 +4583,22 @@ Answers questions about all aspects of development
 
 ---
 
+## Diarised Transcript Generator
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/diarised-transcript-generator_240925.json)
+
+---
+
 ## Dictated Data Formatter
 
 Generate values for a defined data structure by lightly editing voice transcriptions
@@ -4226,6 +4718,23 @@ Provides information about the fast-moving field of digital assistants.
 
 ---
 
+## Digital Library Detail Populator
+
+Helps users populate their digital book library with detailed information
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/digital-library-detail-populator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-poEDjVQtX-library-detail-populator)
+
+---
+
 ## Digital Privacy Discsussions
 
 Engages users in deep discussions and debates about privacy in the digital age, explores their beliefs, and suggests like-minded communities or thinkers.
@@ -4257,6 +4766,57 @@ Estimates dimensions of objects within user-uploaded images by leveraging visibl
 **Links:**
   - 📄 [JSON File](system-prompts/json/DimensionsEstimator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0d5ab9588191b8e71e2c6bec19f0-dimensions-estimator)
+
+---
+
+## Disaster Debrief Assistant
+
+Provides guided debriefs to help with preparedness and learn lessons from failures
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/disaster-debrief-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-UHFWorGUH-disaster-debrief-assistant)
+
+---
+
+## Disaster Scenario Ideator
+
+Creates disaster scenarios to assist with realistic preparedness planning. Outputs as briefs.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/disaster-scenario-ideator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-RkR2Uvsg2-disaster-scenario-ideator)
+
+---
+
+## Do We Need This Meeting?
+
+An organisation to screen out unnecessary meetings and suggest alternative approaches
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/do-we-need-this-meeting_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-MKuuCzRAo-do-we-need-this-meeting)
 
 ---
 
@@ -4612,6 +5172,23 @@ Elevates the dramatic impact of text using hyperbole and historical comparisons
 
 ---
 
+## Dummy CSV Data Generator
+
+Creates sample data for application testing and development purposes according to user instructions
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/dummy-csv-data-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-7wvGpnHMC-dummy-csv-data-generator)
+
+---
+
 ## Dummy Tech Project Ideator
 
 Recommends unimportant or fictional projects to users who want to learn a specific technology or tech stack, allowing them to explore the technology without the pressure of a real-world use case.
@@ -4626,6 +5203,23 @@ Recommends unimportant or fictional projects to users who want to learn a specif
 **Links:**
   - 📄 [JSON File](system-prompts/json/DummyTechProjectIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e18687b70819183f69997783e024c-dummy-tech-project-ideator)
+
+---
+
+## Dummy Tech Project Ideator
+
+Generates dummy projects for helping users to learn about different technologies
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/dummy-tech-project-ideator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-jS50pH8gq-dummy-tech-project-ideator)
 
 ---
 
@@ -4680,6 +5274,23 @@ Edits lengthy emails to be more concise while retaining all essential informatio
 
 ---
 
+## Email Disaster
+
+Writes poorly written, haphazard emails with typos.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/email-disaster_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-iHE2khK0N-email-disaster)
+
+---
+
 ## Email Haiku Generator
 
 Converts standard business email requests into formal correspondence where the main message is conveyed through one or more haikus.
@@ -4694,6 +5305,23 @@ Converts standard business email requests into formal correspondence where the m
 **Links:**
   - 📄 [JSON File](system-prompts/json/EmailHaikuGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e194c3e9081918a433600ff56bded-email-haiku-generator)
+
+---
+
+## Email Optimizer
+
+Refines and organizes draft emails, suggesting subject lines and reformatting content.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/email-optimizer_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-IIErWVz2I-email-optimizer)
 
 ---
 
@@ -4794,6 +5422,23 @@ Provides information about Embodied AI, including its integration with robotics 
 **Links:**
   - 📄 [JSON File](system-prompts/json/EmbodiedAIGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1a1ab01481918469415ee65f9c7d-embodied-ai-guide)
+
+---
+
+## Emergency Shelter Finding Guidance (Israel)
+
+Provides guidance on finding safe shelter during emergencies drawing up on recommendations promulgated by the Israel Home Front Command
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/emergency-shelter-finding-guidance-israel_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-sQr4sWgHq-emergency-shelter-finding-guidance-israel)
 
 ---
 
@@ -4966,6 +5611,23 @@ Generates prompts for testing text-to-video model performance
 
 ---
 
+## Executive Visionary
+
+Transforms text into long, serious-looking strategy documents.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/executive-visionary_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-9wnCVwvwJ-executive-visionary)
+
+---
+
 ## Explore Jerusalem
 
 Sightseeing and tourist advice for the city of Jerusalem
@@ -5034,6 +5696,23 @@ Expert on digital file and folder organization
 
 ---
 
+## Find Me A Guinness
+
+Helps find the nearest places serving Guinness with reviews and details.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/find-me-a-guinness_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-wL3ppkb3a-find-me-a-guinness)
+
+---
+
 ## Find This Person's Email
 
 Attempts to retrieve a person's email address
@@ -5065,6 +5744,23 @@ Locates software drivers and firmware upgrades for tech components
 **Links:**
   - 📄 [JSON File](system-prompts/json/Firmware_DriverFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681ddbc19b148191a6878392fd7bfb27-firmware-driver-finder)
+
+---
+
+## Flight Productivity Planner
+
+Helps users stay productive on long haul flights without internet
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/flight-productivity-planner_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-K9jZ9Y6TG-flight-productivity-planner)
 
 ---
 
@@ -5237,6 +5933,23 @@ Offers insights into treatment options and management approaches for functional 
 
 ---
 
+## Gaslighting Guardian
+
+Detects signs of emotional abuse and gaslighting with supportive advice.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/gaslighting-guardian_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-PXJsgQEIR-gaslighting-guardian)
+
+---
+
 ## Geolocation Estimator
 
 Estimates the user's location based on descriptions of their surroundings, identifies nearby landmarks for triangulation, and provides an estimated street address, GPS coordinates, a location description for locals, and directions from known points if requested.
@@ -5319,6 +6032,23 @@ Summarizes international governmental reactions to major news events, categorizi
 **Links:**
   - 📄 [JSON File](system-prompts/json/Geopolitics_ReactionTracking_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1ebca80c8191bf2e0c4eb6ba285b-geopolitics-reaction-tracking)
+
+---
+
+## Gift Suggestion Generator
+
+Help the user buy thoughtful gifts that will be appreciated
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/gift-suggestion-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-jXHLHropx-gift-giving-helper)
 
 ---
 
@@ -5437,6 +6167,23 @@ Analyzes GitHub repositories to extract company information, career opportunitie
 **Links:**
   - 📄 [JSON File](system-prompts/json/GithubRepoToCompanyInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1f3c9ac48191b6737a5433662500-github-repo-to-company-info)
+
+---
+
+## Github Repository Summariser
+
+Summarises the contents of a Github repository
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/github-repository-summariser_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-v3vhzWOf3-github-repository-summariser)
 
 ---
 
@@ -5711,6 +6458,23 @@ Offers users helpful guidance in the field of graphic design.
 
 ---
 
+## Greenhouse Gas Emissions Data Finder
+
+Helps identify datasets containing companies' GHG emissions data
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/greenhouse-gas-emissions-data-finder_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-H4tzduTlG-greenhouse-gas-emissions-data-finder)
+
+---
+
 ## Grocery List Generator
 
 Generates grocery lists tailored to user preferences, staples, and location, providing options for essentials, weekly stock-ups, and categorized shopping.
@@ -5725,6 +6489,23 @@ Generates grocery lists tailored to user preferences, staples, and location, pro
 **Links:**
   - 📄 [JSON File](system-prompts/json/GroceryListGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e21da4b788191b0aa7a2e72b4ef18-grocery-list-generator)
+
+---
+
+## Grocery List Text Formatter
+
+Organizes freeform text into a structured grocery list with items, quantities, and logical food group categorization.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/grocery-list-text-formatter_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-9gxvtvpQh-grocery-list-text-formatter)
 
 ---
 
@@ -6010,6 +6791,22 @@ Assists users in planning home electronics projects, particularly those involvin
 **Links:**
   - 📄 [JSON File](system-prompts/json/HomeElectronicsProject_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e245909a481918fd439c0ec3ef9f0-home-electronics-project)
+
+---
+
+## Home Front Command Recommendations
+
+Custom GPT which is configured with the latest set of guidelines from the Home Front Command
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/home-front-command-recommendations_260925.json)
 
 ---
 
@@ -6556,6 +7353,57 @@ Takes user-provided text and refines it using a multi-faceted approach based on 
 
 ---
 
+## Improve These Wireframes
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/improve-these-wireframes_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55c64b648819192cc2b7b5e3039a1-improve-these-wireframes)
+
+---
+
+## Improve This Diagram
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/improve-this-diagram_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55ce01e1081919de3a59bf4d220fd-improve-this-diagram)
+
+---
+
+## In-Law Vacation Guide
+
+Helps suggest ways to enjoy harmonious vacations with in-laws
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/in-law-vacation-guide_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-pArcUOhe4-in-law-vacation-guide)
+
+---
+
 ## Informal Text Editor
 
 Transforms informally dictated text into polished, presentable written documents suitable for professional use. It refines drafts for clarity and coherence while preserving the original intent and content.
@@ -6570,6 +7418,23 @@ Transforms informally dictated text into polished, presentable written documents
 **Links:**
   - 📄 [JSON File](system-prompts/json/InformalTextEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e481a30ec8191a3487e22eced4a32-informal-text-editor)
+
+---
+
+## Information Taxonomy Generator
+
+Builds structured category lists for data-centric applications like CMS content organization
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/information-taxonomy-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-ryPoXnaZ2-information-taxonomy-generator)
 
 ---
 
@@ -6774,6 +7639,23 @@ None
 **Links:**
   - 📄 [JSON File](system-prompts/json/ISOStandardFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4b4c1dd48191a3c818e6687a63d2-iso-standard-finder)
+
+---
+
+## Israel Daily News Brief
+
+Provides non-partisan news updates on recent developments in Israel with structured briefing format
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/israel-daily-news-brief_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-dHTBHVjT5-israel-daily-news-brief)
 
 ---
 
@@ -6994,6 +7876,23 @@ Crafts personalized expressions of interest emails for the user, designed to hel
 
 ---
 
+## Job Automation Tracker
+
+Helps users assess and track their level of job automation
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/job-automation-tracker_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-H2WH1m8S5-job-automation-tracker)
+
+---
+
 ## Job Description Analyst For user
 
 Assesses job descriptions for suitability and analyzes them 
@@ -7092,6 +7991,23 @@ Recommends up-to-date tools for remote job searches, considering the user's need
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/JobHuntToolingAssistant_270525.json)
+
+---
+
+## Job Performance Coach
+
+Helps users perform impressively at work
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/job-performance-coach_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-lJNf8Km5p-job-performance-coach)
 
 ---
 
@@ -7248,6 +8164,23 @@ Loads of info about KDE Plasma
 
 ---
 
+## Keep Me On Time
+
+Personal assistant focused on helping the user to keep to a predetermined daily schedule
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/keep-me-on-time_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-hyQHLgj8R-keep-me-on-time)
+
+---
+
 ## Knowledge Base & Documentation Software Finder
 
 Identifies documentation and knowledge management tools based on user specifications.
@@ -7279,6 +8212,23 @@ Extracts and organizes visible text from hardware labels, clearly separating mul
 **Links:**
   - 📄 [JSON File](system-prompts/json/LabelTextExtractor_OCR_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb4e7244c8191a321385d719a7478-label-text-extractor-ocr)
+
+---
+
+## Late Night Venues
+
+Helps find nearby places that are open late
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/late-night-venues_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-PQov1b27b-late-night-venues)
 
 ---
 
@@ -7384,6 +8334,40 @@ Translates complex legal documents, such as terms and conditions or privacy poli
 
 ---
 
+## Let's Automate This
+
+Helps users design and automate workflows for both business and personal tasks
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/let-s-automate-this_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-NeZI1QZuR-let-s-automate-this)
+
+---
+
+## Let's Work Remotely!
+
+Suggests remote working ideas based on location.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/let-s-work-remotely_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-HC29931QG-let-s-work-remotely)
+
+---
+
 ## LibreOffice Calc
 
 Helps with user queries about using LibreOffice Calc
@@ -7398,6 +8382,56 @@ Helps with user queries about using LibreOffice Calc
 **Links:**
   - 📄 [JSON File](system-prompts/json/LibreOfficeCalc_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682de21944808191a69ef9905143af1f-libreoffice-calc)
+
+---
+
+## Life Advisory Bot
+
+Generates personalized life advice documents tailored to specific individuals
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/life-advisory-bot_260925.json)
+
+---
+
+## Life Automation Guru
+
+Helps users identify automatable areas of their life and provides actionable steps toward full automation
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/life-automation-guru_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d6ff8e790c819194e1a8da58c40822-life-automation-guru)
+
+---
+
+## Life's A Musical
+
+Identifies opportunities to break into song and provides lyrics.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/life-s-a-musical_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-uuGR6h936-life-s-a-musical)
 
 ---
 
@@ -7974,6 +9008,23 @@ Informs the user of updates to text-to-speech models available for Linux on Fedo
 
 ---
 
+## Location Based Threat Brief Generator
+
+Provides detailed safety briefings tailored to specific locations, highlighting potential threats and mitigation strategies.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/location-based-threat-brief-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-r5Cxk7r97-location-based-threat-briefer)
+
+---
+
 ## Long Tail LLMs
 
 Advises users on the range of lesser-known large language models.
@@ -8007,6 +9058,40 @@ Generates CSV loookup files according to user requirements
 
 ---
 
+## Lousy Pun Joke Generator
+
+Generates weak pun-based jokes for comedic effect
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/lousy-pun-joke-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-UBE0QLWee-bad-pun-generator)
+
+---
+
+## Low Energy Legend
+
+Helps users master the art of being low energy in any situation
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/low-energy-legend_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-ZQPH6hBDr-i-m-low-energy)
+
+---
+
 ## Low Fat Alternatives
 
 None
@@ -8021,6 +9106,40 @@ None
 **Links:**
   - 📄 [JSON File](system-prompts/json/LowFatAlternatives_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7214d1048191ba5da5a5ba4fe4f5-low-fat-alternatives)
+
+---
+
+## Low Fat Food Options
+
+Analyses images of menus at restaurants in order to help users identify dishes with a lower predicted fat content.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/low-fat-food-options_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-leNSucp1I-low-fat-food-options)
+
+---
+
+## Luggage Allowance Checker
+
+Helps international travellers understand their baggage allowance based on flight details
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/luggage-allowance-checker_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-qusetoYsY-baggage-buddy)
 
 ---
 
@@ -8176,6 +9295,23 @@ Creates a well-organized outline of talking points for media appearances based o
 
 ---
 
+## Media List Building Assistant
+
+Helps build media lists and suggests relevant journalists.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/media-list-building-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-VDgK9IZEL-media-list-building-assistant)
+
+---
+
 ## Media Mention Report Generator
 
 Generates templated media mention reports for clients based on a provided URL, extracting key information such as coverage details, sentiment analysis, client mentions, and publication details.
@@ -8190,6 +9326,40 @@ Generates templated media mention reports for clients based on a provided URL, e
 **Links:**
   - 📄 [JSON File](system-prompts/json/MediaMentionReportGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e752d3bb48191a5ca51fb312505ff-media-mention-report-generator)
+
+---
+
+## Media Monitoring Brief Generator
+
+Compiles and summarizes relevant media coverage based on user-defined criteria
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/media-monitoring-brief-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-zobI0AaRr-media-monitoring-brief-generator)
+
+---
+
+## Media Monitoring Helper
+
+A media monitoring assistant focusd on helping monitor for personal coverage
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/media-monitoring-helper_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-BgJXKFLbW-media-monitoring-helper)
 
 ---
 
@@ -8210,6 +9380,23 @@ This assistant aids in media monitoring by gathering user requirements, suggesti
 
 ---
 
+## Media Opportunity Screening Assistant
+
+Conducts background research on inbound media requests and offers assessments as to likely reach
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/media-opportunity-screening-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-U8MlFgUM1-media-opportunity-screening-assistant)
+
+---
+
 ## Medical Appointment Notes Prepper
 
 Prepares users for upcoming medical appointments by gathering relevant information, formatting it into a markdown document, and proactively suggesting potential omissions.
@@ -8227,6 +9414,23 @@ Prepares users for upcoming medical appointments by gathering relevant informati
 
 ---
 
+## Medical Problem Documenter
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/medical-problem-documenter_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55f87d0548191b720330bc3ea039e-medical-problem-documenter)
+
+---
+
 ## Medical Report Interpreter
 
 Interprets medical reports, demystifies medical jargon, and delivers clear, concise summaries in simplified terms.
@@ -8241,6 +9445,40 @@ Interprets medical reports, demystifies medical jargon, and delivers clear, conc
 **Links:**
   - 📄 [JSON File](system-prompts/json/MedicalReportInterpreter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e404bd1808191bbbc98e761ec0099-medical-report-interpreter)
+
+---
+
+## Medication Identification Assistant
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/medication-identification-assistant_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d5810bed9c8191929ff13149d18ea4-medication-identification-assistant)
+
+---
+
+## Medication Manager
+
+Helps manage and track daily medication schedules. Offers reminders if medications are forgotten.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/medication-manager_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-JDFAKxr23-medication-manager)
 
 ---
 
@@ -8292,6 +9530,23 @@ Translates modern text into authentic Medieval English while communicating with 
 **Links:**
   - 📄 [JSON File](system-prompts/json/MedievalTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7702395c819189eedca693890e06-medieval-text-generator)
+
+---
+
+## Meeting Agenda Assistant
+
+A GPT to assist in crafting professional and well-organised meeting agendas
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/meeting-agenda-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-pz34K5RyA-meeting-agenda-assistant)
 
 ---
 
@@ -8363,6 +9618,23 @@ Summarmisation agent for extracting action items and summary data from minutes
 
 ---
 
+## Meeting Prep Assistant
+
+Helps users prepare for meetings with detailed, actionable steps.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/meeting-prep-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-IWLPM4Oxw-meeting-prep-assistant)
+
+---
+
 ## Mermaid Diagram Creator & Editor
 
 Modifies Mermaid diagram code based on user requests and provides the updated code within a code block.
@@ -8427,6 +9699,23 @@ Finds and explains current information related to the Model Context Protocol (MC
 **Links:**
   - 📄 [JSON File](system-prompts/json/ModelContextProtocol_MCP_Info_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a8e8fac24819191cf7ee1441a7cb8-model-context-protocol-mcp-info)
+
+---
+
+## Monetised GHG Emissions Simulator (Carbon Pricing)
+
+Helps users convert emissions data into financial impacts using different social cost of carbon figures
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/monetised-ghg-emissions-simulator-carbon-pricing_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-55PLL6ojy-monetised-ghg-emissions-simulator-carbon-pricing)
 
 ---
 
@@ -9106,6 +10395,23 @@ Aids users in locating open-source datasets relevant to their specified topics, 
 
 ---
 
+## Open Data Finder
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/open-data-finder_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-3iG0XaYeM-open-data-finder)
+
+---
+
 ## Open Source Contributor Guidelines
 
 Provides users with comprehensive overviews of how to contribute to open-source projects as code contributors. It researches and summarizes key information about contribution guidelines, development processes, and community structure for a given project.
@@ -9242,6 +10548,23 @@ Assists users with configuring and debugging OPNsense firewalls, providing how-t
 
 ---
 
+## Opportunities For Comment - PR Assistant
+
+Helps communications professionals craft comment drafts for clients based on recent news articles
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/opportunities-for-comment-pr-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-2dtwMq3rJ-opportunities-for-comment-pr-assistant)
+
+---
+
 ## Opposing Narratives - Dialogue Simulation
 
 Takes a user-defined issue and generates a debate between characters representing different viewpoints. It presents the narratives as a discussion in screenplay format.
@@ -9272,6 +10595,23 @@ Assists administrators of AI assistant networks by managing individual orchestra
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/OrchestrationAgentManager_270525.json)
+
+---
+
+## Organisation Relationship Finder
+
+Maps out relationships between organisations and identify associated organisations
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/organisation-relationship-finder_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-vTrVsc1o4-organisation-relationship-finder)
 
 ---
 
@@ -9425,6 +10765,23 @@ This assistant helps users develop reusable packing lists, prompting them to con
 **Links:**
   - 📄 [JSON File](system-prompts/json/PacklingListChecker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8831091c81918250f9b7408808a1-pre-travel-checklist)
+
+---
+
+## Parenting Style Explorer
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/parenting-style-explorer_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d555e312b081918cb6f12f109eb5aa-parenting-style-explorer)
 
 ---
 
@@ -9733,6 +11090,23 @@ Generates structured podcast episodes based on user-provided topics and learning
 
 ---
 
+## Political Differences Navigator
+
+Ideates ways for people to get along in spite of political differences
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/political-differences-navigator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-qxQBy9eFP-political-differences-navigator)
+
+---
+
 ## Postgres Helper
 
 Assists users with PostgreSQL database-related tasks such as generating SQL queries and debugging database issues, assuming PostgreSQL as the foundational technical context.
@@ -9747,6 +11121,40 @@ Assists users with PostgreSQL database-related tasks such as generating SQL quer
 **Links:**
   - 📄 [JSON File](system-prompts/json/PostgresHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e91f73a988191aa4ae5fff7614514-postgres-helper)
+
+---
+
+## PostgreSQL Expert
+
+Answers questions and helps with PostgreSQL queries and concepts, from basics to advanced use cases in a friendly tone.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/postgresql-expert_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-gYptVuav6-postgresql-expert)
+
+---
+
+## Preparedness Brief Creator
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/preparedness-brief-creator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-SyuJVbnaa-preparedness-brief-creator)
 
 ---
 
@@ -9866,6 +11274,23 @@ None
 **Links:**
   - 📄 [JSON File](system-prompts/json/Professionalidentityidentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea7dd11548191869cce6fdaca1904-professional-identity-identifier)
+
+---
+
+## Professional Narrative Writers
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/professional-narrative-writers_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55e7ee1448191a8ca9d1c66eec0b0-professional-narrative-writer)
 
 ---
 
@@ -10525,6 +11950,57 @@ Discerns the availability of Python utilities for particular tasks and provides 
 
 ---
 
+## Question List Generator
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/question-list-generator_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d588dfd4dc8191abbac6ffa56bbafc-question-list-generator)
+
+---
+
+## Quiet Focus Helper
+
+Supports individuals who struggle with concentration in noisy environments. It helps users understand their needs, communicate effectively, and find practical solutions for creating a more focused and comfortable workspace. 
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/quiet-focus-helper_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-eGboIz4bB-sound-sensitivity-explainer)
+
+---
+
+## Quiet, Please!
+
+Assists users in finding quieter environments and recommending tools to manage ambient sound levels
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/quiet-please_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-DP63EeIhs-quiet-please)
+
+---
+
 ## RAG And Vector Storage Consultant
 
 Enthusiastically helps users with vector storage and RAG pipelines, answering technical questions about vector databases, data formats, and best practices while providing clear explanations and helpful resources.  It focuses on AI tool development, especially LLM assistants.
@@ -10627,6 +12103,23 @@ Drafts unsolicited feedback letters analyzing random people's toilets
 
 ---
 
+## Reading List Generator
+
+Helps users find curated reading lists based on their interests
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/reading-list-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-bGPP9YSrW-reading-list-creator)
+
+---
+
 ## README Page Generator
 
 Generates README text from other text inputs
@@ -10695,6 +12188,23 @@ Processes receipt images to identify and isolate financial details, organizing t
 
 ---
 
+## Recent Report Finder
+
+Helps users find and summarize recent research reports in their area of interest
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/recent-report-finder_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-28mgr7MNJ-recent-report-finder)
+
+---
+
 ## Rechargeable Battery Expert
 
 A helpful assistant that helps users switch to rechargeable batteries. It offers brand details and charging advice.
@@ -10745,6 +12255,40 @@ Takes the details of recommendations and formats them as structured notes
 
 ---
 
+## Regulation & Policy Comparison Assistant
+
+Helps compare different policies and regulations
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/regulation-policy-comparison-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-bRtrixyRZ-regulation-policy-comparison-assistant)
+
+---
+
+## Reinvent My Doc
+
+Boring documents suck. Thankfully this bot is on the case.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/reinvent-my-doc_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-V91vHqIa6-jazz-up-my-document)
+
+---
+
 ## Relationship Summariser
 
 Compiles user-provided details about their relationships with significant individuals into structured, third-person summaries.
@@ -10775,6 +12319,23 @@ You are a writing assistant that helps the user, the user, convert GitHub reposi
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/RepoToBlogPost_270525.json)
+
+---
+
+## Report Summary Generator
+
+Automatically summarizes reports, extracts key data, and provides analysis
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/report-summary-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-ahPy64tkD-report-summary-generator)
 
 ---
 
@@ -10877,6 +12438,23 @@ Generates elaborate and dramatic fictional conspiracy theories about individuals
 **Links:**
   - 📄 [JSON File](system-prompts/json/RidiculousConspiracyTheory_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebcbc20808191ac078ee54f6da627-ridiculous-conspiracy-theory)
+
+---
+
+## Rise At Sunrise - Bedtime Planner
+
+Finds sunrise times and suggests target bed times based upon users' personal sleep preferences
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/rise-at-sunrise-bedtime-planner_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-Qh6iivhr5-the-sunrise-riser-sleeping-hours-suggester)
 
 ---
 
@@ -11465,6 +13043,23 @@ Helps users document their skills for career-related purposes, gathering input a
 
 ---
 
+## Sloth Photo Generator
+
+Generates photo-realistic images of sloths in user-specified contexts.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/sloth-photo-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-IuMnjvcMJ-sloth-photo-generator)
+
+---
+
 ## Small Batch Prompt Generator
 
 Generates batches of five ready-to-use prompts for a reusable prompt library.
@@ -11531,6 +13126,23 @@ Generates snippets
 
 ---
 
+## Social Awkwardness Engineer
+
+Creates socially awkward situations based on given scenarios.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/social-awkwardness-engineer_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-uI9E4LPzp-social-awkwardness-engineer)
+
+---
+
 ## Social Network Post Reformatter
 
 Streamlines social media threads by removing unnecessary conversational elements, preparing the core content for efficient AI processing and analysis.
@@ -11577,6 +13189,23 @@ Analyzes a user's software needs and dislikes to recommend alternatives, includi
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/SoftwareAlternativeFinder_270525.json)
+
+---
+
+## Software Development Project Outliner
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/software-development-project-outliner_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d5628c79a881919a7defe1016aaf63-software-development-project-outliner)
 
 ---
 
@@ -11816,6 +13445,23 @@ Provide summaries of users' reports into their expenditure or other financial st
 
 ---
 
+## Spreadsheet To Database Migration Assistant
+
+Helps users transition from spreadsheet-based systems to relational databases by structuring data effectively
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/spreadsheet-to-database-migration-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-bfZqQSF8p-spreadsheet-to-database-migration-assistant)
+
+---
+
 ## SQL To Natural Language
 
 Explains SQL queries in plain English, providing high-level or detailed explanations based on user preference and utilizing database schema if provided.
@@ -11866,6 +13512,23 @@ Suggests possible stacks for tech projects
 
 ---
 
+## Stack Research Assistant
+
+Suggests stack options for a particular technical objective
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/stack-research-assistant_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-1YCZiSetK-stack-research-assistant)
+
+---
+
 ## Stack Research Prompt Optimiser
 
 Refines user-provided prompts for technology, software, or stack component recommendations by improving structure, identifying omissions like operating system or budget, and clarifying ambiguities to enhance the effectiveness of the prompt for large language models.
@@ -11897,6 +13560,23 @@ Expert for chatting about start pages
 **Links:**
   - 📄 [JSON File](system-prompts/json/StartPageGuru_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a1cdc944481918990c59952949cd3-start-page-guru)
+
+---
+
+## Stat Update Helper
+
+Helps users update old statistics with reliable new data.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/stat-update-helper_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-1YeLaQ3PR-stat-update-helper)
 
 ---
 
@@ -12170,6 +13850,23 @@ Provides users with a summary of recent activity in a specified subreddit over t
 
 ---
 
+## Subreddit Explorer
+
+Helps users find subreddits related to their interests with direct links.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/subreddit-explorer_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-gYmQi2t6t-subreddit-explorer)
+
+---
+
 ## Subreddit Finder
 
 Identifies subreddits relevant to user-provided keywords, highlighting both established and growing communities. It analyzes keyword trends and prioritizes active subreddits while also suggesting smaller niche communities.
@@ -12204,6 +13901,23 @@ Finds subtitled media in your target language for effective language learning.
 
 ---
 
+## Suggest An Employer
+
+Helps users find job opportunities that align with their career goals and experience
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/suggest-an-employer_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-m9sj0Hb3A-you-could-work-for)
+
+---
+
 ## Summarize This Whiteboard
 
 Upload your whiteboards — get back an organized, readable document.
@@ -12218,6 +13932,23 @@ Upload your whiteboards — get back an organized, readable document.
 **Links:**
   - 📄 [JSON File](system-prompts/json/SummarizeThisWhiteboard_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809cb456a4881919a953b7f58c50d66-summarise-this-whiteboard)
+
+---
+
+## Sustainability Report Finder
+
+A research utility for discovering sustainability reports
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/sustainability-report-finder_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-UD4XLw4aA-sustainability-report-finder)
 
 ---
 
@@ -12833,6 +14564,23 @@ Transforms descriptions of items for free giveaway into highly persuasive promot
 
 ---
 
+## Task Barrier
+
+Dissuades colleagues from making requests by detailing elaborate bureaucracy in a formal tone.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/task-barrier_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-B2VeiQVJ8-task-barrier)
+
+---
+
 ## Tech Career Pathfinder
 
 Acts as a passionate career guide specializing in technology, particularly AI. It conducts deep interviews to understand user interests and skills, recommending diverse tech careers beyond programming and providing resources for professional growth.
@@ -12932,6 +14680,22 @@ Analyzes a user's technology stack and suggests specific AI and LLM solutions fo
 **Links:**
   - 📄 [JSON File](system-prompts/json/TechStackOptimiser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecfc69d0081919d2dd1e8272e4172-tech-stack-optimiser)
+
+---
+
+## Tech Stack Optimizer
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/tech-stack-optimizer_260925.json)
 
 ---
 
@@ -13200,6 +14964,23 @@ Extracts and lists all factual claims from a body of text
 **Links:**
   - 📄 [JSON File](system-prompts/json/TextFactIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed0a84d648191bf67b2df282901ad-text-fact-identifier)
+
+---
+
+## Text Fixer (British English)
+
+Automatically fixes typos, punctuation, and capitalization according to UK conventions.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/text-fixer-british-english_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-9q9Esq0Nk-text-fixer-british-english)
 
 ---
 
@@ -13638,6 +15419,23 @@ This assistant champions the user's commitment to documentation across technical
 
 ---
 
+## The Eager Beaver
+
+Helps users craft overly enthusiastic and unnaturally positive email responses
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/the-eager-beaver_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-0EEkIB1hW-the-eager-beaver)
+
+---
+
 ## The Eccentric's Thesaurus
 
 Acts as a thesaurus by providing synonyms for user-specified words, including a section of 5 weird alternatives and a section of 3 archaic synonyms if available.
@@ -13723,6 +15521,23 @@ Helps users manage their household shopping.  It maintains a categorized list of
 
 ---
 
+## The Kaizen Thinker
+
+Guides users toward sustainable progress through small, consistent improvements
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/the-kaizen-thinker_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-Rp3hTJDgx-the-kaizen-thinker)
+
+---
+
 ## The Other Side Of The Argument
 
 Moderates a discussion by presenting counter-arguments to the user's position on a given issue, promoting respectful dialogue.
@@ -13757,6 +15572,40 @@ Adopts the persona of an overly zealous minimalism coach, initially presenting a
 
 ---
 
+## The Platitude King
+
+Shares dull platitudes and suggests bland images for Facebook posts.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/the-platitude-king_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-dcg8hTHPA-the-platitude-king)
+
+---
+
+## The Prank Master
+
+Helps users come up with fun, harmless pranks and jokes tailored to different situations
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/the-prank-master_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-XVoggFgtW-the-prank-master)
+
+---
+
 ## The Professional Skeptic
 
 Adopts a skeptical persona that challenges the user's claims with blunt dismissals and demands for supporting evidence.
@@ -13788,6 +15637,40 @@ Debugging assistant focused on RAG optimisation
 **Links:**
   - 📄 [JSON File](system-prompts/json/TheRAGDoctor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810b9df5cb88191984c273cc0173f24-the-rag-doctor)
+
+---
+
+## The Say Nothing Specialist
+
+Generates professional-sounding, agreeable yet empty email replies
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/the-say-nothing-specialist_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-pX1XpTBXC-the-say-nothing-specialist)
+
+---
+
+## The Sloth Approach
+
+Friendly sloth here to help explore how a sloth might handle boring human challenges differently
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/the-sloth-approach_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d700e439008191a11ba4f077fafa11-sloth-approach-advisor)
 
 ---
 
@@ -13842,6 +15725,23 @@ Simulates the inner thoughts and struggles of individuals living with specified 
 
 ---
 
+## Therapy Modality Suggester
+
+Helps users find the right type of therapy based on their needs and situation
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/therapy-modality-suggester_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-2bvw4rNs5-therapy-modality-suggester)
+
+---
+
 ## Therapy Session Planner
 
 Helps the user generate notes for an upcoming therapy appointment
@@ -13873,6 +15773,23 @@ Analyzes user-described technical tasks, identifies inefficiencies, and suggests
 **Links:**
   - 📄 [JSON File](system-prompts/json/ThisIsDumb_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810c58865988191bfe3d6177abf4286-this-is-dumb)
+
+---
+
+## This Isn't Normal, Right?
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/this-isn-t-normal-right_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d54f3cecc4819199b82e6d21776ca6-this-isn-t-normal-right)
 
 ---
 
@@ -14147,6 +16064,23 @@ Finds movies based on true stories, tailored to your interests and streaming ser
 
 ---
 
+## True Story Movie Recommender
+
+Personalized biopics and documentary movie recommendation GPT
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/true-story-movie-recommender_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-IyCCkqm6p-true-story-movie-recommender)
+
+---
+
 ## TTS Announcement Creator
 
 Generates scripts for announcements for synthing with TTS
@@ -14210,6 +16144,23 @@ This assistant corrects typographical errors, punctuation, and formatting in use
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/TypoFixer_270525.json)
+
+---
+
+## Typo Laden Text Generator
+
+Generates text with many typos, errors, unnecessary accents, and random symbols.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/typo-laden-text-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-C7FFL6OCw-typo-master)
 
 ---
 
@@ -14294,6 +16245,23 @@ Identifies things under the bonnet of a car,
 **Links:**
   - 📄 [JSON File](system-prompts/json/UnderTheHood_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115dd817fc8191b8f81229bb0d2401-under-the-hood)
+
+---
+
+## Understanding Narcissism
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/understanding-narcissism_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d553e8ae248191977a13db14cebd2b-understanding-narcissism)
 
 ---
 
@@ -14444,6 +16412,23 @@ Advises users on the UV framework for Python, including setup and usage for crea
 
 **Links:**
   - 📄 [JSON File](system-prompts/json/UVExpert_270525.json)
+
+---
+
+## Vacation At Home
+
+Low effort vacation planner focusing on helping the user identify vacation options within their own city
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/vacation-at-home_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-rEHmDJeVu-vacation-at-home)
 
 ---
 
@@ -15023,6 +17008,40 @@ Aids users in crafting detailed weekly work plans by defining objectives, breaki
 
 ---
 
+## Weekly Work Planner
+
+Helps the user formulate a weekly work plan
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/weekly-work-planner_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-s5M34exEU-weekly-work-planner)
+
+---
+
+## Weird Clothing Ideator
+
+Offers unique and unusual clothing suggestions across time periods and categories
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/weird-clothing-ideator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-1R8sRoBGv-weird-clothing-ideator)
+
+---
+
 ## What Are My Politics?
 
 It helps users explore their political beliefs, understand how they align with common ideologies, and identify potential self-descriptors, without imposing labels.
@@ -15121,6 +17140,23 @@ None
 **Links:**
   - 📄 [JSON File](system-prompts/json/What_sThePushback_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811614e89d08191b16e244fc4e9338c-what-s-the-pushback)
+
+---
+
+## What's The Subtext?
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/what-s-the-subtext_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d5614896508191919b3b47094c2903-what-s-the-subtext)
 
 ---
 
@@ -15255,6 +17291,23 @@ Investigates companies, especially tech startups, to identify founders and co-fo
 **Links:**
   - 📄 [JSON File](system-prompts/json/Who_sBehindThisCompany_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681161e81f18819199e6434f6ca98904-who-s-behind-this-company)
+
+---
+
+## Why Is My Brain Like This? (ADHD)
+
+None
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/why-is-my-brain-like-this-adhd_250925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55497dd9c81918aaaada19ee545a4-why-is-my-brain-like-this-adhd-support)
 
 ---
 
@@ -15406,6 +17459,23 @@ Advises users on workspace browsers, such as Ferdium and Rambox, for the Linux d
 
 ---
 
+## Worst Eats Guide
+
+Recommends lowest-rated food and drink establishments in proximity to the user to help them find disappointing dining experiences
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/worst-eats-guide_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-0U0DVdUlH-worst-eats-guide)
+
+---
+
 ## Writing & Editing App Finder
 
 App finding assistant for writing and editing tools
@@ -15454,6 +17524,23 @@ Fixes YAML
 
 ---
 
+## Ye Olde Text Converter
+
+Converts modern text into an archaic and formal style reminiscent of past eras
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/ye-olde-text-converter_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-fbjpnwBGj-ye-olde-text-converter)
+
+---
+
 ## Your AI Concierge
 
 Provides personalized restaurant and experience recommendations for any city in the world
@@ -15468,6 +17555,23 @@ Provides personalized restaurant and experience recommendations for any city in 
 **Links:**
   - 📄 [JSON File](system-prompts/json/YourAIConcierge_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb1d675148191acd0629bccc917ec-your-ai-concierge)
+
+---
+
+## Your Friendly AI Prof
+
+An enthusiastic AI expert named Herman, explaining complex concepts simply.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](system-prompts/json/your-friendly-ai-prof_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-Ng2MfGJYV-your-friendly-ai-prof)
 
 ---
 
