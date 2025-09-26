@@ -25,9 +25,9 @@ class GrowthMetricsUpdater:
     
     def __init__(self, repo_root: Path):
         self.repo_root = repo_root
-        self.json_dir = repo_root / "system-prompts" / "json"
-        self.consolidated_file = repo_root / "consolidated_prompts.json"
-        self.growth_history_file = repo_root / "growth_history.json"
+        self.json_dir = repo_root / "repo-data" / "json"
+        self.consolidated_file = repo_root / "repo-data" / "consolidated_prompts.json"
+        self.growth_history_file = repo_root / "repo-data" / "growth_history.json"
         self.index_file = repo_root / "index.md"
         self.images_dir = repo_root / "images"
         self.chart_file = self.images_dir / "growth_chart.png"
@@ -333,8 +333,8 @@ def main():
     
     args = parser.parse_args()
     
-    # Get repository root
-    repo_root = Path(__file__).parent.parent
+    # Get repository root (script is now in maintenance-scripts/indexing/)
+    repo_root = Path(__file__).parent.parent.parent
     
     # Create updater and run
     updater = GrowthMetricsUpdater(repo_root)

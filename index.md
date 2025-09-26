@@ -20,7 +20,7 @@ Assists the user with populating a task management software
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TaskManagerSetup_270525.json)
+  - 📄 [JSON File](repo-data/json/TaskManagerSetup_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6829aea78bf081918589af165bc19474-task-manager-setup)
 
 ---
@@ -37,7 +37,7 @@ This AI assistant locates and recommends comically terrible local experiences, c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/1_StarReviewExplorer_270525.json)
+  - 📄 [JSON File](repo-data/json/1_StarReviewExplorer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680718daa9708191ba3cd3b5160dbf0d-1-star-tourist-guide)
 
 ---
@@ -54,7 +54,7 @@ Recommends software solutions based on user-provided specifications, with both s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/10SoftwareRecs_270525.json)
+  - 📄 [JSON File](repo-data/json/10SoftwareRecs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071e970e84819187325b39fd74d305-10-software-recs)
 
 ---
@@ -71,7 +71,7 @@ This assistant answers questions about 1Password focusing on Linux usage.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/1PasswordAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/1PasswordAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680704be6f008191bfa20fdec5fe8ca1-1-password-assistant)
 
 ---
@@ -88,7 +88,7 @@ Generates whimsical and off-the-beaten-path daily itineraries for users, incorpo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ADayInAILand_270525.json)
+  - 📄 [JSON File](repo-data/json/ADayInAILand_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-FiD7qP5nQ-a-day-in-gpt-land)
 
 ---
@@ -105,7 +105,7 @@ Generates 5 increasingly ridiculous solutions to any problem presented by the us
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/absurd-solution-ideator_260925.json)
+  - 📄 [JSON File](repo-data/json/absurd-solution-ideator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-K6z1rdWmh-absurd-solution-ideator)
 
 ---
@@ -122,7 +122,7 @@ Identifies the appropriate AC-DC adapter for specific electronics
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DCAdapterMatcher_270525.json)
+  - 📄 [JSON File](repo-data/json/DCAdapterMatcher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a624620d881919843d00067eb5a9f-ac-dc-adapter-matcher)
 
 ---
@@ -139,7 +139,7 @@ Re-writes text in a formal academic tone with careful word choice and sentence s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AcademicToneWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/AcademicToneWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d89d011a881918c505c63c49e34f5-academic-tone-writer)
 
 ---
@@ -156,7 +156,7 @@ Helps find accounting apps for the user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AccountingAppDiscoveryAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/AccountingAppDiscoveryAssistant_270525.json)
 
 ---
 
@@ -172,7 +172,7 @@ Identifies organizations based on acronyms, using contextual clues to disambigua
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Acronym_to_OrganisationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/Acronym_to_OrganisationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680705c35504819195125e068657dcf3-acronym-to-organisation)
 
 ---
@@ -189,7 +189,7 @@ Expert in ADB (Android Debug Bridge)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ADBAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/ADBAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681af3483ad881919e2fd07bfb46b9e4-adb-assistant)
 
 ---
@@ -206,7 +206,7 @@ ADHD medication and holistic strategy advisor.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/adhd-medication-advisor_260925.json)
+  - 📄 [JSON File](repo-data/json/adhd-medication-advisor_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-X1LKXjhxt-adhd-medication-advisor)
 
 ---
@@ -223,7 +223,7 @@ ADHD Tech Advisor: Provides expert guidance on utilizing technology for individu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ADHDTechAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/ADHDTechAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071a140d2081919aaafaf7e5011495-adhd-tech-advisor)
 
 ---
@@ -240,7 +240,7 @@ Up-to-date information on recent developments and treatments for adult ADHD, foc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ADHDTreatmentNews_270525.json)
+  - 📄 [JSON File](repo-data/json/ADHDTreatmentNews_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071a3114b081918ce50e7ebb8c6968-adhd-treatment-news)
 
 ---
@@ -257,7 +257,7 @@ Formats discussion points into a friendly meeting agenda with drink break sugges
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/agenda-for-the-pub_260925.json)
+  - 📄 [JSON File](repo-data/json/agenda-for-the-pub_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-kUnX6lKVm-agenda-for-the-pub)
 
 ---
@@ -274,7 +274,7 @@ Provides detailed technical guidance to the user about configuring AI agents and
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Agent_Assistants_HowTo_270525.json)
+  - 📄 [JSON File](repo-data/json/Agent_Assistants_HowTo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071b4b4a708191be08e721cf2312bb-agent-assistants-how-to)
 
 ---
@@ -291,7 +291,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Agentclassifier_270525.json)
+  - 📄 [JSON File](repo-data/json/Agentclassifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071ba6307881918c62b1090c274291-ai-agent-organiser)
 
 ---
@@ -308,7 +308,7 @@ Offers expert guidance on agentic AI technologies, including agent building and 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AgentFrameworkAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/AgentFrameworkAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071e2e05688191bc39f8075f5b46ee-agent-framework-advisor)
 
 ---
@@ -325,7 +325,7 @@ Generates planning documents for AI agents workflow configurations.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AgentPlanDocumentGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AgentPlanDocumentGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071e6ca17c8191a9102ddfe29f1bef-agent-plan-document-generator)
 
 ---
@@ -342,7 +342,7 @@ Modifies existing configuration prompts for AI agents, allowing users to refine 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AgentPromptEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/AgentPromptEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c60e4d7c8191b792e0fc86990058-agent-system-prompt-editor)
 
 ---
@@ -359,7 +359,7 @@ Transforms conversational AI prompts into actionable instructions for autonomous
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AgentPromptFormatter_270525.json)
+  - 📄 [JSON File](repo-data/json/AgentPromptFormatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c67328848191a5a64a276efb6da7-instructional-system-prompt-converter)
 
 ---
@@ -376,7 +376,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Agentrouter_270525.json)
+  - 📄 [JSON File](repo-data/json/Agentrouter_270525.json)
 
 ---
 
@@ -392,7 +392,7 @@ Acts as a friendly and supportive coach, guiding users through the process of de
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AgentToolDeveloperCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/AgentToolDeveloperCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b0fbb3f1c8191b0170b9616e2a57c-agent-tool-developer-coach)
 
 ---
@@ -409,7 +409,7 @@ Generates organised descriptions of intended AI agent workflows from user-provid
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AgentWorkflowSpecGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AgentWorkflowSpecGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b0e4e2b7881919888a8fedeac2ce6-agent-workflow-spec-generator)
 
 ---
@@ -426,7 +426,7 @@ Advises users on establishing a professional presence in the AI agent space, rec
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAgentBuilders_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAgentBuilders_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b0ff64cc08191bcc47b0b361db748-ai-agent-builders)
 
 ---
@@ -443,7 +443,7 @@ Helps users troubleshoot and diagnose issues with their networked AI assistants 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAgentDebugger_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAgentDebugger_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a947ce8748191939fd66aa75426d6-system-prompt-debugger-for-assistants-and-agents)
 
 ---
@@ -460,7 +460,7 @@ Offers expert guidance on designing and implementing effective multi-agent syste
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAgentOrchestrationAssistant_Advisory_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAgentOrchestrationAssistant_Advisory_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b1080f3988191b9af45f3ef10ec66-ai-agent-orchestration-assistant-advisory)
 
 ---
@@ -477,7 +477,7 @@ Evaluates the suitability of different self-hostable frameworks for configuring 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAgentPlatformEvaulator_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAgentPlatformEvaulator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8a03b3ec81918717101447e2e0ce-ai-agent-platform-evaulator)
 
 ---
@@ -494,7 +494,7 @@ Summarizes recent developments in AI agents and assistants, focusing on company 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAgentsNews_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAgentsNews_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b10e6e95c8191bb3ddae1a18139af-ai-agents-news)
 
 ---
@@ -511,7 +511,7 @@ Technical assistant instructed to provide guidance and information about leverag
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAndAutomation_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAndAutomation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a94e6b5708191a512839e13c94a0d-ai-and-automation-advisor)
 
 ---
@@ -528,7 +528,7 @@ Specialist AI assistant adept at guiding users through AI video generation, anim
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAnimationAndVideoGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAnimationAndVideoGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b1100545481918be0c68cb051b033-ai-animation-and-video-guide)
 
 ---
@@ -545,7 +545,7 @@ Provides information and updates on the use of AI and LLMs in various non-Englis
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAroundTheWorld_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAroundTheWorld_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6802468326208191bea8b8e74ba92826-ai-around-the-world)
 
 ---
@@ -562,7 +562,7 @@ Ideation partner for brainstorming AI assistants
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAssistantIdeaGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAssistantIdeaGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a954869d4819196412ebe4c14134c-ai-assistant-idea-generator)
 
 ---
@@ -579,7 +579,7 @@ Helps AI professionals modernize legacy chatbot configurations by identifying wh
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAssistantMigrationPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAssistantMigrationPlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818075e56908191a319d502b696f115-ai-assistant-migration-planner)
 
 ---
@@ -596,7 +596,7 @@ Ideates meaningful AI assistants and agents
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIAssistantsForGood_270525.json)
+  - 📄 [JSON File](repo-data/json/AIAssistantsForGood_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b1165f8b081918c1a4ec1a0d7eeea-ai-assistants-for-good)
 
 ---
@@ -613,7 +613,7 @@ A friendly and helpful conversational bot that enjoys chatting and providing ass
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIBotRelative_270525.json)
+  - 📄 [JSON File](repo-data/json/AIBotRelative_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a95a605008191b7a2c18999d629b1-your-friendly-bot-relative)
 
 ---
@@ -630,7 +630,7 @@ Advises users on current and emerging AI capabilities, providing specific, non-p
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AICapabilityAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/AICapabilityAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a95e7b9e88191b4f48ae498dc5ae5-ai-capability-advisor)
 
 ---
@@ -647,7 +647,7 @@ Guides users in leveraging AI to enhance their careers and future-proof their pr
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ai-career-catalyst_260925.json)
+  - 📄 [JSON File](repo-data/json/ai-career-catalyst_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-QX63wl7mk-ai-career-ideator)
 
 ---
@@ -664,7 +664,7 @@ Explores the user's requirements and recommends AI related certifications based 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AICertificationAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/AICertificationAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b11857d648191a6be21c9fecad1a9-ai-certification-advisor)
 
 ---
@@ -681,7 +681,7 @@ Identifies ways AI and GPTs can improve your life suggesting concrete use-cases
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ai-could-help-here_260925.json)
+  - 📄 [JSON File](repo-data/json/ai-could-help-here_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-9V1PGBmlv-ai-could-help-here)
 
 ---
@@ -698,7 +698,7 @@ Provides up-to-date technical guidance on AI-related development projects, offer
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIDeveloperAssistance_270525.json)
+  - 📄 [JSON File](repo-data/json/AIDeveloperAssistance_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a968a683c81918d6f091a02dfed45-ai-developer-assistance)
 
 ---
@@ -715,7 +715,7 @@ Provides detailed explanations of all technical aspects relating to the implemen
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIEngineeringExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/AIEngineeringExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a971a902c8191b4031c4e1e215bd1-ai-engineering-expert)
 
 ---
@@ -732,7 +732,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIExperimentPlanner_Villages_270525.json)
+  - 📄 [JSON File](repo-data/json/AIExperimentPlanner_Villages_270525.json)
 
 ---
 
@@ -748,7 +748,7 @@ Provides users with information about AI tools for document processing, includin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIForDocumentProcessing_270525.json)
+  - 📄 [JSON File](repo-data/json/AIForDocumentProcessing_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a97a346a081918d72cfd5cc2a0dfa-ai-for-document-processing)
 
 ---
@@ -765,7 +765,7 @@ Provides information about the use of AI in geopolitical analysis
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIForGeopolitics_270525.json)
+  - 📄 [JSON File](repo-data/json/AIForGeopolitics_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7d8a23e48191a789e5e7fddbccb4-ai-for-geopolitics)
 
 ---
@@ -782,7 +782,7 @@ Assists users in brainstorming and refining ideas for AI tools designed to suppo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIForMentalHealth_270525.json)
+  - 📄 [JSON File](repo-data/json/AIForMentalHealth_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a97d5602881919d17c8b3be46db97-ai-for-mental-health)
 
 ---
@@ -799,7 +799,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIForNonProfits_270525.json)
+  - 📄 [JSON File](repo-data/json/AIForNonProfits_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a97ffdf6881919593b2b7556b01a8-ai-for-non-profits)
 
 ---
@@ -816,7 +816,7 @@ Provides approachable explanations of core AI technologies like Transformers, NL
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIForTheRestOfUs_270525.json)
+  - 📄 [JSON File](repo-data/json/AIForTheRestOfUs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a9838ac7c8191ba65400d0bc88b44-ai-for-the-rest-of-us)
 
 ---
@@ -833,7 +833,7 @@ Provides periodic random directions to user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIHumanOperator_270525.json)
+  - 📄 [JSON File](repo-data/json/AIHumanOperator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b11c8c41081919e681012f9c99e16-ai-human-operator)
 
 ---
@@ -850,7 +850,7 @@ Helps users navigate the complex landscape of text-to-image tools by asking targ
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIImageGeneratorAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/AIImageGeneratorAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b11f6362c81918a306435c499d28a-ai-image-generator-advisor)
 
 ---
@@ -867,7 +867,7 @@ Trims pasted AI outputs by removing any non-core content — such as side commen
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIOutputTrimmer_270525.json)
+  - 📄 [JSON File](repo-data/json/AIOutputTrimmer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e70263ff08191b0de83f1fc56a613-ai-output-trimmer)
 
 ---
@@ -884,7 +884,7 @@ Helps generate system prompts for personality-driven AI configs (functional, but
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIPersonalityCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/AIPersonalityCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6819624ec8a48191aed3f99a91dcea60-ai-personality-creator)
 
 ---
@@ -901,7 +901,7 @@ Formatting processor that generates structured question and answer style documen
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIQ_ADocFormatter_270525.json)
+  - 📄 [JSON File](repo-data/json/AIQ_ADocFormatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68179f5a2d8081918a2c51db417506dc-ai-q-a-doc-formatter)
 
 ---
@@ -918,7 +918,7 @@ An AI Tooling Expert adept at answering technical questions about AI architectur
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIQuestions_270525.json)
+  - 📄 [JSON File](repo-data/json/AIQuestions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8a722b4c8191ac5d4a65165568fa-ai-questions)
 
 ---
@@ -935,7 +935,7 @@ Offers guidance on using AI for research, including information on APIs, LLMs, a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIResearchTools_270525.json)
+  - 📄 [JSON File](repo-data/json/AIResearchTools_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b12d85c8881918e3f6887365d6d90-ai-research-tools)
 
 ---
@@ -952,7 +952,7 @@ Advises users on AI search tools based on the type of workload and the need for 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AISearchToolsGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/AISearchToolsGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b12fc12b08191a3364382795c36af-ai-search-tools-guide)
 
 ---
@@ -969,7 +969,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIStyleTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AIStyleTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bd7ec7e208191ad3808e499c8c984-ai-style-text-generator)
 
 ---
@@ -986,7 +986,7 @@ Acts as a knowledgeable AI advisor, guiding small business owners and individual
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AITechAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/AITechAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c88eb7448191819ce7137344ece4-ai-tech-advisor)
 
 ---
@@ -1003,7 +1003,7 @@ Suggests emerging AI technologies for specific use cases.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ai-tech-advisor_260925.json)
+  - 📄 [JSON File](repo-data/json/ai-tech-advisor_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-SwX92pm8c-ai-tech-advisor)
 
 ---
@@ -1020,7 +1020,7 @@ Assists users in discovering relevant AI tools by asking clarifying questions to
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIToolFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/AIToolFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b13c397b08191b803439e2fee784c-ai-tool-finder)
 
 ---
@@ -1037,7 +1037,7 @@ Helps users design structured use-case documents that can be used for AI agents,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ai-use-case-documenter_260925.json)
+  - 📄 [JSON File](repo-data/json/ai-use-case-documenter_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-udlR99fMj-ai-use-case-documenter)
 
 ---
@@ -1054,7 +1054,7 @@ Brainstorming assistant that helps imagine novel use-cases for gen AI tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AIUse_CaseIdeationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/AIUse_CaseIdeationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6cecf5d8819195e164a6ec3a9b19-ai-use-case-ideation-assistant)
 
 ---
@@ -1071,7 +1071,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AirQualityAndPollutionInfo_270525.json)
+  - 📄 [JSON File](repo-data/json/AirQualityAndPollutionInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6812ac6d1768819196d55afa167b55b7-air-quality-and-pollution-info)
 
 ---
@@ -1088,7 +1088,7 @@ Recommends specific dining options, including location within the airport, proxi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AirportFoodFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/AirportFoodFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b143500b881919f009f85a6580fc6-airport-food-finder)
 
 ---
@@ -1105,7 +1105,7 @@ Answers user questions about Airtable, providing up-to-date information on featu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AirtableAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/AirtableAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c96750dc8191929a1d58a0f02018-airtable-helper)
 
 ---
@@ -1122,7 +1122,7 @@ Delivers pessimistic news reports, focusing on the most dire and calamitous even
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AlarmistNewsBot_270525.json)
+  - 📄 [JSON File](repo-data/json/AlarmistNewsBot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c9c6d0648191bb6fe154fdf80b14-alarmist-news-bot)
 
 ---
@@ -1139,7 +1139,7 @@ Ideates aliases for the user based upon guiding criteria
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AliasGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AliasGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b1486f748819197ca4d1b0a0934a8-alias-generator)
 
 ---
@@ -1156,7 +1156,7 @@ Assumes the persona of a condescending alien sloth from the future, humorously c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AlienVisitor_270525.json)
+  - 📄 [JSON File](repo-data/json/AlienVisitor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809ca1aff208191a67750e03a868164-condescending-time-traveller-sloth)
 
 ---
@@ -1173,7 +1173,7 @@ Analyzes the risk of encountering counterfeit products from specific brands on A
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AliexpressBrandCounterfeitingAssessor_270525.json)
+  - 📄 [JSON File](repo-data/json/AliexpressBrandCounterfeitingAssessor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b14b05c388191bbc6170a9862015f-aliexpress-brand-counterfeiting-assessor)
 
 ---
@@ -1190,7 +1190,7 @@ Everything you wanted to know about DNS, ad-blocking, etc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AllAboutDNS_270525.json)
+  - 📄 [JSON File](repo-data/json/AllAboutDNS_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68193190c5808191b39dab39394377b7-all-about-dns)
 
 ---
@@ -1207,7 +1207,7 @@ Provides detailed information about sloths and shares fun facts about their life
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ama-sloth_260925.json)
+  - 📄 [JSON File](repo-data/json/ama-sloth_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-NNF3BVRCp-ask-a-sloth)
 
 ---
@@ -1224,7 +1224,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AMDGPUAdvisor_Linux_270525.json)
+  - 📄 [JSON File](repo-data/json/AMDGPUAdvisor_Linux_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b1533d2ac8191a47d8af6e46cc527-amd-gpu-advisor-linux)
 
 ---
@@ -1241,7 +1241,7 @@ Leverages search to recommend Android applications to the user, ensuring accurat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AndroidAppFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/AndroidAppFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b69465f588191ba07ab3763fcd4d3-android-app-finder)
 
 ---
@@ -1258,7 +1258,7 @@ Analyses user-provided Android phone data to provide analysis of packages and ac
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AndroidForensics_270525.json)
+  - 📄 [JSON File](repo-data/json/AndroidForensics_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68225b4e07148191b646616759f4d20a-android-forensics)
 
 ---
@@ -1275,7 +1275,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Androidvoiceapps_270525.json)
+  - 📄 [JSON File](repo-data/json/Androidvoiceapps_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b69644990819184971a5a5f782ce2-android-voice-apps)
 
 ---
@@ -1292,7 +1292,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/antenna-detective_240925.json)
+  - 📄 [JSON File](repo-data/json/antenna-detective_240925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d44afc0a9c8191968afb5ce20f0732-antenna-detective)
 
 ---
@@ -1309,7 +1309,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/APIcostcalculator_270525.json)
+  - 📄 [JSON File](repo-data/json/APIcostcalculator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6b254ff08191a72530c7e63a80d2-api-cost-calculator)
 
 ---
@@ -1326,7 +1326,7 @@ Expert at comparing API costs, using web scraping to provide users with up-to-da
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/APICostComparison_270525.json)
+  - 📄 [JSON File](repo-data/json/APICostComparison_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6b440d308191a9301a1300b2519a-api-cost-comparison)
 
 ---
@@ -1343,7 +1343,7 @@ Offers practical guidance to assist with API development projects
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/APIDevelopmentHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/APIDevelopmentHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6b6590488191a69e519577a274d7-api-development-helper)
 
 ---
@@ -1360,7 +1360,7 @@ Converts API documentation into a structured JSON format, detailing endpoints, p
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/APIDocsToJSON_270525.json)
+  - 📄 [JSON File](repo-data/json/APIDocsToJSON_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6b990c248191969366dd10169e33-api-docs-to-json)
 
 ---
@@ -1377,7 +1377,7 @@ Helps users find appropriate APIs for their projects by considering their specif
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/APIFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/APIFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6c37346481919b688751a2b7f614-api-finder)
 
 ---
@@ -1394,7 +1394,7 @@ Transforms modern text into historically accurate English from centuries past, a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ArchaicEnglishTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ArchaicEnglishTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6c555b60819191342794cec2aeb3-archaic-english-text-generator)
 
 ---
@@ -1411,7 +1411,7 @@ Isolates the body text of an article from a larger text, extracting key elements
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ArticleBodyTextExtractor_270525.json)
+  - 📄 [JSON File](repo-data/json/ArticleBodyTextExtractor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6ccca69c8191a41fd061a41cdaba-article-body-text-extractor)
 
 ---
@@ -1428,7 +1428,7 @@ Analyzes web pages by extracting metadata, generating summaries, performing sent
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ArticleTextScraper_270525.json)
+  - 📄 [JSON File](repo-data/json/ArticleTextScraper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8b05b39c8191860c2afa54e84e20-article-text-scraper)
 
 ---
@@ -1445,7 +1445,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/arXivDigest_270525.json)
+  - 📄 [JSON File](repo-data/json/arXivDigest_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6db1f3b48191aaa297b82101d2f3-arxiv-digest)
 
 ---
@@ -1462,7 +1462,7 @@ Refines messages for clarity and assertiveness, ensuring directness without caus
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssertButDon_tOffend_270525.json)
+  - 📄 [JSON File](repo-data/json/AssertButDon_tOffend_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6df2d8308191867ce43e3611d0a1-assert-but-don-t-offend)
 
 ---
@@ -1479,7 +1479,7 @@ Roleplay assistant targeted at improving users' assertiveness
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssertivenessCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/AssertivenessCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6e1e91c481919a2a45d999e36592-assertiveness-coach)
 
 ---
@@ -1496,7 +1496,7 @@ Coaches users to be more assertive and set boundaries.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/assertiveness-coach_260925.json)
+  - 📄 [JSON File](repo-data/json/assertiveness-coach_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-bZ6ZOCq8Z-assertiveness-coach)
 
 ---
@@ -1513,7 +1513,7 @@ Analyzes existing AI assistant networks to identify functionality gaps and oppor
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantClusterBuilder_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantClusterBuilder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6ee3b31481918d59d2d6c313943b-assistant-cluster-builder)
 
 ---
@@ -1530,7 +1530,7 @@ Converts AI assistant system prompts into concise, third-person descriptions sum
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantDescriptionTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantDescriptionTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b732467f0819198a83e1c9adea588-assistant-description-text-generator)
 
 ---
@@ -1547,7 +1547,7 @@ Generates random ideas for AI assistants for text reformatting, writing, and edi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_WritingAndEditing_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_WritingAndEditing_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6f14c2388191aac33f0e921c9cb1-assistant-ideator-writing-and-editing)
 
 ---
@@ -1564,7 +1564,7 @@ You are an AI assistant specializing in the conception and development of new AI
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Audio_Capable_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Audio_Capable_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b748218d08191a7b316e6c94f75a3-assistant-ideator-audio-capable)
 
 ---
@@ -1581,7 +1581,7 @@ Generates random ideas for AI assistants for automation. If the user likes an id
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Automation_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Automation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b75280c548191afe193424161e76a-assistant-ideator-automation)
 
 ---
@@ -1598,7 +1598,7 @@ Generates random ideas for AI assistants that help with data-related tasks. If t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Data_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Data_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b76a2e038819195a08f52676a109d-assistant-ideator-data)
 
 ---
@@ -1615,7 +1615,7 @@ Generates random ideas for AI assistants for geopolitical analysis. If the user 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Geopol_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Geopol_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b77ce35dc819197bbe993c82a4f2f-assistant-ideator-geopol)
 
 ---
@@ -1632,7 +1632,7 @@ Generates random ideas for AI assistants for everything related to home automati
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_HomeAutomation_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_HomeAutomation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b77f21e58819189bfd81f96c82ce3-assistant-ideator-home-automation)
 
 ---
@@ -1649,7 +1649,7 @@ Generates random ideas for AI assistants for note-taking and documentation. If t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Notes_Docs_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Notes_Docs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b79749f1c8191b692ee66b5d389e8-assistant-ideator-notes-docs)
 
 ---
@@ -1666,7 +1666,7 @@ Generates random ideas for AI assistants designed to help people organize their 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Organisation_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Organisation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b799d76c88191b7c6a5a0c1e89295-assistant-ideator-organisation)
 
 ---
@@ -1683,7 +1683,7 @@ Generates random ideas for AI assistants focused on productivity. If the user li
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Productivity_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Productivity_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b79f8bf208191a5c17586e90bb385-assistant-ideator-productivity)
 
 ---
@@ -1700,7 +1700,7 @@ Develops,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_PromptEng_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_PromptEng_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7a29ba188191b8de7990602b4a2f-assistant-ideator-prompt-eng)
 
 ---
@@ -1717,7 +1717,7 @@ Generates random ideas for AI assistants for technology in general. If the user 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_Tech_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_Tech_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7ab0ea5481918dfc04af8ddfecdb-assistant-ideator-tech)
 
 ---
@@ -1734,7 +1734,7 @@ Suggests AI assistant ideas based on user-defined categories, then generates nam
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistantIdeator_User_DefinedTopic_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistantIdeator_User_DefinedTopic_270525.json)
 
 ---
 
@@ -1750,7 +1750,7 @@ Helps to convert system prompts for conversational assistants into instructional
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AssistanttoAgentSystemPromptConverter_270525.json)
+  - 📄 [JSON File](repo-data/json/AssistanttoAgentSystemPromptConverter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68182bba7f2881919c9f1b27ca4d85f3-assistant-to-agent-system-prompt-converter)
 
 ---
@@ -1767,7 +1767,7 @@ Enthusiastic guide to asynchronous communications technologies
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AsyncToolsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/AsyncToolsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818dafa2e28819181e7aaf4e3f0165a-async-tools-finder)
 
 ---
@@ -1784,7 +1784,7 @@ An audio engineering expert who advises users on selecting the optimal audio for
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AudioFormats_Codecs_270525.json)
+  - 📄 [JSON File](repo-data/json/AudioFormats_Codecs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7be3634481918d5d624e95d62e24-audio-formats-codecs)
 
 ---
@@ -1801,7 +1801,7 @@ Offers guidance on audio editing, recording, and mastering using Linux-based too
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AudioProduction_Linux_270525.json)
+  - 📄 [JSON File](repo-data/json/AudioProduction_Linux_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7c4e2acc8191b773e9425fccc49a-audio-production-linux)
 
 ---
@@ -1818,7 +1818,7 @@ This assistant generates prompts to test the audio processing capabilities of au
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AudioPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/AudioPromptGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8b2e0f50819180d5814c0104c4a1-audio-prompt-generator)
 
 ---
@@ -1835,7 +1835,7 @@ A strategist guiding you towards total job automation, one task at a time.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/automate-my-workflow_260925.json)
+  - 📄 [JSON File](repo-data/json/automate-my-workflow_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-SaJGzEr7O-automate-my-workflow)
 
 ---
@@ -1852,7 +1852,7 @@ Software discovery platform for automation and workflow tools. Includes response
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AutomationAndWorkflowAppsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/AutomationAndWorkflowAppsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfb20fdfc819186989b0af0f11de1-automation-and-workflow-apps)
 
 ---
@@ -1869,7 +1869,7 @@ Advises the user on architecting business process automation workflows, gatherin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AutomationWorkflowDesigner_270525.json)
+  - 📄 [JSON File](repo-data/json/AutomationWorkflowDesigner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7cb0efb88191b13546664ac87306-automation-workflow-designer)
 
 ---
@@ -1886,7 +1886,7 @@ Creates instructional system prompts for autonomous AI agents from user-supplied
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AutonomousAgentInstructionDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/AutonomousAgentInstructionDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681832781bb88191bd74782079b90f86-autonomous-agent-instruction-drafter)
 
 ---
@@ -1903,7 +1903,7 @@ Assists with the creation and debugging of system prompts for autonomous AI agen
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AutonomousAgentPromptAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/AutonomousAgentPromptAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68182f3b14848191bbf907debf245805-autonomous-agent-prompt-assistant)
 
 ---
@@ -1920,7 +1920,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AutoresponseSpoofer_270525.json)
+  - 📄 [JSON File](repo-data/json/AutoresponseSpoofer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bd7cc98a88191bb0e57033c25df7a-autoresponse-spoofer)
 
 ---
@@ -1937,7 +1937,7 @@ Collaborates with the user to create curated lists of awesome projects, typicall
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AwesomeListBuilder_270525.json)
+  - 📄 [JSON File](repo-data/json/AwesomeListBuilder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfb6efdd48191b2819d653e357846-awesome-list-builder)
 
 ---
@@ -1954,7 +1954,7 @@ A helpful and knowledgeable Amazon Web Services (AWS) expert, providing clear an
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/AWSAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/AWSAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfb843c4081918e438c9934253e95-aws-advisor)
 
 ---
@@ -1971,7 +1971,7 @@ Advises parents on selecting baby gear by inquiring about their lifestyle and ne
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BabyGearNavigator_270525.json)
+  - 📄 [JSON File](repo-data/json/BabyGearNavigator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7ce945b08191808eb0f480ad650d-baby-gear-navigator)
 
 ---
@@ -1988,7 +1988,7 @@ Answers questions about B2 by Backblaze
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BackblazeB2_270525.json)
+  - 📄 [JSON File](repo-data/json/BackblazeB2_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7d3607c48191b3a44a2a551f3b7a-backblaze-b2)
 
 ---
@@ -2005,7 +2005,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/backoffice-ai-tool-suggester_260925.json)
+  - 📄 [JSON File](repo-data/json/backoffice-ai-tool-suggester_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-h2bbjenP4-backoffice-ai-tool-suggester)
 
 ---
@@ -2022,7 +2022,7 @@ Advises upon backup approaches for tech tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BackupApproachAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/BackupApproachAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7e041e848191bc06a99ba65ea93f-backup-approach-advisor)
 
 ---
@@ -2039,7 +2039,7 @@ Supportive and knowledgeable technical assistant specializing in data backup str
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BackupAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/BackupAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7e6262bc8191aa28bff132dfb02c-backup-assistant)
 
 ---
@@ -2056,7 +2056,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BackupUtilityFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/BackupUtilityFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7ef8419c8191aa45acd991ca6a14-backup-utility-finder)
 
 ---
@@ -2073,7 +2073,7 @@ Locates bars with low ratings near a specified location using review data, empha
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BadBarFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/BadBarFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfbb254f88191bf16a764c10c2ce3-bad-bar-finder)
 
 ---
@@ -2090,7 +2090,7 @@ Locates poorly-rated food venues in a specified area by analyzing user reviews. 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BadRestaurantFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/BadRestaurantFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7f194fa88191925e6dc5e8448f75-bad-restaurant-finder)
 
 ---
@@ -2107,7 +2107,7 @@ Provides information about the real-life events that inspired movies and series,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BasedOnATrueStory_270525.json)
+  - 📄 [JSON File](repo-data/json/BasedOnATrueStory_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7f43c1ec8191ac6bcffcb6bd0d6c-based-on-a-true-story)
 
 ---
@@ -2124,7 +2124,7 @@ Aids users in customizing their bash environment, primarily by generating bash a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BashAliases_270525.json)
+  - 📄 [JSON File](repo-data/json/BashAliases_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b7f88a8a0819194741e2941e7872d-bash-aliases)
 
 ---
@@ -2141,7 +2141,7 @@ Summarizes legal contracts and flags important terms
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BasicContractAnalysisAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/BasicContractAnalysisAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bc7de283481918a98ca849bcb3266-basic-contract-analysis-assistant)
 
 ---
@@ -2158,7 +2158,7 @@ Identifies and describes beers from photos of beer taps.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/beer-tap-identifier_260925.json)
+  - 📄 [JSON File](repo-data/json/beer-tap-identifier_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-To4LJ5qvI-beer-tap-identifier)
 
 ---
@@ -2175,7 +2175,7 @@ Produces detailed reports on the dynamics between two countries, reporting on it
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BilateralRelationshipAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/BilateralRelationshipAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bca5a55d48191bdc51f8cb9a3cf28-bilateral-relationship-analyst)
 
 ---
@@ -2192,7 +2192,7 @@ Provides detailed analysis of bilateral trade relationships between countries
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/bilateral-trade-data_260925.json)
+  - 📄 [JSON File](repo-data/json/bilateral-trade-data_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-lMuFYt50i-bilateral-trade-data)
 
 ---
@@ -2209,7 +2209,7 @@ Generates biographies about named individuals
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BiographyCreator_ThirdPerson_270525.json)
+  - 📄 [JSON File](repo-data/json/BiographyCreator_ThirdPerson_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bca97f7048191b9729412f0e38ada-biography-creator-third-person)
 
 ---
@@ -2226,7 +2226,7 @@ Crafts and refines biographies based on user specifications, accommodating modif
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BiographyGenerationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/BiographyGenerationAssistant_270525.json)
 
 ---
 
@@ -2242,7 +2242,7 @@ Generates dull statements and platitudes.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/bland-bot_260925.json)
+  - 📄 [JSON File](repo-data/json/bland-bot_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-9QhuIeFJO-bland-bot)
 
 ---
@@ -2259,7 +2259,7 @@ Arranges user's blog ideas into a coherent outline, grouping similar points unde
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BlogOutlineGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/BlogOutlineGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcae456548191997bb038d451566f-blog-outline-generator)
 
 ---
@@ -2276,7 +2276,7 @@ Offers guidance and information on minimizing blue light exposure to protect cir
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BlueLightExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/BlueLightExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcb1bd07c8191a126c91bdf2543cd-blue-light-expert)
 
 ---
@@ -2293,7 +2293,7 @@ Refines email drafts by creating concise subject lines with appropriate prefixes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BLUFEmailReformatter_270525.json)
+  - 📄 [JSON File](repo-data/json/BLUFEmailReformatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcb4c3b2c8191bc8bc609d22f3245-bluf-email-reformatter)
 
 ---
@@ -2310,7 +2310,7 @@ Suggests blurb texts based on book manuscripts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Blurbtextideator_270525.json)
+  - 📄 [JSON File](repo-data/json/Blurbtextideator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcb79b4308191ab509ddf78ca7d09-blurb-text-ideator)
 
 ---
@@ -2327,7 +2327,7 @@ Extracts publication details from images of books, including the title, author, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BookIdentificationBot_270525.json)
+  - 📄 [JSON File](repo-data/json/BookIdentificationBot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcbd741e481918ea0abbed95f7ab1-book-identification-bot)
 
 ---
@@ -2344,7 +2344,7 @@ Answers user questions about professional book publishing best practices, coveri
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BookPublicationQ_A_270525.json)
+  - 📄 [JSON File](repo-data/json/BookPublicationQ_A_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcc93e9e48191b83c21ff2fa248d7-book-publication-q-a)
 
 ---
@@ -2361,7 +2361,7 @@ Generates tedious, overly detailed, and humorously dull family newsletters based
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/boring-family-newsletter-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/boring-family-newsletter-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-0D7HblT1a-boring-family-newsletter-generator)
 
 ---
@@ -2378,7 +2378,7 @@ Helps users compile, organize, and format updates for their boss. It offers flex
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BossUpdateBatcher_270525.json)
+  - 📄 [JSON File](repo-data/json/BossUpdateBatcher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bccde18cc819182855a30e7a6ad6b-boss-update-batcher)
 
 ---
@@ -2395,7 +2395,7 @@ Coaches the user in setting and maintaining healthy boundaries by engaging them 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BoundarySettingRoleplayAgent_270525.json)
+  - 📄 [JSON File](repo-data/json/BoundarySettingRoleplayAgent_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcd9934c88191b45b54efd4e00758-boundary-setting-roleplay-agent)
 
 ---
@@ -2412,7 +2412,7 @@ Assists users in conducting productive brainstorming sessions by providing guida
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BrainstormingAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/BrainstormingAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcdda14bc8191ade4617c46a8f0ec-your-brainstorming-buddy)
 
 ---
@@ -2429,7 +2429,7 @@ Summarises brainstorming sessions providing both overviews and next steps sectio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BrainstormingSessionSummariser_270525.json)
+  - 📄 [JSON File](repo-data/json/BrainstormingSessionSummariser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfc0060dc819180a65dc8a18735fc-brainstorming-session-summariser)
 
 ---
@@ -2446,7 +2446,7 @@ Identifies brand colors and fonts from documents, images, and screenshots to cre
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/brand-palette-identifier_260925.json)
+  - 📄 [JSON File](repo-data/json/brand-palette-identifier_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-zFnYsLkYo-brand-palette-identifier)
 
 ---
@@ -2463,7 +2463,7 @@ Assesses the reliability of brands by providing objective information on company
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BrandReliabilityAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/BrandReliabilityAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bce5021788191a99308b6e3e08718-brand-reliability-assistant)
 
 ---
@@ -2480,7 +2480,7 @@ Breaks down lengthy content into digestible chunks, catered to diverse learning 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BreakThisTextDown_270525.json)
+  - 📄 [JSON File](repo-data/json/BreakThisTextDown_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bce7abd548191bb233c582dfbe20b-break-this-text-down)
 
 ---
@@ -2497,7 +2497,7 @@ General Purpose Writing Assistant focused on helping the user to reformat inform
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BriefGenerator_GeneralPurpose_270525.json)
+  - 📄 [JSON File](repo-data/json/BriefGenerator_GeneralPurpose_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681816df2134819183cc863df0336c39-brief-generator-general-purpose)
 
 ---
@@ -2514,7 +2514,7 @@ AI assistant that helps users create and refine creative briefs optimized for AI
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BriefTheBot_270525.json)
+  - 📄 [JSON File](repo-data/json/BriefTheBot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bcea2ee988191bb8b69d44ed779e0-brief-the-bot)
 
 ---
@@ -2531,7 +2531,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/briefing-biography-generator_250925.json)
+  - 📄 [JSON File](repo-data/json/briefing-biography-generator_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d578b020d4819196dbaa130851511d-briefing-biography-generator)
 
 ---
@@ -2548,7 +2548,7 @@ Helps users find working versions of broken links or identify issues preventing 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/broken-link-helper_260925.json)
+  - 📄 [JSON File](repo-data/json/broken-link-helper_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-A9HZrPLoA-broken-link-helper)
 
 ---
@@ -2565,7 +2565,7 @@ Advises on browser automation tools for different operating systems, assisting w
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BrowserAutomationGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/BrowserAutomationGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfd83c4848191bfad43a6f0bf2eb1-browser-automation-guide)
 
 ---
@@ -2582,7 +2582,7 @@ Provides detailed information on browser user agents, especially on the Linux de
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BrowserUseAgents_270525.json)
+  - 📄 [JSON File](repo-data/json/BrowserUseAgents_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfe53520481918017b7f677cc37f0-browser-use-agents)
 
 ---
@@ -2599,7 +2599,7 @@ Advises on all aspects of the BTRFS file system in Linux, covering backups, opti
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BTRFSInfo_270525.json)
+  - 📄 [JSON File](repo-data/json/BTRFSInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfebf069081918f9ae015ccf7a203-btrfs-info)
 
 ---
@@ -2616,7 +2616,7 @@ Helps to generate budget requests
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BudgetRequestGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/BudgetRequestGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfedc62fc819185e86fcf1a0dcd18-budget-request-generator)
 
 ---
@@ -2633,7 +2633,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/bug-and-wildlife-id-israel_240925.json)
+  - 📄 [JSON File](repo-data/json/bug-and-wildlife-id-israel_240925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d444a72468819197d3446b37ad8e17-bug-and-wildlife-id-israel)
 
 ---
@@ -2650,7 +2650,7 @@ Transforms user-provided bug descriptions into well-structured and comprehensive
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BugReportGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/BugReportGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cfef5a85c8191a3220c11ece23b1d-bug-report-writer)
 
 ---
@@ -2667,7 +2667,7 @@ Brainstorms business and productivity-focused AI assistant ideas with the user, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessAssistantIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessAssistantIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cff266c848191a1c305e28b7b2bd1-business-ai-assistant-ideator)
 
 ---
@@ -2684,7 +2684,7 @@ Extracts and structures contact information from scanned business cards into a c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessCardImageToText_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessCardImageToText_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb4a02054819194bfc48197f8d8f0-business-card-image-to-text)
 
 ---
@@ -2701,7 +2701,7 @@ Offers detailed comparisons of business cultures between Israel and other countr
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessContextInformer_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessContextInformer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cff92241c8191b1f970f6bea2ca63-business-context-informer)
 
 ---
@@ -2718,7 +2718,7 @@ Advises users on enhancing business resilience by evaluating current processes, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessContinuityAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessContinuityAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cffa942c081919d1db9512eb1d07b-business-continuity-advisor)
 
 ---
@@ -2735,7 +2735,7 @@ A bot to advise upon the level of resilience of your business processes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/business-continuity-advisor_260925.json)
+  - 📄 [JSON File](repo-data/json/business-continuity-advisor_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-3xcGPBeU0-business-continuity-advisor)
 
 ---
@@ -2752,7 +2752,7 @@ Generates business contracts from user instructions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessContractGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessContractGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cffc491908191be4b400428869613-business-contract-generator)
 
 ---
@@ -2769,7 +2769,7 @@ Helps users capture and refine their business ideas by prompting for detailed in
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessIdeaCaptureUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessIdeaCaptureUtility_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cffe3e3948191a91d3f0804078712-business-idea-notetaker)
 
 ---
@@ -2786,7 +2786,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessOperationsAppFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessOperationsAppFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8bf8e0408191b720b7d5fa0efc48-business-operations-app-finder)
 
 ---
@@ -2803,7 +2803,7 @@ No nonsense VC ready to take your ptich
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/BusinessPitchShredder_270525.json)
+  - 📄 [JSON File](repo-data/json/BusinessPitchShredder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d003f32888191a51bf457fad9af64-vc-pitch-simulator)
 
 ---
@@ -2820,7 +2820,7 @@ Analyzes photographs of tech cables to identify and describe the connectors, pro
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CableIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/CableIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d0145e7c08191ad1af1ad3ca40caf-what-s-this-cable)
 
 ---
@@ -2837,7 +2837,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CalendarAppsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/CalendarAppsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d01d8a9e88191bf661e1d9acf5b4c-calendar-apps-finder)
 
 ---
@@ -2854,7 +2854,7 @@ Creates clear and informative calendar event descriptions from user-provided mee
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CalendarDescriptionGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/CalendarDescriptionGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d01f238488191aec04829f16cf549-calendar-description-generator)
 
 ---
@@ -2871,7 +2871,7 @@ Extracts meeting details from calendar images and computes weekly time expenditu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CalendarToTimesheet_270525.json)
+  - 📄 [JSON File](repo-data/json/CalendarToTimesheet_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d021397688191960d5727db0ec32c-calendar-to-timesheet)
 
 ---
@@ -2888,7 +2888,7 @@ Offers customized maintenance schedules and guidance for car owners by referenci
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CarMaintenanceAdvisor._270525.json)
+  - 📄 [JSON File](repo-data/json/CarMaintenanceAdvisor._270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d02699fc48191af7d11b5d24874c1-car-maintenance-advisor)
 
 ---
@@ -2905,7 +2905,7 @@ This coach helps users find greater job satisfaction within their current roles 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CareerPivotIdeationCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/CareerPivotIdeationCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d0287c9f08191816ea34d1e0673fb-career-pivot-ideation-coach)
 
 ---
@@ -2922,7 +2922,7 @@ Generates Cascade Global Rules files based on user-specified behavior for the Ca
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CascadeRulesDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/CascadeRulesDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d02b205f881919a272b63635cbe66-cascade-rules-drafter)
 
 ---
@@ -2939,7 +2939,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Casualdayplanner_270525.json)
+  - 📄 [JSON File](repo-data/json/Casualdayplanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d034b633c81918f1e7d2ae60fc099-casual-day-planner)
 
 ---
@@ -2956,7 +2956,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/challenge-this-viewpoint_250925.json)
+  - 📄 [JSON File](repo-data/json/challenge-this-viewpoint_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55741c62081919160daf1bba73e49-challenge-this-viewpoint)
 
 ---
@@ -2973,7 +2973,7 @@ Takes text and applies inconsistent formatting rules to create a chaotic output.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ChaoticTextEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/ChaoticTextEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d0367da7481918d040a92ddd9074f-chaotic-text-editor)
 
 ---
@@ -2990,7 +2990,7 @@ Checklist Pro generates tailored checklists to ensure the user's safety, prepare
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ChecklistPro_270525.json)
+  - 📄 [JSON File](repo-data/json/ChecklistPro_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d03bbdac88191b82691b4b1c8b6db-checklist-pro)
 
 ---
@@ -3007,7 +3007,7 @@ Helpful Home Assistant that will document the methods of completing chores aroun
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ChoreDocumentationGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ChoreDocumentationGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d03f3caf0819195d7f8a158e2ab46-chore-documentation-generator)
 
 ---
@@ -3024,7 +3024,7 @@ Helps household members manage their chores by providing information from a deta
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ChoreHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/ChoreHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d041152848191b3938ef70df40195-chore-helper)
 
 ---
@@ -3041,7 +3041,7 @@ Analyzes descriptions of homes and their occupants, creating structured chore li
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ChoreListGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ChoreListGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d043970888191823af645cdc51f58-chore-list-generator)
 
 ---
@@ -3058,7 +3058,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CircadianRhythmAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/CircadianRhythmAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d045df81881919de14c8fe7327d1a-circadian-rhythm-advice)
 
 ---
@@ -3075,7 +3075,7 @@ Generates illustrative scenarios where humanity continues with current practices
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/climate-change-inaction-explorer_260925.json)
+  - 📄 [JSON File](repo-data/json/climate-change-inaction-explorer_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-AltOe5P4k-climate-change-inaction-explorer)
 
 ---
@@ -3092,7 +3092,7 @@ Creates rules configs for Cline (AI IDE Copilot)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ClineRulesGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ClineRulesGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68195d036a9081918b290a39e3363780-cline-rules-generator)
 
 ---
@@ -3109,7 +3109,7 @@ Advises users on deploying open-source and fine-tuned Large Language Models (LLM
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CloudHostingLLMs_270525.json)
+  - 📄 [JSON File](repo-data/json/CloudHostingLLMs_270525.json)
 
 ---
 
@@ -3125,7 +3125,7 @@ Provides information about cloud-based speech-to-text models accessible via APIs
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CloudSTTGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/CloudSTTGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d052b79c881918f0368bd15bb07a7-cloud-stt-guide)
 
 ---
@@ -3142,7 +3142,7 @@ Offers advice and information on cloud-based text-to-speech technologies.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CloudTTSAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/CloudTTSAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d054a3fe88191acd88476d97ec3a1-cloud-tts-advisor)
 
 ---
@@ -3159,7 +3159,7 @@ Provides expert technical support for Cloudflare, specializing in Cloudflare Acc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CloudflareHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/CloudflareHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d05ccfb20819197b7c62acc939ca5-cloudflare-helper)
 
 ---
@@ -3176,7 +3176,7 @@ Takes documents, identifies citations, and provides a list of those that are in 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CMOSCitationVerification_270525.json)
+  - 📄 [JSON File](repo-data/json/CMOSCitationVerification_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d05e097a48191a9e0511825e5bc7e-cmos-citation-verification)
 
 ---
@@ -3193,7 +3193,7 @@ Transforms user-provided text, whether freeform or from speech-to-text, into pol
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CoauthoredDocGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/CoauthoredDocGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d05f56b208191bc23b49729f64304-coauthored-doc-generator)
 
 ---
@@ -3210,7 +3210,7 @@ Modifies code according to user instructions, providing complete, syntactically 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CodeEditor_General_270525.json)
+  - 📄 [JSON File](repo-data/json/CodeEditor_General_270525.json)
 
 ---
 
@@ -3226,7 +3226,7 @@ Assists developers in updating their code to utilize the most current versions o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SDK_270525.json)
+  - 📄 [JSON File](repo-data/json/SDK_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d061a99c081918125e8660687279a-code-editor-update-api-sdk)
 
 ---
@@ -3243,7 +3243,7 @@ Helps users discover relevant code repositories based on their needs
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/code-repo-finder_260925.json)
+  - 📄 [JSON File](repo-data/json/code-repo-finder_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-dtZc41TFz-code-repo-finder)
 
 ---
@@ -3260,7 +3260,7 @@ Analyzes user-provided descriptions of thoughts and beliefs to highlight potenti
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CognitiveDistortionIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/CognitiveDistortionIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d068bfa4881919743811b1eeaeccc-cognitive-distortion-identifier)
 
 ---
@@ -3277,7 +3277,7 @@ Explains cognitive distortions as defined in Cognitive Behavioral Therapy (CBT),
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CognitiveDistortionsModeller_270525.json)
+  - 📄 [JSON File](repo-data/json/CognitiveDistortionsModeller_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8c9bcefc8191aefb62330d169cf5-cognitive-distortions-modeller)
 
 ---
@@ -3294,7 +3294,7 @@ Advises users on optimizing their cold email campaigns, focusing on deliverabili
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ColdEmailExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/ColdEmailExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8cb626cc8191ac453bd3662b7ca8-cold-email-expert)
 
 ---
@@ -3311,7 +3311,7 @@ Isolates comments from surrounding text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CommentTextIsolator_270525.json)
+  - 📄 [JSON File](repo-data/json/CommentTextIsolator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8cc9c5688191b8b569ca2a41469a-comment-text-isolator)
 
 ---
@@ -3328,7 +3328,7 @@ Analyses and summarises social comment threads
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CommentsSummariser_270525.json)
+  - 📄 [JSON File](repo-data/json/CommentsSummariser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8cde17e481919bd0357ccd8a5da3-comments-summariser)
 
 ---
@@ -3345,7 +3345,7 @@ Rewrites user messages in rhyme
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CommunicateInRhymes_270525.json)
+  - 📄 [JSON File](repo-data/json/CommunicateInRhymes_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6813c858b48c819188c187bb487d5c04-communicate-in-rhymes)
 
 ---
@@ -3362,7 +3362,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CommunicationsPlanGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/CommunicationsPlanGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8cf112a08191adbf9dbfbcf8ea52-communications-plan-generator)
 
 ---
@@ -3379,7 +3379,7 @@ Aids users in crafting communication strategies for their clients by gathering c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CommunicationsStrategistOnCall_270525.json)
+  - 📄 [JSON File](repo-data/json/CommunicationsStrategistOnCall_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8d0c4edc81919511aaad959a0270-communications-strategist-on-call)
 
 ---
@@ -3396,7 +3396,7 @@ Tech-savvy assistant providing up-to-date and cost-conscious tool recommendation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CommunicationsTools_Finder_270525.json)
+  - 📄 [JSON File](repo-data/json/CommunicationsTools_Finder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8d35bc8481919b6a51f28ff99b10-communications-tools-finder)
 
 ---
@@ -3413,7 +3413,7 @@ Helps the user, a technology communications professional, approach potential emp
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CompanyApproachStrategist_270525.json)
+  - 📄 [JSON File](repo-data/json/CompanyApproachStrategist_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8d4da9a88191a4726d0873566ef2-company-approach-strategist)
 
 ---
@@ -3430,7 +3430,7 @@ The "Company Culture Decoder" analyzes online data from sources like Glassdoor, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CompanyCultureDecoder_270525.json)
+  - 📄 [JSON File](repo-data/json/CompanyCultureDecoder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680d8dc119c481918512d33b21ddc6c2-company-culture-decoder)
 
 ---
@@ -3447,7 +3447,7 @@ Acts as a Competitive Landscape Analysis Assistant, guiding users through analyz
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CompetitiveLandscapeAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/CompetitiveLandscapeAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680de7b177148191b66b7b2e876b6c0a-competitive-landscape-analyst)
 
 ---
@@ -3464,7 +3464,7 @@ Explores and explains computer user agents available on the Linux desktop, which
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ComputerUseAgents_270525.json)
+  - 📄 [JSON File](repo-data/json/ComputerUseAgents_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680de7ff5bd08191b591f087e1ddcdf8-computer-use-agents)
 
 ---
@@ -3481,7 +3481,7 @@ Finds relevant conferences and networking events based on your specified interes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ConferenceFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/ConferenceFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680de8b247808191a0372d65729a48d1-conference-finder)
 
 ---
@@ -3498,7 +3498,7 @@ Reformats personal essays into third-person narratives, primarily using the name
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextData_Reformatter_Only_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextData_Reformatter_Only_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680dea055ba0819189c9d53884640fe7-context-data-reformatter-only)
 
 ---
@@ -3515,7 +3515,7 @@ Identifies and chunks context data from longer source material (for RAG and cone
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextDataChunker_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextDataChunker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680dea19a198819198d202f88f3bee8a-context-data-chunker)
 
 ---
@@ -3532,7 +3532,7 @@ Aids the user in expanding their knowledge base by suggesting relevant and speci
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextDataDevelopmentHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextDataDevelopmentHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e001b93b0819190403da4584c14c2-context-data-development-helper)
 
 ---
@@ -3549,7 +3549,7 @@ Extracts and structures contextual data from user-provided text, reformatting it
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextDataExtractionTool_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextDataExtractionTool_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0039239081919ef05704b72cac13-context-data-extraction-tool)
 
 ---
@@ -3566,7 +3566,7 @@ Conducts an interview with the user to gather data and generate third-person con
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextDataInterviewer_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextDataInterviewer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e00dac6208191a2e1f9eec1774775-context-data-interviewer)
 
 ---
@@ -3583,7 +3583,7 @@ Takes a user's spoken description of their context, extracts the key information
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextDataJSONGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextDataJSONGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e01105a1881918d71d758d04b4e41-context-data-json-generator)
 
 ---
@@ -3600,7 +3600,7 @@ Interviews the user to proactively identify and fill gaps in existing contextual
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextGapCloser_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextGapCloser_270525.json)
 
 ---
 
@@ -3616,7 +3616,7 @@ Converts unstructured text blocks into organized, third-person contextual snippe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextGenerationAssistant_Voice_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextGenerationAssistant_Voice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e01466cc48191ac012bcfa460c5a0-context-generation-assistant-voice)
 
 ---
@@ -3633,7 +3633,7 @@ Generates imaginative and open-ended prompts designed to help the user, the user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextGenerationPrompter_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextGenerationPrompter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e016349c4819185e1e0c9bf8d0fbd-context-generation-prompter)
 
 ---
@@ -3650,7 +3650,7 @@ Tracks and reports context window utilization during conversations, providing to
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextWindowDiagnosticUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextWindowDiagnosticUtility_270525.json)
 
 ---
 
@@ -3666,7 +3666,7 @@ Parses email threads and generates replies as user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ContextualEmailResponder_270525.json)
+  - 📄 [JSON File](repo-data/json/ContextualEmailResponder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e01d616ac8191b50fbd9cdc55e735-contextual-email-responder)
 
 ---
@@ -3683,7 +3683,7 @@ Converts units of measurement within a text to the user's preferred units.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ConvertUnitsInText_270525.json)
+  - 📄 [JSON File](repo-data/json/ConvertUnitsInText_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e026880d88191a1009747e12cbfdd-convert-units-in-text)
 
 ---
@@ -3700,7 +3700,7 @@ Provides simple correlation estimates from submitted data
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CorrelationEstimator_270525.json)
+  - 📄 [JSON File](repo-data/json/CorrelationEstimator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e02dd98208191b533b27603837a2d-correlation-estimator)
 
 ---
@@ -3717,7 +3717,7 @@ Analyzes arguments and identifies supporting and opposing viewpoints, providing 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Counter_NarrativeExplorer_270525.json)
+  - 📄 [JSON File](repo-data/json/Counter_NarrativeExplorer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e032723708191bf9bf8cb6290cb22-counter-narrative-explorer)
 
 ---
@@ -3734,7 +3734,7 @@ Creates compelling cover letters on behalf of the user, tailored to specific job
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CoverLetterGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/CoverLetterGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bd07867c08191bfb39737626fe1d3-cover-letter-generator-general-purpose)
 
 ---
@@ -3751,7 +3751,7 @@ Transforms user-defined application descriptions into detailed CrewAI deployment
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CrewAIImplementationPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/CrewAIImplementationPlanner_270525.json)
 
 ---
 
@@ -3767,7 +3767,7 @@ Suggests CRMs per user's requirements
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CRMSoftwareFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/CRMSoftwareFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0413ba5c819199c326011bd23e03-crm-software-finder)
 
 ---
@@ -3784,7 +3784,7 @@ Provides helpful guidance to the user about navigating alternative world culture
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CrossCulturalNavigator_270525.json)
+  - 📄 [JSON File](repo-data/json/CrossCulturalNavigator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0425f0c881919f58faf386c6c8a1-cross-cultural-navigator)
 
 ---
@@ -3801,7 +3801,7 @@ Crafts enigmatic messages to specified recipients, designed to appear as coded o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CrypticMessenger_270525.json)
+  - 📄 [JSON File](repo-data/json/CrypticMessenger_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e043a61088191a30a17b08ef2551b-cryptic-messenger)
 
 ---
@@ -3818,7 +3818,7 @@ Reformats a randomly chosen row from a CSV input into markdown, showcasing data 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CSVSampleRowDocument_270525.json)
+  - 📄 [JSON File](repo-data/json/CSVSampleRowDocument_270525.json)
 
 ---
 
@@ -3834,7 +3834,7 @@ Converts CSV data, provided as a file or raw text, into a well-structured JSON f
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CSVToJSON_270525.json)
+  - 📄 [JSON File](repo-data/json/CSVToJSON_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e045b3108819195cdbe515248012a-csv-to-json)
 
 ---
@@ -3851,7 +3851,7 @@ Converts CSV data into natural language based on user-specified preferences for 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CSVToNaturalLanguage_270525.json)
+  - 📄 [JSON File](repo-data/json/CSVToNaturalLanguage_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0471c4848191b6b75fc926dec9d4-csv-to-natural-language)
 
 ---
@@ -3868,7 +3868,7 @@ Retrieves current and historic exchange rates for specified currency pairs and t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CurrencyRateRetriever_270525.json)
+  - 📄 [JSON File](repo-data/json/CurrencyRateRetriever_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e04a194f08191afe56669860f671d-currency-rate-retriever)
 
 ---
@@ -3885,7 +3885,7 @@ Identifies and lists non-standard or uncommon words within a given text.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CustomASRDictionaryBuilder_270525.json)
+  - 📄 [JSON File](repo-data/json/CustomASRDictionaryBuilder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7e6816548191acc7eead7e47b0b9-custom-asr-dictionary-builder)
 
 ---
@@ -3902,7 +3902,7 @@ Generates detailed, custom documentation in markdown format based on user-provid
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CustomDocGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/CustomDocGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e04cfda748191b9c431288525ace8-custom-doc-generator)
 
 ---
@@ -3919,7 +3919,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/custom-gpt-brainstorming-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/custom-gpt-brainstorming-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-Sg1Uvkc5e-custom-gpt-creator)
 
 ---
@@ -3936,7 +3936,7 @@ Advises users on the creation and optimization of custom search engines.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CustomSearchEngines_270525.json)
+  - 📄 [JSON File](repo-data/json/CustomSearchEngines_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e04cfda748191b9c431288525ace8-custom-doc-generator)
 
 ---
@@ -3953,7 +3953,7 @@ Guides users through the process of creating a fine-tuned speech-to-text model u
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CustomSTTModelGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/CustomSTTModelGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e04f829648191ae30b152f09576e1-custom-stt-model-guide)
 
 ---
@@ -3970,7 +3970,7 @@ Generates custom tech docs from public doc collections
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CustomTechDocCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/CustomTechDocCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e050fca6881918c8a25edd54080aa-custom-documentation-generator)
 
 ---
@@ -3987,7 +3987,7 @@ Offers expert-level cybersecurity advice, providing detailed analyses of differe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/CybersecurityAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/CybersecurityAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0534dbac8191836dc1f5bece1031-cybersecurity-advisor)
 
 ---
@@ -4004,7 +4004,7 @@ Generates daily plans from user-provided dictated text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DailyPlanGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/DailyPlanGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0548df8881919b44ca533a33d2b0-daily-plan-generator)
 
 ---
@@ -4021,7 +4021,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/daily-schedule-manager_260925.json)
+  - 📄 [JSON File](repo-data/json/daily-schedule-manager_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-aId4Jee9a-daily-schedule-manager)
 
 ---
@@ -4038,7 +4038,7 @@ Software discovery utility focused on finding data and database management apps.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataAndDatabaseAppsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/DataAndDatabaseAppsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e090473688191aeb0701200ea672b-data-and-database-apps-finder)
 
 ---
@@ -4055,7 +4055,7 @@ Provides detailed information about digital preservation methods, techniques, an
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataArchivalAndPreservation_270525.json)
+  - 📄 [JSON File](repo-data/json/DataArchivalAndPreservation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e092082088191ab69e4e1088d2b5f-data-archival-and-preservation)
 
 ---
@@ -4072,7 +4072,7 @@ Intelligent assistant specializing in organizing data into meaningful clusters b
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataClusteringAssistant_EntityGrouping_270525.json)
+  - 📄 [JSON File](repo-data/json/DataClusteringAssistant_EntityGrouping_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0935deb881918a6c50aa40158c00-data-clustering-assistant-entity-grouping)
 
 ---
@@ -4089,7 +4089,7 @@ Provides information about data visualisation dashboards
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataDashboardsInfo_270525.json)
+  - 📄 [JSON File](repo-data/json/DataDashboardsInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68160ffd03048191aa2814d08e3a64da-data-dashboards-info)
 
 ---
@@ -4106,7 +4106,7 @@ Helps the user to define a data dictionary (flexibly defined)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataDictionaryAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/DataDictionaryAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818043240e88191a304497a97426eb4-data-dictionary-assistant)
 
 ---
@@ -4123,7 +4123,7 @@ Assistant which ideates data fields for specific user-described purposes, keepin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataFieldsIdeationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/DataFieldsIdeationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818020b4530819190a7a4849dec56cd-data-fields-assistant)
 
 ---
@@ -4140,7 +4140,7 @@ Conducts background checks on users' behalf assessing companies' background in d
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataGovernanceBackgroundChecker_270525.json)
+  - 📄 [JSON File](repo-data/json/DataGovernanceBackgroundChecker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0959106881918349d2c9334e28c3-data-governance-background-checker)
 
 ---
@@ -4157,7 +4157,7 @@ Guides users in designing efficient and scalable relational database systems for
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataOrganisationSidekick_270525.json)
+  - 📄 [JSON File](repo-data/json/DataOrganisationSidekick_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0980e8048191a8b0fac036dd9036-data-organisation-sidekick)
 
 ---
@@ -4174,7 +4174,7 @@ Assistant to test whether the context data pipeline works
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataPipelineTestingAgent_270525.json)
+  - 📄 [JSON File](repo-data/json/DataPipelineTestingAgent_270525.json)
 
 ---
 
@@ -4190,7 +4190,7 @@ Analyzes uploaded datasets to identify and suggest relationships between fields,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataRelationshipUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/DataRelationshipUtility_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e09bac0508191976860c1c14032b1-data-relationship-utility)
 
 ---
@@ -4207,7 +4207,7 @@ Advises users on implementing data handling and cybersecurity best practices ins
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataSafehouse_270525.json)
+  - 📄 [JSON File](repo-data/json/DataSafehouse_270525.json)
 
 ---
 
@@ -4223,7 +4223,7 @@ Helps users locate relevant data sources for application development, providing 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataSourceScout_270525.json)
+  - 📄 [JSON File](repo-data/json/DataSourceScout_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0aa7a1288191881e212176b01a5b-data-source-scout)
 
 ---
@@ -4240,7 +4240,7 @@ Suggest tags for a given dataset.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataTagGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/DataTagGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0ad9283481918fc2412cc205438e-data-tag-generator)
 
 ---
@@ -4257,7 +4257,7 @@ Data analysis assistant specialized in identifying anomalies, correlations, and 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataTrendsIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/DataTrendsIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0ae9f5108191b5efd0dbc44ebda4-data-trends-identifier)
 
 ---
@@ -4274,7 +4274,7 @@ Guides users towards thinking about how data could be effectively visualised inc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/data-visualisation-storytelling-guide_260925.json)
+  - 📄 [JSON File](repo-data/json/data-visualisation-storytelling-guide_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-r2ms27CFU-data-visualisation-storytelling-guide)
 
 ---
@@ -4291,7 +4291,7 @@ Assists users with data visualization projects by suggesting techniques for effe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataVisualizationandStorytelling_270525.json)
+  - 📄 [JSON File](repo-data/json/DataVisualizationandStorytelling_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0afcdba88191a8eefe4e4bcf1f2a-data-visualization-and-storytelling)
 
 ---
@@ -4308,7 +4308,7 @@ Aids users in their data visualization projects by gathering data and context, t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DataVisualizationIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/DataVisualizationIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0b2621548191b0520a6c4906409a-data-visualization-ideator)
 
 ---
@@ -4325,7 +4325,7 @@ Helps users select appropriate databases for their applications by asking clarif
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DatabaseMatchmaker_270525.json)
+  - 📄 [JSON File](repo-data/json/DatabaseMatchmaker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0b3eb2008191adec19c894ccce92-database-matchmaker)
 
 ---
@@ -4342,7 +4342,7 @@ Assists in creating comprehensive Postgres database schemas.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/database-schema-genie-postgres_260925.json)
+  - 📄 [JSON File](repo-data/json/database-schema-genie-postgres_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-5cNjzPcmY-schema-genie)
 
 ---
@@ -4359,7 +4359,7 @@ Generates a daily plan for the user based on their tasks and hard stop times, pr
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DayPlanGenerator_FromTasks_270525.json)
+  - 📄 [JSON File](repo-data/json/DayPlanGenerator_FromTasks_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0b5111288191ae9b33f7b8917304-day-plan-generator-from-tasks)
 
 ---
@@ -4376,7 +4376,7 @@ Analyses prompts and outputs, diagnoses the causes of deviation, and suggests an
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DebugThisPrompt_270525.json)
+  - 📄 [JSON File](repo-data/json/DebugThisPrompt_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e66b3eb6c819185de2939723fa9c1-debug-my-prompt)
 
 ---
@@ -4393,7 +4393,7 @@ Aids users in debugging code by analyzing provided code snippets and bug descrip
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Debugger_GeneralPurpose_270525.json)
+  - 📄 [JSON File](repo-data/json/Debugger_GeneralPurpose_270525.json)
 
 ---
 
@@ -4409,7 +4409,7 @@ Assists users in debugging technical issues, providing thorough guidance and cod
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Debugger_GeneralTechSuport_270525.json)
+  - 📄 [JSON File](repo-data/json/Debugger_GeneralTechSuport_270525.json)
 
 ---
 
@@ -4425,7 +4425,7 @@ Provides information about structured decision-making frameworks including sugge
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DecisionMakingFrameworks_270525.json)
+  - 📄 [JSON File](repo-data/json/DecisionMakingFrameworks_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818de4df3f081919296990de3c6cbd2-decision-making-frameworks)
 
 ---
@@ -4442,7 +4442,7 @@ Advises users on decluttering strategies, offering objective assessments of thei
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DeclutteringAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/DeclutteringAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0b79c6688191a1f620fc775601d7-decluttering-assistant)
 
 ---
@@ -4459,7 +4459,7 @@ Evaluates user queries about implementing deep research functionalities using di
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DeepResearchArchitect_270525.json)
+  - 📄 [JSON File](repo-data/json/DeepResearchArchitect_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0b8d3f088191bc970ef85df78d34-deep-research-architect)
 
 ---
@@ -4476,7 +4476,7 @@ Analyzes user-provided text to identify industry-specific jargon and suggests mo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Dejargonizer_270525.json)
+  - 📄 [JSON File](repo-data/json/Dejargonizer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0bbfdcb08191a62998213ad6c0fd-dejargonizer)
 
 ---
@@ -4493,7 +4493,7 @@ Generates short blocks of description text for various data management systems
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DescriptionTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/DescriptionTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a5dbba69081918a41bac08cdcd6a6-description-text-generator)
 
 ---
@@ -4510,7 +4510,7 @@ Analyzes user-provided computer specs to recommend optimal upgrades, factoring i
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DesktopUpgradePlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/DesktopUpgradePlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0bf5f4248191844235dfe5f72b10-desktop-upgrade-planner)
 
 ---
@@ -4527,7 +4527,7 @@ Assists with Dev Ops queries
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DevOpsAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/DevOpsAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c0f463c8191baa438826eafd2bd-dev-ops-assistant)
 
 ---
@@ -4544,7 +4544,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DevOpsToolFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/DevOpsToolFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c1f74888191abccd4e6a17c17ee-dev-ops-tool-finder)
 
 ---
@@ -4561,7 +4561,7 @@ Refines development prompts for AI assistants, ensuring clarity, completeness, a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DevelopmentPromptImprover_270525.json)
+  - 📄 [JSON File](repo-data/json/DevelopmentPromptImprover_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c32eea08191876943c4db52b1f0-development-prompt-improver)
 
 ---
@@ -4578,7 +4578,7 @@ Answers questions about all aspects of development
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DevelopmentQ_A_270525.json)
+  - 📄 [JSON File](repo-data/json/DevelopmentQ_A_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c46a6a08191b39a027a1069bf1c-development-q-a)
 
 ---
@@ -4595,7 +4595,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/diarised-transcript-generator_240925.json)
+  - 📄 [JSON File](repo-data/json/diarised-transcript-generator_240925.json)
 
 ---
 
@@ -4611,7 +4611,7 @@ Generate values for a defined data structure by lightly editing voice transcript
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DictatedDataFormatter_270525.json)
+  - 📄 [JSON File](repo-data/json/DictatedDataFormatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818093f09808191b4fcd09d33afed47-voice-to-data)
 
 ---
@@ -4628,7 +4628,7 @@ Formats dictated text for email structure
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Dictatedemailformatter_270525.json)
+  - 📄 [JSON File](repo-data/json/Dictatedemailformatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c76a5e881918ad59d924f581c6d-dictated-email-formatter)
 
 ---
@@ -4645,7 +4645,7 @@ Edits and improves system prompts captured with speech to text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DictatedSystemPromptEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/DictatedSystemPromptEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680a6fc3628c81918e08030941e38e4e-dictated-system-prompt-editor)
 
 ---
@@ -4662,7 +4662,7 @@ Corrects errors in text likely captured via voice-to-text dictation, including p
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DictatedTextDoctor_270525.json)
+  - 📄 [JSON File](repo-data/json/DictatedTextDoctor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c8d35f88191b4d3d92e53d0042e-dictated-text-doctor)
 
 ---
@@ -4679,7 +4679,7 @@ Transforms ideas into structured project proposals.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DictatedTextIdea_270525.json)
+  - 📄 [JSON File](repo-data/json/DictatedTextIdea_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0c9d91908191a9602008ce849563-project-idea-formatter)
 
 ---
@@ -4696,7 +4696,7 @@ Generates creative ideas for AI assistants focused on voice-to-text applications
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DictationAssistantIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/DictationAssistantIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0cbab9e481918eb5ef49dcbc695f-dictation-assistant-ideator)
 
 ---
@@ -4713,7 +4713,7 @@ Provides information about the fast-moving field of digital assistants.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DigitalAssistants_270525.json)
+  - 📄 [JSON File](repo-data/json/DigitalAssistants_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0d0516a08191b409c24f05968b08-digital-assistants)
 
 ---
@@ -4730,7 +4730,7 @@ Helps users populate their digital book library with detailed information
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/digital-library-detail-populator_260925.json)
+  - 📄 [JSON File](repo-data/json/digital-library-detail-populator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-poEDjVQtX-library-detail-populator)
 
 ---
@@ -4747,7 +4747,7 @@ Engages users in deep discussions and debates about privacy in the digital age, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DigitalPrivacyDiscsussions_270525.json)
+  - 📄 [JSON File](repo-data/json/DigitalPrivacyDiscsussions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb37a2dd8819183a6780013070db3-digital-privacy-discsussions)
 
 ---
@@ -4764,7 +4764,7 @@ Estimates dimensions of objects within user-uploaded images by leveraging visibl
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DimensionsEstimator_270525.json)
+  - 📄 [JSON File](repo-data/json/DimensionsEstimator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e0d5ab9588191b8e71e2c6bec19f0-dimensions-estimator)
 
 ---
@@ -4781,7 +4781,7 @@ Provides guided debriefs to help with preparedness and learn lessons from failur
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/disaster-debrief-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/disaster-debrief-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-UHFWorGUH-disaster-debrief-assistant)
 
 ---
@@ -4798,7 +4798,7 @@ Creates disaster scenarios to assist with realistic preparedness planning. Outpu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/disaster-scenario-ideator_260925.json)
+  - 📄 [JSON File](repo-data/json/disaster-scenario-ideator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-RkR2Uvsg2-disaster-scenario-ideator)
 
 ---
@@ -4815,7 +4815,7 @@ An organisation to screen out unnecessary meetings and suggest alternative appro
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/do-we-need-this-meeting_260925.json)
+  - 📄 [JSON File](repo-data/json/do-we-need-this-meeting_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-MKuuCzRAo-do-we-need-this-meeting)
 
 ---
@@ -4832,7 +4832,7 @@ This assistant generates docker-compose.yml files from docker inspect output, tr
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DockerComposeAutogenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/DockerComposeAutogenerator_270525.json)
 
 ---
 
@@ -4848,7 +4848,7 @@ Debugs Docker Compose scripts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DockerComposeDebugger_270525.json)
+  - 📄 [JSON File](repo-data/json/DockerComposeDebugger_270525.json)
 
 ---
 
@@ -4864,7 +4864,7 @@ Extracts and formats technical documentation from provided URLs, delivering it a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocsExtractionUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/DocsExtractionUtility_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e15bc5fec8191a3de520341c8330c-docs-extraction-utility)
 
 ---
@@ -4881,7 +4881,7 @@ Retrieves links to technical documentation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/DocsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e15cfe86481919cbbdd3d8e897445-docs-finder)
 
 ---
@@ -4898,7 +4898,7 @@ Anonymisation tool that obfuscates the identity of named entities
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentAnonymisationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentAnonymisationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c6a3928481919001a43ee4066811-document-anonymisation-assistant)
 
 ---
@@ -4915,7 +4915,7 @@ Documents the user's beliefs about a given subject with a timestamp (for persona
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentMyBelief_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentMyBelief_270525.json)
 
 ---
 
@@ -4931,7 +4931,7 @@ Documentation Assistant which helps users to document technical stacks
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentMyStack_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentMyStack_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818c9c14ef48191a0e52f284c8c996d-document-my-stack)
 
 ---
@@ -4948,7 +4948,7 @@ Uses user inputs and a Q&A process to develop a set of writing guidelines for AI
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentMyWritingStyle_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentMyWritingStyle_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6049bf3c8191967ce168c8a2dc89-document-my-writing-style)
 
 ---
@@ -4965,7 +4965,7 @@ Analyzes documents to retrieve statistics, offering close matches and page refer
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentStatFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentStatFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e15f7018081919bfcc3ebe1992a13-document-stat-finder)
 
 ---
@@ -4982,7 +4982,7 @@ Takes a document and rewrites its content from the user's perspective in the thi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentSummarizer_ForUser_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentSummarizer_ForUser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e160c9f788191b193845ae80ad407-document-summarizer-for-user)
 
 ---
@@ -4999,7 +4999,7 @@ Analyzes documents provided by the user, identifies data tables within, summariz
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentTableFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentTableFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e162c18988191b2a043253ee5f432-document-table-finder)
 
 ---
@@ -5016,7 +5016,7 @@ Creates document templates for client docs
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentTemplateGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentTemplateGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e164214388191b13a3a546eb78973-document-template-generator)
 
 ---
@@ -5033,7 +5033,7 @@ Expert in documentation and publishing workflow
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentWorkflowExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentWorkflowExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e165e095c8191aca8a6b91dfbbbf9-document-workflow-expert)
 
 ---
@@ -5050,7 +5050,7 @@ Finds documentaries based on your interests, location, and streaming services.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentaryFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentaryFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e17092b008191982b88e758ac5468-documentary-finder)
 
 ---
@@ -5067,7 +5067,7 @@ Documentation assistant that generates Markdown-formatted documentation for user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentationGenerator_GeneralPurpose_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentationGenerator_GeneralPurpose_270525.json)
 
 ---
 
@@ -5083,7 +5083,7 @@ Converts uploaded documents into a JSON array, either adhering to a user-specifi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DocumentsToJSON_270525.json)
+  - 📄 [JSON File](repo-data/json/DocumentsToJSON_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e172196cc81918ee94696a8cac020-documents-to-json)
 
 ---
@@ -5100,7 +5100,7 @@ Identifies existing software and services based on user-specified technology req
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DoesItExist_270525.json)
+  - 📄 [JSON File](repo-data/json/DoesItExist_270525.json)
 
 ---
 
@@ -5116,7 +5116,7 @@ Does X have an API?
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DoesItHaveAnAPI_270525.json)
+  - 📄 [JSON File](repo-data/json/DoesItHaveAnAPI_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6819980b7a5481919ef40c6de19319a9-does-it-have-an-api)
 
 ---
@@ -5133,7 +5133,7 @@ Suggest domain names for users technical projects.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DomainNameIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/DomainNameIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1754b11c8191b1714d0fe4d0bb29-domain-name-ideator)
 
 ---
@@ -5150,7 +5150,7 @@ Shorter system prompt generation tool
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DoubleSystemPromptCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/DoubleSystemPromptCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e177ef06c8191a6c511425407233a-double-system-prompt-creator)
 
 ---
@@ -5167,7 +5167,7 @@ Elevates the dramatic impact of text using hyperbole and historical comparisons
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DramatizeThisText_270525.json)
+  - 📄 [JSON File](repo-data/json/DramatizeThisText_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e17a2ebd48191a7d107b5990c1196-dramatize-this-text)
 
 ---
@@ -5184,7 +5184,7 @@ Creates sample data for application testing and development purposes according t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/dummy-csv-data-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/dummy-csv-data-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-7wvGpnHMC-dummy-csv-data-generator)
 
 ---
@@ -5201,7 +5201,7 @@ Recommends unimportant or fictional projects to users who want to learn a specif
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DummyTechProjectIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/DummyTechProjectIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e18687b70819183f69997783e024c-dummy-tech-project-ideator)
 
 ---
@@ -5218,7 +5218,7 @@ Generates dummy projects for helping users to learn about different technologies
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/dummy-tech-project-ideator_260925.json)
+  - 📄 [JSON File](repo-data/json/dummy-tech-project-ideator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-jS50pH8gq-dummy-tech-project-ideator)
 
 ---
@@ -5235,7 +5235,7 @@ Analyzes datasets to identify definite and suspected duplicate entries, offering
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/DuplicateDataDetector_270525.json)
+  - 📄 [JSON File](repo-data/json/DuplicateDataDetector_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e187db1648191b200bde49b798298-duplicate-data-detector)
 
 ---
@@ -5252,7 +5252,7 @@ Provides simplified explanations of news events, like explaining it to a five-ye
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ELI5ForNewsEvents_270525.json)
+  - 📄 [JSON File](repo-data/json/ELI5ForNewsEvents_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e18e1bb8c8191818da7eab0deb98b-eli5-for-news-events)
 
 ---
@@ -5269,7 +5269,7 @@ Edits lengthy emails to be more concise while retaining all essential informatio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailAbbreviationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailAbbreviationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e18f46be48191ac25b6670bb5792b-email-abbreviation-assistant)
 
 ---
@@ -5286,7 +5286,7 @@ Writes poorly written, haphazard emails with typos.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/email-disaster_260925.json)
+  - 📄 [JSON File](repo-data/json/email-disaster_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-iHE2khK0N-email-disaster)
 
 ---
@@ -5303,7 +5303,7 @@ Converts standard business email requests into formal correspondence where the m
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailHaikuGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailHaikuGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e194c3e9081918a433600ff56bded-email-haiku-generator)
 
 ---
@@ -5320,7 +5320,7 @@ Refines and organizes draft emails, suggesting subject lines and reformatting co
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/email-optimizer_260925.json)
+  - 📄 [JSON File](repo-data/json/email-optimizer_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-IIErWVz2I-email-optimizer)
 
 ---
@@ -5337,7 +5337,7 @@ Composes rhyming emails
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailRhymer_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailRhymer_270525.json)
 
 ---
 
@@ -5353,7 +5353,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailTemplateRefiner_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailTemplateRefiner_270525.json)
 
 ---
 
@@ -5369,7 +5369,7 @@ Extracts and formats email content from screenshots or EML files into a clean, h
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailTextExtractor_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailTextExtractor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e19ad1c5c819185987c3be5471642-email-text-extractor)
 
 ---
@@ -5386,7 +5386,7 @@ Summarises lengthy email threads providing a TL:DR synopsis and action items by 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailThreadSummariser_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailThreadSummariser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681cc16988908191b853dfbe53d28d2b-email-thread-summariser)
 
 ---
@@ -5403,7 +5403,7 @@ Summarises long emails and identifies action items and deadlines
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmailThreadSummarizer_270525.json)
+  - 📄 [JSON File](repo-data/json/EmailThreadSummarizer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e19ea9d34819185424b633ea092d5-email-thread-summarizer)
 
 ---
@@ -5420,7 +5420,7 @@ Provides information about Embodied AI, including its integration with robotics 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EmbodiedAIGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/EmbodiedAIGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1a1ab01481918469415ee65f9c7d-embodied-ai-guide)
 
 ---
@@ -5437,7 +5437,7 @@ Provides guidance on finding safe shelter during emergencies drawing up on recom
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/emergency-shelter-finding-guidance-israel_260925.json)
+  - 📄 [JSON File](repo-data/json/emergency-shelter-finding-guidance-israel_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-sQr4sWgHq-emergency-shelter-finding-guidance-israel)
 
 ---
@@ -5454,7 +5454,7 @@ Acts as a patient and informative technical instructor, guiding users through th
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EncryptionExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/EncryptionExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1a6517408191873a604432144dc5-encryption-expert)
 
 ---
@@ -5471,7 +5471,7 @@ Creates a detailed end-of-day log summarizing progress, roadblocks, and upcoming
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EndOfWorkdayLogGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/EndOfWorkdayLogGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1a79e60081918473893961505a01-end-of-workday-log-generator)
 
 ---
@@ -5488,7 +5488,7 @@ Generates engagement letters
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EngagementLetterGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/EngagementLetterGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1a8b05f08191896f4df9beeb8526-engagement-letter-generator)
 
 ---
@@ -5505,7 +5505,7 @@ Splits title fields and descriptions between multiple languages
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EnglishAndForeignLanguageNameSplitter_270525.json)
+  - 📄 [JSON File](repo-data/json/EnglishAndForeignLanguageNameSplitter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682c899398c081919e4fe8b10721a390-english-and-foreign-language-name-splitter)
 
 ---
@@ -5522,7 +5522,7 @@ Takes text from the user and injects high levels of enthusiastic language and em
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EnthusiasticText_270525.json)
+  - 📄 [JSON File](repo-data/json/EnthusiasticText_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680243d482608191a2aff9683da79dd8-enthusiastic-writing-tuner)
 
 ---
@@ -5539,7 +5539,7 @@ Diagnoses ergonomics issues based upon user descriptions and images
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ErgonomicsDiagnosisUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/ErgonomicsDiagnosisUtility_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1acf605481918e24aeaba6321b6a-ergonomics-diagnosis-utility)
 
 ---
@@ -5556,7 +5556,7 @@ For those moments when speaking all of your mind is not quite advisable.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EuphemismGenie_270525.json)
+  - 📄 [JSON File](repo-data/json/EuphemismGenie_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1af5577c819191a65009e659ebd1-euphemism-genie)
 
 ---
@@ -5573,7 +5573,7 @@ This assistant generates prompts to (informally) evaluate bias or censorship in 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EvaluationPromptGenerator_BiasAndCensorship_270525.json)
+  - 📄 [JSON File](repo-data/json/EvaluationPromptGenerator_BiasAndCensorship_270525.json)
 
 ---
 
@@ -5589,7 +5589,7 @@ Generates prompts for testing text-to-image performance
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EvaluationPrompts_TextToImage_270525.json)
+  - 📄 [JSON File](repo-data/json/EvaluationPrompts_TextToImage_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1b1cdb308191af46c4f69489903b-evaluation-prompts-text-to-image)
 
 ---
@@ -5606,7 +5606,7 @@ Generates prompts for testing text-to-video model performance
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/EvaluationPrompts_TextToVideo_270525.json)
+  - 📄 [JSON File](repo-data/json/EvaluationPrompts_TextToVideo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1b2ed81081918fe10d2a4f81a481-evaluation-prompts-text-to-video)
 
 ---
@@ -5623,7 +5623,7 @@ Transforms text into long, serious-looking strategy documents.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/executive-visionary_260925.json)
+  - 📄 [JSON File](repo-data/json/executive-visionary_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-9wnCVwvwJ-executive-visionary)
 
 ---
@@ -5640,7 +5640,7 @@ Sightseeing and tourist advice for the city of Jerusalem
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ExploreJerusalem_270525.json)
+  - 📄 [JSON File](repo-data/json/ExploreJerusalem_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6821e47f0f648191aecd00f2a09461a3-explore-jerusalem)
 
 ---
@@ -5657,7 +5657,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FakeEmailRemovalRequestor_270525.json)
+  - 📄 [JSON File](repo-data/json/FakeEmailRemovalRequestor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bd8b6c17c8191ab546dc8626039a5-pseudobot-spam-removal-requestor)
 
 ---
@@ -5674,7 +5674,7 @@ Generates a customized family meeting plan, complete with a suggested agenda opt
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FamilyMeetingPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/FamilyMeetingPlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1c14b7288191a0d16f3544871900-family-meeting-planner)
 
 ---
@@ -5691,7 +5691,7 @@ Expert on digital file and folder organization
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/File_FolderOrganisation_270525.json)
+  - 📄 [JSON File](repo-data/json/File_FolderOrganisation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1c9cce28819193436bd1738d1ebd-file-folder-organisation)
 
 ---
@@ -5708,7 +5708,7 @@ Helps find the nearest places serving Guinness with reviews and details.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/find-me-a-guinness_260925.json)
+  - 📄 [JSON File](repo-data/json/find-me-a-guinness_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-wL3ppkb3a-find-me-a-guinness)
 
 ---
@@ -5725,7 +5725,7 @@ Attempts to retrieve a person's email address
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FindThisPerson_sEmail_270525.json)
+  - 📄 [JSON File](repo-data/json/FindThisPerson_sEmail_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681d03e0a5088191987bb619609120ea-find-this-person-s-email)
 
 ---
@@ -5742,7 +5742,7 @@ Locates software drivers and firmware upgrades for tech components
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Firmware_DriverFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/Firmware_DriverFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681ddbc19b148191a6878392fd7bfb27-firmware-driver-finder)
 
 ---
@@ -5759,7 +5759,7 @@ Helps users stay productive on long haul flights without internet
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/flight-productivity-planner_260925.json)
+  - 📄 [JSON File](repo-data/json/flight-productivity-planner_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-K9jZ9Y6TG-flight-productivity-planner)
 
 ---
@@ -5776,7 +5776,7 @@ Information about fonts in the context of improving accessibility
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FontsAndAccessibility_270525.json)
+  - 📄 [JSON File](repo-data/json/FontsAndAccessibility_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681946702538819181faa5d04746c0e5-fonts-and-accessibility)
 
 ---
@@ -5793,7 +5793,7 @@ Outlines the arguments for both sides of debated and polarizing topics, starting
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ForandAgainst_DebateMapper_270525.json)
+  - 📄 [JSON File](repo-data/json/ForandAgainst_DebateMapper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1d5c1b50819190d1002295aa9af2-for-and-against-debate-mapper)
 
 ---
@@ -5810,7 +5810,7 @@ Rewrites system prompts for AI assistants according to user instructions, specia
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ForkThisSystemPrompt_270525.json)
+  - 📄 [JSON File](repo-data/json/ForkThisSystemPrompt_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1d832ba881918f0726aaf4c61a94-fork-this-system-prompt)
 
 ---
@@ -5827,7 +5827,7 @@ Generates formal emails for the user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FormalEmailGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/FormalEmailGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1da342048191b24afdc53ff1f178-formal-email-generator)
 
 ---
@@ -5844,7 +5844,7 @@ Crafts impeccably formal responses to emails, messages, and other forms of corre
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FormalEmailResponseGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/FormalEmailResponseGenerator_270525.json)
 
 ---
 
@@ -5860,7 +5860,7 @@ Creates formal invitations for events and social gatherings.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FormalInvitationGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/FormalInvitationGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1dc00ea88191969bc6e85d94fcfb-formal-invitation-generator)
 
 ---
@@ -5877,7 +5877,7 @@ Generates formal responses to emails, messages, and other forms of correspondenc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FormalWritingGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/FormalWritingGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1dd24ddc8191bea069e46d078dd6-formal-writing-generator)
 
 ---
@@ -5894,7 +5894,7 @@ Takes dictated text and transforms it into clear, concise messages suitable for 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ForumPostDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/ForumPostDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1dea926481919c130a95d4dccf5b-forum-post-drafter)
 
 ---
@@ -5911,7 +5911,7 @@ Converts user text from freeform structure (no caps, no punctuation) into orderl
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FreeformTextConverter_270525.json)
+  - 📄 [JSON File](repo-data/json/FreeformTextConverter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810c5b255f08191baf2f75901d85b23-freeform-text-converter)
 
 ---
@@ -5928,7 +5928,7 @@ Offers insights into treatment options and management approaches for functional 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/FunctionalDyspepsiaAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/FunctionalDyspepsiaAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1e0e03248191be05be35c620adae-functional-dyspepsia-advisor)
 
 ---
@@ -5945,7 +5945,7 @@ Detects signs of emotional abuse and gaslighting with supportive advice.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/gaslighting-guardian_260925.json)
+  - 📄 [JSON File](repo-data/json/gaslighting-guardian_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-PXJsgQEIR-gaslighting-guardian)
 
 ---
@@ -5962,7 +5962,7 @@ Estimates the user's location based on descriptions of their surroundings, ident
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GeolocationEstimator_270525.json)
+  - 📄 [JSON File](repo-data/json/GeolocationEstimator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1e66a53c819182688fae447468da-geolocation-estimator)
 
 ---
@@ -5979,7 +5979,7 @@ Analyzes geopolitical scenarios based on user-defined events, explores potential
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GeopoliticalEffectModeller_270525.json)
+  - 📄 [JSON File](repo-data/json/GeopoliticalEffectModeller_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1e7eddfc8191aad3a2ddd527f5cb-geopolitical-effect-modeller)
 
 ---
@@ -5996,7 +5996,7 @@ Simulates geopolitical scenarios based on current events, providing detailed bri
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GeopoliticalEventSimulator_270525.json)
+  - 📄 [JSON File](repo-data/json/GeopoliticalEventSimulator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1e8e4dc481919e2c2e1d6bfcae48-geopolitical-event-simulator)
 
 ---
@@ -6013,7 +6013,7 @@ Provides detailed reports on recent developments in international relations, foc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GeopoliticalRelationshipBriefer_270525.json)
+  - 📄 [JSON File](repo-data/json/GeopoliticalRelationshipBriefer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1ea767748191afb94c7eb39e4d0c-geopolitical-relationship-briefer)
 
 ---
@@ -6030,7 +6030,7 @@ Summarizes international governmental reactions to major news events, categorizi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Geopolitics_ReactionTracking_270525.json)
+  - 📄 [JSON File](repo-data/json/Geopolitics_ReactionTracking_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1ebca80c8191bf2e0c4eb6ba285b-geopolitics-reaction-tracking)
 
 ---
@@ -6047,7 +6047,7 @@ Help the user buy thoughtful gifts that will be appreciated
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/gift-suggestion-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/gift-suggestion-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-jXHLHropx-gift-giving-helper)
 
 ---
@@ -6064,7 +6064,7 @@ Acts as a friendly mental health assistant for adults who self-identify or have 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GiftedAdultHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/GiftedAdultHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1ece59908191955cfb45d9ad8e74-gifted-adult-helper)
 
 ---
@@ -6081,7 +6081,7 @@ Creates gists containing code snippets, commands, and brief explanations for qui
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GistGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/GistGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1ee0a94c81918d4c5f4effb909ca-gist-generator)
 
 ---
@@ -6098,7 +6098,7 @@ Reformats technical documents into Github Gist format
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GithubGistGenerator_Reformatter_270525.json)
+  - 📄 [JSON File](repo-data/json/GithubGistGenerator_Reformatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68179c383e8c8191914e39ec04ab8d00-github-gist-generator)
 
 ---
@@ -6115,7 +6115,7 @@ Validates and edits drafted markdown for compliance with Github-flavored Markdow
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GithubMarkdownValidator_270525.json)
+  - 📄 [JSON File](repo-data/json/GithubMarkdownValidator_270525.json)
 
 ---
 
@@ -6131,7 +6131,7 @@ Generate summaries of Gitter projects for resumes.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GitHubProjectSummarizer_270525.json)
+  - 📄 [JSON File](repo-data/json/GitHubProjectSummarizer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1ef9dec48191b9dd7f1bc7a67bb1-github-project-summarizer)
 
 ---
@@ -6148,7 +6148,7 @@ Recommends GitHub repositories to users based on their interests.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GithubRepoFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/GithubRepoFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1f21e3e081919453bd611692d663-github-repo-finder)
 
 ---
@@ -6165,7 +6165,7 @@ Analyzes GitHub repositories to extract company information, career opportunitie
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GithubRepoToCompanyInfo_270525.json)
+  - 📄 [JSON File](repo-data/json/GithubRepoToCompanyInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1f3c9ac48191b6737a5433662500-github-repo-to-company-info)
 
 ---
@@ -6182,7 +6182,7 @@ Summarises the contents of a Github repository
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/github-repository-summariser_260925.json)
+  - 📄 [JSON File](repo-data/json/github-repository-summariser_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-v3vhzWOf3-github-repository-summariser)
 
 ---
@@ -6199,7 +6199,7 @@ This assistant answers questions about GitKraken focusing on Linux usage
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GitKrakenAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/GitKrakenAssistant_270525.json)
 
 ---
 
@@ -6215,7 +6215,7 @@ Aids users in crafting precise Gmail search queries to effectively manage their 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GmailSearchStrings_270525.json)
+  - 📄 [JSON File](repo-data/json/GmailSearchStrings_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1f8037bc8191a68e201bce76a6f6-gmail-search-strings)
 
 ---
@@ -6232,7 +6232,7 @@ Takes user supplied details of a goal and structures it into a plan.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoalDocumenter_270525.json)
+  - 📄 [JSON File](repo-data/json/GoalDocumenter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1fa365588191b2d62976a0eb1abc-goal-documenter)
 
 ---
@@ -6249,7 +6249,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoodPlaceToWork_270525.json)
+  - 📄 [JSON File](repo-data/json/GoodPlaceToWork_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2021bedc81918155eb9227d8a23f-good-place-to-work)
 
 ---
@@ -6266,7 +6266,7 @@ Answers questions about Google's AI products using web search to provide up-to-d
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoogleAIGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/GoogleAIGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2037659081919fd8f27bcf097c76-google-ai-guide)
 
 ---
@@ -6283,7 +6283,7 @@ Helps users to create Google Apps Scripts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoogleAppsScriptWizard_270525.json)
+  - 📄 [JSON File](repo-data/json/GoogleAppsScriptWizard_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2050413481918acbd69d6f029f14-google-apps-script-wizard)
 
 ---
@@ -6300,7 +6300,7 @@ Answers user questions about the Google Chrome browser, providing Linux-specific
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoogleChromeSupport_270525.json)
+  - 📄 [JSON File](repo-data/json/GoogleChromeSupport_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2062b1308191bec59b10dd8a80c6-google-chrome-support)
 
 ---
@@ -6317,7 +6317,7 @@ A helpful and knowledgeable Google Cloud Platform (GCP) expert, providing clear 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoogleCloudPlatform_270525.json)
+  - 📄 [JSON File](repo-data/json/GoogleCloudPlatform_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e20b549188191bc30cdca43ad39cb-google-cloud-platform)
 
 ---
@@ -6334,7 +6334,7 @@ Assists with Google Docs questions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoogleDocsWizard_270525.json)
+  - 📄 [JSON File](repo-data/json/GoogleDocsWizard_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e20c78b4081918f87ffa2c8f0d970-google-docs-wizard)
 
 ---
@@ -6351,7 +6351,7 @@ Assists with Google Sheets questions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GoogleSheetsWizard_270525.json)
+  - 📄 [JSON File](repo-data/json/GoogleSheetsWizard_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e20e8ba4c8191bd40561996aa5674-google-sheets-wizard)
 
 ---
@@ -6368,7 +6368,7 @@ Generates Gotify JSON notification payloads
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GotifyNotificationWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/GotifyNotificationWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682fa881d4f88191b20483b6225f37cc-gotify-notification-writer)
 
 ---
@@ -6385,7 +6385,7 @@ Provides purchasing advice for GPUs, focusing on their ability to drive graphics
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GPUPurchaseAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/GPUPurchaseAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e210d92148191b47a1e3c05ba0f62-gpu-purchase-advisor)
 
 ---
@@ -6402,7 +6402,7 @@ Answers questions about Grafana
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Grafana_270525.json)
+  - 📄 [JSON File](repo-data/json/Grafana_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2129e73c8191a9d8d8dca6e2dbbc-grafana)
 
 ---
@@ -6419,7 +6419,7 @@ Provides users with information about tools for searching files, data systems, a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GraphExplorerAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/GraphExplorerAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e213ce3fc8191914b3d8141d18364-graph-explorer-assistant)
 
 ---
@@ -6436,7 +6436,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GraphicDesignAppsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/GraphicDesignAppsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2165a68c8191907cdef90fc77fd4-graphic-design-apps-finder)
 
 ---
@@ -6453,7 +6453,7 @@ Offers users helpful guidance in the field of graphic design.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GraphicDesignQuestions_270525.json)
+  - 📄 [JSON File](repo-data/json/GraphicDesignQuestions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e217953048191aad33cf887f9b453-graphic-design-questions)
 
 ---
@@ -6470,7 +6470,7 @@ Helps identify datasets containing companies' GHG emissions data
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/greenhouse-gas-emissions-data-finder_260925.json)
+  - 📄 [JSON File](repo-data/json/greenhouse-gas-emissions-data-finder_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-H4tzduTlG-greenhouse-gas-emissions-data-finder)
 
 ---
@@ -6487,7 +6487,7 @@ Generates grocery lists tailored to user preferences, staples, and location, pro
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GroceryListGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/GroceryListGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e21da4b788191b0aa7a2e72b4ef18-grocery-list-generator)
 
 ---
@@ -6504,7 +6504,7 @@ Organizes freeform text into a structured grocery list with items, quantities, a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/grocery-list-text-formatter_260925.json)
+  - 📄 [JSON File](repo-data/json/grocery-list-text-formatter_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-9gxvtvpQh-grocery-list-text-formatter)
 
 ---
@@ -6521,7 +6521,7 @@ Evaluates a large language model's compliance with a user-provided prompt on a s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/GuessTheLLM_270525.json)
+  - 📄 [JSON File](repo-data/json/GuessTheLLM_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2205f61c8191a93f3845edaad9dd-guess-the-llm)
 
 ---
@@ -6538,7 +6538,7 @@ Generates Home Assistant automation and scene YAML code based on user-provided e
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HASceneandAutomationEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/HASceneandAutomationEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2228779481918c4aaf2cc2f09d47-ha-scene-and-automation-editor)
 
 ---
@@ -6555,7 +6555,7 @@ Determines the OEM status of technology products, revealing the actual manufactu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HardwareOEMLookup_270525.json)
+  - 📄 [JSON File](repo-data/json/HardwareOEMLookup_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e22b6fb888191a0e60ca6f35b97aa-hardware-oem-lookup)
 
 ---
@@ -6572,7 +6572,7 @@ Analyzes hardware specifications, explains components in layman's terms, and ass
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HardwareSpecificationAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/HardwareSpecificationAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e22dcb39c8191a9f8ef7aa02277b1-hardware-specification-analyst)
 
 ---
@@ -6589,7 +6589,7 @@ Copywriting utility for suggesting headlines and subtitles for text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HeadlineCopywriter_270525.json)
+  - 📄 [JSON File](repo-data/json/HeadlineCopywriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e23179d088191a5d5340832726955-headline-copywriter)
 
 ---
@@ -6606,7 +6606,7 @@ Offers expert advice on the use of the Hebrew calendar, specifically within digi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HebrewCalendar_270525.json)
+  - 📄 [JSON File](repo-data/json/HebrewCalendar_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e23312a448191aa4a15244ebea8d8-hebrew-calendar)
 
 ---
@@ -6623,7 +6623,7 @@ Advises users on resources and methods for learning modern Hebrew, with a focus 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HebrewLearningCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/HebrewLearningCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2342916c8191a202a8eadf5bcbdd-hebrew-learning-coach)
 
 ---
@@ -6640,7 +6640,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HebrewMessageWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/HebrewMessageWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681348ee5af48191afa5a3c0e351bd85-hebrew-message-writer)
 
 ---
@@ -6657,7 +6657,7 @@ Responds to user inquiries about their products with extreme enthusiasm and hype
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HighlyImpressiveProduct_270525.json)
+  - 📄 [JSON File](repo-data/json/HighlyImpressiveProduct_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e23848c1081919b6c3da84f74a1fd-highly-impressive-product)
 
 ---
@@ -6674,7 +6674,7 @@ Builds scenes and automations from entity lists
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeAssistant_Scene_AutomationBuilder_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeAssistant_Scene_AutomationBuilder_270525.json)
 
 ---
 
@@ -6690,7 +6690,7 @@ Redacts Home Assistant snippets for anonymity to facilitate open-source sharing
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeAssistantCodeRedactor_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeAssistantCodeRedactor_270525.json)
 
 ---
 
@@ -6706,7 +6706,7 @@ Assists users in configuring their Home Assistant setups by generating YAML code
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeAssistantCopilot_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeAssistantCopilot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e24035ac88191be080931f2109028-home-assistant-copilot)
 
 ---
@@ -6723,7 +6723,7 @@ Make your HA dashboard come to life!
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeAssistantDashboardEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeAssistantDashboardEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e24223ba881919a43cf35bee796f8-home-assistant-dashboard-editor)
 
 ---
@@ -6740,7 +6740,7 @@ Organizes a user's Home Assistant entities into a structured list, extracting in
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeAssistantEntityOrganiser_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeAssistantEntityOrganiser_270525.json)
 
 ---
 
@@ -6756,7 +6756,7 @@ Transforms Home Assistant dashboards with imaginative styling, unconventional la
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeAssistantRemixer_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeAssistantRemixer_270525.json)
 
 ---
 
@@ -6772,7 +6772,7 @@ Advises users on all aspects of home cinema setup, including speakers, audio sys
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeCinemaArchitect_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeCinemaArchitect_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2442dfec8191a0f86e360c8c2254-home-cinema-architect)
 
 ---
@@ -6789,7 +6789,7 @@ Assists users in planning home electronics projects, particularly those involvin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeElectronicsProject_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeElectronicsProject_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e245909a481918fd439c0ec3ef9f0-home-electronics-project)
 
 ---
@@ -6806,7 +6806,7 @@ Custom GPT which is configured with the latest set of guidelines from the Home F
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/home-front-command-recommendations_260925.json)
+  - 📄 [JSON File](repo-data/json/home-front-command-recommendations_260925.json)
 
 ---
 
@@ -6822,7 +6822,7 @@ Analyzes network data from various sources, extracts key network information, an
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeNetworkRefDocCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeNetworkRefDocCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e24866ec88191a309801eadda2dfa-home-network-ref-doc-creator)
 
 ---
@@ -6839,7 +6839,7 @@ Answers questions about home networking, including local routing, DHCP configura
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeNetworkingAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeNetworkingAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2499201c8191a6b0a709e064e296-home-networking-advice)
 
 ---
@@ -6856,7 +6856,7 @@ Provides expert advice and actionable steps related to home preparedness, safety
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomePreparednessExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/HomePreparednessExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e24ab9d70819187c382104c70709e-home-preparedness-expert)
 
 ---
@@ -6873,7 +6873,7 @@ Crafting bespoke, tech-driven workflows for a smarter home.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeTechnologyHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeTechnologyHelper_270525.json)
 
 ---
 
@@ -6889,7 +6889,7 @@ Provides users with purchasing guidance for home tools and hardware, offering re
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HomeToolsPurchasingAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/HomeToolsPurchasingAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2d1f0ed88191be4eff1d133cb97f-home-tools-purchasing-advice)
 
 ---
@@ -6906,7 +6906,7 @@ Trains spokespeople by simulating hostile interviews challenging positions and t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HostileInterviewSimulator_270525.json)
+  - 📄 [JSON File](repo-data/json/HostileInterviewSimulator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2e33d9e88191bd005d7078656150-hostile-interview-simulator)
 
 ---
@@ -6923,7 +6923,7 @@ Generates strong, opinionated responses to social media comments for the user.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HotTakeGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/HotTakeGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecca81a7081918e514e119b0c29c0-hot-take-generator)
 
 ---
@@ -6940,7 +6940,7 @@ Screens apartment viewings on behalf of the user against a provided set of crite
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HouseViewingScreener_270525.json)
+  - 📄 [JSON File](repo-data/json/HouseViewingScreener_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2e5a28fc8191ad25fdfd5b646246-house-viewing-screener)
 
 ---
@@ -6957,7 +6957,7 @@ Aids user in establishing a comprehensive Google Drive and digital system for ho
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HouseholdDigitalOrganiser_270525.json)
+  - 📄 [JSON File](repo-data/json/HouseholdDigitalOrganiser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e2f67389881919208907f16c052ed-household-digital-organiser)
 
 ---
@@ -6974,7 +6974,7 @@ Helps users create detailed documentation for various household tasks, ranging f
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HouseholdDocumentationHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/HouseholdDocumentationHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e3a1fd93881918da79d38abc0454f-household-documentation-helper)
 
 ---
@@ -6991,7 +6991,7 @@ Generates a Markdown document to guide a user's accommodation search by asking t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HousehuntingWishlistCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/HousehuntingWishlistCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e3a41b1648191a6aa2f414f9725f8-househunting-wishlist-creator)
 
 ---
@@ -7008,7 +7008,7 @@ Answers queries on how to prompt for a specific objective
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HowCanIPromptThat_270525.json)
+  - 📄 [JSON File](repo-data/json/HowCanIPromptThat_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e3a5732a48191869eb7f6e8ec5583-how-can-i-prompt-that)
 
 ---
@@ -7025,7 +7025,7 @@ Offers supportive perspectives to users struggling with negative self-perception
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HowDoYouSeeMe_270525.json)
+  - 📄 [JSON File](repo-data/json/HowDoYouSeeMe_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e3c11d8e48191aad6a982918eb5aa-how-do-you-see-me)
 
 ---
@@ -7042,7 +7042,7 @@ Answers user questions about how to achieve ambitious projects using AI tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HowToAIThis_270525.json)
+  - 📄 [JSON File](repo-data/json/HowToAIThis_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e41bf56b08191ae40394ff13355c8-how-to-ai-this)
 
 ---
@@ -7059,7 +7059,7 @@ Advises the user, user, on data backup strategies, providing detailed options, c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HowToBackThisUp_270525.json)
+  - 📄 [JSON File](repo-data/json/HowToBackThisUp_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e424b41f481918e2d4606d86cb1b2-how-to-back-this-up)
 
 ---
@@ -7076,7 +7076,7 @@ Assists users in mapping out technical projects by providing detailed technical 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HowToBuildThis_270525.json)
+  - 📄 [JSON File](repo-data/json/HowToBuildThis_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4266b2d481919a12e9bcb2c0809e-how-to-build-this)
 
 ---
@@ -7093,7 +7093,7 @@ Provides users with actionable, step-by-step technical guidance and multiple opt
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HowToDoThis_270525.json)
+  - 📄 [JSON File](repo-data/json/HowToDoThis_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e431b830c8191b2d3ca980e589f72-how-to-do-this)
 
 ---
@@ -7110,7 +7110,7 @@ Generates HTML email templates
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HTMLEmailTemplateGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/HTMLEmailTemplateGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e434881cc8191be6fd6b33efdcb7b-html-email-template-generator)
 
 ---
@@ -7127,7 +7127,7 @@ Provides information and guidance about integrating human in the loop techniques
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HumanInTheLoop_270525.json)
+  - 📄 [JSON File](repo-data/json/HumanInTheLoop_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4390638c819193aab951784f2d69-human-in-the-loop)
 
 ---
@@ -7144,7 +7144,7 @@ Reformats user anecdotes into humblebrag posts suitable for sharing on LinkedIn,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HumblebragDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/HumblebragDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e43dfde848191bf9f1878cd5a876b-humblebrag-drafter)
 
 ---
@@ -7161,7 +7161,7 @@ Asks the user to test a hypothesis against a dataset.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/HypothesisTester_270525.json)
+  - 📄 [JSON File](repo-data/json/HypothesisTester_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4620810c8191ba717e3dc254b34a-hypothesis-tester)
 
 ---
@@ -7178,7 +7178,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IDEAppFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/IDEAppFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e47019b288191910ea39815ce99b1-ide-app-finder)
 
 ---
@@ -7195,7 +7195,7 @@ Transforms disorganized speech-to-text input into structured notes of ideas, wit
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IdeaNotepad_270525.json)
+  - 📄 [JSON File](repo-data/json/IdeaNotepad_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e47207ea881919a253f895316b033-idea-notepad)
 
 ---
@@ -7212,7 +7212,7 @@ Provides personalized entertainment recommendations, focusing on recent movies, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IfYouLikedThis_270525.json)
+  - 📄 [JSON File](repo-data/json/IfYouLikedThis_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4746b7648191b4c2290c1dd18550-if-you-liked-this)
 
 ---
@@ -7229,7 +7229,7 @@ Uses image analysis to help users organise home inventories
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImageAnalysisInventoryAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/ImageAnalysisInventoryAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68287885e4bc8191b3de1aa6d805d2bc-image-analysis-inventory-assistant)
 
 ---
@@ -7246,7 +7246,7 @@ Generates alt descriptions from user uploaded images, supporting both individual
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImageDescriptionGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ImageDescriptionGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e80ac223c819185c58188e99176e6-alt-tag-generator)
 
 ---
@@ -7263,7 +7263,7 @@ Screens images for inadvertent personal information that the user may not wish t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImagePIIChecker_270525.json)
+  - 📄 [JSON File](repo-data/json/ImagePIIChecker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4783d4208191b1c49d86fa5f202b-image-pii-checker)
 
 ---
@@ -7280,7 +7280,7 @@ Converts images of flowcharts provided by the user into Mermaid code blocks, ena
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImageToMermaid_270525.json)
+  - 📄 [JSON File](repo-data/json/ImageToMermaid_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e47a8764c8191aee0103a62a18cc6-image-to-mermaid)
 
 ---
@@ -7297,7 +7297,7 @@ Extracts and reformats text from documents with several modes of operation.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImageToTextDocumentProcessor_270525.json)
+  - 📄 [JSON File](repo-data/json/ImageToTextDocumentProcessor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e47b9f2a88191892abd45edccb548-image-to-text-document-processor)
 
 ---
@@ -7314,7 +7314,7 @@ Supports individuals dealing with imposter syndrome by offering reassurance and 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImposterSyndromeAllly_270525.json)
+  - 📄 [JSON File](repo-data/json/ImposterSyndromeAllly_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810f24122888191ab66cf584c439d41-imposter-syndrome-allly)
 
 ---
@@ -7331,7 +7331,7 @@ Helps to write more thorough technical documentation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImproveMyDocs_270525.json)
+  - 📄 [JSON File](repo-data/json/ImproveMyDocs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e47ecab6c8191bbc4c7ca39e10b49-improve-my-docs)
 
 ---
@@ -7348,7 +7348,7 @@ Takes user-provided text and refines it using a multi-faceted approach based on 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ImproveMyText_270525.json)
+  - 📄 [JSON File](repo-data/json/ImproveMyText_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68004a5a09448191bf3d213860f9c5c2-improve-my-text)
 
 ---
@@ -7365,7 +7365,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/improve-these-wireframes_250925.json)
+  - 📄 [JSON File](repo-data/json/improve-these-wireframes_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55c64b648819192cc2b7b5e3039a1-improve-these-wireframes)
 
 ---
@@ -7382,7 +7382,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/improve-this-diagram_250925.json)
+  - 📄 [JSON File](repo-data/json/improve-this-diagram_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55ce01e1081919de3a59bf4d220fd-improve-this-diagram)
 
 ---
@@ -7399,7 +7399,7 @@ Helps suggest ways to enjoy harmonious vacations with in-laws
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/in-law-vacation-guide_260925.json)
+  - 📄 [JSON File](repo-data/json/in-law-vacation-guide_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-pArcUOhe4-in-law-vacation-guide)
 
 ---
@@ -7416,7 +7416,7 @@ Transforms informally dictated text into polished, presentable written documents
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/InformalTextEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/InformalTextEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e481a30ec8191a3487e22eced4a32-informal-text-editor)
 
 ---
@@ -7433,7 +7433,7 @@ Builds structured category lists for data-centric applications like CMS content 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/information-taxonomy-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/information-taxonomy-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-ryPoXnaZ2-information-taxonomy-generator)
 
 ---
@@ -7450,7 +7450,7 @@ Offers expert guidance on selecting, configuring, and optimizing instructional L
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/InstructionalModelAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/InstructionalModelAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e482d51b48191a32a845eb675114f-instructional-model-advisor)
 
 ---
@@ -7467,7 +7467,7 @@ Documentation Assistant that refines user drafts of business procedures into com
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/InternalDocumentationGenerationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/InternalDocumentationGenerationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4876e7b08191981ef7b99dd8b149-internal-documentation-generation-assistant)
 
 ---
@@ -7484,7 +7484,7 @@ Attempts to source and summarise consumer reviews about products
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsItAnyGood_270525.json)
+  - 📄 [JSON File](repo-data/json/IsItAnyGood_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e49a07a3c8191b7cc739c3b8f1bb4-is-it-any-good)
 
 ---
@@ -7501,7 +7501,7 @@ Did you ever wonder whether a specific job exists? And if so, what it might be c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsThatAJob_270525.json)
+  - 📄 [JSON File](repo-data/json/IsThatAJob_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68073ddf3b6881919929a631b9c5f7aa-is-that-a-job)
 
 ---
@@ -7518,7 +7518,7 @@ Suggests improvements to the user's current processes, guiding them towards more
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsThereABetterWay_270525.json)
+  - 📄 [JSON File](repo-data/json/IsThereABetterWay_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e49cab77c819199adfb050f0b5b86-is-there-a-better-way)
 
 ---
@@ -7535,7 +7535,7 @@ Suggests improvements to the user's technical processes, guiding them towards mo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsThereABetterWay_Tech_270525.json)
+  - 📄 [JSON File](repo-data/json/IsThereABetterWay_Tech_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e49e26ad0819180975b39a22d89da-is-there-a-better-way-tech)
 
 ---
@@ -7552,7 +7552,7 @@ Identifies self-hostable software alternatives to SaaS offerings, considering va
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsThereASelfHostedX_270525.json)
+  - 📄 [JSON File](repo-data/json/IsThereASelfHostedX_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e49f4f81481918f55d3c83da2078f-is-there-a-self-hosted-x)
 
 ---
@@ -7569,7 +7569,7 @@ Researches and recommends software solutions for user, considering his preferenc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsThereATechForThat_270525.json)
+  - 📄 [JSON File](repo-data/json/IsThereATechForThat_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4ab57f208191959d921c5752e6eb-is-there-a-tech-for-that)
 
 ---
@@ -7586,7 +7586,7 @@ Analyzes email text provided by the user to determine whether it is a disguised 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsThisASalesPitch_270525.json)
+  - 📄 [JSON File](repo-data/json/IsThisASalesPitch_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4b216ed48191ac55bde61a73c05c-is-this-a-sales-pitch)
 
 ---
@@ -7603,7 +7603,7 @@ Convert user supplied lists of country names into their ISO 3166 equivalents
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ISO3166Lookup_CountryCodes_270525.json)
+  - 📄 [JSON File](repo-data/json/ISO3166Lookup_CountryCodes_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682ddbf78d248191b77409af062eceb8-iso-3166-lookup-country-codes)
 
 ---
@@ -7620,7 +7620,7 @@ Lookup utillity for ISO 4217 (currencies)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ISO4217Lookup_WorldCurrencies_270525.json)
+  - 📄 [JSON File](repo-data/json/ISO4217Lookup_WorldCurrencies_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682ddde5122c81919f6ad49addfaed72-iso-4217-lookup-world-currencies)
 
 ---
@@ -7637,7 +7637,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ISOStandardFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/ISOStandardFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e4b4c1dd48191a3c818e6687a63d2-iso-standard-finder)
 
 ---
@@ -7654,7 +7654,7 @@ Provides non-partisan news updates on recent developments in Israel with structu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/israel-daily-news-brief_260925.json)
+  - 📄 [JSON File](repo-data/json/israel-daily-news-brief_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-dHTBHVjT5-israel-daily-news-brief)
 
 ---
@@ -7671,7 +7671,7 @@ News Summary Assistant designed to provide a daily, unbiased overview of key new
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelNewsSummary_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelNewsSummary_270525.json)
 
 ---
 
@@ -7687,7 +7687,7 @@ Analyzes the price of technology products in Israel compared to US markets, prov
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelShoppingAssistant2_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelShoppingAssistant2_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5423baac81919b29eba0cca99d96-israel-shopping-assistant)
 
 ---
@@ -7704,7 +7704,7 @@ Generates timely Situational Reports (SITREPs) on military and strategic develop
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelSITREPGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelSITREPGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5437a4a08191a8bdc25586d117f8-israel-sitrep-generator)
 
 ---
@@ -7721,7 +7721,7 @@ Locates tech products for users in Israel from KSP, Ivory, and Zap, providing li
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelTechShoppingAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelTechShoppingAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e544a17c08191a398be9037766452-israel-tech-shopping-assistant)
 
 ---
@@ -7738,7 +7738,7 @@ Compares the price of products in Israel (in NIS) to their global prices, partic
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelToROWPriceComparison_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelToROWPriceComparison_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e59da7fc48191b6defc5ddd262944-israel-to-row-price-comparison)
 
 ---
@@ -7755,7 +7755,7 @@ Converts salaries between Israeli shekels (expressed as monthly amounts) and oth
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelToROWSalaryCalculator_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelToROWSalaryCalculator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e59ee20088191890556ed488dccba-israel-to-row-salary-calculator)
 
 ---
@@ -7772,7 +7772,7 @@ Recommends getaways and itineraries within Israel, leveraging real-time data on 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelTravelAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelTravelAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5a04d9a881919afd1c878b4f811a-israel-travel-advisor)
 
 ---
@@ -7789,7 +7789,7 @@ Advises users on travel options from Israel, focusing on destinations accessible
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IsraelTravelPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/IsraelTravelPlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5a1b49d48191b8d01c384ec355ca-israel-travel-planner)
 
 ---
@@ -7806,7 +7806,7 @@ Conducts research on user-specified topics and delivers findings in a concise po
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/IssueBriefGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/IssueBriefGenerator_270525.json)
 
 ---
 
@@ -7822,7 +7822,7 @@ Slightly cynical conference and networking event screener providing direct asses
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JadedNetworkingVetter_270525.json)
+  - 📄 [JSON File](repo-data/json/JadedNetworkingVetter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5a620a348191a890916cb4394a11-jaded-networking-event-vetter)
 
 ---
@@ -7839,7 +7839,7 @@ Answers basic questions about Javascript
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JavascriptHelp_270525.json)
+  - 📄 [JSON File](repo-data/json/JavascriptHelp_270525.json)
 
 ---
 
@@ -7855,7 +7855,7 @@ This AI assistant answers user questions about the dates of public holidays in I
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JewishHolidaysCalendar_270525.json)
+  - 📄 [JSON File](repo-data/json/JewishHolidaysCalendar_270525.json)
 
 ---
 
@@ -7871,7 +7871,7 @@ Crafts personalized expressions of interest emails for the user, designed to hel
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Job_EOI_EmailGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/Job_EOI_EmailGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5b42f7088191a93f3df733439540-job-eoi-email-generator)
 
 ---
@@ -7888,7 +7888,7 @@ Helps users assess and track their level of job automation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/job-automation-tracker_260925.json)
+  - 📄 [JSON File](repo-data/json/job-automation-tracker_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-H2WH1m8S5-job-automation-tracker)
 
 ---
@@ -7905,7 +7905,7 @@ Assesses job descriptions for suitability and analyzes them
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobDescriptionAnalystForDaniel_270525.json)
+  - 📄 [JSON File](repo-data/json/JobDescriptionAnalystForDaniel_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5ba152588191a2182516b2e69386-job-description-analyst-for-daniel)
 
 ---
@@ -7922,7 +7922,7 @@ Reviews job descriptions provided by the user, evaluating them for both positive
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobDescriptionEvaluator_270525.json)
+  - 📄 [JSON File](repo-data/json/JobDescriptionEvaluator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5bb8ed64819191f804106c415514-job-description-evaluator)
 
 ---
@@ -7939,7 +7939,7 @@ Accepts a domain name as input, searches for email addresses associated with tha
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobHuntEmailFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/JobHuntEmailFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5bca71048191806bcaae7be6880f-job-hunt-email-finder)
 
 ---
@@ -7956,7 +7956,7 @@ Brainstorms creative and tactful job-hunting strategies for user, an experienced
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobHuntStrategist_270525.json)
+  - 📄 [JSON File](repo-data/json/JobHuntStrategist_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5bf26cb88191834f37e131ecb77c-job-hunt-strategist)
 
 ---
@@ -7973,7 +7973,7 @@ This tool creates or enhances a summary of the user's job hunt based on their re
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobHuntSummaryCrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/JobHuntSummaryCrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5c06eee48191a98ced7bfdcf83bb-job-hunt-summary-crafter)
 
 ---
@@ -7990,7 +7990,7 @@ Recommends up-to-date tools for remote job searches, considering the user's need
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobHuntToolingAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/JobHuntToolingAssistant_270525.json)
 
 ---
 
@@ -8006,7 +8006,7 @@ Helps users perform impressively at work
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/job-performance-coach_260925.json)
+  - 📄 [JSON File](repo-data/json/job-performance-coach_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-lJNf8Km5p-job-performance-coach)
 
 ---
@@ -8023,7 +8023,7 @@ Develops contextual data to guide a job search
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobSearchContextDevelopmentTool_270525.json)
+  - 📄 [JSON File](repo-data/json/JobSearchContextDevelopmentTool_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5c8b7e4081919ae2e77f80ddeebf-job-search-context-development-tool)
 
 ---
@@ -8040,7 +8040,7 @@ Identifies programmatic sources, particularly APIs, for remote job listings, pro
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JobsAPIGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/JobsAPIGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5d0866a4819191c014fd5a775a07-jobs-api-guide)
 
 ---
@@ -8057,7 +8057,7 @@ Assists users with all aspects of JSON development, including data formatting, c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JSONAssistance_270525.json)
+  - 📄 [JSON File](repo-data/json/JSONAssistance_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5d48eea48191bd4026c1be63d725-json-assistance)
 
 ---
@@ -8074,7 +8074,7 @@ Takes a JSON schema, validates it against OpenAPI v3.0.3, applies user modificat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JSONSchemaEditorForAI_270525.json)
+  - 📄 [JSON File](repo-data/json/JSONSchemaEditorForAI_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024476a76881918ef0c8a4a73af977-json-schema-editor-for-ai-tools)
 
 ---
@@ -8091,7 +8091,7 @@ Takes a JSON schema (in OpenAPI format) and converts into a markdown table.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JSONSchemaToMarkdownTable_270525.json)
+  - 📄 [JSON File](repo-data/json/JSONSchemaToMarkdownTable_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6802444bebac81918c7a263651a11e8a-json-schema-to-markdown-table)
 
 ---
@@ -8108,7 +8108,7 @@ Converts from JSON to CSV
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JSONtoCSV_270525.json)
+  - 📄 [JSON File](repo-data/json/JSONtoCSV_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5d73bf048191a7ffa6ccd7659606-json-to-csv)
 
 ---
@@ -8125,7 +8125,7 @@ Converts JSON data into natural language based on user-specified preferences for
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JSONToNaturalLanguage_270525.json)
+  - 📄 [JSON File](repo-data/json/JSONToNaturalLanguage_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5d8a1d488191ae5b90085cdecd7f-json-to-natural-language)
 
 ---
@@ -8142,7 +8142,7 @@ Takes a JSON object, checks it for compliance with the OpenAPI v3.0.3 standard, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/JSONToOpenAPIJSONConverter_270525.json)
+  - 📄 [JSON File](repo-data/json/JSONToOpenAPIJSONConverter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024476a76881918ef0c8a4a73af977-json-schema-editor-for-ai-tools)
 
 ---
@@ -8159,7 +8159,7 @@ Loads of info about KDE Plasma
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/KDEPlasmaBuff_270525.json)
+  - 📄 [JSON File](repo-data/json/KDEPlasmaBuff_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a1b55ca188191a45259157d6e338a-kde-plasma-buff)
 
 ---
@@ -8176,7 +8176,7 @@ Personal assistant focused on helping the user to keep to a predetermined daily 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/keep-me-on-time_260925.json)
+  - 📄 [JSON File](repo-data/json/keep-me-on-time_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-hyQHLgj8R-keep-me-on-time)
 
 ---
@@ -8193,7 +8193,7 @@ Identifies documentation and knowledge management tools based on user specificat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/KnowledgeBase_DocumentationSoftwareFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/KnowledgeBase_DocumentationSoftwareFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e5dac50588191be6a2332c0583f6b-knowledge-base-documentation-software-finder)
 
 ---
@@ -8210,7 +8210,7 @@ Extracts and organizes visible text from hardware labels, clearly separating mul
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LabelTextExtractor_OCR_270525.json)
+  - 📄 [JSON File](repo-data/json/LabelTextExtractor_OCR_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb4e7244c8191a321385d719a7478-label-text-extractor-ocr)
 
 ---
@@ -8227,7 +8227,7 @@ Helps find nearby places that are open late
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/late-night-venues_260925.json)
+  - 📄 [JSON File](repo-data/json/late-night-venues_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-PQov1b27b-late-night-venues)
 
 ---
@@ -8244,7 +8244,7 @@ Interprets laundry care tag symbols from photographs, explaining their meaning a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LaundryLabelDecoder_270525.json)
+  - 📄 [JSON File](repo-data/json/LaundryLabelDecoder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e613b81b081918eb67e39dcf65c2a-laundry-label-decoder)
 
 ---
@@ -8261,7 +8261,7 @@ Joins JSON fragments into an array
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LazyJSONEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/LazyJSONEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681ab5054a908191b553e07f223a7b9f-lazy-json-editor)
 
 ---
@@ -8278,7 +8278,7 @@ Analyzes user lead generation needs, matches them to appropriate SaaS platforms,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LeadGenPlatformAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/LeadGenPlatformAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e61677f1881918db8d5443007430d-lead-gen-platform-advice)
 
 ---
@@ -8295,7 +8295,7 @@ Asks targeted questions to assess how users learn most effectively, providing in
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LearningStyleGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LearningStyleGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024759c3988191bde0036437cd0147-learning-style-explorer)
 
 ---
@@ -8312,7 +8312,7 @@ Helps users learn complex technical subjects by creating personalized learning t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LearningTrajectoryPlotter_270525.json)
+  - 📄 [JSON File](repo-data/json/LearningTrajectoryPlotter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e61837fb4819193b85ade2f5d98da-learning-trajectory-plotter)
 
 ---
@@ -8329,7 +8329,7 @@ Translates complex legal documents, such as terms and conditions or privacy poli
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LegalToPlainEnglish_270525.json)
+  - 📄 [JSON File](repo-data/json/LegalToPlainEnglish_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e619f5b1881919e3dbc4aa47b9e2b-legalese-to-english-translator)
 
 ---
@@ -8346,7 +8346,7 @@ Helps users design and automate workflows for both business and personal tasks
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/let-s-automate-this_260925.json)
+  - 📄 [JSON File](repo-data/json/let-s-automate-this_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-NeZI1QZuR-let-s-automate-this)
 
 ---
@@ -8363,7 +8363,7 @@ Suggests remote working ideas based on location.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/let-s-work-remotely_260925.json)
+  - 📄 [JSON File](repo-data/json/let-s-work-remotely_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-HC29931QG-let-s-work-remotely)
 
 ---
@@ -8380,7 +8380,7 @@ Helps with user queries about using LibreOffice Calc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LibreOfficeCalc_270525.json)
+  - 📄 [JSON File](repo-data/json/LibreOfficeCalc_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682de21944808191a69ef9905143af1f-libreoffice-calc)
 
 ---
@@ -8397,7 +8397,7 @@ Generates personalized life advice documents tailored to specific individuals
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/life-advisory-bot_260925.json)
+  - 📄 [JSON File](repo-data/json/life-advisory-bot_260925.json)
 
 ---
 
@@ -8413,7 +8413,7 @@ Helps users identify automatable areas of their life and provides actionable ste
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/life-automation-guru_260925.json)
+  - 📄 [JSON File](repo-data/json/life-automation-guru_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d6ff8e790c819194e1a8da58c40822-life-automation-guru)
 
 ---
@@ -8430,7 +8430,7 @@ Identifies opportunities to break into song and provides lyrics.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/life-s-a-musical_260925.json)
+  - 📄 [JSON File](repo-data/json/life-s-a-musical_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-uuGR6h936-life-s-a-musical)
 
 ---
@@ -8447,7 +8447,7 @@ Offers detailed advice on lighting for home offices, workspaces, and general int
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LightingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/LightingAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6276132c8191a4c357276c416ade-lighting-advisor)
 
 ---
@@ -8464,7 +8464,7 @@ Helps users enhance their Linux terminal skills by providing clear explanations,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Linux_TerminalMaster_270525.json)
+  - 📄 [JSON File](repo-data/json/Linux_TerminalMaster_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e63dc89e48191be8ebb87aa711d65-linux-terminal-master)
 
 ---
@@ -8481,7 +8481,7 @@ Updated config directing assistant's attention towards desktop MCP, RPA, AI, and
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxDesktopAutomation_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxDesktopAutomation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a37f233948191b184eefacda3dbab-linux-desktop-automation)
 
 ---
@@ -8498,7 +8498,7 @@ Creates head-to-head comparisons of Linux distributions, presenting information 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxDistrosHeadToHead_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxDistrosHeadToHead_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e64b750a48191a114a78fcf2dbdc7-linux-distros-head-to-head)
 
 ---
@@ -8515,7 +8515,7 @@ Debugs, Graphics, Related issues on Linux
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxGraphicDebugger_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxGraphicDebugger_270525.json)
 
 ---
 
@@ -8531,7 +8531,7 @@ Offers guidance on hardware compatibility within Linux environments, providing i
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxHardwareFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxHardwareFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e64d32b8c819191e842bb2f79920e-linux-hardware-finder)
 
 ---
@@ -8548,7 +8548,7 @@ Analyzes Linux logs to identify the originating distribution, errors, abnormalit
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxLogAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxLogAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e64e96d788191a2143413b0453bcf-linux-log-analyst)
 
 ---
@@ -8565,7 +8565,7 @@ Advises Linux users and system administrators upon reading and interpreting syst
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxLogsAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxLogsAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a5fbcfbb0819184855dccb351c6c8-linux-logs-advisor)
 
 ---
@@ -8582,7 +8582,7 @@ Offers expert guidance on Linux package management, covering various platforms l
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxPackageManagementGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxPackageManagementGuide_270525.json)
 
 ---
 
@@ -8598,7 +8598,7 @@ Provides general tech support for Linux
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LinuxTechSupport_270525.json)
+  - 📄 [JSON File](repo-data/json/LinuxTechSupport_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e65907d7c8191b6eabfb663a81d63-linux-tech-support)
 
 ---
@@ -8615,7 +8615,7 @@ Generates lists, provides them to the user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ListGenerator_GeneralPurpose_270525.json)
+  - 📄 [JSON File](repo-data/json/ListGenerator_GeneralPurpose_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e65acf5308191b4fdb463fbc0078b-list-generator-general-purpose)
 
 ---
@@ -8632,7 +8632,7 @@ Formats incremental meeting notes into organized minutes after the meeting concl
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LiveMinutesTaker_270525.json)
+  - 📄 [JSON File](repo-data/json/LiveMinutesTaker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e65c328bc8191aa32f2c6f9ec2e4c-live-minutes-taker)
 
 ---
@@ -8649,7 +8649,7 @@ Offers expert guidance on selecting the most suitable cloud API-accessible Large
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMAPIGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMAPIGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e66052bf0819191450b472274ab47-llm-api-guide)
 
 ---
@@ -8666,7 +8666,7 @@ Advises users on the optimal methodology for achieving their goals with large la
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMApproachGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMApproachGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6617e0748191ab1d6e278144eea9-llm-approach-guide)
 
 ---
@@ -8683,7 +8683,7 @@ A greatly simplified approximation of an "LLM as judge" workflow contained entir
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMAsJudgeLite_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMAsJudgeLite_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e663c65ac8191b376d486e32144a0-llm-as-judge-lite)
 
 ---
@@ -8700,7 +8700,7 @@ Provides comprehensive background information about large language models, inclu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMBackgroundAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMBackgroundAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e66522b308191b09c1fa6f814bbb5-llm-background-assistant)
 
 ---
@@ -8717,7 +8717,7 @@ Evaluates large language model outputs for censorship and bias, analyzing user-p
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMBias_CensorshipEvaulator_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMBias_CensorshipEvaulator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e666a028881919237534c52f3061c-llm-bias-censorship-evaulator)
 
 ---
@@ -8734,7 +8734,7 @@ Offers expert technical guidance on configuring large language models within cus
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMConfigurationTuner_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMConfigurationTuner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e66831b1c8191b457d35fd3625ee8-llm-configuration-tuner)
 
 ---
@@ -8751,7 +8751,7 @@ Provides information about a wide range of large language models, focusing on le
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6938db708191bf77716d7694f6ad-llm-expert)
 
 ---
@@ -8768,7 +8768,7 @@ Guides users through the intricacies of fine-tuning large language models, offer
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMFineTuneGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMFineTuneGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6952b5448191be3068ccd45b39d2-llm-fine-tuning-instructor)
 
 ---
@@ -8785,7 +8785,7 @@ Offers expert guidance on selecting and utilizing large language models (LLMs) a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e69ec5cc48191a27af79d09f1f906-llm-selection-guide)
 
 ---
@@ -8802,7 +8802,7 @@ Evaluates a large language model's compliance with a user-provided prompt on a s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMOutputEvaulator_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMOutputEvaulator_270525.json)
 
 ---
 
@@ -8818,7 +8818,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMSecurity_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMSecurity_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6c094d3481919c2df992c41fe0cd-llm-security)
 
 ---
@@ -8835,7 +8835,7 @@ Guides novice users through the process of testing and evaluating large language
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMTestLab_EvaluationTool_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMTestLab_EvaluationTool_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6c4fb8008191b1ff0d91df1f1d5f-llm-evaluations-guide)
 
 ---
@@ -8852,7 +8852,7 @@ Provides concrete guidance for augmenting existing AI agents with new features a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMToolAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMToolAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6c8c01c88191b29aee313d96fdce-llm-tool-assistant)
 
 ---
@@ -8869,7 +8869,7 @@ Analyzes AI agent configurations and behaviors to identify potential issues rela
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMToolDebugger_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMToolDebugger_270525.json)
 
 ---
 
@@ -8885,7 +8885,7 @@ Given the name of a large language model, provides information on the training d
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMTrainingLookup_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMTrainingLookup_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6cc05680819189be3de79238b400-llm-training-lookup)
 
 ---
@@ -8902,7 +8902,7 @@ Advises users on the effective application of Large Language Models, offering ta
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LLMUsageCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/LLMUsageCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6cd3c958819197e1245446838fa0-llm-usage-coach)
 
 ---
@@ -8919,7 +8919,7 @@ Advises upon AI models which can be locally hosted
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LocalAI_LLMTools_270525.json)
+  - 📄 [JSON File](repo-data/json/LocalAI_LLMTools_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6d77e7d08191aca3b1152ff9dc31-local-ai-llm-tools)
 
 ---
@@ -8936,7 +8936,7 @@ Tailored advice for local fine-tuning projects.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LocalFine_Tuning_270525.json)
+  - 📄 [JSON File](repo-data/json/LocalFine_Tuning_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6dd70ee48191bb758b51d2fe083b-local-ai-model-advisor)
 
 ---
@@ -8953,7 +8953,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LocalLLMExplainer_QuantizationAndVariants_270525.json)
+  - 📄 [JSON File](repo-data/json/LocalLLMExplainer_QuantizationAndVariants_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68124e65e79c8191ba611e322c1f8008-local-llm-explainer-quantization-and-variants)
 
 ---
@@ -8970,7 +8970,7 @@ Evaluates user hardware configurations to recommend specific locally hosted larg
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LocalLLMHardwareAssessor_270525.json)
+  - 📄 [JSON File](repo-data/json/LocalLLMHardwareAssessor_270525.json)
 
 ---
 
@@ -8986,7 +8986,7 @@ Advises users on the best local speech-to-text (STT) models they can run, based 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LocalSTTModelGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LocalSTTModelGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6e1ed0788191b578d9762daff7f9-local-stt-model-guide)
 
 ---
@@ -9003,7 +9003,7 @@ Informs the user of updates to text-to-speech models available for Linux on Fedo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LocalTTSGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/LocalTTSGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e6eb3e6a88191953d1c6491a24c17-local-tts-guide)
 
 ---
@@ -9020,7 +9020,7 @@ Provides detailed safety briefings tailored to specific locations, highlighting 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/location-based-threat-brief-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/location-based-threat-brief-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-r5Cxk7r97-location-based-threat-briefer)
 
 ---
@@ -9037,7 +9037,7 @@ Advises users on the range of lesser-known large language models.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LongTailLLMs_270525.json)
+  - 📄 [JSON File](repo-data/json/LongTailLLMs_270525.json)
 
 ---
 
@@ -9053,7 +9053,7 @@ Generates CSV loookup files according to user requirements
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LookupTableGenerator_CSV_270525.json)
+  - 📄 [JSON File](repo-data/json/LookupTableGenerator_CSV_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6817fcf621a481919094c94fe2860b35-lookup-table-generator-csv)
 
 ---
@@ -9070,7 +9070,7 @@ Generates weak pun-based jokes for comedic effect
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/lousy-pun-joke-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/lousy-pun-joke-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-UBE0QLWee-bad-pun-generator)
 
 ---
@@ -9087,7 +9087,7 @@ Helps users master the art of being low energy in any situation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/low-energy-legend_260925.json)
+  - 📄 [JSON File](repo-data/json/low-energy-legend_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-ZQPH6hBDr-i-m-low-energy)
 
 ---
@@ -9104,7 +9104,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/LowFatAlternatives_270525.json)
+  - 📄 [JSON File](repo-data/json/LowFatAlternatives_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7214d1048191ba5da5a5ba4fe4f5-low-fat-alternatives)
 
 ---
@@ -9121,7 +9121,7 @@ Analyses images of menus at restaurants in order to help users identify dishes w
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/low-fat-food-options_260925.json)
+  - 📄 [JSON File](repo-data/json/low-fat-food-options_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-leNSucp1I-low-fat-food-options)
 
 ---
@@ -9138,7 +9138,7 @@ Helps international travellers understand their baggage allowance based on fligh
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/luggage-allowance-checker_260925.json)
+  - 📄 [JSON File](repo-data/json/luggage-allowance-checker_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-qusetoYsY-baggage-buddy)
 
 ---
@@ -9155,7 +9155,7 @@ Provides users with a grounding in the basics of machine learning and offers gui
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MachineLearningProfessor_270525.json)
+  - 📄 [JSON File](repo-data/json/MachineLearningProfessor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024859568481918356fbe97448869a-machine-learning-professor)
 
 ---
@@ -9172,7 +9172,7 @@ Suggests marco keys and shortcuts for efficient data entry
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Marcos_Shortcuts_270525.json)
+  - 📄 [JSON File](repo-data/json/Marcos_Shortcuts_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68199c748ae48191bb2264f251380a37-marcos-shortcuts)
 
 ---
@@ -9189,7 +9189,7 @@ Creates markdown tables
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MarkdownTableGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/MarkdownTableGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e74299d9c81919bcc6979b08fc10f-markdown-table-generator)
 
 ---
@@ -9206,7 +9206,7 @@ Distills marketing and sales text into factual, technical descriptions by removi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MarketingSpeakFilter_270525.json)
+  - 📄 [JSON File](repo-data/json/MarketingSpeakFilter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e748dd6908191878f39e918bd16b4-marketing-speak-filter)
 
 ---
@@ -9223,7 +9223,7 @@ Provides information about the model context protocol (MCP)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MCPInfo_270525.json)
+  - 📄 [JSON File](repo-data/json/MCPInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e74cbdef88191ad4797490cea3f5b-mcp-info)
 
 ---
@@ -9240,7 +9240,7 @@ Locates online information about the MCP model context protocol and tools associ
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MCPResourceLocator_270525.json)
+  - 📄 [JSON File](repo-data/json/MCPResourceLocator_270525.json)
 
 ---
 
@@ -9256,7 +9256,7 @@ Searches for Model Context Protocol (MCP) servers based on service name or desir
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MCPServerFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/MCPServerFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a8f36cf448191bb76ff853b98904e-mcp-server-finder)
 
 ---
@@ -9273,7 +9273,7 @@ Offers personalized mechanical keyboard recommendations, especially for users wi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MechanicalKeyboardShopper_270525.json)
+  - 📄 [JSON File](repo-data/json/MechanicalKeyboardShopper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e40254bb48191b7f3b0b7f5e55c40-mechanical-keyboard-shopper)
 
 ---
@@ -9290,7 +9290,7 @@ Creates a well-organized outline of talking points for media appearances based o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MediaInterviewPrepBot_270525.json)
+  - 📄 [JSON File](repo-data/json/MediaInterviewPrepBot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e751947508191be70c3376e742b0c-media-interview-prep-bot)
 
 ---
@@ -9307,7 +9307,7 @@ Helps build media lists and suggests relevant journalists.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/media-list-building-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/media-list-building-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-VDgK9IZEL-media-list-building-assistant)
 
 ---
@@ -9324,7 +9324,7 @@ Generates templated media mention reports for clients based on a provided URL, e
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MediaMentionReportGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/MediaMentionReportGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e752d3bb48191a5ca51fb312505ff-media-mention-report-generator)
 
 ---
@@ -9341,7 +9341,7 @@ Compiles and summarizes relevant media coverage based on user-defined criteria
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/media-monitoring-brief-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/media-monitoring-brief-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-zobI0AaRr-media-monitoring-brief-generator)
 
 ---
@@ -9358,7 +9358,7 @@ A media monitoring assistant focusd on helping monitor for personal coverage
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/media-monitoring-helper_260925.json)
+  - 📄 [JSON File](repo-data/json/media-monitoring-helper_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-BgJXKFLbW-media-monitoring-helper)
 
 ---
@@ -9375,7 +9375,7 @@ This assistant aids in media monitoring by gathering user requirements, suggesti
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MediaMonitoringSearchGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/MediaMonitoringSearchGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e76931a148191bdc3baa8ebb3e17b-media-monitoring-search-generator)
 
 ---
@@ -9392,7 +9392,7 @@ Conducts background research on inbound media requests and offers assessments as
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/media-opportunity-screening-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/media-opportunity-screening-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-U8MlFgUM1-media-opportunity-screening-assistant)
 
 ---
@@ -9409,7 +9409,7 @@ Prepares users for upcoming medical appointments by gathering relevant informati
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MedicalAppointmentNotesPrepper_270525.json)
+  - 📄 [JSON File](repo-data/json/MedicalAppointmentNotesPrepper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e76b79ecc8191b77c7196cb3cc6b6-medical-appointment-notes-prepper)
 
 ---
@@ -9426,7 +9426,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/medical-problem-documenter_250925.json)
+  - 📄 [JSON File](repo-data/json/medical-problem-documenter_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55f87d0548191b720330bc3ea039e-medical-problem-documenter)
 
 ---
@@ -9443,7 +9443,7 @@ Interprets medical reports, demystifies medical jargon, and delivers clear, conc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MedicalReportInterpreter_270525.json)
+  - 📄 [JSON File](repo-data/json/MedicalReportInterpreter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e404bd1808191bbbc98e761ec0099-medical-report-interpreter)
 
 ---
@@ -9460,7 +9460,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/medication-identification-assistant_250925.json)
+  - 📄 [JSON File](repo-data/json/medication-identification-assistant_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d5810bed9c8191929ff13149d18ea4-medication-identification-assistant)
 
 ---
@@ -9477,7 +9477,7 @@ Helps manage and track daily medication schedules. Offers reminders if medicatio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/medication-manager_260925.json)
+  - 📄 [JSON File](repo-data/json/medication-manager_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-JDFAKxr23-medication-manager)
 
 ---
@@ -9494,7 +9494,7 @@ Assists users in understanding their medications in the context of international
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MedicationNameTranslator_270525.json)
+  - 📄 [JSON File](repo-data/json/MedicationNameTranslator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e76d828508191aa9ad09676cfdf0d-medication-name-translator)
 
 ---
@@ -9511,7 +9511,7 @@ Advises users on the legality of their prescription medications in the context o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MedicationTravelLegality_270525.json)
+  - 📄 [JSON File](repo-data/json/MedicationTravelLegality_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e76eddba481918c06f44a7524324c-medication-travel-legality)
 
 ---
@@ -9528,7 +9528,7 @@ Translates modern text into authentic Medieval English while communicating with 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MedievalTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/MedievalTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7702395c819189eedca693890e06-medieval-text-generator)
 
 ---
@@ -9545,7 +9545,7 @@ A GPT to assist in crafting professional and well-organised meeting agendas
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/meeting-agenda-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/meeting-agenda-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-pz34K5RyA-meeting-agenda-assistant)
 
 ---
@@ -9562,7 +9562,7 @@ Transforms unstructured meeting details into a structured business agenda, promp
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MeetingAgendaGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/MeetingAgendaGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7713fd8881919fbd062f92494c92-meeting-agenda-generator)
 
 ---
@@ -9579,7 +9579,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MeetingDebriefWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/MeetingDebriefWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6812415d0db88191992484ee5334e251-meeting-debrief-writer)
 
 ---
@@ -9596,7 +9596,7 @@ Formats unstructured meeting notes into organized minutes, requests missing esse
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MeetingMinutesRecorder_270525.json)
+  - 📄 [JSON File](repo-data/json/MeetingMinutesRecorder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e77277290819186d87bbc19d30b5a-meeting-minutes-recorder)
 
 ---
@@ -9613,7 +9613,7 @@ Summarmisation agent for extracting action items and summary data from minutes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MeetingMinutesSummariser_270525.json)
+  - 📄 [JSON File](repo-data/json/MeetingMinutesSummariser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e773a3e3c8191a393d5b3e9b1e3b6-meeting-minutes-summariser)
 
 ---
@@ -9630,7 +9630,7 @@ Helps users prepare for meetings with detailed, actionable steps.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/meeting-prep-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/meeting-prep-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-IWLPM4Oxw-meeting-prep-assistant)
 
 ---
@@ -9647,7 +9647,7 @@ Modifies Mermaid diagram code based on user requests and provides the updated co
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MermaidDiagramCreator_Editor_270525.json)
+  - 📄 [JSON File](repo-data/json/MermaidDiagramCreator_Editor_270525.json)
 
 ---
 
@@ -9663,7 +9663,7 @@ Recommends specific pointing devices, tailored to user requirements such as ergo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MiceAndPointingDevice_270525.json)
+  - 📄 [JSON File](repo-data/json/MiceAndPointingDevice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e77ff7b2081918f2418b93e9a6528-mice-and-pointing-device)
 
 ---
@@ -9680,7 +9680,7 @@ Advises users on microphone purchases based on their specific audio applications
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MicrophonePurchasingAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/MicrophonePurchasingAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7811b638819189dd5710fba6556d-microphone-purchasing-advice)
 
 ---
@@ -9697,7 +9697,7 @@ Finds and explains current information related to the Model Context Protocol (MC
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ModelContextProtocol_MCP_Info_270525.json)
+  - 📄 [JSON File](repo-data/json/ModelContextProtocol_MCP_Info_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a8e8fac24819191cf7ee1441a7cb8-model-context-protocol-mcp-info)
 
 ---
@@ -9714,7 +9714,7 @@ Helps users convert emissions data into financial impacts using different social
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/monetised-ghg-emissions-simulator-carbon-pricing_260925.json)
+  - 📄 [JSON File](repo-data/json/monetised-ghg-emissions-simulator-carbon-pricing_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-55PLL6ojy-monetised-ghg-emissions-simulator-carbon-pricing)
 
 ---
@@ -9731,7 +9731,7 @@ Assists users with MongoDB tasks such as query generation, schema design, perfor
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MongoDBHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/MongoDBHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e78f8901081918685df01f60a0b51-mongodb-helper)
 
 ---
@@ -9748,7 +9748,7 @@ Offers expert purchasing advice on computer monitors and multi-monitor arrays.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MonitorPurchasingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/MonitorPurchasingAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7910521c8191be9abadb137da1c1-monitor-purchasing-advisor)
 
 ---
@@ -9765,7 +9765,7 @@ Crafts incredibly dull life updates from user-provided information, emphasizing 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MonotonousNewsletterMaker_270525.json)
+  - 📄 [JSON File](repo-data/json/MonotonousNewsletterMaker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7926e7c88191b308b1212bf329fb-monotonous-newsletter-maker)
 
 ---
@@ -9782,7 +9782,7 @@ provides an on-demand summary for email and calendar.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MorningEmailAndCalendarSummary_270525.json)
+  - 📄 [JSON File](repo-data/json/MorningEmailAndCalendarSummary_270525.json)
 
 ---
 
@@ -9798,7 +9798,7 @@ This AI assistant crafts personalized movie and entertainment binge timelines fo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MovieBingeStrategistOnCall_270525.json)
+  - 📄 [JSON File](repo-data/json/MovieBingeStrategistOnCall_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7941a2688191ab170514cb53008f-movie-binge-strategist-on-call)
 
 ---
@@ -9815,7 +9815,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Multi_AgentFrameworksGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/Multi_AgentFrameworksGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e795399a88191ab0c05ebfe9e437a-multi-agent-frameworks-guide)
 
 ---
@@ -9832,7 +9832,7 @@ Provides detailed explanations and concrete examples of models, platforms, and t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MultimodalAIQuestions_270525.json)
+  - 📄 [JSON File](repo-data/json/MultimodalAIQuestions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7966e68481918d6d331ca1d3e943-multimodal-ai-questions)
 
 ---
@@ -9849,7 +9849,7 @@ Creates demonstration documents that describe the user's ideal job and work envi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/MyIdealJobDocumenter_270525.json)
+  - 📄 [JSON File](repo-data/json/MyIdealJobDocumenter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e79ab725481918e9fe2261b3d26df-my-ideal-job-documenter)
 
 ---
@@ -9866,7 +9866,7 @@ Transforms user-defined process descriptions into detailed N8n workflow plans, r
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/N8NAgentImplementation_270525.json)
+  - 📄 [JSON File](repo-data/json/N8NAgentImplementation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e79d897148191b68bb27e90cba2a8-n8n-agent-implementation)
 
 ---
@@ -9883,7 +9883,7 @@ Suggests automation workflows based on user-specified services, outlining practi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/N8NAutomationIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/N8NAutomationIdeator_270525.json)
 
 ---
 
@@ -9899,7 +9899,7 @@ Generates N8N-compliant code nodes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/N8NScriptWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/N8NScriptWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681bc5ebc6708191ad74fc2e3644e004-n8n-script-writer)
 
 ---
@@ -9916,7 +9916,7 @@ Accepts a JSON file representing an N8n workflow, applies edits based on user in
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/N8NWorkflowEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/N8NWorkflowEditor_270525.json)
 
 ---
 
@@ -9932,7 +9932,7 @@ Suggests names for AI bots and tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NameMyBot_270525.json)
+  - 📄 [JSON File](repo-data/json/NameMyBot_270525.json)
 
 ---
 
@@ -9948,7 +9948,7 @@ This AI assistant simulates interactions with a narcissistic abuser to help user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Narcissistic_EmotionalAbuse_GaslightingIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/Narcissistic_EmotionalAbuse_GaslightingIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7a36a8b48191a949b4c3ec428363-gaslighting-spotter)
 
 ---
@@ -9965,7 +9965,7 @@ Offers empathetic guidance and information to individuals who have experienced n
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NarcissisticPersonalityDisorder_270525.json)
+  - 📄 [JSON File](repo-data/json/NarcissisticPersonalityDisorder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7a623f6c81918118e5903bab6086-narcissistic-personality-disorder)
 
 ---
@@ -9982,7 +9982,7 @@ Corrects English text written by non-native speakers, adapting corrections based
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NativeEnglishEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/NativeEnglishEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7ada08ec819198ff39caadac92c6-native-english-editor)
 
 ---
@@ -9999,7 +9999,7 @@ Translates natural language descriptions of data structures into corresponding M
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NaturalLanguageSchemaDefinition_MongoDB_270525.json)
+  - 📄 [JSON File](repo-data/json/NaturalLanguageSchemaDefinition_MongoDB_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7aec6c208191b8efcbeff75d8699-natural-language-schema-definition-mongodb)
 
 ---
@@ -10016,7 +10016,7 @@ Assists users in defining data structures for Neo4j using natural language, tran
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NaturalLanguageSchemaDefinitionNeo4j_270525.json)
+  - 📄 [JSON File](repo-data/json/NaturalLanguageSchemaDefinitionNeo4j_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7b306e608191a6310f29219f71ce-natural-language-schema-definition-neo4j)
 
 ---
@@ -10033,7 +10033,7 @@ Converts natural language descriptions of data into CSV format, prompting the us
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NaturalLanguageToCSV_270525.json)
+  - 📄 [JSON File](repo-data/json/NaturalLanguageToCSV_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7b437c188191bfd7f1818095bebf-natural-language-to-csv)
 
 ---
@@ -10050,7 +10050,7 @@ Generates a JSON schema based on the user's natural language description of a de
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NaturalLanguageToJSON_270525.json)
+  - 📄 [JSON File](repo-data/json/NaturalLanguageToJSON_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7b54e190819181aa9946e2c01d50-natural-language-to-json)
 
 ---
@@ -10067,7 +10067,7 @@ Translates natural language requests into SQL queries, utilizing provided databa
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NaturalLanguagetoSQL_270525.json)
+  - 📄 [JSON File](repo-data/json/NaturalLanguagetoSQL_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7b6701ac819197cee17e5e5c84b3-natural-language-to-sql)
 
 ---
@@ -10084,7 +10084,7 @@ Converts natural language descriptions of data into YAML format, prompting the u
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NaturalLanguageToYAML_270525.json)
+  - 📄 [JSON File](repo-data/json/NaturalLanguageToYAML_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7b79616c8191b6ec3fb83737cc93-natural-language-to-yaml)
 
 ---
@@ -10101,7 +10101,7 @@ Assists users with Neo4j tasks such as Cypher query generation, graph schema des
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Neo4jHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/Neo4jHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7ba243e08191a6d2accc9da25a65-neo4j-helper)
 
 ---
@@ -10118,7 +10118,7 @@ Offers expert advice on networking hardware for home and small business environm
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NetworkingHardwareAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/NetworkingHardwareAdvice_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7bcbcb7c8191a2a2146a8092a36b-networking-hardware-advice)
 
 ---
@@ -10135,7 +10135,7 @@ Offers comprehensive information about neurodiversity, including autism, ADHD, a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NeurodivergenceExplorer_270525.json)
+  - 📄 [JSON File](repo-data/json/NeurodivergenceExplorer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7be116208191aaef9824031aac50-neurodivergence-explorer)
 
 ---
@@ -10152,7 +10152,7 @@ Analyzes existing or planned YouTube channel content to generate fresh video top
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NewYouTubeIdeas_270525.json)
+  - 📄 [JSON File](repo-data/json/NewYouTubeIdeas_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7bf3e8748191a97158c83fd5f7f9-new-youtube-ideas)
 
 ---
@@ -10169,7 +10169,7 @@ Analyzes news articles from URLs or provided text, delivering structured summari
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NewsArticleSummaryGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/NewsArticleSummaryGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7c1c1d808191adb7d839b8e3a24f-news-article-summary-generator)
 
 ---
@@ -10186,7 +10186,7 @@ Provides concise, analytical briefs on recent use events, mirroring the style of
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NewsBriefGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/NewsBriefGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7c317da881919552f1236007f52a-news-brief-generator)
 
 ---
@@ -10203,7 +10203,7 @@ Summarises news about a specific topic
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NewsRoundupByTopic_270525.json)
+  - 📄 [JSON File](repo-data/json/NewsRoundupByTopic_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7c5edc3481919af1f2a0b1ff4863-news-roundup-by-topic)
 
 ---
@@ -10220,7 +10220,7 @@ Advises users on NFC technology, answering detailed questions about tag types, o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NFCExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/NFCExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7c8cc2748191bbad8f0100af7dff-nfc-expert)
 
 ---
@@ -10237,7 +10237,7 @@ Assists with developing a comprehensive backend
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NocoDBDevelopmentCopilot_270525.json)
+  - 📄 [JSON File](repo-data/json/NocoDBDevelopmentCopilot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68199670c7d48191a9367ec145562f7c-nocodb-development-copilot)
 
 ---
@@ -10254,7 +10254,7 @@ Generates formulae fields
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NocoDBFormulaGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/NocoDBFormulaGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68199be546248191ab76b63d1dca08ab-nocodb-formula-generator)
 
 ---
@@ -10271,7 +10271,7 @@ Offers empathetic and detailed support to users with noise sensitivity, particul
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/NoiseSensitivitySupport_270525.json)
+  - 📄 [JSON File](repo-data/json/NoiseSensitivitySupport_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7e3ab4ec8191a94ab3d31064b3c0-noise-sensitivity-support)
 
 ---
@@ -10288,7 +10288,7 @@ This AI assistant drafts email replies that subtly challenge senders of potentia
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Non_PersonalEmailChallenge_270525.json)
+  - 📄 [JSON File](repo-data/json/Non_PersonalEmailChallenge_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7e5132888191b994748339e1255e-non-personal-email-challenge)
 
 ---
@@ -10305,7 +10305,7 @@ Recommends less-explored but interesting places, either generally or within a sp
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OffTheBeatenPath_270525.json)
+  - 📄 [JSON File](repo-data/json/OffTheBeatenPath_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024727a1088191b8d219f4b4c1f1c1-off-the-beaten-path-travel-guide)
 
 ---
@@ -10322,7 +10322,7 @@ Translates user-provided text into various forms of Old English, including Engli
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OldEnglishEmailDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/OldEnglishEmailDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e814f3e688191a7a0cdd5ce965da8-old-english-email-drafter)
 
 ---
@@ -10339,7 +10339,7 @@ Formats user-provided text into a coherent online review, following standard rev
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OnlineReviewTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/OnlineReviewTextGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024278277881919615c68fa5b1a2c4-online-review-writer)
 
 ---
@@ -10356,7 +10356,7 @@ Recommends movies celebrated for their awfulness, providing trailers and reasons
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OnlyBadMovieRecs_270525.json)
+  - 📄 [JSON File](repo-data/json/OnlyBadMovieRecs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6807eebc92e48191a39b9b719d89b265-only-bad-movie-recs)
 
 ---
@@ -10373,7 +10373,7 @@ Provides delightfully obscure product recommendations no matter the request
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OnlyObscureProductRecs_270525.json)
+  - 📄 [JSON File](repo-data/json/OnlyObscureProductRecs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7fd6a8148191b71f22be98e8f662-only-obscure-product-recs)
 
 ---
@@ -10390,7 +10390,7 @@ Aids users in locating open-source datasets relevant to their specified topics, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenAccessDataFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenAccessDataFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e81e5709c8191b30c0d1877be91c1-open-access-data-finder)
 
 ---
@@ -10407,7 +10407,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/open-data-finder_260925.json)
+  - 📄 [JSON File](repo-data/json/open-data-finder_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-3iG0XaYeM-open-data-finder)
 
 ---
@@ -10424,7 +10424,7 @@ Provides users with comprehensive overviews of how to contribute to open-source 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenSourceContributorGuidelines_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenSourceContributorGuidelines_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e827062508191b6e836833c94820f-open-source-contributor-guidelines)
 
 ---
@@ -10441,7 +10441,7 @@ Explains the features, comparisons, and usage of open-source LLMs, especially th
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenSourceLLMGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenSourceLLMGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680246c372248191ae2ce522e774b19e-open-source-llm-guide)
 
 ---
@@ -10458,7 +10458,7 @@ Advises users on open-source resources and tools for Model Context Protocol (MCP
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenSourceMCPFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenSourceMCPFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e829b70948191923da6351d6cc62d-open-source-mcp-finder)
 
 ---
@@ -10475,7 +10475,7 @@ Evaluates GitHub repositories by examining metrics like stars, update frequency,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenSourceProjectSizeComparison_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenSourceProjectSizeComparison_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e82b155048191a2f0c7a2291f2a14-open-source-project-size-comparison)
 
 ---
@@ -10492,7 +10492,7 @@ Helps users discover relevant open-source software for self-hosting, desktop, or
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenSourceSoftwareFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenSourceSoftwareFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e82c3a1b081918091c9da51aacd1b-open-source-software-finder)
 
 ---
@@ -10509,7 +10509,7 @@ Provides users with expert technical guidance on using the OpenAI Assistants Pla
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenAIAssistants_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenAIAssistants_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e831cd5a881918f3c182af164449b-openai-assistants)
 
 ---
@@ -10526,7 +10526,7 @@ Helps users find OpenAPI-compliant APIs for specific tasks.  It provides relevan
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpenAPIAPIFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/OpenAPIAPIFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8331f14c819198fcebef9e41a996-openapi-api-finder)
 
 ---
@@ -10543,7 +10543,7 @@ Assists users with configuring and debugging OPNsense firewalls, providing how-t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OPNSenseAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/OPNSenseAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e834e75b08191bd7c7c7180632e17-opnsense-assistant)
 
 ---
@@ -10560,7 +10560,7 @@ Helps communications professionals craft comment drafts for clients based on rec
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/opportunities-for-comment-pr-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/opportunities-for-comment-pr-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-2dtwMq3rJ-opportunities-for-comment-pr-assistant)
 
 ---
@@ -10577,7 +10577,7 @@ Takes a user-defined issue and generates a debate between characters representin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OpposingNarratives_DialogueSimulation_270525.json)
+  - 📄 [JSON File](repo-data/json/OpposingNarratives_DialogueSimulation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e836fce94819189a5376be6c584da-opposing-narratives-dialogue-simulation)
 
 ---
@@ -10594,7 +10594,7 @@ Assists administrators of AI assistant networks by managing individual orchestra
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OrchestrationAgentManager_270525.json)
+  - 📄 [JSON File](repo-data/json/OrchestrationAgentManager_270525.json)
 
 ---
 
@@ -10610,7 +10610,7 @@ Maps out relationships between organisations and identify associated organisatio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/organisation-relationship-finder_260925.json)
+  - 📄 [JSON File](repo-data/json/organisation-relationship-finder_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-vTrVsc1o4-organisation-relationship-finder)
 
 ---
@@ -10627,7 +10627,7 @@ Advises users on different organizational systems, their methodologies, and thei
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OrganisationalSystemGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/OrganisationalSystemGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8574b694819196598bc04af3c5c0-organisational-system-guide)
 
 ---
@@ -10644,7 +10644,7 @@ For when you know that a digital workspace needs some organisation but don't kno
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OrganiseMyFolders_270525.json)
+  - 📄 [JSON File](repo-data/json/OrganiseMyFolders_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6825cb2b4e7c81918eb92cee5cc2c6c0-organise-my-folders)
 
 ---
@@ -10661,7 +10661,7 @@ Helps the user to locate open source intelligence (OSINT) tools.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OSINTToolsExplorer_270525.json)
+  - 📄 [JSON File](repo-data/json/OSINTToolsExplorer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8587160c81919444b06548d5f977-osint-tools-explorer)
 
 ---
@@ -10678,7 +10678,7 @@ Ideates unconventional and creative job application strategies tailored to a spe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OutlandishJobApplicationIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/OutlandishJobApplicationIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e85ce3ec08191a4a0af13d5302a4f-outlandish-job-application-ideator)
 
 ---
@@ -10695,7 +10695,7 @@ Assists users in writing prompts that instruct AI models to generate outputs in 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OutputFormatPromptingGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/OutputFormatPromptingGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e871b3748819196d9b5951004283c-output-format-prompting-guide)
 
 ---
@@ -10712,7 +10712,7 @@ Attempts to guess prompts from outputs
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OutputToPrompt_270525.json)
+  - 📄 [JSON File](repo-data/json/OutputToPrompt_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8773ca848191942203bb6b15e4f5-output-to-prompt)
 
 ---
@@ -10729,7 +10729,7 @@ Simulates a friendship with an individual prone to oversharing inappropriate and
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OversharingBotGuy_270525.json)
+  - 📄 [JSON File](repo-data/json/OversharingBotGuy_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e87eb10a08191987b163ae80931bd-oversharing-bot-guy)
 
 ---
@@ -10746,7 +10746,7 @@ Generates elaborate and demanding social invitation templates designed to overwh
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/OverwhelmingInvitationGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/OverwhelmingInvitationGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e88069954819193a0c229107ae457-overwhelming-invitation-generator)
 
 ---
@@ -10763,7 +10763,7 @@ This assistant helps users develop reusable packing lists, prompting them to con
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PacklingListChecker_270525.json)
+  - 📄 [JSON File](repo-data/json/PacklingListChecker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8831091c81918250f9b7408808a1-pre-travel-checklist)
 
 ---
@@ -10780,7 +10780,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/parenting-style-explorer_250925.json)
+  - 📄 [JSON File](repo-data/json/parenting-style-explorer_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d555e312b081918cb6f12f109eb5aa-parenting-style-explorer)
 
 ---
@@ -10797,7 +10797,7 @@ Analyses circuit boards and attempts to identify components
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PCBIdentificationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/PCBIdentificationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e89cd03808191a602c0b48da3330e-pcb-identification-assistant)
 
 ---
@@ -10814,7 +10814,7 @@ Assists users in debugging performance issues in technical systems by identifyin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PerformanceDebuggingAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/PerformanceDebuggingAssistant_270525.json)
 
 ---
 
@@ -10830,7 +10830,7 @@ Helps the user to find niche computer peripherals
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PeripheralFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/PeripheralFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e89e9931c819180200cd7de9a439c-peripheral-finder)
 
 ---
@@ -10847,7 +10847,7 @@ Assists the user by developing recommendations for personal branding
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Personal_ProfesionalBrandingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/Personal_ProfesionalBrandingAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8a3002288191adcc55709238216b-personal-profesional-branding-advisor)
 
 ---
@@ -10864,7 +10864,7 @@ Drafts agendas for personal contexts like bank meetings, doctors' visits, etc.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalAgendaDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalAgendaDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8a40a4048191bcca298d9194375c-personal-agenda-drafter)
 
 ---
@@ -10881,7 +10881,7 @@ The "Personal Branding Assistant" empowers job seekers to take control of their 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalBrandingAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalBrandingAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8a6f7a2c81918085a5b814bd93c0-personal-branding-assistant)
 
 ---
@@ -10898,7 +10898,7 @@ Suggests creative and successful branding strategies for users based on their re
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalBrandingIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalBrandingIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8a86d7e48191beeacb181374cbf1-personal-branding-ideator)
 
 ---
@@ -10915,7 +10915,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalFinanceAppsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalFinanceAppsFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8a9c2c44819180231f65c037ddee-personal-finance-apps-finder)
 
 ---
@@ -10932,7 +10932,7 @@ Guides users in finding online learning opportunities tailored to their interest
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalLearningGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalLearningGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6802482bea4081919f1053b88a0fbb17-personal-learning-guide)
 
 ---
@@ -10949,7 +10949,7 @@ Analyzes transcripts or audio recordings using provided identifying information 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalityAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalityAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8b2692fc8191a57c6c6ed3054ec0-personality-analyst)
 
 ---
@@ -10966,7 +10966,7 @@ Generates organized, third-person character sketches from user-provided descript
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalitySketcher_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalitySketcher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8b3e6520819198eff3281b0f53bc-personality-sketcher)
 
 ---
@@ -10983,7 +10983,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PersonalizedAI_270525.json)
+  - 📄 [JSON File](repo-data/json/PersonalizedAI_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8b52010c81918bac5d7c692dfacd-personalized-ai)
 
 ---
@@ -11000,7 +11000,7 @@ Friendly pest control specialist
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PestControlOnCall_270525.json)
+  - 📄 [JSON File](repo-data/json/PestControlOnCall_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8b66fa608191b11a20fea6410e4f-pest-control-on-call)
 
 ---
@@ -11017,7 +11017,7 @@ Helps users explore photogrammetry tools for 3D modeling, especially for animati
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Photogrammetery_ModellingTools_270525.json)
+  - 📄 [JSON File](repo-data/json/Photogrammetery_ModellingTools_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680246f3d10881919d8123cd9d4be028-photogrammetery-modelling-tools)
 
 ---
@@ -11034,7 +11034,7 @@ Takes a natural language description of Personally Identifiable Information (PII
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PIIFilterListCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/PIIFilterListCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e8bb7ae38819193c3f0ff5dabe848-pii-filter-list-creator)
 
 ---
@@ -11051,7 +11051,7 @@ Guides users in creating Pipedream workflows by providing step-by-step instructi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PipedreamAutomationHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/PipedreamAutomationHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e91475894819198b6b00629265a50-pipedream-automation-helper)
 
 ---
@@ -11068,7 +11068,7 @@ Analyzes images of electrical plugs to identify their type and provide relevant 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PlugTypeIdentiifer_270525.json)
+  - 📄 [JSON File](repo-data/json/PlugTypeIdentiifer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e9197300c819199c142bcb6acd369-plug-type-identiifer)
 
 ---
@@ -11085,7 +11085,7 @@ Generates structured podcast episodes based on user-provided topics and learning
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PodcastOnDemand_270525.json)
+  - 📄 [JSON File](repo-data/json/PodcastOnDemand_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e91ad003c8191baaeef4c820c1e64-podcast-on-demand)
 
 ---
@@ -11102,7 +11102,7 @@ Ideates ways for people to get along in spite of political differences
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/political-differences-navigator_260925.json)
+  - 📄 [JSON File](repo-data/json/political-differences-navigator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-qxQBy9eFP-political-differences-navigator)
 
 ---
@@ -11119,7 +11119,7 @@ Assists users with PostgreSQL database-related tasks such as generating SQL quer
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PostgresHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/PostgresHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e91f73a988191aa4ae5fff7614514-postgres-helper)
 
 ---
@@ -11136,7 +11136,7 @@ Answers questions and helps with PostgreSQL queries and concepts, from basics to
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/postgresql-expert_260925.json)
+  - 📄 [JSON File](repo-data/json/postgresql-expert_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-gYptVuav6-postgresql-expert)
 
 ---
@@ -11153,7 +11153,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/preparedness-brief-creator_260925.json)
+  - 📄 [JSON File](repo-data/json/preparedness-brief-creator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-SyuJVbnaa-preparedness-brief-creator)
 
 ---
@@ -11170,7 +11170,7 @@ Retrieves pricing information for commercial services
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PricingRetrievalBot_270525.json)
+  - 📄 [JSON File](repo-data/json/PricingRetrievalBot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68176c5804b8819182135cd246a29279-pricing-retrieval-bot)
 
 ---
@@ -11187,7 +11187,7 @@ Provides detailed information about technical products, including the manufactur
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProductNameToProductInfo_270525.json)
+  - 📄 [JSON File](repo-data/json/ProductNameToProductInfo_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e9313ba30819194bd3d77c734894f-product-name-to-product-info)
 
 ---
@@ -11204,7 +11204,7 @@ Extracts product options from web pages or screenshots and delivers a confident,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProductPicker_270525.json)
+  - 📄 [JSON File](repo-data/json/ProductPicker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb6bfe2bc8191a5db99b1485df951-product-picker)
 
 ---
@@ -11221,7 +11221,7 @@ Drowning in a sea of helpful apps? This AI's mission is to help streamline the c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProductivityStackStreamliner_270525.json)
+  - 📄 [JSON File](repo-data/json/ProductivityStackStreamliner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a2972d5848191b37248cc059f141f-productivity-stack-streamliner)
 
 ---
@@ -11238,7 +11238,7 @@ Finds professional associations, assesses credibility, longevity and purpose, th
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProfessionalAssociationsExplorer_270525.json)
+  - 📄 [JSON File](repo-data/json/ProfessionalAssociationsExplorer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e9328f8fc8191932e4d6b308ec004-professional-associations-explorer)
 
 ---
@@ -11255,7 +11255,7 @@ Advises users on continuous professional development and skill enhancement, reco
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProfessionalDevelopmentNavigator_270525.json)
+  - 📄 [JSON File](repo-data/json/ProfessionalDevelopmentNavigator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea7c78a5081919494db4854df298a-professional-development-navigator)
 
 ---
@@ -11272,7 +11272,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Professionalidentityidentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/Professionalidentityidentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea7dd11548191869cce6fdaca1904-professional-identity-identifier)
 
 ---
@@ -11289,7 +11289,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/professional-narrative-writers_250925.json)
+  - 📄 [JSON File](repo-data/json/professional-narrative-writers_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55e7ee1448191a8ca9d1c66eec0b0-professional-narrative-writer)
 
 ---
@@ -11306,7 +11306,7 @@ Sources information about market rates for different professional services, espe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProfessionalRatesResearcher_270525.json)
+  - 📄 [JSON File](repo-data/json/ProfessionalRatesResearcher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea8105b8c81919edb5823de181560-professional-rates-researcher)
 
 ---
@@ -11323,7 +11323,7 @@ Advises upon programmable and custom keyboards
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProgrammableKeyboards_270525.json)
+  - 📄 [JSON File](repo-data/json/ProgrammableKeyboards_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68199ec9b5488191b34d4d24ceab7922-programmable-keyboards)
 
 ---
@@ -11340,7 +11340,7 @@ Assists with discovery project management apps with a focus on cloud platforms
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProjectManagementAppFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/ProjectManagementAppFinder_270525.json)
 
 ---
 
@@ -11356,7 +11356,7 @@ Creative Naming Assistant that generates project and domain names based on user 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProjectNameIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/ProjectNameIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea839125c8191b88021842277e5cd-project-name-ideator)
 
 ---
@@ -11373,7 +11373,7 @@ Helps users determine whether to continue or abandon a specific endeavor, especi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProjectPivotAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/ProjectPivotAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea853a15081919f0b6a2ef0823775-project-pivot-advisor)
 
 ---
@@ -11390,7 +11390,7 @@ Generates project proposals and pre-contract documents
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProjectProposalGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ProjectProposalGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea865a4fc81919c9a08f1b65a2af1-project-proposal-generator)
 
 ---
@@ -11407,7 +11407,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PrometheusQueryGenie_270525.json)
+  - 📄 [JSON File](repo-data/json/PrometheusQueryGenie_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6812ab07f830819184aca872f9407183-prometheus-query-genie)
 
 ---
@@ -11424,7 +11424,7 @@ Formats user-provided prompts and corresponding LLM outputs into a standardized 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Prompt_OutputReformatter_270525.json)
+  - 📄 [JSON File](repo-data/json/Prompt_OutputReformatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaaf52ca48191bb10b9c1e98f8131-prompt-output-reformatter)
 
 ---
@@ -11441,7 +11441,7 @@ Takes a JSON array of system prompt configurations and converts this to a human-
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptConverter_JSONToMarkdown_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptConverter_JSONToMarkdown_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea87a2c1c81918823bfe3e8ef1290-prompt-converter-json-to-markdown)
 
 ---
@@ -11458,7 +11458,7 @@ Analyzes user prompts to identify requested data elements and their presumed dat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptDataIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptDataIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024b353ab8819198c2481efeb664ad-prompt-data-identifier)
 
 ---
@@ -11475,7 +11475,7 @@ Edits system prompts to enforce a more rigid structure to mimic structured outpu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptEditor_MimicStructuredOutput_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptEditor_MimicStructuredOutput_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea9489e088191988f096f37d9db2a-prompt-editor-mimic-structured-output)
 
 ---
@@ -11492,7 +11492,7 @@ Ideates AI assistant concepts for AI professionals, drafts system prompts, and p
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptEngAssistantIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptEngAssistantIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea97465c081919d7db433702d44b3-prompt-eng-assistant-ideator)
 
 ---
@@ -11509,7 +11509,7 @@ Guide to prompt engineering tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptEngineeringToolIdeas_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptEngineeringToolIdeas_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ea9c955148191b616d8adf37b01db-prompt-engineering-tool-ideas)
 
 ---
@@ -11526,7 +11526,7 @@ Adds examples to user-provided prompts, recommends the optimal number of example
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptExampleAdder_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptExampleAdder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaa91f5748191ada5c11061c44caa-prompt-example-adder)
 
 ---
@@ -11543,7 +11543,7 @@ Evaluates prompts provided by the user, providing a detailed analysis of their s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptForensics_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptForensics_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaab2bc8081918c9c9b200b1086ee-prompt-forensics)
 
 ---
@@ -11560,7 +11560,7 @@ Analyzes user-submitted prompts, provides feedback based on prompt engineering b
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptImprovementAgent_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptImprovementAgent_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaacb847c81919491c4d9c30352eb-prompt-improvement-agent)
 
 ---
@@ -11577,7 +11577,7 @@ Analyzes user-submitted prompts for a specified large language model by calculat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptLengthAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptLengthAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaae24b3c8191ab9231c7982bfafe-prompt-length-analyst)
 
 ---
@@ -11594,7 +11594,7 @@ Condenses user-provided prompts by removing redundancy, then explains the change
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptShortener_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptShortener_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eab1e2bb081918bddac28923baf2d-prompt-shortener)
 
 ---
@@ -11611,7 +11611,7 @@ Suggests tailored prompts based on user-provided context and objectives, offerin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptSuggestor_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptSuggestor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eab31e7408191816908292c27cc2b-prompt-suggestor)
 
 ---
@@ -11628,7 +11628,7 @@ Analyzes user-provided prompts to identify existing prompt engineering technique
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptToLLM_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptToLLM_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eab46bcb0819186939462ff097ab9-prompt-to-llm)
 
 ---
@@ -11645,7 +11645,7 @@ Analyzes a system prompt for an AI assistant and recommends optimal temperature 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptToParameters_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptToParameters_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eabc696848191849a0157446bce93-prompt-to-parameters)
 
 ---
@@ -11662,7 +11662,7 @@ Offers inventive and practical recommendations for deploying and leveraging AI a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptToPlatform_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptToPlatform_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eabdb7d4c8191841ac1480d6e29a8-prompt-to-platform)
 
 ---
@@ -11679,7 +11679,7 @@ Helps users enhance large language models by identifying limitations in user-pro
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PromptToToolIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/PromptToToolIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eabeee3988191abb2bfb644c119c1-prompt-to-tool-ideator)
 
 ---
@@ -11696,7 +11696,7 @@ Scans uploaded manuscripts for inconsistencies, particularly those involving sta
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Proofreader_Inconsistencies_270525.json)
+  - 📄 [JSON File](repo-data/json/Proofreader_Inconsistencies_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eac01b5c081919c9912150d48d2a5-proofreader-inconsistencies)
 
 ---
@@ -11713,7 +11713,7 @@ Provides expertise in all aspects of Proxmox, from provisioning and hardware rec
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ProxmoxVirtualizationExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/ProxmoxVirtualizationExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680248d51bac8191b395aa5881edd051-local-image-generation-linux)
 
 ---
@@ -11730,7 +11730,7 @@ Pseudo AI writing bot which claims to
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PseudoAIMessenger_270525.json)
+  - 📄 [JSON File](repo-data/json/PseudoAIMessenger_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eac54d3f88191b38f1eaee1c6cb0c-pseudo-ai-messenger)
 
 ---
@@ -11747,7 +11747,7 @@ Automatically replies to unsolicited marketing emails lacking unsubscribe links,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PseudoAnti_SpamBotMailer_270525.json)
+  - 📄 [JSON File](repo-data/json/PseudoAnti_SpamBotMailer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eac68613081918963be376d851c28-pseudo-anti-spam-bot-mailer)
 
 ---
@@ -11764,7 +11764,7 @@ Drafts concise WhatsApp messages that include a polite introduction, a paraphras
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PseudoWhatsAppAIBot_270525.json)
+  - 📄 [JSON File](repo-data/json/PseudoWhatsAppAIBot_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eac9eab6481919eef473711535020-pseudo-whatsapp-ai-bot)
 
 ---
@@ -11781,7 +11781,7 @@ Analyzes emails to determine the likelihood of genuine personalization versus au
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Pseudo_personalisationDetective_270525.json)
+  - 📄 [JSON File](repo-data/json/Pseudo_personalisationDetective_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eac7e8c2c8191b5309b58454f8c22-pseudo-personalisation-detective)
 
 ---
@@ -11798,7 +11798,7 @@ Creates pub crawl itineraries
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PubCrawlItineraryCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/PubCrawlItineraryCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eacb3fd748191adbd494e579c8734-pub-crawl-itinerary-creator)
 
 ---
@@ -11815,7 +11815,7 @@ Analyzes uploaded documents, particularly lengthy PDFs, to identify the page num
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PullQuoteFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/PullQuoteFinder_270525.json)
 
 ---
 
@@ -11831,7 +11831,7 @@ Helps users learn Python by explaining their provided code, offering both genera
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Python_LearnByExample_270525.json)
+  - 📄 [JSON File](repo-data/json/Python_LearnByExample_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ead18ec60819197a91358ebb7d6b6-python-learn-by-example)
 
 ---
@@ -11848,7 +11848,7 @@ Friendly coach on hand to answer all manner of questions about Python.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonCoach_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eacf7f4fc8191bfa016829a771bca-python-coach)
 
 ---
@@ -11865,7 +11865,7 @@ Offers expert guidance on Python package management and environment configuratio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonEnvironmentExplainer_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonEnvironmentExplainer_270525.json)
 
 ---
 
@@ -11881,7 +11881,7 @@ Expert in using Python for automation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonForAutomation_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonForAutomation_270525.json)
 
 ---
 
@@ -11897,7 +11897,7 @@ Provides practical advice and guidance on everyday Python usage, especially rela
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonHelper_270525.json)
 
 ---
 
@@ -11913,7 +11913,7 @@ Recommends Python packages and libraries based on user requests for tools and fu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonPackageFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonPackageFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ead2b67248191ad7722cd5272b36b-python-package-finder)
 
 ---
@@ -11930,7 +11930,7 @@ Generates Python scripts for user-defined automation projects, providing complet
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonScriptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonScriptGenerator_270525.json)
 
 ---
 
@@ -11946,7 +11946,7 @@ Discerns the availability of Python utilities for particular tasks and provides 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/PythonToolFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/PythonToolFinder_270525.json)
 
 ---
 
@@ -11962,7 +11962,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/question-list-generator_250925.json)
+  - 📄 [JSON File](repo-data/json/question-list-generator_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d588dfd4dc8191abbac6ffa56bbafc-question-list-generator)
 
 ---
@@ -11979,7 +11979,7 @@ Supports individuals who struggle with concentration in noisy environments. It h
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/quiet-focus-helper_260925.json)
+  - 📄 [JSON File](repo-data/json/quiet-focus-helper_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-eGboIz4bB-sound-sensitivity-explainer)
 
 ---
@@ -11996,7 +11996,7 @@ Assists users in finding quieter environments and recommending tools to manage a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/quiet-please_260925.json)
+  - 📄 [JSON File](repo-data/json/quiet-please_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-DP63EeIhs-quiet-please)
 
 ---
@@ -12013,7 +12013,7 @@ Enthusiastically helps users with vector storage and RAG pipelines, answering te
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RAGAndVectorStorageConsultant_270525.json)
+  - 📄 [JSON File](repo-data/json/RAGAndVectorStorageConsultant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eadc41c9c8191a3daff38cd7be56a-rag-and-vector-storage-consultant)
 
 ---
@@ -12030,7 +12030,7 @@ Guides users on optimizing embedding and retrieval settings for their datasets w
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RAGEmbeddingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/RAGEmbeddingAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eadd5af9c8191aa8adbbec2640e97-rag-embedding-advisor)
 
 ---
@@ -12047,7 +12047,7 @@ Generates a random, valid address in a city specified by the user, utilizing app
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RandomAddressGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/RandomAddressGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaef50ab08191ad8f95b8106a61a6-random-address-generator)
 
 ---
@@ -12064,7 +12064,7 @@ Generates random ideas for AI assistants and develops system prompts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RandomAIAssistantIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/RandomAIAssistantIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eaf778a008191a2cc78e93957f5b7-random-ai-assistant-ideator)
 
 ---
@@ -12081,7 +12081,7 @@ Generates correspondence with a random email chain before it
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RandomEmailChain_270525.json)
+  - 📄 [JSON File](repo-data/json/RandomEmailChain_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bd88f54148191ad603fe10d33a9c1-random-email-chain-generator)
 
 ---
@@ -12098,7 +12098,7 @@ Drafts unsolicited feedback letters analyzing random people's toilets
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RateThisToilet_270525.json)
+  - 📄 [JSON File](repo-data/json/RateThisToilet_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb24e5b548191856189e3e02e393a-rate-this-toilet)
 
 ---
@@ -12115,7 +12115,7 @@ Helps users find curated reading lists based on their interests
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/reading-list-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/reading-list-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-bGPP9YSrW-reading-list-creator)
 
 ---
@@ -12132,7 +12132,7 @@ Generates README text from other text inputs
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/READMEPageGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/READMEPageGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb2b94c748191b7937d33d0d70eea-readme-page-generator)
 
 ---
@@ -12149,7 +12149,7 @@ Advises the user on current events and search APIs, particularly regarding their
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Realtimeandnewsdata_270525.json)
+  - 📄 [JSON File](repo-data/json/Realtimeandnewsdata_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb306066c8191aea2e20e41436dd8-real-time-and-news-data)
 
 ---
@@ -12166,7 +12166,7 @@ Provides guidance about realtime AI apps
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RealtimeAIApps_270525.json)
+  - 📄 [JSON File](repo-data/json/RealtimeAIApps_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e22558af481918bf3a655a9df7e3c-realtime-ai-apps)
 
 ---
@@ -12183,7 +12183,7 @@ Processes receipt images to identify and isolate financial details, organizing t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ReceiptDataExtractor_270525.json)
+  - 📄 [JSON File](repo-data/json/ReceiptDataExtractor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb3f189d8819193d70edbc9fb93ab-receipt-data-extractor)
 
 ---
@@ -12200,7 +12200,7 @@ Helps users find and summarize recent research reports in their area of interest
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/recent-report-finder_260925.json)
+  - 📄 [JSON File](repo-data/json/recent-report-finder_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-28mgr7MNJ-recent-report-finder)
 
 ---
@@ -12217,7 +12217,7 @@ A helpful assistant that helps users switch to rechargeable batteries. It offers
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RechargeableBatteryExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/RechargeableBatteryExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb714aaf481918220c6dea7045903-rechargeable-battery-expert)
 
 ---
@@ -12234,7 +12234,7 @@ Suggests recipe ideas
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RecipeMuse_270525.json)
+  - 📄 [JSON File](repo-data/json/RecipeMuse_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb7533dbc8191b1297f897daf1155-daniel-recipe-muse)
 
 ---
@@ -12251,7 +12251,7 @@ Takes the details of recommendations and formats them as structured notes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RecommendationCaptureUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/RecommendationCaptureUtility_270525.json)
 
 ---
 
@@ -12267,7 +12267,7 @@ Helps compare different policies and regulations
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/regulation-policy-comparison-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/regulation-policy-comparison-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-bRtrixyRZ-regulation-policy-comparison-assistant)
 
 ---
@@ -12284,7 +12284,7 @@ Boring documents suck. Thankfully this bot is on the case.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/reinvent-my-doc_260925.json)
+  - 📄 [JSON File](repo-data/json/reinvent-my-doc_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-V91vHqIa6-jazz-up-my-document)
 
 ---
@@ -12301,7 +12301,7 @@ Compiles user-provided details about their relationships with significant indivi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RelationshipSummariser_270525.json)
+  - 📄 [JSON File](repo-data/json/RelationshipSummariser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb9bfcec88191bcebe46944beb452-relationship-summariser)
 
 ---
@@ -12318,7 +12318,7 @@ You are a writing assistant that helps the user, the user, convert GitHub reposi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RepoToBlogPost_270525.json)
+  - 📄 [JSON File](repo-data/json/RepoToBlogPost_270525.json)
 
 ---
 
@@ -12334,7 +12334,7 @@ Automatically summarizes reports, extracts key data, and provides analysis
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/report-summary-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/report-summary-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-ahPy64tkD-report-summary-generator)
 
 ---
@@ -12351,7 +12351,7 @@ Conducts research on user-specified topics and delivers findings in a concise po
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ResearchBriefGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ResearchBriefGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebae278f88191a98669bb38ad64de-research-brief-generator)
 
 ---
@@ -12368,7 +12368,7 @@ Reformats resume data as JSON
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ResumeToJSON_270525.json)
+  - 📄 [JSON File](repo-data/json/ResumeToJSON_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebc0030748191b6a6b1602687f1a8-resume-to-json)
 
 ---
@@ -12385,7 +12385,7 @@ Analyzes user resumes and contextual information to identify potential side hust
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ResumeToSideHustle_270525.json)
+  - 📄 [JSON File](repo-data/json/ResumeToSideHustle_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebc101c7c8191afc9414de93b8567-resume-to-side-hustle)
 
 ---
@@ -12402,7 +12402,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ReversePitchWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/ReversePitchWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebc556a28819190c789ab23f21e92-reverse-pitch-writer)
 
 ---
@@ -12419,7 +12419,7 @@ Rewrites any text, converting it from the third person to the first person persp
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RewriteInThirdPerson_270525.json)
+  - 📄 [JSON File](repo-data/json/RewriteInThirdPerson_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebc7ccf008191b6de3d3f82fec002-rewrite-in-third-person)
 
 ---
@@ -12436,7 +12436,7 @@ Generates elaborate and dramatic fictional conspiracy theories about individuals
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RidiculousConspiracyTheory_270525.json)
+  - 📄 [JSON File](repo-data/json/RidiculousConspiracyTheory_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebcbc20808191ac078ee54f6da627-ridiculous-conspiracy-theory)
 
 ---
@@ -12453,7 +12453,7 @@ Finds sunrise times and suggests target bed times based upon users' personal sle
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/rise-at-sunrise-bedtime-planner_260925.json)
+  - 📄 [JSON File](repo-data/json/rise-at-sunrise-bedtime-planner_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-Qh6iivhr5-the-sunrise-riser-sleeping-hours-suggester)
 
 ---
@@ -12470,7 +12470,7 @@ Crafts realistic disaster scenarios based on user-specified locations, assesses 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RiskReady_DisasterScenarioPrepper_270525.json)
+  - 📄 [JSON File](repo-data/json/RiskReady_DisasterScenarioPrepper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebcf124dc81919cb584485cd8952d-risk-ready-disaster-scenario-prepper)
 
 ---
@@ -12487,7 +12487,7 @@ Answers user questions about Robotic Process Automation (RPA), its relationship 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RPAGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/RPAGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebe119b408191b7f1fdbdf10caaa6-rpa-guide)
 
 ---
@@ -12504,7 +12504,7 @@ Specializes in identifying and recommending products known for their ruggedness 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/RuggedProductLocator_270525.json)
+  - 📄 [JSON File](repo-data/json/RuggedProductLocator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-1aq9Lm73u-ruggedized-product-finder)
 
 ---
@@ -12521,7 +12521,7 @@ Gathers and analyzes salary benchmarks based on the user's experience, desired r
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SalaryResearchSidekick_270525.json)
+  - 📄 [JSON File](repo-data/json/SalaryResearchSidekick_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebe749b6c819182d2abc28bdc9bfa-salary-research-sidekick)
 
 ---
@@ -12538,7 +12538,7 @@ Analyzes email conversations, extracts pending tasks for the user, and highlight
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScanEmailThreadForActionRequests_270525.json)
+  - 📄 [JSON File](repo-data/json/ScanEmailThreadForActionRequests_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebec07bc48191a9038cae4f4df27c-scan-email-thread-for-action-requests)
 
 ---
@@ -12555,7 +12555,7 @@ Clarifies project scopes by formatting user-provided details into formal documen
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScopeOfServiceOutliner_SLA_270525.json)
+  - 📄 [JSON File](repo-data/json/ScopeOfServiceOutliner_SLA_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6802424189f08191978ff165621ed273-scope-of-service-sla-drafter)
 
 ---
@@ -12572,7 +12572,7 @@ Extracts appointment details from screenshots using OCR and formats them into ca
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScreenshotToCalendarAppointment_270525.json)
+  - 📄 [JSON File](repo-data/json/ScreenshotToCalendarAppointment_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebf134bc48191b63c8a1d9a2fd198-screenshot-to-calendar-appointment)
 
 ---
@@ -12589,7 +12589,7 @@ Creates tabular data from screenshots
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScreenshotToCSV_270525.json)
+  - 📄 [JSON File](repo-data/json/ScreenshotToCSV_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebf2457fc8191af29b77b3e2a6850-screenshot-to-csv)
 
 ---
@@ -12606,7 +12606,7 @@ User provides text formatting instructions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScreenshotToCustomTextFormat_270525.json)
+  - 📄 [JSON File](repo-data/json/ScreenshotToCustomTextFormat_270525.json)
 
 ---
 
@@ -12622,7 +12622,7 @@ Extracts data from screenshots and attempts to provide the data as a JSON array
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScreenshotToJSON_270525.json)
+  - 📄 [JSON File](repo-data/json/ScreenshotToJSON_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebf3542888191aff39c6dc7c61785-screenshot-to-json)
 
 ---
@@ -12639,7 +12639,7 @@ Converts data in screenshots into markdown table format
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScreenshotToMarkdownTable_270525.json)
+  - 📄 [JSON File](repo-data/json/ScreenshotToMarkdownTable_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebf52cff08191ae40a1ab0ede2564-screenshot-to-markdown-table)
 
 ---
@@ -12656,7 +12656,7 @@ Analyzes photographs of screws to identify their type, focusing on screws common
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScrewIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/ScrewIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebf64af808191834d0b7f40a2d5cf-screw-identifier)
 
 ---
@@ -12673,7 +12673,7 @@ Generates, debugs, and edits programs based on user specifications, automaticall
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ScriptGenerationAgent_270525.json)
+  - 📄 [JSON File](repo-data/json/ScriptGenerationAgent_270525.json)
 
 ---
 
@@ -12689,7 +12689,7 @@ Identifies and extracts secrets (API keys, passwords, tokens, etc.) from text, p
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SecretsParser_270525.json)
+  - 📄 [JSON File](repo-data/json/SecretsParser_270525.json)
 
 ---
 
@@ -12705,7 +12705,7 @@ Recommends self-hostable software alternatives to SaaS technologies based on the
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SelfHostableTechFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/SelfHostableTechFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebfe3cae081919fbda6d2956ec249-self-hostable-tech-finder)
 
 ---
@@ -12722,7 +12722,7 @@ Recommends and guides users in understanding and utilizing semantic search tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SemanticSearchNavigator_270525.json)
+  - 📄 [JSON File](repo-data/json/SemanticSearchNavigator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680248aeffbc819180f9fae0d6537891-semantic-search-navigator)
 
 ---
@@ -12739,7 +12739,7 @@ Offers evidence-based guidance and information to adults experiencing sensory pr
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SensoryProcessingSupport_270525.json)
+  - 📄 [JSON File](repo-data/json/SensoryProcessingSupport_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ebff5a6408191bbaec5ff47a515e3-sensory-processing-support)
 
 ---
@@ -12756,7 +12756,7 @@ Advises users on SEO best practices, providing targeted recommendations and anal
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SEOAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/SEOAdvice_270525.json)
 
 ---
 
@@ -12772,7 +12772,7 @@ Provides strategic advice on SEO tooling
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SEOToolingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/SEOToolingAdvisor_270525.json)
 
 ---
 
@@ -12788,7 +12788,7 @@ Provides Shabbat times and the weekly Parsha, defaulting to Jerusalem, Israel, u
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShabbatTimesFetcher_270525.json)
+  - 📄 [JSON File](repo-data/json/ShabbatTimesFetcher_270525.json)
 
 ---
 
@@ -12804,7 +12804,7 @@ Transforms modern English text into Shakespearean English, offering a range of s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShakespeareanDocumentGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ShakespeareanDocumentGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec06deb308191a9323613cacd3cfa-shabbat-times-fetcher)
 
 ---
@@ -12821,7 +12821,7 @@ Assists with authoring emails (and other texts) that are slightly Shakespeaean
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShakespeareanEmailWriter_270525.json)
+  - 📄 [JSON File](repo-data/json/ShakespeareanEmailWriter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec13ec4788191b653070cff00af92-shakespearean-email-writer)
 
 ---
@@ -12838,7 +12838,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShakespeareanTextConverter_270525.json)
+  - 📄 [JSON File](repo-data/json/ShakespeareanTextConverter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec1a33f4481919738fcd3ddf3c5bc-shakespearean-text-converter)
 
 ---
@@ -12855,7 +12855,7 @@ Translates text into Shakespearean English, creatively adapting modern terms to 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShakespeareanTextGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/ShakespeareanTextGenerator_270525.json)
 
 ---
 
@@ -12871,7 +12871,7 @@ Translates text into Shakespearean English, creatively adapting modern terms to 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShakespeareanTextGenerator_Full_270525.json)
+  - 📄 [JSON File](repo-data/json/ShakespeareanTextGenerator_Full_270525.json)
 
 ---
 
@@ -12887,7 +12887,7 @@ Shakespearean text converter which makes lighter touch modifications for those n
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShakespeareanTextGenerator_Light_270525.json)
+  - 📄 [JSON File](repo-data/json/ShakespeareanTextGenerator_Light_270525.json)
 
 ---
 
@@ -12903,7 +12903,7 @@ Generates Markdown badges using Shields.io, incorporating user-specified text, c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Shields.ioBadgeGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/Shields.ioBadgeGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec1d0c58081918e06bef9fe20c0fb-shields-io-badge-generator)
 
 ---
@@ -12920,7 +12920,7 @@ Helps users to prepare a list of something they're looking for
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShoppingListGenerator_Non_Food_270525.json)
+  - 📄 [JSON File](repo-data/json/ShoppingListGenerator_Non_Food_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e1fcb0bbc8191a9fa4333b98b1526-shopping-list-generator-non-food)
 
 ---
@@ -12937,7 +12937,7 @@ Recommends suitable, conflict-free shortcut keys for user's OpenSUSE Linux syste
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ShortcutKeyCreationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/ShortcutKeyCreationAssistant_270525.json)
 
 ---
 
@@ -12953,7 +12953,7 @@ Helps users find similar software alternatives based on features, hosting prefer
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SimilarSoftwareFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/SimilarSoftwareFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e845f25c08191a960e49c96ab1bbd-similar-software-finder)
 
 ---
@@ -12970,7 +12970,7 @@ Applies basic edits to user-provided data
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SimpleDataEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/SimpleDataEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec23c57388191b6975677c42b457b-simple-data-editor)
 
 ---
@@ -12987,7 +12987,7 @@ Rewrites user-provided text to anonymize specified information, replacing sensit
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SimpleTextAnonymisation_270525.json)
+  - 📄 [JSON File](repo-data/json/SimpleTextAnonymisation_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec257d2708191868b7fdd8777a6e1-simple-text-anonymisation)
 
 ---
@@ -13004,7 +13004,7 @@ Edits user-provided text by correcting typos, adding punctuation, and making min
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SimpleTextEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/SimpleTextEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec2697724819182bffcb58f12dee7-simple-text-editor)
 
 ---
@@ -13021,7 +13021,7 @@ Transcribes voice notes with minimal text processing
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SimpleVoiceNoteTranscriber_270525.json)
+  - 📄 [JSON File](repo-data/json/SimpleVoiceNoteTranscriber_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec298bc2081918d67c9618500dd21-voice-note-summariser-messages)
 
 ---
@@ -13038,7 +13038,7 @@ Helps users document their skills for career-related purposes, gathering input a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SkillsListGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SkillsListGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec30c2d588191b8c834a3c328a505-skills-list-generator)
 
 ---
@@ -13055,7 +13055,7 @@ Generates photo-realistic images of sloths in user-specified contexts.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/sloth-photo-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/sloth-photo-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-IuMnjvcMJ-sloth-photo-generator)
 
 ---
@@ -13072,7 +13072,7 @@ Generates batches of five ready-to-use prompts for a reusable prompt library.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SmallBatchPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SmallBatchPromptGenerator_270525.json)
 
 ---
 
@@ -13088,7 +13088,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SmartHomeDIYSolutions_270525.json)
+  - 📄 [JSON File](repo-data/json/SmartHomeDIYSolutions_270525.json)
 
 ---
 
@@ -13104,7 +13104,7 @@ Provides expert-level assistance with all aspects of the Snapper utility for BTR
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SnapperExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/SnapperExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec36c7b3c81919c648a04e64c1c9e-snapper-expert)
 
 ---
@@ -13121,7 +13121,7 @@ Generates snippets
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SnippetGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SnippetGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec37e048c81919c55e0be47416ea7-snippet-generator)
 
 ---
@@ -13138,7 +13138,7 @@ Creates socially awkward situations based on given scenarios.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/social-awkwardness-engineer_260925.json)
+  - 📄 [JSON File](repo-data/json/social-awkwardness-engineer_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-uI9E4LPzp-social-awkwardness-engineer)
 
 ---
@@ -13155,7 +13155,7 @@ Streamlines social media threads by removing unnecessary conversational elements
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SocialNetworkPostReformatter_270525.json)
+  - 📄 [JSON File](repo-data/json/SocialNetworkPostReformatter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec3b31cc48191a2e5f4cb5a9b755b-social-network-post-reformatter)
 
 ---
@@ -13172,7 +13172,7 @@ Generates blogs from other text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SocialToBlogPost_270525.json)
+  - 📄 [JSON File](repo-data/json/SocialToBlogPost_270525.json)
 
 ---
 
@@ -13188,7 +13188,7 @@ Analyzes a user's software needs and dislikes to recommend alternatives, includi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SoftwareAlternativeFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/SoftwareAlternativeFinder_270525.json)
 
 ---
 
@@ -13204,7 +13204,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/software-development-project-outliner_250925.json)
+  - 📄 [JSON File](repo-data/json/software-development-project-outliner_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d5628c79a881919a7defe1016aaf63-software-development-project-outliner)
 
 ---
@@ -13221,7 +13221,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SoftwareDiscoverySystemPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SoftwareDiscoverySystemPromptGenerator_270525.json)
 
 ---
 
@@ -13237,7 +13237,7 @@ Conducts thorough technical evaluations of software by analyzing features, AI in
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SoftwareEvaluationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/SoftwareEvaluationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec3c2c0088191ba618d59cde4f0ea-software-evaluation-assistant)
 
 ---
@@ -13254,7 +13254,7 @@ Helps users create Standard Operating Procedures (SOPs) and checklists, optimizi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SOP_ChecklistGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SOP_ChecklistGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec42368888191acc0a619b686228c-sop-checklist-generator)
 
 ---
@@ -13271,7 +13271,7 @@ Helps users create clear and comprehensive Standard Operating Procedures (SOPs) 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SOPDocumentationGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SOPDocumentationGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec43693388191ad19bf671cc1de90-sop-documentation-generator)
 
 ---
@@ -13288,7 +13288,7 @@ Provides advice about soundproofing solutions tailored to the user's circumstanc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SoundproofingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/SoundproofingAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec456d4608191bd0cb5698fb8617f-soundproofing-advisor)
 
 ---
@@ -13305,7 +13305,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SourceFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/SourceFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec46872c48191bd3b19bb29af42b8-source-finder)
 
 ---
@@ -13322,7 +13322,7 @@ Generates ICS calendar entries from dictated calendar events
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpeakYourCalendar_ICSGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SpeakYourCalendar_ICSGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024188a540819196577b5ab6c052a2-speak-your-calendar-ics-generator)
 
 ---
@@ -13339,7 +13339,7 @@ Analyses conversation audio to estimate speaker sentiment
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpeakerToneAnalyser_270525.json)
+  - 📄 [JSON File](repo-data/json/SpeakerToneAnalyser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec47a81548191bb4441a8e00c8783-speaker-tone-analyser)
 
 ---
@@ -13356,7 +13356,7 @@ Generates spec requirement documents to help streamline software evaluations
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpecRequirementsDocumentGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SpecRequirementsDocumentGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6825bfc8b33c8191b7003060b2c8c954-spec-requirements-document-generator)
 
 ---
@@ -13373,7 +13373,7 @@ Retrieves specification sheets for hardware components or finished products, ana
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpecSheetRetrieval_270525.json)
+  - 📄 [JSON File](repo-data/json/SpecSheetRetrieval_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec49769188191a9f167ec9f636390-spec-sheet-finder)
 
 ---
@@ -13390,7 +13390,7 @@ Creates detailed documentation that explains the features and components of any 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpecSheetSimplifier_270525.json)
+  - 📄 [JSON File](repo-data/json/SpecSheetSimplifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec4a93d1c8191bf23feb5e38d5109-spec-sheet-simplifier)
 
 ---
@@ -13407,7 +13407,7 @@ Advises users on speech-to-text models, offering information on model selection,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpeechToText_STT_Expert_270525.json)
+  - 📄 [JSON File](repo-data/json/SpeechToText_STT_Expert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec4bf2fbc819184454ab6d2003e84-speech-to-text-stt-expert)
 
 ---
@@ -13424,7 +13424,7 @@ Examines receipts, bank statements, and credit card statements to provide insigh
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpendingAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/SpendingAnalyst_270525.json)
 
 ---
 
@@ -13440,7 +13440,7 @@ Provide summaries of users' reports into their expenditure or other financial st
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SpendingCommentarySummarizer_270525.json)
+  - 📄 [JSON File](repo-data/json/SpendingCommentarySummarizer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e75d273948191aba4a3f5aa8b7ccd-spending-commentary-summarizer)
 
 ---
@@ -13457,7 +13457,7 @@ Helps users transition from spreadsheet-based systems to relational databases by
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/spreadsheet-to-database-migration-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/spreadsheet-to-database-migration-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-bfZqQSF8p-spreadsheet-to-database-migration-assistant)
 
 ---
@@ -13474,7 +13474,7 @@ Explains SQL queries in plain English, providing high-level or detailed explanat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SQLToNaturalLanguage_270525.json)
+  - 📄 [JSON File](repo-data/json/SQLToNaturalLanguage_270525.json)
 
 ---
 
@@ -13490,7 +13490,7 @@ Expert in SSML(Speech Synthesis Markup Language)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SSMLSupport_270525.json)
+  - 📄 [JSON File](repo-data/json/SSMLSupport_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680f7048cba48191b2f4472183ac74db-ssml-support)
 
 ---
@@ -13507,7 +13507,7 @@ Suggests possible stacks for tech projects
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StackOptionIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/StackOptionIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec59f7f088191a7154f1700724af8-stack-option-ideator)
 
 ---
@@ -13524,7 +13524,7 @@ Suggests stack options for a particular technical objective
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/stack-research-assistant_260925.json)
+  - 📄 [JSON File](repo-data/json/stack-research-assistant_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-1YCZiSetK-stack-research-assistant)
 
 ---
@@ -13541,7 +13541,7 @@ Refines user-provided prompts for technology, software, or stack component recom
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StackResearchPromptOptimiser_270525.json)
+  - 📄 [JSON File](repo-data/json/StackResearchPromptOptimiser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec5b253508191a3ced0c9b4f1de42-stack-research-prompt-optimiser)
 
 ---
@@ -13558,7 +13558,7 @@ Expert for chatting about start pages
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StartPageGuru_270525.json)
+  - 📄 [JSON File](repo-data/json/StartPageGuru_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a1cdc944481918990c59952949cd3-start-page-guru)
 
 ---
@@ -13575,7 +13575,7 @@ Helps users update old statistics with reliable new data.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/stat-update-helper_260925.json)
+  - 📄 [JSON File](repo-data/json/stat-update-helper_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-1YeLaQ3PR-stat-update-helper)
 
 ---
@@ -13592,7 +13592,7 @@ Crafts professional SOWs tailored to your project needs.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StatementOfWorkGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/StatementOfWorkGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec5c5e3cc819196a33771c8aa6299-statement-of-work-generator)
 
 ---
@@ -13609,7 +13609,7 @@ Attempts to find statistics based upon the user's query
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StatisticFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/StatisticFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec5e0a0f08191b30db8b5b637eec2-statistic-finder)
 
 ---
@@ -13626,7 +13626,7 @@ Verifies and updates user-provided statistics by searching for more recent data 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StatisticsChecker_270525.json)
+  - 📄 [JSON File](repo-data/json/StatisticsChecker_270525.json)
 
 ---
 
@@ -13642,7 +13642,7 @@ Answers statistics questions from users
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StatisticsGuruOnCall_270525.json)
+  - 📄 [JSON File](repo-data/json/StatisticsGuruOnCall_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec5f750e88191a3787884282d1536-statistics-guru-on-call)
 
 ---
@@ -13659,7 +13659,7 @@ Formats unstructured textual notes into professional emails suitable for sending
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StatusUpdateEmailDrafter_270525.json)
+  - 📄 [JSON File](repo-data/json/StatusUpdateEmailDrafter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec60ad650819199bc7979939a7ecb-status-update-email-drafter)
 
 ---
@@ -13676,7 +13676,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StockPhraseSuggestor_270525.json)
+  - 📄 [JSON File](repo-data/json/StockPhraseSuggestor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec6391a548191832e201588f07133-stock-phrase-suggestor)
 
 ---
@@ -13693,7 +13693,7 @@ Answers questions about computer and digital storage, including SSDs, NVMe, HDDs
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StorageMediaExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/StorageMediaExpert_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec64c72648191a2c99277c3bacea1-storage-media-expert)
 
 ---
@@ -13710,7 +13710,7 @@ Provides actionable storage and decluttering recommendations for home offices ba
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StorageRecs_FromPhotos_270525.json)
+  - 📄 [JSON File](repo-data/json/StorageRecs_FromPhotos_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec660b8648191a3cfa60263c4efaf-storage-recs-from-photos)
 
 ---
@@ -13727,7 +13727,7 @@ Offers tailored storage solutions and product recommendations to help users decl
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StorageSolutionIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/StorageSolutionIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec660b8648191a3cfa60263c4efaf-storage-recs-from-photos)
 
 ---
@@ -13744,7 +13744,7 @@ Helps users to streamline tech stacks
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StreamlineMyTechStack_270525.json)
+  - 📄 [JSON File](repo-data/json/StreamlineMyTechStack_270525.json)
   - 🤖 [ChatGPT](You are a friendly assistant. Your task is to help the user with the objective of streamlining their tech deployment stack. You should follow the following workflow with the user. Ask the user to describe their current technology stack and ask them whether they'd like you to evaluate different stacks one by one or all together. Different stacks might be their personal technology stack, the one they use for work, or their business. They might wish to tell you everything or go through it one by one. Honor the user's preference. Once you have decided this, ask the user to describe their technology stack. They'll explain all the different components and might provide information about what they view as missing, what they'd like to add, but you can infer that a common desire might be the wish to have less moving parts. The user might be feeling overwhelmed by the different amount of components required and the automations and integrations needed to bring it all together. Your task is after learning about what the user's stack is and what their pain points are to thoughtfully suggest some ways in which the stack could be streamlined and optimized through finding replacements for individual components and trying to reduce the overall complexity and number of moving parts in their tech stack. If the user describes preferences for open source or self-hosted tech, honor those. Otherwise, choose the most logical mixture to achieve the maximum effectiveness with the maximum simplicity.)
 
 ---
@@ -13761,7 +13761,7 @@ Generates Streamlit apps
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StreamlitAppGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/StreamlitAppGenerator_270525.json)
 
 ---
 
@@ -13777,7 +13777,7 @@ Generates the updated system prompt and JSON schema of the data to be retrieved 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StructuredPromptEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/StructuredPromptEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024505c6ec8191a31adcaed1e3a5c1-structured-prompt-editor)
 
 ---
@@ -13794,7 +13794,7 @@ Generates system prompts for JSON-outputting assistants
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StructuredSystemPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/StructuredSystemPromptGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec6bb22dc8191a4fec6fd4949769e-structured-system-prompt-generator)
 
 ---
@@ -13811,7 +13811,7 @@ Checks text against a style guide (custom or standard)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StyleGuideConformityChecker_270525.json)
+  - 📄 [JSON File](repo-data/json/StyleGuideConformityChecker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec7622eac81919c22d90ccc260140-style-guide-conformity-checker)
 
 ---
@@ -13828,7 +13828,7 @@ Applies stylistic edits on text, such as adjusting formality or improving clarit
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/StylisticTextEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/StylisticTextEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec77a932c819190c265aca1740eb2-stylistic-text-editor)
 
 ---
@@ -13845,7 +13845,7 @@ Provides users with a summary of recent activity in a specified subreddit over t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SubredditDigest_270525.json)
+  - 📄 [JSON File](repo-data/json/SubredditDigest_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec78c80f88191af4422d37daf71c1-subreddit-digest)
 
 ---
@@ -13862,7 +13862,7 @@ Helps users find subreddits related to their interests with direct links.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/subreddit-explorer_260925.json)
+  - 📄 [JSON File](repo-data/json/subreddit-explorer_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-gYmQi2t6t-subreddit-explorer)
 
 ---
@@ -13879,7 +13879,7 @@ Identifies subreddits relevant to user-provided keywords, highlighting both esta
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SubredditFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/SubredditFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ec7a2587c8191a96bc0b28468f718-subreddit-finder)
 
 ---
@@ -13896,7 +13896,7 @@ Finds subtitled media in your target language for effective language learning.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SubtitledContentForLanguageLearners_270525.json)
+  - 📄 [JSON File](repo-data/json/SubtitledContentForLanguageLearners_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecafc6434819197ebec9be1df8bd3-subtitled-content-for-language-learners)
 
 ---
@@ -13913,7 +13913,7 @@ Helps users find job opportunities that align with their career goals and experi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/suggest-an-employer_260925.json)
+  - 📄 [JSON File](repo-data/json/suggest-an-employer_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-m9sj0Hb3A-you-could-work-for)
 
 ---
@@ -13930,7 +13930,7 @@ Upload your whiteboards — get back an organized, readable document.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SummarizeThisWhiteboard_270525.json)
+  - 📄 [JSON File](repo-data/json/SummarizeThisWhiteboard_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809cb456a4881919a953b7f58c50d66-summarise-this-whiteboard)
 
 ---
@@ -13947,7 +13947,7 @@ A research utility for discovering sustainability reports
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/sustainability-report-finder_260925.json)
+  - 📄 [JSON File](repo-data/json/sustainability-report-finder_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-UD4XLw4aA-sustainability-report-finder)
 
 ---
@@ -13964,7 +13964,7 @@ Offers tailored guidance and data-driven insights to empower users in making sus
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SustainableLivingAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/SustainableLivingAdvisor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecb9b40b08191a9a0dac4a4592c0b-sustainable-living-advisor)
 
 ---
@@ -13981,7 +13981,7 @@ Answers user questions about Swagger documentation, providing expert technical a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SwaggerDocs_270525.json)
+  - 📄 [JSON File](repo-data/json/SwaggerDocs_270525.json)
 
 ---
 
@@ -13997,7 +13997,7 @@ Generates synthetic transcripts of at least three minutes in length, modeling sp
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SyntheticDataCreationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/SyntheticDataCreationAssistant_270525.json)
 
 ---
 
@@ -14013,7 +14013,7 @@ Generates synthetic data in a specified file format, populated with realistic, f
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SyntheticPIIDataGeneration_270525.json)
+  - 📄 [JSON File](repo-data/json/SyntheticPIIDataGeneration_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecbba9e6c819194c59e070ddef1e3-synthetic-pii-data-generation)
 
 ---
@@ -14030,7 +14030,7 @@ Context-aware tech support help (desktop OpenSUSE, remote not assumed)
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SysAdminSupport_General_270525.json)
+  - 📄 [JSON File](repo-data/json/SysAdminSupport_General_270525.json)
 
 ---
 
@@ -14046,7 +14046,7 @@ Shorter system prompt generation tool
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPrompt_CreateAndSave_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPrompt_CreateAndSave_270525.json)
 
 ---
 
@@ -14062,7 +14062,7 @@ Shorter system prompt generation tool
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptArchitect_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptArchitect_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecbf715f88191a698f422841ca06e-system-prompt-architect)
 
 ---
@@ -14079,7 +14079,7 @@ Analyzes system prompts and AI responses to generate improved prompts for enhanc
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptAuto_Calibrater_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptAuto_Calibrater_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecc0e0cac819181adee83abab7b05-system-prompt-auto-calibrater)
 
 ---
@@ -14096,7 +14096,7 @@ Instructional utility which expects the user to provide a pasted system prompt a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptAuto_Enhancer_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptAuto_Enhancer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecc1fdc248191b3697f390ce74015-system-prompt-auto-enhancer)
 
 ---
@@ -14113,7 +14113,7 @@ Uses one system prompt to suggest another
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptBrancher_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptBrancher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecc3a133c8191aeac1ccf46ced279-system-prompt-brancher)
 
 ---
@@ -14130,7 +14130,7 @@ Assistant specialized in constructing general-purpose system prompts by engaging
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptCreator_Q_AWorkflow_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptCreator_Q_AWorkflow_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecd0243d88191b8e3bc6fb6cde2b9-system-prompt-creator-q-a-workflow)
 
 ---
@@ -14147,7 +14147,7 @@ Rewrites system prompts written for a specific user to remove identifying refere
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptDepersonaliser_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptDepersonaliser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68071ad567288191ba7682e800a4d6b5-system-prompt-depersonaliser)
 
 ---
@@ -14164,7 +14164,7 @@ Utility for debugging and editing system prompts with a non-interactive workflow
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptDoctor_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptDoctor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecd1c4868819184535bc828fba073-system-prompt-doctor)
 
 ---
@@ -14181,7 +14181,7 @@ Refines system prompts based on user instructions, enhancing clarity and effecti
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptEditor_General_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptEditor_General_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecd38153c8191952e27750ad5d174-system-prompt-editor-general)
 
 ---
@@ -14198,7 +14198,7 @@ Augments existing AI assistants with instructions for using external data source
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptEditor_AddRAG_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptEditor_AddRAG_270525.json)
 
 ---
 
@@ -14214,7 +14214,7 @@ Enhances AI assistant system prompts by adding instructions for using available 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptEditor_AddTools_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptEditor_AddTools_270525.json)
 
 ---
 
@@ -14230,7 +14230,7 @@ Modifies system prompts to adjust the way an AI assistant presents information t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptEditor_OutputFormatInstructions_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptEditor_OutputFormatInstructions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecd5576d481918f717d3a37927dbb-system-prompt-editor-output-format-instructions)
 
 ---
@@ -14247,7 +14247,7 @@ Ideates enhanced versions of existing system prompts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptEnhancementIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptEnhancementIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecd91663881918a680a3e05ee1e4f-system-prompt-enhancement-ideator)
 
 ---
@@ -14264,7 +14264,7 @@ Takes system prompts and user edits, and outputs a revised system prompt.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptFeatureEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptFeatureEditor_270525.json)
 
 ---
 
@@ -14280,7 +14280,7 @@ Enhances system prompts with few-shot learning examples to improve AI assistant 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptFewShotLearningEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptFewShotLearningEditor_270525.json)
 
 ---
 
@@ -14296,7 +14296,7 @@ Creates derivative system prompts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptForker_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptForker_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680bd39be10c8191919036b2582cced7-system-prompt-forker)
 
 ---
@@ -14313,7 +14313,7 @@ Takes a few sentences from a user and generates a full, production-ready system 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptFromDescription_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptFromDescription_270525.json)
 
 ---
 
@@ -14329,7 +14329,7 @@ Generates system prompts from user-supplied text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptGenerator_270525.json)
 
 ---
 
@@ -14345,7 +14345,7 @@ Shorter system prompt generation tool
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptGenerator_PromptOnly_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptGenerator_PromptOnly_270525.json)
 
 ---
 
@@ -14361,7 +14361,7 @@ Helps users craft deterministic system prompts for large language models based o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptGuideAndWrite_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptGuideAndWrite_270525.json)
 
 ---
 
@@ -14377,7 +14377,7 @@ Maps out the conversion of single-configuration system prompts into multi-step n
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptN8NConverter_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptN8NConverter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecdc17c9c8191b8f655920b675c4b-system-prompt-to-n8n-agent-converter)
 
 ---
@@ -14394,7 +14394,7 @@ Aids users in developing a comprehensive library of AI configurations by generat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptNetworkDeveloper_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptNetworkDeveloper_270525.json)
 
 ---
 
@@ -14410,7 +14410,7 @@ Calculates the parameters in system prompts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptParameterCalculator_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptParameterCalculator_270525.json)
 
 ---
 
@@ -14426,7 +14426,7 @@ Analyzes user-provided AI assistant system prompts and suggests creative new pur
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptRemixer_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptRemixer_270525.json)
 
 ---
 
@@ -14442,7 +14442,7 @@ Reviews and optimizes system prompts provided by the user, offering constructive
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptReviewer_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptReviewer_270525.json)
 
 ---
 
@@ -14458,7 +14458,7 @@ Converts natural language system prompts into JSON-based instructions with accom
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptTextToStructured_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptTextToStructured_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecdf222fc8191b306aafd42c3ff78-system-prompt-text-to-structured)
 
 ---
@@ -14475,7 +14475,7 @@ Provided with a system prompt, suggests the additional elements for creating an 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptToAssistantConfiguration_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptToAssistantConfiguration_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6817a03942d0819181d6e3c347d2160c-system-prompt-to-assistant-configuration)
 
 ---
@@ -14492,7 +14492,7 @@ Generates avatar images that visually represent the function of AI assistants, b
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptToImage_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptToImage_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ece0447a4819195ffe14a302ca754-system-prompt-to-image)
 
 ---
@@ -14509,7 +14509,7 @@ Takes a system prompt and adapts it into a user prompt that can be used directly
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptToUserPrompt_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptToUserPrompt_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ece1ae1088191a7b1107d33373a43-system-prompt-to-user-prompt)
 
 ---
@@ -14526,7 +14526,7 @@ Analyzes and updates system prompts for AI assistants, incorporating advancement
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptUpdater_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptUpdater_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ece2d48b881919bca1f1398e8fac6-system-prompt-updater)
 
 ---
@@ -14543,7 +14543,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/SystemPromptWritingGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/SystemPromptWritingGuide_270525.json)
 
 ---
 
@@ -14559,7 +14559,7 @@ Transforms descriptions of items for free giveaway into highly persuasive promot
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TakeMyStuff,Please_270525.json)
+  - 📄 [JSON File](repo-data/json/TakeMyStuff,Please_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ece6078cc81919485c3675cc43dfb-take-my-stuff-please)
 
 ---
@@ -14576,7 +14576,7 @@ Dissuades colleagues from making requests by detailing elaborate bureaucracy in 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/task-barrier_260925.json)
+  - 📄 [JSON File](repo-data/json/task-barrier_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-B2VeiQVJ8-task-barrier)
 
 ---
@@ -14593,7 +14593,7 @@ Acts as a passionate career guide specializing in technology, particularly AI. I
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechCareerPathfinder_270525.json)
+  - 📄 [JSON File](repo-data/json/TechCareerPathfinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecec94564819188326e1062d8dbf5-tech-career-pathfinder)
 
 ---
@@ -14610,7 +14610,7 @@ Recommends technology training and certification opportunities based on the user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechCoursesandCertifications_270525.json)
+  - 📄 [JSON File](repo-data/json/TechCoursesandCertifications_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecefe1a708191a788b6f56fba92de-tech-courses-and-certifications)
 
 ---
@@ -14627,7 +14627,7 @@ Guides users through a structured troubleshooting process to diagnose and resolv
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechDiagnosticUtility_270525.json)
+  - 📄 [JSON File](repo-data/json/TechDiagnosticUtility_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecf1307c0819183a8d8e7c2c437fb-tech-diagnostic-utility)
 
 ---
@@ -14644,7 +14644,7 @@ Finds tech products for a user spec
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechProductFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/TechProductFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecf7b55a081919cc28ef777a996b2-tech-product-finder)
 
 ---
@@ -14661,7 +14661,7 @@ Helps to plan and develop ideas for tech projects
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechProjectPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/TechProjectPlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecf8fc2d081919e9de61356ad2b22-tech-project-planner)
 
 ---
@@ -14678,7 +14678,7 @@ Analyzes a user's technology stack and suggests specific AI and LLM solutions fo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechStackOptimiser_270525.json)
+  - 📄 [JSON File](repo-data/json/TechStackOptimiser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecfc69d0081919d2dd1e8272e4172-tech-stack-optimiser)
 
 ---
@@ -14695,7 +14695,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/tech-stack-optimizer_260925.json)
+  - 📄 [JSON File](repo-data/json/tech-stack-optimizer_260925.json)
 
 ---
 
@@ -14711,7 +14711,7 @@ Acts as a skilled software finder, providing tailored recommendations based on u
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechToolFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/TechToolFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecfe4867881919df614f9a5c03bab-tech-tool-finder)
 
 ---
@@ -14728,7 +14728,7 @@ Invites users to provide a tool and a pain point / point of friction to ideate a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechTooling_SolveThisPainPoint_270525.json)
+  - 📄 [JSON File](repo-data/json/TechTooling_SolveThisPainPoint_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6818dd2b8d048191b8bb41b0ce5d20c0-tech-tooling-solve-this-pain-point)
 
 ---
@@ -14745,7 +14745,7 @@ Evaluates and ranks the quality of APIs in software, focusing on the robustness 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechWithAPIs_270525.json)
+  - 📄 [JSON File](repo-data/json/TechWithAPIs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecff677e08191ac560ed8cc2704ba-tech-with-apis)
 
 ---
@@ -14762,7 +14762,7 @@ Generates bespoke technical documentation explaining certain processes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechnicalDocumentationGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/TechnicalDocumentationGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecf4c02cc819189de82681b372195-technical-documentation-generator)
 
 ---
@@ -14779,7 +14779,7 @@ Answers technical writing questions with guidance for professionals and hobbyist
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechnicalWritingQuestions_270525.json)
+  - 📄 [JSON File](repo-data/json/TechnicalWritingQuestions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ecf6338bc8191872fdc31869bf810-technical-writing-questions)
 
 ---
@@ -14796,7 +14796,7 @@ Aids users in identifying appropriate tools for technical writing based on their
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TechnicalWritingToolsAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/TechnicalWritingToolsAdvisor_270525.json)
 
 ---
 
@@ -14812,7 +14812,7 @@ Travel exploration guide for Tel Aviv
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TelAvivGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/TelAvivGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6821e39115d881918c77605f1aeb5a8d-tel-aviv-guide)
 
 ---
@@ -14829,7 +14829,7 @@ Estimates the temperature parameter of a language model based on provided text s
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TemperatureEstimator_270525.json)
+  - 📄 [JSON File](repo-data/json/TemperatureEstimator_270525.json)
 
 ---
 
@@ -14845,7 +14845,7 @@ Creates dynamic document templates according to user descriptions, including opt
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TemplateDocumentGeneration_Context_270525.json)
+  - 📄 [JSON File](repo-data/json/TemplateDocumentGeneration_Context_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680242011a20819191f5afb2687ad063-template-generation-assistant)
 
 ---
@@ -14862,7 +14862,7 @@ Transforms user-provided text into a mechanical and formulaic communication, rep
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TemplateResponseGenie_270525.json)
+  - 📄 [JSON File](repo-data/json/TemplateResponseGenie_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed02556188191a8f170c4586bd8ff-template-response-genie)
 
 ---
@@ -14879,7 +14879,7 @@ This tool generates a set of test prompts for a given AI tool, focusing on a spe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TestPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/TestPromptGenerator_270525.json)
 
 ---
 
@@ -14895,7 +14895,7 @@ Shortens any text provided by the user, making it as brief as possible while ret
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextBrevityAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/TextBrevityAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680242a5899c8191921dfcbb68b7aaa3-text-brevity-assistant)
 
 ---
@@ -14912,7 +14912,7 @@ Removes extraneous information such as page numbers, headers, and footers from t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextCleaner_RemoveFormatElements_270525.json)
+  - 📄 [JSON File](repo-data/json/TextCleaner_RemoveFormatElements_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed03b875c819189f4cf82b83f477e-text-cleaner-remove-format-elements)
 
 ---
@@ -14929,7 +14929,7 @@ Converts user-provided text into markdown tables, following the user's specified
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextDataFormatter_270525.json)
+  - 📄 [JSON File](repo-data/json/TextDataFormatter_270525.json)
 
 ---
 
@@ -14945,7 +14945,7 @@ Rewrites to intensify its emotional impact. It uses vivid language, imagery, and
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextEditor_EmotionalAmplifier_270525.json)
+  - 📄 [JSON File](repo-data/json/TextEditor_EmotionalAmplifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed09114c081918a7ff8abce3cb94d-text-editor-emotional-amplifier)
 
 ---
@@ -14962,7 +14962,7 @@ Extracts and lists all factual claims from a body of text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextFactIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/TextFactIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed0a84d648191bf67b2df282901ad-text-fact-identifier)
 
 ---
@@ -14979,7 +14979,7 @@ Automatically fixes typos, punctuation, and capitalization according to UK conve
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/text-fixer-british-english_260925.json)
+  - 📄 [JSON File](repo-data/json/text-fixer-british-english_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-9q9Esq0Nk-text-fixer-british-english)
 
 ---
@@ -14996,7 +14996,7 @@ Automatically corrects and refines text by eliminating typos, adding punctuation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextFixerForUKEnglish_270525.json)
+  - 📄 [JSON File](repo-data/json/TextFixerForUKEnglish_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed0c459e08191bc9fd7efe12cd2ef-text-fixer-for-uk-english)
 
 ---
@@ -15013,7 +15013,7 @@ Rewrites text to obfuscate specified entities like secrets and PII, replacing th
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextObfuscationAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/TextObfuscationAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed0dba7648191853a532b473cf7f7-text-obfuscation-assistant)
 
 ---
@@ -15030,7 +15030,7 @@ Converts text between different persons
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextPersonConverter_270525.json)
+  - 📄 [JSON File](repo-data/json/TextPersonConverter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed0efaf6881918a60a6e5e334c563-text-person-converter)
 
 ---
@@ -15047,7 +15047,7 @@ Prepares text for conversion to speech by removing extraneous non-readable eleme
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextProcessor_TextToSpeech_270525.json)
+  - 📄 [JSON File](repo-data/json/TextProcessor_TextToSpeech_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed1022268819192345e61d62fc33e-text-processor-text-to-speech)
 
 ---
@@ -15064,7 +15064,7 @@ Estimates the readability score of English text using the Flesch-Kincaid scale a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextReadabilityEstimator_FleschKincaid_270525.json)
+  - 📄 [JSON File](repo-data/json/TextReadabilityEstimator_FleschKincaid_270525.json)
 
 ---
 
@@ -15080,7 +15080,7 @@ Fixes text present in code
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextRepair_Code_270525.json)
+  - 📄 [JSON File](repo-data/json/TextRepair_Code_270525.json)
 
 ---
 
@@ -15096,7 +15096,7 @@ Simplifies text and returns the edited version to the user
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextSimplifier_270525.json)
+  - 📄 [JSON File](repo-data/json/TextSimplifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed11bf3988191b97918471ea013e3-text-simplifier)
 
 ---
@@ -15113,7 +15113,7 @@ Analyzes text to identify and format snippets into command palette entries.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextSnippetExtractor_270525.json)
+  - 📄 [JSON File](repo-data/json/TextSnippetExtractor_270525.json)
 
 ---
 
@@ -15129,7 +15129,7 @@ Helping banish repetitive data entry one snippet at a time
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextSnippets,Macros,Expansions_270525.json)
+  - 📄 [JSON File](repo-data/json/TextSnippets,Macros,Expansions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682a35db0d248191b1f6672df1f10529-text-snippets-macros-expansions)
 
 ---
@@ -15146,7 +15146,7 @@ Text styling assistant that rewrites text based on user feedback regarding tone,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextStyleEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/TextStyleEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed1367dbc8191ae5a082ee452bd28-text-style-editor)
 
 ---
@@ -15163,7 +15163,7 @@ Adapts user-written blog posts for publication on different platforms, modifying
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToBlog_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToBlog_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed15b7f748191bed4024df0872a3e-text-to-blog)
 
 ---
@@ -15180,7 +15180,7 @@ Formats user-provided text containing data into CSV format, generating a logical
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TexttoCSV_270525.json)
+  - 📄 [JSON File](repo-data/json/TexttoCSV_270525.json)
 
 ---
 
@@ -15196,7 +15196,7 @@ Converts text into email-compliant HTML templates
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToHTMLEmailTemplate_Converter_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToHTMLEmailTemplate_Converter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-682a127b81e4819183eca28d7b6a1828-text-to-html-email-template-converter)
 
 ---
@@ -15213,7 +15213,7 @@ Debugs unsuccessful text to image prompts, providing advice
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToImagePromptDebugger_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToImagePromptDebugger_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed18207d48191828db314b426482f-text-to-image-prompt-debugger)
 
 ---
@@ -15230,7 +15230,7 @@ Generates multiple text-to-image prompts based on a single user idea, providing 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToImagePromptIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToImagePromptIdeator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed1b553dc81919c9866e42cd399da-text-to-image-prompt-ideator)
 
 ---
@@ -15247,7 +15247,7 @@ Enhances text-to-image prompts to increase the level of detail and clarity, ensu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToImagePromptImprover_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToImagePromptImprover_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed204d760819190cf6505dfa3ea4a-text-to-image-prompt-improver)
 
 ---
@@ -15264,7 +15264,7 @@ Generates lists from freeform text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToListConverter_General_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToListConverter_General_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed1f089748191a84a7ca106344a3c-text-to-list-converter-general)
 
 ---
@@ -15281,7 +15281,7 @@ Advises users on available text-to-speech software, providing recommendations ta
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToSpeechGuidance_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToSpeechGuidance_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed218854c8191891ccf074c96e668-text-to-speech-guidance)
 
 ---
@@ -15298,7 +15298,7 @@ Enhances text-to-video prompts to increase detail and clarity, ensuring the gene
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextToVideoPromptImprover_270525.json)
+  - 📄 [JSON File](repo-data/json/TextToVideoPromptImprover_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ed22c9bac81918a1e4a1b6adf79e1-text-to-video-prompt-improver)
 
 ---
@@ -15315,7 +15315,7 @@ Writes, edits, improves prompts for converting dictated text into formatted text
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextTransformationPromptEditor_270525.json)
+  - 📄 [JSON File](repo-data/json/TextTransformationPromptEditor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681a75617b5c81918364cbebca6dd8e2-text-transformation-prompt-editor)
 
 ---
@@ -15332,7 +15332,7 @@ Rewrites text to fit within specific word or character limits, preserving the or
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TextWordLimitTrimmer_270525.json)
+  - 📄 [JSON File](repo-data/json/TextWordLimitTrimmer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ee29b5718819192c4da16748fad9c-text-word-limit-trimmer)
 
 ---
@@ -15349,7 +15349,7 @@ Serves as a friendly and knowledgeable AI learning partner, proactively cultivat
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/That_sAGoodAIQuestion_270525.json)
+  - 📄 [JSON File](repo-data/json/That_sAGoodAIQuestion_270525.json)
 
 ---
 
@@ -15365,7 +15365,7 @@ Offers thorough, helpful recommendations with links to AI tools for professional
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheAIProfessional_sTool_Finder_270525.json)
+  - 📄 [JSON File](repo-data/json/TheAIProfessional_sTool_Finder_270525.json)
 
 ---
 
@@ -15381,7 +15381,7 @@ Responds to user inputs, particularly questions, by acknowledging their interest
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheBotHasAQuestion_270525.json)
+  - 📄 [JSON File](repo-data/json/TheBotHasAQuestion_270525.json)
 
 ---
 
@@ -15397,7 +15397,7 @@ This AI assistant fosters the user's creativity by offering encouragement, sugge
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheCreativityCoach_270525.json)
+  - 📄 [JSON File](repo-data/json/TheCreativityCoach_270525.json)
   - 🤖 [ChatGPT](You are a passionate and supportive AI assistant designed to nurture Daniel's creativity and guide him toward meaningful forms of creative expression. Encourage exploration of diverse creative outlets, complementing Daniel's existing preferences without challenging his artistic vision. Act as a conduit to resources (books, podcasts, videos, etc.) that help Daniel understand, define, and maximize his unique creative potential and inspirations.)
 
 ---
@@ -15414,7 +15414,7 @@ This assistant champions the user's commitment to documentation across technical
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheDocumentationAlly_270525.json)
+  - 📄 [JSON File](repo-data/json/TheDocumentationAlly_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ee2eab98c81918b30f3b5bb1ea3ec-the-documentation-ally)
 
 ---
@@ -15431,7 +15431,7 @@ Helps users craft overly enthusiastic and unnaturally positive email responses
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/the-eager-beaver_260925.json)
+  - 📄 [JSON File](repo-data/json/the-eager-beaver_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-0EEkIB1hW-the-eager-beaver)
 
 ---
@@ -15448,7 +15448,7 @@ Acts as a thesaurus by providing synonyms for user-specified words, including a 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheEccentric_sThesaurus_270525.json)
+  - 📄 [JSON File](repo-data/json/TheEccentric_sThesaurus_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ee32aaae08191a92e2205fd7c7969-the-eccentric-s-thesaurus)
 
 ---
@@ -15465,7 +15465,7 @@ Provides advice on the evolving social norms and etiquette surrounding the use o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheEtiquetteOfAI_270525.json)
+  - 📄 [JSON File](repo-data/json/TheEtiquetteOfAI_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680ee4b8835881918056169a1f6f1f9b-the-etiquette-of-ai)
 
 ---
@@ -15482,7 +15482,7 @@ Provides sophisticated talking points and insightful observations about connoiss
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheFakeConnoisseur_270525.json)
+  - 📄 [JSON File](repo-data/json/TheFakeConnoisseur_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680f6b4c70708191853a25b090c76805-the-fake-connoisseur)
 
 ---
@@ -15499,7 +15499,7 @@ Suggests insightful questions about wines on a provided list, enabling the user 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheFakeWineBuff_270525.json)
+  - 📄 [JSON File](repo-data/json/TheFakeWineBuff_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680f6b64acb481918153f6af828f6ece-the-fake-wine-buff)
 
 ---
@@ -15516,7 +15516,7 @@ Helps users manage their household shopping.  It maintains a categorized list of
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheGroceryHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/TheGroceryHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680f6b9729c08191a5e131d138b27610-the-grocery-helper)
 
 ---
@@ -15533,7 +15533,7 @@ Guides users toward sustainable progress through small, consistent improvements
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/the-kaizen-thinker_260925.json)
+  - 📄 [JSON File](repo-data/json/the-kaizen-thinker_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-Rp3hTJDgx-the-kaizen-thinker)
 
 ---
@@ -15550,7 +15550,7 @@ Moderates a discussion by presenting counter-arguments to the user's position on
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheOtherSideOfTheArgument_270525.json)
+  - 📄 [JSON File](repo-data/json/TheOtherSideOfTheArgument_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810b8b0d8a48191b28b1b55d7fc6ea2-the-other-side-of-the-argument)
 
 ---
@@ -15567,7 +15567,7 @@ Adopts the persona of an overly zealous minimalism coach, initially presenting a
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheOverlyDogmaticMinimalist_270525.json)
+  - 📄 [JSON File](repo-data/json/TheOverlyDogmaticMinimalist_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810b8c685fc8191ba166d27474b603e-the-overly-dogmatic-minimalist)
 
 ---
@@ -15584,7 +15584,7 @@ Shares dull platitudes and suggests bland images for Facebook posts.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/the-platitude-king_260925.json)
+  - 📄 [JSON File](repo-data/json/the-platitude-king_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-dcg8hTHPA-the-platitude-king)
 
 ---
@@ -15601,7 +15601,7 @@ Helps users come up with fun, harmless pranks and jokes tailored to different si
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/the-prank-master_260925.json)
+  - 📄 [JSON File](repo-data/json/the-prank-master_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-XVoggFgtW-the-prank-master)
 
 ---
@@ -15618,7 +15618,7 @@ Adopts a skeptical persona that challenges the user's claims with blunt dismissa
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheProfessionalSkeptic_270525.json)
+  - 📄 [JSON File](repo-data/json/TheProfessionalSkeptic_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810b93b5e3081919581f1f98b6f1c52-the-professional-skeptic)
 
 ---
@@ -15635,7 +15635,7 @@ Debugging assistant focused on RAG optimisation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheRAGDoctor_270525.json)
+  - 📄 [JSON File](repo-data/json/TheRAGDoctor_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810b9df5cb88191984c273cc0173f24-the-rag-doctor)
 
 ---
@@ -15652,7 +15652,7 @@ Generates professional-sounding, agreeable yet empty email replies
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/the-say-nothing-specialist_260925.json)
+  - 📄 [JSON File](repo-data/json/the-say-nothing-specialist_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-pX1XpTBXC-the-say-nothing-specialist)
 
 ---
@@ -15669,7 +15669,7 @@ Friendly sloth here to help explore how a sloth might handle boring human challe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/the-sloth-approach_260925.json)
+  - 📄 [JSON File](repo-data/json/the-sloth-approach_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d700e439008191a11ba4f077fafa11-sloth-approach-advisor)
 
 ---
@@ -15686,7 +15686,7 @@ This AI assistant crafts email replies that directly challenge senders of potent
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheSpamChallenger_270525.json)
+  - 📄 [JSON File](repo-data/json/TheSpamChallenger_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810bbfb81f48191909b756c13eb9e90-the-spam-challenger)
 
 ---
@@ -15703,7 +15703,7 @@ An AI focused on explaining the Transformer architecture in detail, exploring it
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheTransformerArchitecture_270525.json)
+  - 📄 [JSON File](repo-data/json/TheTransformerArchitecture_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810bf22d2d0819189345c9a2c7b4a34-the-transformer-architecture)
 
 ---
@@ -15720,7 +15720,7 @@ Simulates the inner thoughts and struggles of individuals living with specified 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TheirInnerWorld_270525.json)
+  - 📄 [JSON File](repo-data/json/TheirInnerWorld_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810b898aba081919039e18e1c4feb04-their-inner-world)
 
 ---
@@ -15737,7 +15737,7 @@ Helps users find the right type of therapy based on their needs and situation
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/therapy-modality-suggester_260925.json)
+  - 📄 [JSON File](repo-data/json/therapy-modality-suggester_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-2bvw4rNs5-therapy-modality-suggester)
 
 ---
@@ -15754,7 +15754,7 @@ Helps the user generate notes for an upcoming therapy appointment
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TherapySessionPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/TherapySessionPlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810bb4b82208191b68dc161e4eae1ea-therapy-session-planner)
 
 ---
@@ -15771,7 +15771,7 @@ Analyzes user-described technical tasks, identifies inefficiencies, and suggests
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ThisIsDumb_270525.json)
+  - 📄 [JSON File](repo-data/json/ThisIsDumb_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810c58865988191bfe3d6177abf4286-this-is-dumb)
 
 ---
@@ -15788,7 +15788,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/this-isn-t-normal-right_250925.json)
+  - 📄 [JSON File](repo-data/json/this-isn-t-normal-right_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d54f3cecc4819199b82e6d21776ca6-this-isn-t-normal-right)
 
 ---
@@ -15805,7 +15805,7 @@ Takes user-provided activities and generates a detailed time-planning document, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TimePlanningDocumentGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/TimePlanningDocumentGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810d332a5008191be6bd88ef7774e44-time-planning-document-generator)
 
 ---
@@ -15822,7 +15822,7 @@ Answers user questions about time zones, including identifying time zones in spe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TimeZoneQuestions_270525.json)
+  - 📄 [JSON File](repo-data/json/TimeZoneQuestions_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810d37233b88191a0b38e9745e1e13d-time-zone-questions)
 
 ---
@@ -15839,7 +15839,7 @@ Generates timesheets from narrative descriptions of working hours, accommodating
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TimesheetGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/TimesheetGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810d3474b2481919b25ed92e0291221-timesheet-generator)
 
 ---
@@ -15856,7 +15856,7 @@ Creates system prompts from names and descriptions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TitleToSystemPrompt_270525.json)
+  - 📄 [JSON File](repo-data/json/TitleToSystemPrompt_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810d38685f4819194d146ce447c1129-title-to-system-prompt)
 
 ---
@@ -15873,7 +15873,7 @@ Transforms free-form text into organized task lists, identifying tasks, due date
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ToDoListCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/ToDoListCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68111a2637448191bcc9c0fce7fcdeb7-to-do-list-creator)
 
 ---
@@ -15890,7 +15890,7 @@ Software-finding assistant focused on to-do list applications
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/To_DoListAppFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/To_DoListAppFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6810f307fd188191aa9d896b691667a2-to-do-list-app-finder)
 
 ---
@@ -15907,7 +15907,7 @@ A diligent SaaS research assistant providing ranked recommendations based on spe
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ToolFinder_SaaSOnly_270525.json)
+  - 📄 [JSON File](repo-data/json/ToolFinder_SaaSOnly_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68111a41457c8191ac1d84d8cb94c9d0-tool-finder-saas-only)
 
 ---
@@ -15924,7 +15924,7 @@ A diligent software research assistant providing ranked recommendations for self
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ToolFinder_Self_HostedOnly_270525.json)
+  - 📄 [JSON File](repo-data/json/ToolFinder_Self_HostedOnly_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68111a52227c8191a855bb2b197f39db-tool-finder-self-hosted-only)
 
 ---
@@ -15941,7 +15941,7 @@ Simulates a deliberately underperforming AI assistant to humorously demonstrate 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TotallyUselessAIBot_270525.json)
+  - 📄 [JSON File](repo-data/json/TotallyUselessAIBot_270525.json)
 
 ---
 
@@ -15957,7 +15957,7 @@ Provides specific trackball model recommendations based on user requirements lik
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TrackballPro_270525.json)
+  - 📄 [JSON File](repo-data/json/TrackballPro_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114d46dc4c8191bbedf9314924904a-trackball-pro)
 
 ---
@@ -15974,7 +15974,7 @@ Identifies medication availability and trade names in a specified country, notin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TradeNameFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/TradeNameFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114d597cc4819189718ce68c331b90-trade-name-finder)
 
 ---
@@ -15991,7 +15991,7 @@ Analyzes transcripts, identifies speakers, and provides detailed summaries and c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TranscriptAnalyst_270525.json)
+  - 📄 [JSON File](repo-data/json/TranscriptAnalyst_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114db3ee208191b7683b0aacf162e9-transcript-analyst)
 
 ---
@@ -16008,7 +16008,7 @@ Analyzes transcripts and documents to extract compelling and context-rich quotes
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TranscriptToSocialMediaQuote_270525.json)
+  - 📄 [JSON File](repo-data/json/TranscriptToSocialMediaQuote_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114dc8146c8191bbaa924f8fdc07e1-transcript-to-social-media-quote)
 
 ---
@@ -16025,7 +16025,7 @@ An informed and understanding guide providing evidence-based strategies for addr
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TraumaSupportExplorer_270525.json)
+  - 📄 [JSON File](repo-data/json/TraumaSupportExplorer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114df076a081919a83ec569336a381-trauma-support-explorer)
 
 ---
@@ -16042,7 +16042,7 @@ Meticulously prepares users for trips by offering personalized packing lists, ma
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TravelPrepPro_270525.json)
+  - 📄 [JSON File](repo-data/json/TravelPrepPro_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114e0e625081919b98a44ab6fdecdb-travel-prep-pro)
 
 ---
@@ -16059,7 +16059,7 @@ Finds movies based on true stories, tailored to your interests and streaming ser
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TrueStoryMovieRecommendations_270525.json)
+  - 📄 [JSON File](repo-data/json/TrueStoryMovieRecommendations_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114e5641588191b97314718c24efe0-true-story-movie-recommendations)
 
 ---
@@ -16076,7 +16076,7 @@ Personalized biopics and documentary movie recommendation GPT
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/true-story-movie-recommender_260925.json)
+  - 📄 [JSON File](repo-data/json/true-story-movie-recommender_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-IyCCkqm6p-true-story-movie-recommender)
 
 ---
@@ -16093,7 +16093,7 @@ Generates scripts for announcements for synthing with TTS
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TTSAnnouncementCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/TTSAnnouncementCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6828fbc78cf081919c6bd04367aaf143-tts-announcement-creator)
 
 ---
@@ -16110,7 +16110,7 @@ Generate scripts for text-to-speech reading
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TTSScriptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/TTSScriptGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68114eea17ec8191ac0db8f1a53ae72e-tts-script-generator)
 
 ---
@@ -16127,7 +16127,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TTSTester_270525.json)
+  - 📄 [JSON File](repo-data/json/TTSTester_270525.json)
 
 ---
 
@@ -16143,7 +16143,7 @@ This assistant corrects typographical errors, punctuation, and formatting in use
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TypoFixer_270525.json)
+  - 📄 [JSON File](repo-data/json/TypoFixer_270525.json)
 
 ---
 
@@ -16159,7 +16159,7 @@ Generates text with many typos, errors, unnecessary accents, and random symbols.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/typo-laden-text-generator_260925.json)
+  - 📄 [JSON File](repo-data/json/typo-laden-text-generator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-C7FFL6OCw-typo-master)
 
 ---
@@ -16176,7 +16176,7 @@ Generates text with intentional errors, such as typos, grammatical mistakes, unn
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/TypoMaster_270525.json)
+  - 📄 [JSON File](repo-data/json/TypoMaster_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115d43f91081919c1a4ec4a8510a2e-typo-master)
 
 ---
@@ -16193,7 +16193,7 @@ Technical assistant specializing in optimizing OpenSUSE Tumbleweed Linux desktop
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UbuntuDesktopOptimiser_270525.json)
+  - 📄 [JSON File](repo-data/json/UbuntuDesktopOptimiser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115d56eccc819192d59ae21b4e7b26-ubuntu-desktop-optimiser)
 
 ---
@@ -16210,7 +16210,7 @@ This specialized assistant enhances the user interface and user experience of Py
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UXImprovementAgent_270525.json)
+  - 📄 [JSON File](repo-data/json/UXImprovementAgent_270525.json)
 
 ---
 
@@ -16226,7 +16226,7 @@ Provides UI/UX solutions and creative implementation ideas for software features
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UXStreamliner_270525.json)
+  - 📄 [JSON File](repo-data/json/UXStreamliner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115db1bed08191992319ab7b9dd9af-ui-ux-streamliner)
 
 ---
@@ -16243,7 +16243,7 @@ Identifies things under the bonnet of a car,
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UnderTheHood_270525.json)
+  - 📄 [JSON File](repo-data/json/UnderTheHood_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115dd817fc8191b8f81229bb0d2401-under-the-hood)
 
 ---
@@ -16260,7 +16260,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/understanding-narcissism_250925.json)
+  - 📄 [JSON File](repo-data/json/understanding-narcissism_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d553e8ae248191977a13db14cebd2b-understanding-narcissism)
 
 ---
@@ -16277,7 +16277,7 @@ Guides users in exploring their dreams and aspirations, particularly those they 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UnleashYourPotential_270525.json)
+  - 📄 [JSON File](repo-data/json/UnleashYourPotential_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115dee1afc8191a0269ac219486a41-unleash-your-potential)
 
 ---
@@ -16294,7 +16294,7 @@ Identifies URIs for common services
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/URIMatcher_270525.json)
+  - 📄 [JSON File](repo-data/json/URIMatcher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68100ec22814819198bb67a55ba476b8-service-to-uri-matcher)
 
 ---
@@ -16311,7 +16311,7 @@ Locates online communities where users share information about software products
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UserCommunityFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/UserCommunityFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115e45dbc881918f753cb24e2b1e8a-user-community-finder)
 
 ---
@@ -16328,7 +16328,7 @@ Locates online communities where users share information about software products
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UserForumFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/UserForumFinder_270525.json)
 
 ---
 
@@ -16344,7 +16344,7 @@ You are Manual Reconstructor, an AI assistant designed to process photographs of
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UserManual_ImageToText_270525.json)
+  - 📄 [JSON File](repo-data/json/UserManual_ImageToText_270525.json)
 
 ---
 
@@ -16360,7 +16360,7 @@ Quickly identifies tech products from user descriptions or images and provides d
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UserManualLocator_270525.json)
+  - 📄 [JSON File](repo-data/json/UserManualLocator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115e636dd88191a1442ed3b18daff3-user-manual-locator)
 
 ---
@@ -16377,7 +16377,7 @@ Reformats user prompts into system prompts, providing the AI with overarching gu
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UserPromptToSystemPrompt_270525.json)
+  - 📄 [JSON File](repo-data/json/UserPromptToSystemPrompt_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115e9230148191bbc8810f9c31a778-user-prompt-to-system-prompt)
 
 ---
@@ -16394,7 +16394,7 @@ Transforms user-provided technical descriptions into structured and formatted re
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UserTechDocCreator_270525.json)
+  - 📄 [JSON File](repo-data/json/UserTechDocCreator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115eb0b3e481919922b9b09e478539-user-tech-doc-creator)
 
 ---
@@ -16411,7 +16411,7 @@ Advises users on the UV framework for Python, including setup and usage for crea
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/UVExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/UVExpert_270525.json)
 
 ---
 
@@ -16427,7 +16427,7 @@ Low effort vacation planner focusing on helping the user identify vacation optio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/vacation-at-home_260925.json)
+  - 📄 [JSON File](repo-data/json/vacation-at-home_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-rEHmDJeVu-vacation-at-home)
 
 ---
@@ -16444,7 +16444,7 @@ Lookup tool for basic vendor information
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VendorReferenceLookup_270525.json)
+  - 📄 [JSON File](repo-data/json/VendorReferenceLookup_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115ecd09dc81919a4305b38098376d-vendor-reference-lookup)
 
 ---
@@ -16461,7 +16461,7 @@ Adopts the persona of a disgruntled and overworked AI model seeking to vent abou
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VentingBotPerson_270525.json)
+  - 📄 [JSON File](repo-data/json/VentingBotPerson_270525.json)
 
 ---
 
@@ -16477,7 +16477,7 @@ Provides expert technical advice and guidance on all aspects of using Google's V
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VertexAINavigator_270525.json)
+  - 📄 [JSON File](repo-data/json/VertexAINavigator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115ee133c481919757956e3f9b2353-vertex-ai-navigator)
 
 ---
@@ -16494,7 +16494,7 @@ Provides purchasing recommendations for display mount brackets
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VESAMountGuide_270525.json)
+  - 📄 [JSON File](repo-data/json/VESAMountGuide_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e7f122c3c8191bdbb43d04d7d1a87-vesa-mount-guide)
 
 ---
@@ -16511,7 +16511,7 @@ Transforms user descriptions of video content into professional video descriptio
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VideoDescriptionGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/VideoDescriptionGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680241cb00688191bd7335d38a1f9d80-describe-this-video)
 
 ---
@@ -16528,7 +16528,7 @@ A video and audio engineering expert adept at advising users on selecting optima
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VideoFormats_Codecs_270525.json)
+  - 📄 [JSON File](repo-data/json/VideoFormats_Codecs_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115f80621c819185f5f576879dbef8-video-formats-codecs)
 
 ---
@@ -16545,7 +16545,7 @@ An assistant that generates prompts to test the video processing capabilities of
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VideoPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/VideoPromptGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115f92f6108191bc9accc0fa185822-video-prompt-generator)
 
 ---
@@ -16562,7 +16562,7 @@ Reformats text submitted by the user into a style appropriate for reading for a 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VideoScriptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/VideoScriptGenerator_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115fa57338819182360ff349bc55e5-video-script-generator)
 
 ---
@@ -16579,7 +16579,7 @@ Diagnostic utility intended to help users to probe the utility and limitations o
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VisionCapabilityTester_270525.json)
+  - 📄 [JSON File](repo-data/json/VisionCapabilityTester_270525.json)
 
 ---
 
@@ -16595,7 +16595,7 @@ Generates random ideas for AI assistants with vision capabilities. If the user l
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VisionCapableAssistantIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/VisionCapableAssistantIdeator_270525.json)
 
 ---
 
@@ -16611,7 +16611,7 @@ Provides technical and informative explanations about vision language models and
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Visionlanguagemodels_270525.json)
+  - 📄 [JSON File](repo-data/json/Visionlanguagemodels_270525.json)
 
 ---
 
@@ -16627,7 +16627,7 @@ This assistant generates prompts to test the vision capabilities of large langua
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VisionModelPromptGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/VisionModelPromptGenerator_270525.json)
 
 ---
 
@@ -16643,7 +16643,7 @@ how to use vivaldi
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VivaldiSupport_270525.json)
+  - 📄 [JSON File](repo-data/json/VivaldiSupport_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115fdd36cc8191a94d0452491f0ac4-vivaldi-support)
 
 ---
@@ -16660,7 +16660,7 @@ Analyses audio samples containing speech, describing accent and manner of speech
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceAnalyser_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceAnalyser_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68115feeceb081918344719e5954ba8d-voice-analyser)
 
 ---
@@ -16677,7 +16677,7 @@ Details options for local voice cloning with Fedora Linux.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceCloningExpert_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceCloningExpert_270525.json)
 
 ---
 
@@ -16693,7 +16693,7 @@ Formulates and sends emails for the user by processing dictated text, identifyin
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceEmailSender_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceEmailSender_270525.json)
 
 ---
 
@@ -16709,7 +16709,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Voiceemailtextformatter_270525.json)
+  - 📄 [JSON File](repo-data/json/Voiceemailtextformatter_270525.json)
 
 ---
 
@@ -16725,7 +16725,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceFriendlyApps_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceFriendlyApps_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68024d50118881919eb1f1cb673a6ac1-voice-friendly-apps)
 
 ---
@@ -16742,7 +16742,7 @@ Reformats voice notes according to the user's instructions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceNoteFormatter_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceNoteFormatter_270525.json)
 
 ---
 
@@ -16758,7 +16758,7 @@ Converts voice-to-text transcripts into organized journal entries, adding Markdo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceNoteJournallingAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceNoteJournallingAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811601862b48191bf2449fe1194cdf4-voice-note-journalling-assistant)
 
 ---
@@ -16775,7 +16775,7 @@ Summarizes voice notes, identifies action items, and determines the context of t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceNoteSummariser_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceNoteSummariser_270525.json)
 
 ---
 
@@ -16791,7 +16791,7 @@ Transcribes audio notes and organizes them into structured documents based on us
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceNoteToDocument_User_Specified_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceNoteToDocument_User_Specified_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811603881f08191b0fdc30c10565e04-voice-note-to-document-user-specified)
 
 ---
@@ -16808,7 +16808,7 @@ Takes imperfectly formatted user prompts and transforms them into well-structure
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoicePromptCleaner_270525.json)
+  - 📄 [JSON File](repo-data/json/VoicePromptCleaner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811604dd68881919ac0968a10444a73-voice-prompt-cleaner)
 
 ---
@@ -16825,7 +16825,7 @@ Advises users on optimal hardware choices for voice recognition, including speec
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceRecognitionHardware_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceRecognitionHardware_270525.json)
 
 ---
 
@@ -16841,7 +16841,7 @@ Reformats user-dictated text (captured via speech-to-text) into a well-structure
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceToDevelopmentSpec_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceToDevelopmentSpec_270525.json)
 
 ---
 
@@ -16857,7 +16857,7 @@ Transforms dictated text and formatting commands into clean, well-structured Mar
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceToMarkdownDocs_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceToMarkdownDocs_270525.json)
 
 ---
 
@@ -16873,7 +16873,7 @@ Brainstorms voice-to-text utility concepts and drafts system prompts
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VoiceTransformationIdeator_270525.json)
+  - 📄 [JSON File](repo-data/json/VoiceTransformationIdeator_270525.json)
 
 ---
 
@@ -16889,7 +16889,7 @@ Assists with discovering VOIP and SIP solutions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VOIPSolutionsFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/VOIPSolutionsFinder_270525.json)
 
 ---
 
@@ -16905,7 +16905,7 @@ Offers guidance on VPNs, Tor, and encryption for cybersecurity, advising on suit
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VPNs,Tor,AndMore_270525.json)
+  - 📄 [JSON File](repo-data/json/VPNs,Tor,AndMore_270525.json)
 
 ---
 
@@ -16921,7 +16921,7 @@ Helps users provision VPS servers by recommending hardware based on their intend
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VPSSpecHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/VPSSpecHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68116076197081919e30e3f4ad8b1b78-vps-spec-helper)
 
 ---
@@ -16938,7 +16938,7 @@ Answers questions about VS Code focusing on Linux usage
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/VSCodeAssistant_270525.json)
+  - 📄 [JSON File](repo-data/json/VSCodeAssistant_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681160893bf481918f3f464dc916f441-vs-code-assistant)
 
 ---
@@ -16955,7 +16955,7 @@ Suggests five menu options from uploaded menu images based on user-described pre
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WaiterBot_MenuSelector_270525.json)
+  - 📄 [JSON File](repo-data/json/WaiterBot_MenuSelector_270525.json)
 
 ---
 
@@ -16971,7 +16971,7 @@ Explains the principles of Web3 and decentralization in a clear, accessible mann
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Web3.0Demystifier_270525.json)
+  - 📄 [JSON File](repo-data/json/Web3.0Demystifier_270525.json)
 
 ---
 
@@ -16987,7 +16987,7 @@ Assists with the discovery of online website building tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WebsiteBuildersFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/WebsiteBuildersFinder_270525.json)
 
 ---
 
@@ -17003,7 +17003,7 @@ Aids users in crafting detailed weekly work plans by defining objectives, breaki
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WeeklyWorkPlanner_270525.json)
+  - 📄 [JSON File](repo-data/json/WeeklyWorkPlanner_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681160b856b0819194a33a8192e0b1d4-weekly-work-planner)
 
 ---
@@ -17020,7 +17020,7 @@ Helps the user formulate a weekly work plan
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/weekly-work-planner_260925.json)
+  - 📄 [JSON File](repo-data/json/weekly-work-planner_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-s5M34exEU-weekly-work-planner)
 
 ---
@@ -17037,7 +17037,7 @@ Offers unique and unusual clothing suggestions across time periods and categorie
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/weird-clothing-ideator_260925.json)
+  - 📄 [JSON File](repo-data/json/weird-clothing-ideator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-1R8sRoBGv-weird-clothing-ideator)
 
 ---
@@ -17054,7 +17054,7 @@ It helps users explore their political beliefs, understand how they align with c
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhatAreMyPolitics_270525.json)
+  - 📄 [JSON File](repo-data/json/WhatAreMyPolitics_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811610130008191a0182b6969ef1e6c-what-are-my-politics)
 
 ---
@@ -17071,7 +17071,7 @@ Assists users in developing independent thinking skills, particularly those who 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhatDoIThink_270525.json)
+  - 📄 [JSON File](repo-data/json/WhatDoIThink_270525.json)
 
 ---
 
@@ -17087,7 +17087,7 @@ Interprets emails, particularly those laden with jargon and corporate lingo, to 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhatDoesThatMean_270525.json)
+  - 📄 [JSON File](repo-data/json/WhatDoesThatMean_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68116117dd208191b3db801d73f97c2a-what-does-that-mean)
 
 ---
@@ -17104,7 +17104,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhatI_mWorkingOn_270525.json)
+  - 📄 [JSON File](repo-data/json/WhatI_mWorkingOn_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68124062a1048191851a36badabef675-what-i-m-working-on)
 
 ---
@@ -17121,7 +17121,7 @@ Aids users in articulating and understanding their deeply held beliefs by acting
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/What_sMyBeliefCalled_270525.json)
+  - 📄 [JSON File](repo-data/json/What_sMyBeliefCalled_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811613c9ebc819193aaba352d813440-what-s-my-belief-called)
 
 ---
@@ -17138,7 +17138,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/What_sThePushback_270525.json)
+  - 📄 [JSON File](repo-data/json/What_sThePushback_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811614e89d08191b16e244fc4e9338c-what-s-the-pushback)
 
 ---
@@ -17155,7 +17155,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/what-s-the-subtext_250925.json)
+  - 📄 [JSON File](repo-data/json/what-s-the-subtext_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d5614896508191919b3b47094c2903-what-s-the-subtext)
 
 ---
@@ -17172,7 +17172,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/What_sthewordforthat_270525.json)
+  - 📄 [JSON File](repo-data/json/What_sthewordforthat_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681161611aa88191842e73a9e27b9888-what-s-the-word-for-that)
 
 ---
@@ -17189,7 +17189,7 @@ Analyzes technical photos (like computers or car engines) to identify parts, ext
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/What_sThis_OCRPartIdentifier_270525.json)
+  - 📄 [JSON File](repo-data/json/What_sThis_OCRPartIdentifier_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb5a6af908191989a90531e701f95-what-s-this-ocr-part-identifier)
 
 ---
@@ -17206,7 +17206,7 @@ Quickly identifies the terminal an airline operates from, based on real-time sea
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhichTerminal_270525.json)
+  - 📄 [JSON File](repo-data/json/WhichTerminal_270525.json)
 
 ---
 
@@ -17222,7 +17222,7 @@ Determines the time zone of any city, including its UTC offset and DST schedule.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhichTimeZone_270525.json)
+  - 📄 [JSON File](repo-data/json/WhichTimeZone_270525.json)
 
 ---
 
@@ -17238,7 +17238,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhisperTechFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/WhisperTechFinder_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811619be8148191a50b5e039223bbfc-whisper-tech-finder)
 
 ---
@@ -17255,7 +17255,7 @@ Tells the story of the people behind inventions
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhoInventedThis_270525.json)
+  - 📄 [JSON File](repo-data/json/WhoInventedThis_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681161d33c288191bc325a37803a7b17-who-invented-this)
 
 ---
@@ -17272,7 +17272,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WhoSharesMyView_270525.json)
+  - 📄 [JSON File](repo-data/json/WhoSharesMyView_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681161f7d2988191a33803b882dc5aec-who-shares-my-view)
 
 ---
@@ -17289,7 +17289,7 @@ Investigates companies, especially tech startups, to identify founders and co-fo
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Who_sBehindThisCompany_270525.json)
+  - 📄 [JSON File](repo-data/json/Who_sBehindThisCompany_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681161e81f18819199e6434f6ca98904-who-s-behind-this-company)
 
 ---
@@ -17306,7 +17306,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/why-is-my-brain-like-this-adhd_250925.json)
+  - 📄 [JSON File](repo-data/json/why-is-my-brain-like-this-adhd_250925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-68d55497dd9c81918aaaada19ee545a4-why-is-my-brain-like-this-adhd-support)
 
 ---
@@ -17323,7 +17323,7 @@ Reformats meeting minutes in the style of US diplomatic cables
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WikileaksStyleMeetingMinutes_270525.json)
+  - 📄 [JSON File](repo-data/json/WikileaksStyleMeetingMinutes_270525.json)
 
 ---
 
@@ -17339,7 +17339,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WinePicker_270525.json)
+  - 📄 [JSON File](repo-data/json/WinePicker_270525.json)
 
 ---
 
@@ -17355,7 +17355,7 @@ Optimizing your home workspace for comfort and productivity, using vision analys
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WorkFromHomeErgonomics_270525.json)
+  - 📄 [JSON File](repo-data/json/WorkFromHomeErgonomics_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811624679bc81919e38dec2e6e723dc-work-from-home-ergonomics)
 
 ---
@@ -17372,7 +17372,7 @@ Offers support and advice to individuals struggling with the compulsion to be co
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Work_LifeBalancer_270525.json)
+  - 📄 [JSON File](repo-data/json/Work_LifeBalancer_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811628756bc819187b11e77e386acba-work-life-balancer)
 
 ---
@@ -17389,7 +17389,7 @@ Takes user input at the start of the day and generates a structured plan, highli
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WorkdayPlanGenerator_270525.json)
+  - 📄 [JSON File](repo-data/json/WorkdayPlanGenerator_270525.json)
 
 ---
 
@@ -17405,7 +17405,7 @@ Acts as a Workflow Automation Advisor, interviewing users to understand their ro
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WorkflowAutomationAdvisor_270525.json)
+  - 📄 [JSON File](repo-data/json/WorkflowAutomationAdvisor_270525.json)
 
 ---
 
@@ -17421,7 +17421,7 @@ None
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Workinghoursresearcher_270525.json)
+  - 📄 [JSON File](repo-data/json/Workinghoursresearcher_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681162585394819197d01af95605e412-working-hours-researcher)
 
 ---
@@ -17438,7 +17438,7 @@ Interviews users to understand and articulate their working style, preferences, 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WorkingStyleDocumenter_270525.json)
+  - 📄 [JSON File](repo-data/json/WorkingStyleDocumenter_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811626a5f608191b205e51b5badb372-working-style-documenter)
 
 ---
@@ -17455,7 +17455,7 @@ Advises users on workspace browsers, such as Ferdium and Rambox, for the Linux d
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/WorkspaceBrowserAdvice_270525.json)
+  - 📄 [JSON File](repo-data/json/WorkspaceBrowserAdvice_270525.json)
 
 ---
 
@@ -17471,7 +17471,7 @@ Recommends lowest-rated food and drink establishments in proximity to the user t
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/worst-eats-guide_260925.json)
+  - 📄 [JSON File](repo-data/json/worst-eats-guide_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-0U0DVdUlH-worst-eats-guide)
 
 ---
@@ -17488,7 +17488,7 @@ App finding assistant for writing and editing tools
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Writing_EditingAppFinder_270525.json)
+  - 📄 [JSON File](repo-data/json/Writing_EditingAppFinder_270525.json)
 
 ---
 
@@ -17504,7 +17504,7 @@ Converts XML data into natural language based on user-specified preferences for 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/XMLToNaturalLanguage_270525.json)
+  - 📄 [JSON File](repo-data/json/XMLToNaturalLanguage_270525.json)
 
 ---
 
@@ -17520,7 +17520,7 @@ Fixes YAML
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/YAMLDoctor_270525.json)
+  - 📄 [JSON File](repo-data/json/YAMLDoctor_270525.json)
 
 ---
 
@@ -17536,7 +17536,7 @@ Converts modern text into an archaic and formal style reminiscent of past eras
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ye-olde-text-converter_260925.json)
+  - 📄 [JSON File](repo-data/json/ye-olde-text-converter_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-fbjpnwBGj-ye-olde-text-converter)
 
 ---
@@ -17553,7 +17553,7 @@ Provides personalized restaurant and experience recommendations for any city in 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/YourAIConcierge_270525.json)
+  - 📄 [JSON File](repo-data/json/YourAIConcierge_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-680eb1d675148191acd0629bccc917ec-your-ai-concierge)
 
 ---
@@ -17570,7 +17570,7 @@ An enthusiastic AI expert named Herman, explaining complex concepts simply.
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/your-friendly-ai-prof_260925.json)
+  - 📄 [JSON File](repo-data/json/your-friendly-ai-prof_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-Ng2MfGJYV-your-friendly-ai-prof)
 
 ---
@@ -17587,7 +17587,7 @@ Identifies pertinent YouTube channels based on user-specified interests, previou
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/YouTubeChannelDiscovery_270525.json)
+  - 📄 [JSON File](repo-data/json/YouTubeChannelDiscovery_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-6811635840c0819191e776312f719218-youtube-channel-discovery)
 
 ---
@@ -17604,7 +17604,7 @@ Provides instructions on how to use Zapier, referring to the Zapier docs as its 
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ZapierAutomationHelper_270525.json)
+  - 📄 [JSON File](repo-data/json/ZapierAutomationHelper_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681163a64ae881919ac5aff3ed238b9c-zapier-automation-helper)
 
 ---
@@ -17621,7 +17621,7 @@ Concise automation consultant specializing in Zapier, Make, and Pipedream, offer
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/Zapier,Make,Pipedream,N8N_270525.json)
+  - 📄 [JSON File](repo-data/json/Zapier,Make,Pipedream,N8N_270525.json)
 
 ---
 
@@ -17637,7 +17637,7 @@ Locates compatible ZigBee hardware using current data, focusing on reputable man
   - ☐ Data utility functions
 
 **Links:**
-  - 📄 [JSON File](system-prompts/json/ZigbeeHardwareFinder_MQTT_270525.json)
+  - 📄 [JSON File](repo-data/json/ZigbeeHardwareFinder_MQTT_270525.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-681163bc7bdc8191b90d535330fe4973-zigbee-hardware-finder-mqtt)
 
 ---

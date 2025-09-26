@@ -35,14 +35,18 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
     
+    - name: Install dependencies
+      run: |
+        pip install matplotlib
+    
     - name: Run library update script
       run: |
         if [ "${{ github.event.inputs.force_rebuild }}" = "true" ]; then
           echo "Running with force rebuild..."
-          python3 update_library_unified.py --force-rebuild
+          python3 maintenance-scripts/update_library.py --force-rebuild
         else
           echo "Running incremental update..."
-          python3 update_library_unified.py
+          python3 maintenance-scripts/update_library.py
         fi
     
     - name: Check for changes
