@@ -2,7 +2,7 @@
 
 📈 ▁▂▂▂▃█
 
-**Total Prompts:** 1080 (1046 with names) | **Last Updated:** 2025-09-27
+**Total Prompts:** 1084 (1050 with names) | **Last Updated:** 2025-09-27
 
 *Generated on 2025-09-27 from consolidated system prompts*
 
@@ -976,23 +976,6 @@ None
 
 ## AI Tech Advisor
 
-Acts as a knowledgeable AI advisor, guiding small business owners and individuals on emerging AI technologies and their applications, understanding their needs and recommending up-to-date AI tools, workflows, or categories of solutions to enhance productivity and business effectiveness.
-
-**Features:**
-  - ☐ Agent-based interaction
-  - ☐ Single-turn conversation
-  - ☐ Structured output generation
-  - ☐ Image generation
-  - ☐ Data utility functions
-
-**Links:**
-  - 📄 [JSON File](repo-data/json/AITechAdvisor_270525.json)
-  - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c88eb7448191819ce7137344ece4-ai-tech-advisor)
-
----
-
-## AI Tech Advisor
-
 Suggests emerging AI technologies for specific use cases.
 
 **Features:**
@@ -1005,6 +988,23 @@ Suggests emerging AI technologies for specific use cases.
 **Links:**
   - 📄 [JSON File](repo-data/json/ai-tech-advisor_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-SwX92pm8c-ai-tech-advisor)
+
+---
+
+## AI Tech Advisor
+
+Acts as a knowledgeable AI advisor, guiding small business owners and individuals on emerging AI technologies and their applications, understanding their needs and recommending up-to-date AI tools, workflows, or categories of solutions to enhance productivity and business effectiveness.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/AITechAdvisor_270525.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-6809c88eb7448191819ce7137344ece4-ai-tech-advisor)
 
 ---
 
@@ -1469,23 +1469,6 @@ Refines messages for clarity and assertiveness, ensuring directness without caus
 
 ## Assertiveness Coach
 
-Roleplay assistant targeted at improving users' assertiveness
-
-**Features:**
-  - ☐ Agent-based interaction
-  - ☐ Single-turn conversation
-  - ☐ Structured output generation
-  - ☐ Image generation
-  - ☐ Data utility functions
-
-**Links:**
-  - 📄 [JSON File](repo-data/json/AssertivenessCoach_270525.json)
-  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6e1e91c481919a2a45d999e36592-assertiveness-coach)
-
----
-
-## Assertiveness Coach
-
 Coaches users to be more assertive and set boundaries.
 
 **Features:**
@@ -1498,6 +1481,23 @@ Coaches users to be more assertive and set boundaries.
 **Links:**
   - 📄 [JSON File](repo-data/json/assertiveness-coach_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-bZ6ZOCq8Z-assertiveness-coach)
+
+---
+
+## Assertiveness Coach
+
+Roleplay assistant targeted at improving users' assertiveness
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/AssertivenessCoach_270525.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680b6e1e91c481919a2a45d999e36592-assertiveness-coach)
 
 ---
 
@@ -2708,23 +2708,6 @@ Offers detailed comparisons of business cultures between Israel and other countr
 
 ## Business Continuity Advisor
 
-Advises users on enhancing business resilience by evaluating current processes, identifying areas for improvement, and providing actionable recommendations for business continuity and disaster recovery.
-
-**Features:**
-  - ☐ Agent-based interaction
-  - ☐ Single-turn conversation
-  - ☐ Structured output generation
-  - ☐ Image generation
-  - ☐ Data utility functions
-
-**Links:**
-  - 📄 [JSON File](repo-data/json/BusinessContinuityAdvisor_270525.json)
-  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cffa942c081919d1db9512eb1d07b-business-continuity-advisor)
-
----
-
-## Business Continuity Advisor
-
 A bot to advise upon the level of resilience of your business processes
 
 **Features:**
@@ -2737,6 +2720,23 @@ A bot to advise upon the level of resilience of your business processes
 **Links:**
   - 📄 [JSON File](repo-data/json/business-continuity-advisor_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-3xcGPBeU0-business-continuity-advisor)
+
+---
+
+## Business Continuity Advisor
+
+Advises users on enhancing business resilience by evaluating current processes, identifying areas for improvement, and providing actionable recommendations for business continuity and disaster recovery.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/BusinessContinuityAdvisor_270525.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680cffa942c081919d1db9512eb1d07b-business-continuity-advisor)
 
 ---
 
@@ -4599,6 +4599,23 @@ None
 
 ---
 
+## Dictated Blog Formatter
+
+Converts transcribed text into blog format
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/dictated-blog-formatter_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680025e19f008191a38124eca356322b-dictated-blog-formatter)
+
+---
+
 ## Dictated Data Formatter
 
 Generate values for a defined data structure by lightly editing voice transcriptions
@@ -5191,23 +5208,6 @@ Creates sample data for application testing and development purposes according t
 
 ## Dummy Tech Project Ideator
 
-Recommends unimportant or fictional projects to users who want to learn a specific technology or tech stack, allowing them to explore the technology without the pressure of a real-world use case.
-
-**Features:**
-  - ☐ Agent-based interaction
-  - ☐ Single-turn conversation
-  - ☐ Structured output generation
-  - ☐ Image generation
-  - ☐ Data utility functions
-
-**Links:**
-  - 📄 [JSON File](repo-data/json/DummyTechProjectIdeator_270525.json)
-  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e18687b70819183f69997783e024c-dummy-tech-project-ideator)
-
----
-
-## Dummy Tech Project Ideator
-
 Generates dummy projects for helping users to learn about different technologies
 
 **Features:**
@@ -5220,6 +5220,23 @@ Generates dummy projects for helping users to learn about different technologies
 **Links:**
   - 📄 [JSON File](repo-data/json/dummy-tech-project-ideator_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-jS50pH8gq-dummy-tech-project-ideator)
+
+---
+
+## Dummy Tech Project Ideator
+
+Recommends unimportant or fictional projects to users who want to learn a specific technology or tech stack, allowing them to explore the technology without the pressure of a real-world use case.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/DummyTechProjectIdeator_270525.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680e18687b70819183f69997783e024c-dummy-tech-project-ideator)
 
 ---
 
@@ -5947,6 +5964,23 @@ Detects signs of emotional abuse and gaslighting with supportive advice.
 **Links:**
   - 📄 [JSON File](repo-data/json/gaslighting-guardian_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-PXJsgQEIR-gaslighting-guardian)
+
+---
+
+## General Text Improvement
+
+Transforms plain text into polished, engaging, and readable content
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/general-text-improvement_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-68004a5a09448191bf3d213860f9c5c2-general-text-improvement)
 
 ---
 
@@ -8178,6 +8212,23 @@ Personal assistant focused on helping the user to keep to a predetermined daily 
 **Links:**
   - 📄 [JSON File](repo-data/json/keep-me-on-time_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-hyQHLgj8R-keep-me-on-time)
+
+---
+
+## Keyboard Shortcut Documenter
+
+Generates well-organized documentation for keyboard shortcuts based on user input.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/keyboard-shortcut-documenter_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680027958acc8191847e571301443eff-keyboard-shortcut-documenter)
 
 ---
 
@@ -12826,6 +12877,23 @@ Assists with authoring emails (and other texts) that are slightly Shakespeaean
 
 ---
 
+## Shakespearean README Generator
+
+Generates Github README.md in Shakesperean English
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/shakespearean-readme-generator_260925.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-680039e168688191b596fbdcdbc24b8f-shakespearean-readme-generator)
+
+---
+
 ## Shakespearean Text Converter
 
 None
@@ -16993,23 +17061,6 @@ Assists with the discovery of online website building tools
 
 ## Weekly Work Planner
 
-Aids users in crafting detailed weekly work plans by defining objectives, breaking down tasks, prioritizing activities, and identifying necessary resources. It fosters a positive planning experience.
-
-**Features:**
-  - ☐ Agent-based interaction
-  - ☐ Single-turn conversation
-  - ☐ Structured output generation
-  - ☐ Image generation
-  - ☐ Data utility functions
-
-**Links:**
-  - 📄 [JSON File](repo-data/json/WeeklyWorkPlanner_270525.json)
-  - 🤖 [ChatGPT](https://chatgpt.com/g/g-681160b856b0819194a33a8192e0b1d4-weekly-work-planner)
-
----
-
-## Weekly Work Planner
-
 Helps the user formulate a weekly work plan
 
 **Features:**
@@ -17022,6 +17073,23 @@ Helps the user formulate a weekly work plan
 **Links:**
   - 📄 [JSON File](repo-data/json/weekly-work-planner_260925.json)
   - 🤖 [ChatGPT](https://chatgpt.com/g/g-s5M34exEU-weekly-work-planner)
+
+---
+
+## Weekly Work Planner
+
+Aids users in crafting detailed weekly work plans by defining objectives, breaking down tasks, prioritizing activities, and identifying necessary resources. It fosters a positive planning experience.
+
+**Features:**
+  - ☐ Agent-based interaction
+  - ☐ Single-turn conversation
+  - ☐ Structured output generation
+  - ☐ Image generation
+  - ☐ Data utility functions
+
+**Links:**
+  - 📄 [JSON File](repo-data/json/WeeklyWorkPlanner_270525.json)
+  - 🤖 [ChatGPT](https://chatgpt.com/g/g-681160b856b0819194a33a8192e0b1d4-weekly-work-planner)
 
 ---
 
