@@ -26,6 +26,15 @@
       "archive": "exports/release-3_20250924-154117.tar.gz",
       "format": "tar.gz",
       "created_at": "2025-09-24T15:41:17.930551"
+    },
+    {
+      "number": 4,
+      "timestamp": "20250927-050423",
+      "dir": "exports/20250927-050423",
+      "count": 1084,
+      "archive": "exports/release-4_20250927-050423.tar.gz",
+      "format": "tar.gz",
+      "created_at": "2025-09-27T05:04:23.443559"
     }
   ]
 }

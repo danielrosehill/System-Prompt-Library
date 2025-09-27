@@ -31,8 +31,8 @@ from pathlib import Path
 from typing import Any, Dict, Optional
 
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-JSON_DIR = REPO_ROOT / "system-prompts" / "json"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+JSON_DIR = REPO_ROOT / "repo-data" / "json"
 EXPORTS_DIR = REPO_ROOT / "exports"
 RELEASES_INDEX = EXPORTS_DIR / "releases.json"
 
