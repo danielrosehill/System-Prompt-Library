@@ -40,7 +40,7 @@ class SystemPromptLibraryUpdater:
         self.json_dir = repo_root / "repo-data" / "json"
         self.consolidated_file = repo_root / "repo-data" / "consolidated_prompts.json"
         self.consolidated_metadata_file = repo_root / "repo-data" / "consolidated_prompts.metadata.json"
-        self.index_file = repo_root / "index.md"
+        self.index_file = repo_root / "index" / "index.md"
         self.index_metadata_file = repo_root / "repo-data" / "index_metadata.json"
         self.growth_history_file = repo_root / "repo-data" / "growth_history.json"
         self.readme_file = repo_root / "README.md"
@@ -317,116 +317,51 @@ class SystemPromptLibraryUpdater:
             return False
     
     def generate_index(self) -> bool:
-        """Generate index.md from consolidated prompts."""
-        self.log("Starting index generation", "PROGRESS")
+        """Generate multi-format index files using the new index generator."""
+        self.log("Starting multi-format index generation", "PROGRESS")
         
-        if not self.consolidated_file.exists():
-            self.log("Consolidated JSON file not found", "ERROR")
-            return False
+        # Import and use the new multi-format index generator
+        import sys
+        indexing_dir = self.repo_root / "maintenance-scripts" / "indexing"
+        sys.path.insert(0, str(indexing_dir))
         
-        # Load consolidated prompts
-        with open(self.consolidated_file, 'r', encoding='utf-8') as f:
-            prompts = json.load(f)
-        
-        # Count all prompts (total) and valid prompts (with agent names)
-        total_prompts = len(prompts)
-        valid_prompts = [p for p in prompts if p.get('agent_name')]
-        prompt_count = total_prompts  # Use total count for growth tracking
-        
-        # Update growth history
-        self.update_growth_history(prompt_count)
-        
-        # Generate growth chart
-        self.generate_growth_chart()
-        
-        # Load growth history for sparkline
-        history = self.load_growth_history()
-        counts = [entry["count"] for entry in history["entries"]]
-        sparkline = self.generate_sparkline(counts)
-        
-        current_date = datetime.now().strftime('%Y-%m-%d')
-        
-        # Generate index content
-        valid_count = len(valid_prompts)
-        index_content = f"""# System Prompt Index
-
-📈 {sparkline}
-
-**Total Prompts:** {prompt_count} ({valid_count} with names) | **Last Updated:** {current_date}
-
-*Generated on {current_date} from consolidated system prompts*
-
----
-
-"""
-        
-        # Sort prompts alphabetically
-        valid_prompts.sort(key=lambda x: (x.get('agent_name') or '').lower())
-        
-        for prompt in valid_prompts:
-            agent_name = prompt.get('agent_name', 'Unnamed')
-            description = prompt.get('Description', 'No description available')
+        try:
+            from generate_multi_format_index import MultiFormatIndexGenerator
             
-            # Feature capabilities with checkboxes (using new standardized field names)
-            features = []
-            feature_fields = {
-                'Is Agent': 'Agent-based interaction',
-                'Single Turn (Workflow Type)': 'Single-turn conversation',
-                'Structured Output (Workflow Type)': 'Structured output generation',
-                'Image Generation (Workflow Type)': 'Image generation',
-                'Data Utility (Category)': 'Data utility functions'
-            }
+            # Create generator and run it
+            generator = MultiFormatIndexGenerator(self.repo_root)
+            success = generator.generate_all_formats()
             
-            for field, label in feature_fields.items():
-                value = prompt.get(field, False)
-                if isinstance(value, str):
-                    value = value.lower() == 'true'
-                checkbox = "☑️" if value else "☐"
-                features.append(f"  - {checkbox} {label}")
-            
-            # Links section - use original filename if available
-            original_filename = prompt.get('_original_filename')
-            if original_filename:
-                links = [f"  - 📄 [JSON File](repo-data/json/{original_filename})"]
+            if success:
+                # Update growth history using the total prompt count
+                if self.consolidated_file.exists():
+                    with open(self.consolidated_file, 'r', encoding='utf-8') as f:
+                        prompts = json.load(f)
+                    prompt_count = len(prompts)
+                    self.update_growth_history(prompt_count)
+                    
+                    # Generate growth chart
+                    self.generate_growth_chart()
+                    
+                    self.log(f"Generated multi-format index with {prompt_count} prompts", "SUCCESS")
+                else:
+                    self.log("Consolidated file not found for growth tracking", "WARNING")
+                
+                return True
             else:
-                # Fallback to old method if filename not stored
-                json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
-                links = [f"  - 📄 [JSON File](repo-data/json/{json_filename})"]
-            
-            if prompt.get('ChatGPT Access URL'):
-                links.append(f"  - 🤖 [ChatGPT]({prompt['ChatGPT Access URL']})")
-            
-            # Build entry
-            index_content += f"""## {agent_name}
-
-{description}
-
-**Features:**
-{chr(10).join(features)}
-
-**Links:**
-{chr(10).join(links)}
-
----
-
-"""
-        
-        # Save index
-        with open(self.index_file, 'w', encoding='utf-8') as f:
-            f.write(index_content)
-        
-        # Save metadata
-        metadata = {
-            "generated_at": datetime.now().isoformat(),
-            "prompt_count": prompt_count,
-            "sparkline": sparkline
-        }
-        
-        with open(self.index_metadata_file, 'w', encoding='utf-8') as f:
-            json.dump(metadata, f, indent=2, ensure_ascii=False)
-        
-        self.log(f"Generated index with {prompt_count} prompts", "SUCCESS")
-        return True
+                self.log("Multi-format index generation failed", "ERROR")
+                return False
+                
+        except ImportError as e:
+            self.log(f"Could not import multi-format index generator: {e}", "ERROR")
+            return False
+        except Exception as e:
+            self.log(f"Error in multi-format index generation: {e}", "ERROR")
+            return False
+        finally:
+            # Clean up sys.path
+            if str(indexing_dir) in sys.path:
+                sys.path.remove(str(indexing_dir))
     
     def update_readme(self) -> bool:
         """Update README.md with latest index content."""

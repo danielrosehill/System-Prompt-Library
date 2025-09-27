@@ -2,7 +2,7 @@
 
 [![Prompts Site](https://img.shields.io/badge/Visit-prompts.danielrosehill.com-blue?style=for-the-badge)](https://prompts.userwebsite.com) [![Agent Configs](https://img.shields.io/badge/Visit-agents.danielrosehill.com-green?style=for-the-badge)](https://agents.danielrosehill.com)
 
-[![View Index](https://img.shields.io/badge/View-Index-blue?style=for-the-badge)](index.md) [![View JSON](https://img.shields.io/badge/View-JSON_Index-green?style=for-the-badge)](consolidated_prompts.json)
+[![View Index](https://img.shields.io/badge/View-Index-blue?style=for-the-badge)](index/index.md) [![View JSON](https://img.shields.io/badge/View-JSON_Index-green?style=for-the-badge)](index/index.json) [![View CSV](https://img.shields.io/badge/View-CSV_Index-orange?style=for-the-badge)](index/index.csv)
 
 ![alt text](images/banner.webp)
 
@@ -110,6 +110,17 @@ These are listed in `exports.md`. The latest is:
 These prompts are mostly now populated from an N8N workflow.
 
 Markdown snapshots are generated under `exports/<timestamp>/`. JSON lives in `system-prompts/json`.
+
+### Index Formats
+
+The library index is available in multiple formats in the `index/` directory:
+
+- **[index.md](index/index.md)** - Human-readable Markdown format with feature checkboxes and links
+- **[index.json](index/index.json)** - Comprehensive JSON format with full metadata and prompt data for API consumers
+- **[index.csv](index/index.csv)** - Tabular CSV format for spreadsheet applications and data analysis
+- **[index_metadata.json](index/index_metadata.json)** - Index generation metadata including statistics and growth data
+
+All index formats are automatically regenerated when the library is updated and contain the same core data in different presentations.
 
 ## Data Structure
 
@@ -286,11 +297,11 @@ Note: this is a trailing processs which lags behind my initial collection proces
 
 ### Table of Contents
 
-📈 ▁▂▂▂▃█
+📈 ▁▂▂▂▃██
 
-**Total Prompts:** 1084 (1050 with names) | **Last Updated:** 2025-09-27
+**Total Prompts:** 1084 (1050 with names) | **Last Updated:** 2025-09-28
 
-*Generated on 2025-09-27 from consolidated system prompts*
+*Generated on 2025-09-28 from consolidated system prompts*
 
 ---
 
