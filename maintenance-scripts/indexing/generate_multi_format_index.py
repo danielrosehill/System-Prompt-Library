@@ -136,11 +136,11 @@ class MultiFormatIndexGenerator:
             # Links
             original_filename = prompt.get('_original_filename')
             if original_filename:
-                json_link = f"repo-data/json/{original_filename}"
+                json_link = f"system-prompts/json/{original_filename}"
             else:
                 # Fallback to old method if filename not stored
                 json_filename = f"{agent_name.replace(' ', '_').replace('/', '_')}_270525.json"
-                json_link = f"repo-data/json/{json_filename}"
+                json_link = f"system-prompts/json/{json_filename}"
             
             chatgpt_link = prompt.get('ChatGPT Access URL', '')
             
