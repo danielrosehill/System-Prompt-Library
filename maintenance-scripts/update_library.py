@@ -82,7 +82,10 @@ class SystemPromptLibraryUpdater:
             self.log("JSON directory not found", "ERROR")
             return False, 0, 0
         
-        json_files = list(self.json_dir.glob("*.json"))
+        json_files = [
+            p for p in self.json_dir.glob("*.json")
+            if not p.name.startswith("consolidated_prompts")
+        ]
         self.log(f"Found {len(json_files)} JSON files to process")
         
         # Load existing metadata
@@ -98,15 +101,11 @@ class SystemPromptLibraryUpdater:
         processed_files = 0
         new_hashes = {}
         
+        # Always load all prompt JSONs so consolidated file is complete
         for json_file in json_files:
             try:
                 current_hash = self.calculate_file_hash(json_file)
                 new_hashes[json_file.name] = current_hash
-                
-                # Skip if file hasn't changed (unless force rebuild)
-                if not force_rebuild and metadata["file_hashes"].get(json_file.name) == current_hash:
-                    continue
-                
                 # Process the file
                 with open(json_file, 'r', encoding='utf-8') as f:
                     try:
@@ -123,13 +122,7 @@ class SystemPromptLibraryUpdater:
                 self.log(f"Error processing {json_file.name}: {e}", "WARNING")
                 continue
         
-        # If incremental and no changes, load existing consolidated data
-        if not force_rebuild and processed_files == 0 and self.consolidated_file.exists():
-            try:
-                with open(self.consolidated_file, 'r', encoding='utf-8') as f:
-                    consolidated_prompts = json.load(f)
-            except Exception:
-                pass
+        # We no longer rely on incremental merge; always write full set
         
         # Sort prompts alphabetically by agent name
         consolidated_prompts.sort(key=lambda x: (x.get('agent_name') or '').lower())
@@ -166,9 +159,7 @@ class SystemPromptLibraryUpdater:
         except Exception as e:
             self.log(f"Could not mirror consolidated files: {e}", "WARNING")
         
-        mode = "force rebuild" if force_rebuild else "incremental mode"
-        self.log(f"Consolidated {len(consolidated_prompts)} valid prompts from {len(json_files)} files", "SUCCESS")
-        self.log(f"Updated {processed_files} changed files ({mode})")
+        self.log(f"Consolidated {len(consolidated_prompts)} prompts from {len(json_files)} files", "SUCCESS")
         
         return True, len(consolidated_prompts), processed_files
     

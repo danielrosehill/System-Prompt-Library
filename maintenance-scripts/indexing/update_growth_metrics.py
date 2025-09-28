@@ -49,9 +49,9 @@ class GrowthMetricsUpdater:
             try:
                 with open(self.consolidated_file, 'r', encoding='utf-8') as f:
                     prompts = json.load(f)
-                valid_count = len([p for p in prompts if p.get('agent_name')])
-                self.log(f"Counted {valid_count} valid prompts from consolidated file")
-                return valid_count
+                total_count = len(prompts)
+                self.log(f"Counted {total_count} prompts from consolidated file")
+                return total_count
             except Exception as e:
                 self.log(f"Error reading consolidated file: {e}", "WARNING")
         
@@ -61,19 +61,18 @@ class GrowthMetricsUpdater:
             return 0
             
         json_files = list(self.json_dir.glob("*.json"))
-        valid_count = 0
+        total_count = 0
         
         for json_file in json_files:
             try:
                 with open(json_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if data.get('agent_name'):  # Use new standardized field name
-                        valid_count += 1
+                    json.load(f)
+                    total_count += 1
             except Exception:
                 continue
         
-        self.log(f"Counted {valid_count} valid prompts from {len(json_files)} individual files")
-        return valid_count
+        self.log(f"Counted {total_count} prompts from {len(json_files)} individual files")
+        return total_count
     
     def load_growth_history(self) -> Dict:
         """Load existing growth history."""
