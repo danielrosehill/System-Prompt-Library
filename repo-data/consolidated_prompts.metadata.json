@@ -1291,10 +1291,10 @@
     "Zapier,Make,Pipedream,N8N_270525.json": "3f54ca839e9248d38fc183dcfb356c8ee839773c179d29564324d3708e579946",
     "ZigbeeHardwareFinder_MQTT_270525.json": "2e8450aea15077e70056254f90ca4ac17e78e49c739a9b172565a625d7175cce"
   },
-  "last_updated": "2025-09-28T20:39:39.491404",
+  "last_updated": "2025-09-28T20:43:31.462820",
   "stats": {
     "total_files": 1290,
-    "valid_prompts": 206,
-    "processed_files": 206
+    "valid_prompts": 1290,
+    "processed_files": 1290
   }
 }
