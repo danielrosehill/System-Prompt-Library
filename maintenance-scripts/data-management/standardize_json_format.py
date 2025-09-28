@@ -2,7 +2,7 @@
 """
 System Prompt Library JSON Format Standardization Script
 
-This script standardizes all JSON files in the repo-data/json/ directory
+This script standardizes all JSON files in the system-prompts/json/ directory
 to match the latest format (240925_format.json).
 
 Usage:
@@ -229,7 +229,7 @@ def main():
     parser.add_argument("--backup", action="store_true",
                        help="Create backup of original files before standardization")
     parser.add_argument("--json-dir", type=str, 
-                       default="../../repo-data/json",
+                       default="../../system-prompts/json",
                        help="Directory containing JSON files to standardize")
     
     args = parser.parse_args()

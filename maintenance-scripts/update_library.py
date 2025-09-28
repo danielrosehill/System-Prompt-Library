@@ -28,8 +28,13 @@ import re
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
+# Optional matplotlib imports (graceful degradation if not installed)
+try:
+    import matplotlib.pyplot as plt
+    import matplotlib.dates as mdates
+except Exception:  # ImportError or other backend issues
+    plt = None
+    mdates = None
 
 
 class SystemPromptLibraryUpdater:
@@ -37,7 +42,8 @@ class SystemPromptLibraryUpdater:
     
     def __init__(self, repo_root: Path):
         self.repo_root = repo_root
-        self.json_dir = repo_root / "repo-data" / "json"
+        # Source of truth for individual prompt JSONs
+        self.json_dir = repo_root / "system-prompts" / "json"
         self.consolidated_file = repo_root / "repo-data" / "consolidated_prompts.json"
         self.consolidated_metadata_file = repo_root / "repo-data" / "consolidated_prompts.metadata.json"
         self.index_file = repo_root / "index" / "index.md"
@@ -145,6 +151,20 @@ class SystemPromptLibraryUpdater:
         
         with open(self.consolidated_metadata_file, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+        # Also mirror consolidated outputs to system-prompts/json for convenience
+        try:
+            mirror_dir = self.repo_root / "system-prompts" / "json"
+            mirror_dir.mkdir(parents=True, exist_ok=True)
+            mirror_consolidated = mirror_dir / "consolidated_prompts.json"
+            mirror_metadata = mirror_dir / "consolidated_prompts.metadata.json"
+            with open(mirror_consolidated, 'w', encoding='utf-8') as f:
+                json.dump(consolidated_prompts, f, indent=2, ensure_ascii=False)
+            with open(mirror_metadata, 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, indent=2, ensure_ascii=False)
+            self.log("Mirrored consolidated files to system-prompts/json", "INFO")
+        except Exception as e:
+            self.log(f"Could not mirror consolidated files: {e}", "WARNING")
         
         mode = "force rebuild" if force_rebuild else "incremental mode"
         self.log(f"Consolidated {len(consolidated_prompts)} valid prompts from {len(json_files)} files", "SUCCESS")
@@ -235,6 +255,10 @@ class SystemPromptLibraryUpdater:
     
     def generate_growth_chart(self) -> bool:
         """Generate the growth chart image."""
+        # If matplotlib not available, skip gracefully
+        if plt is None or mdates is None:
+            self.log("matplotlib not available; skipping growth chart", "WARNING")
+            return False
         history = self.load_growth_history()
         
         if not history["entries"]:

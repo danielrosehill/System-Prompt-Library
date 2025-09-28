@@ -25,7 +25,7 @@ class GrowthMetricsUpdater:
     
     def __init__(self, repo_root: Path):
         self.repo_root = repo_root
-        self.json_dir = repo_root / "repo-data" / "json"
+        self.json_dir = repo_root / "system-prompts" / "json"
         self.consolidated_file = repo_root / "repo-data" / "consolidated_prompts.json"
         self.growth_history_file = repo_root / "repo-data" / "growth_history.json"
         self.index_file = repo_root / "index.md"
