@@ -40,29 +40,24 @@ def generate_sparkline(counts: List[int]) -> str:
 
 
 def generate_growth_chart(repo_root: Path) -> bool:
-    """Generate growth chart using the chart generation script."""
+    """Generate growth chart using the maintained chart generator."""
     try:
-        # Run the chart generation script in the virtual environment
-        venv_python = repo_root / "chart-env" / "bin" / "python3"
-        chart_script = repo_root / "scripts" / "generate_growth_chart.py"
-        
-        if venv_python.exists() and chart_script.exists():
-            result = subprocess.run(
-                [str(venv_python), str(chart_script)],
-                cwd=str(repo_root),
-                capture_output=True,
-                text=True
-            )
-            return result.returncode == 0
-        else:
-            # Fallback: try with system python
-            result = subprocess.run(
-                [sys.executable, str(chart_script)],
-                cwd=str(repo_root),
-                capture_output=True,
-                text=True
-            )
-            return result.returncode == 0
+        chart_script = repo_root / "maintenance-scripts" / "indexing" / "generate_growth_chart.py"
+        if not chart_script.exists():
+            print("⚠️ Chart script not found at maintenance-scripts/indexing/generate_growth_chart.py")
+            return False
+
+        # Prefer system Python; virtualenv is optional
+        result = subprocess.run(
+            [sys.executable, str(chart_script)],
+            cwd=str(repo_root),
+            capture_output=True,
+            text=True
+        )
+        if result.returncode != 0:
+            print("⚠️ Chart generation stdout:\n" + result.stdout)
+            print("⚠️ Chart generation stderr:\n" + result.stderr)
+        return result.returncode == 0
     except Exception as e:
         print(f"⚠️ Chart generation failed: {e}")
         return False
@@ -70,8 +65,9 @@ def generate_growth_chart(repo_root: Path) -> bool:
 
 def load_growth_data(repo_root: Path) -> tuple:
     """Load growth history and current metadata."""
-    growth_file = repo_root / "growth_history.json"
-    metadata_file = repo_root / "index_metadata.json"
+    growth_file = repo_root / "repo-data" / "growth_history.json"
+    # Prefer the generated index metadata in index/
+    metadata_file = repo_root / "index" / "index_metadata.json"
     
     # Load growth history
     if growth_file.exists():
@@ -85,7 +81,7 @@ def load_growth_data(repo_root: Path) -> tuple:
         with open(metadata_file, 'r') as f:
             metadata = json.load(f)
     else:
-        metadata = {"prompt_count": 0}
+        metadata = {"total_prompts": 0}
     
     return growth_data, metadata
 
@@ -101,8 +97,14 @@ def update_readme_with_stats(repo_root: Path):
     # Load data
     growth_data, metadata = load_growth_data(repo_root)
     
-    current_count = metadata.get("prompt_count", 0)
-    last_updated = metadata.get("generated_at", datetime.now().isoformat())
+    # Try multiple keys for count/date for robustness
+    current_count = (
+        metadata.get("total_prompts")
+        or metadata.get("prompt_count")
+        or metadata.get("growth_data", {}).get("current_count")
+        or 0
+    )
+    last_updated = metadata.get("last_updated") or metadata.get("generated_at", datetime.now().isoformat())
     
     # Parse the date for display
     try:
@@ -111,8 +113,9 @@ def update_readme_with_stats(repo_root: Path):
     except:
         formatted_date = datetime.now().strftime('%Y-%m-%d')
     
-    # Generate growth chart
+    # Generate growth chart (or reuse if already available)
     chart_generated = generate_growth_chart(repo_root)
+    chart_path = repo_root / "images" / "growth_chart.png"
     
     # Get counts for fallback text
     counts = [entry["count"] for entry in growth_data.get("entries", [])]
@@ -120,7 +123,7 @@ def update_readme_with_stats(repo_root: Path):
         counts = [current_count]
     
     # Create stats section with proper chart
-    if chart_generated:
+    if chart_generated or chart_path.exists():
         chart_section = "![Growth Chart](images/growth_chart.png)"
     else:
         # Fallback to sparkline if chart generation fails
@@ -128,13 +131,13 @@ def update_readme_with_stats(repo_root: Path):
     
     # Create stats section
     stats_section = f"""
-## 📊 Library Statistics
+## Library Statistics
 
 {chart_section}
 
 **Total System Prompts:** {current_count:,} | **Last Updated:** {formatted_date}
 
-*This library has grown from {counts[0] if counts else 0} to {current_count} prompts since tracking began*
+*This library has grown from {counts[0] if counts else 0} to {counts[-1] if counts else current_count} prompts since tracking began*
 
 """
     
@@ -191,7 +194,8 @@ def update_readme_with_stats(repo_root: Path):
 
 def main():
     """Main function."""
-    repo_root = Path(__file__).parent.parent
+    # Script resides in maintenance-scripts/indexing/, so repo root is three levels up
+    repo_root = Path(__file__).parent.parent.parent
     
     print("🚀 Updating README with library statistics...")
     success = update_readme_with_stats(repo_root)

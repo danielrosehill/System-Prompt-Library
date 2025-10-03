@@ -13,13 +13,13 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from datetime import datetime
 from pathlib import Path
-import pandas as pd
 
 
 def generate_growth_chart(repo_root: Path, output_file: str = "images/growth_chart.png"):
     """Generate and save a growth chart from growth_history.json."""
     
-    growth_file = repo_root / "growth_history.json"
+    # Use canonical growth history location
+    growth_file = repo_root / "repo-data" / "growth_history.json"
     output_path = repo_root / output_file
     
     # Ensure output directory exists
