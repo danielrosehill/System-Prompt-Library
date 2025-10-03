@@ -11,10 +11,17 @@
 
 ![Growth Chart](images/growth_chart.png)
 
-**Total System Prompts:** 1080 | **Last Updated:** 2025-09-27
+**Total System Prompts:** 1,290 | **Last Updated:** 2025-09-28
 
-*This library has grown from 892 to 1080 prompts since tracking began*
+*This library has grown from 892 to 1290 prompts since tracking began*
 <!-- END_STATS_SECTION -->
+
+## Quick Start
+
+- Update everything: `./update_library.sh`
+- Core outputs: `index/index.md`, `index/index.csv`, `index/index.json`
+- Stable JSON for consumers: `index/index.json` (path will not change)
+- Growth data source: `repo-data/growth_history.json` → chart at `images/growth_chart.png`
 
 ## Table of Contents
 

@@ -28,7 +28,8 @@ class GrowthMetricsUpdater:
         self.json_dir = repo_root / "system-prompts" / "json"
         self.consolidated_file = repo_root / "repo-data" / "consolidated_prompts.json"
         self.growth_history_file = repo_root / "repo-data" / "growth_history.json"
-        self.index_file = repo_root / "index.md"
+        # Correct path to markdown index
+        self.index_file = repo_root / "index" / "index.md"
         self.images_dir = repo_root / "images"
         self.chart_file = self.images_dir / "growth_chart.png"
         
