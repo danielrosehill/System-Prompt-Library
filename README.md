@@ -26,6 +26,7 @@
 ## Table of Contents
 
 - [About This Prompt Collection](#about-this-prompt-collection)
+- [Agent Categories](#agent-categories)
 - [Duplication and Versioning](#duplication-and-versioning)
 - [N8N Workflow For Updating Repo From Form](#n8n-workflow-for-updating-repo-from-form)
 - [Depersonalisation (Notes)](#depersonalisation-notes)
