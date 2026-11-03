@@ -6,6 +6,8 @@
 
 ![alt text](images/banner.webp)
 
+**Write-up:** [My AI prompt libraries, and which one to use](https://blog.danielrosehill.com/posts/ai-prompt-libraries-which-one-to-use-tngfmp/)
+
 <!-- BEGIN_STATS_SECTION -->
 ## Library Statistics
 
